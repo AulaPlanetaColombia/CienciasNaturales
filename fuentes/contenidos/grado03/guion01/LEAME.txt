@@ -1,4 +1,4 @@
-﻿//********************\\
+//********************\\
 ||        LÉAME       ||
 \\********************//
 
@@ -14,3 +14,5 @@ Estos documentos deberán ser:
 * Esqueleto de guión - Archivo Excel .xls
 
 Cada archivo deberá tener el nombre del código correspondiente.
+
+Esto es un cambio.
