@@ -1,0 +1,194 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node COLOR="#00b439" CREATED="1424666869652" ID="ID_679676262" MODIFIED="1424674813246" TEXT="Movimiento en una dimensi&#xf3;n ">
+<edge COLOR="#00b439" WIDTH="2"/>
+<hook NAME="accessories/plugins/HierarchicalIcons.properties"/>
+<node COLOR="#990000" CREATED="1424667136741" ID="ID_831283753" MODIFIED="1424674813248" POSITION="right" TEXT="Movimiento rectil&#xed;neo uniforme (MRU)">
+<edge COLOR="#990000" WIDTH="1"/>
+<node COLOR="#111111" CREATED="1424671672641" ID="ID_1778359902" MODIFIED="1424674813251" TEXT="Trayectoria rectil&#xed;nea">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1424673749514" ID="ID_139324268" MODIFIED="1424674813253" TEXT="">
+<edge COLOR="#111111" WIDTH="thin"/>
+<node COLOR="#111111" CREATED="1424673757285" ID="ID_1818882738" MODIFIED="1424674813255" TEXT="v constante">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1424673624125" ID="ID_1137108914" MODIFIED="1424674813258" TEXT="a=0">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1424674130445" ID="ID_1996586948" MODIFIED="1424674813260" TEXT="Gr&#xe1;ficas ">
+<edge COLOR="#111111" WIDTH="thin"/>
+<node COLOR="#111111" CREATED="1424674139059" ID="ID_933444220" MODIFIED="1424674813263" TEXT="Gr&#xe1;fica posici&#xf3;n-tiempo">
+<edge COLOR="#111111" WIDTH="thin"/>
+<node COLOR="#111111" CREATED="1424674148952" ID="ID_506207888" MODIFIED="1424674813265" TEXT="Funci&#xf3;n lineal">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+<node COLOR="#111111" CREATED="1424674219673" ID="ID_938652892" MODIFIED="1424674813266" TEXT="pendiente representa la velocidad">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1424674157989" ID="ID_710639293" MODIFIED="1424674813268" TEXT="Gr&#xe1;fica velocidad-tiempo">
+<edge COLOR="#111111" WIDTH="thin"/>
+<node COLOR="#111111" CREATED="1424674168591" ID="ID_1168950377" MODIFIED="1424674813270" TEXT="Recta horizontal">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+<node COLOR="#111111" CREATED="1424674243391" ID="ID_522421800" MODIFIED="1424674813272" TEXT="&#xc1;rea bajo la curva representa el desplazamiento &#x2206;x">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+</node>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1424673576351" ID="ID_1931213115" MODIFIED="1424674813273" POSITION="right" TEXT="Movimiento rectil&#xed;neo uniformemente acelerado (MRUA)">
+<edge COLOR="#990000" WIDTH="1"/>
+<node COLOR="#111111" CREATED="1424673821155" ID="ID_781215153" MODIFIED="1424674813275" TEXT="Trayectoria rectil&#xed;nea">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+<node COLOR="#111111" CREATED="1424673847646" ID="ID_1839718119" MODIFIED="1424674813277" TEXT="a constante">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1424673870078" ID="ID_526613944" MODIFIED="1424674813278" TEXT="Gr&#xe1;ficas">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1424673939503" ID="ID_1530674117" MODIFIED="1424674813282" TEXT="Gr&#xe1;fica posici&#xf3;n-tiempo">
+<edge COLOR="#111111" WIDTH="thin"/>
+<node COLOR="#111111" CREATED="1424674076138" ID="ID_62045743" MODIFIED="1424674813285" TEXT="Funci&#xf3;n cuadr&#xe1;tica">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1424674046208" ID="ID_553683784" MODIFIED="1424674813287" TEXT="Gr&#xe1;fica velocidad-tiempo">
+<edge COLOR="#111111" WIDTH="thin"/>
+<node COLOR="#111111" CREATED="1424674088176" ID="ID_588760061" MODIFIED="1424674813289" TEXT="Funci&#xf3;n lineal">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+<node COLOR="#111111" CREATED="1424674390212" ID="ID_961042310" MODIFIED="1424674813291" TEXT="&#xc1;rea bajo la curva representa el desplazamiento &#x2206;x">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+<node COLOR="#111111" CREATED="1424674444517" ID="ID_1981200250" MODIFIED="1424674813294" TEXT="Pendiente representa la aceleraci&#xf3;n">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1424674292258" ID="ID_462847812" MODIFIED="1424674813296" TEXT="Gr&#xe1;fica aceleraci&#xf3;n-tiempo">
+<edge COLOR="#111111" WIDTH="thin"/>
+<node COLOR="#111111" CREATED="1424674330427" ID="ID_1988211955" MODIFIED="1424674813298" TEXT="Recta horizontal">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+<node COLOR="#111111" CREATED="1424674342015" ID="ID_830692843" MODIFIED="1424674813299" TEXT="&#xc1;rea bajo la curva representa el cambio de velocidad &#x2206;v">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+</node>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1424673602802" ID="ID_1706682945" MODIFIED="1424674813301" POSITION="right" TEXT="Ca&#xed;da Libre y Lanzamiento vertical">
+<edge COLOR="#990000" WIDTH="1"/>
+<node COLOR="#111111" CREATED="1424674507201" ID="ID_317109495" MODIFIED="1424674813302" TEXT="Es un caso de MRUA">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+<node COLOR="#111111" CREATED="1424674529052" ID="ID_1217508512" MODIFIED="1424674813303" TEXT="aceleraci&#xf3;n constante = gravedad g">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+<node COLOR="#111111" CREATED="1424674617874" ID="ID_214778960" MODIFIED="1424674813304" TEXT="Ca&#xed;da libre">
+<edge COLOR="#111111" WIDTH="thin"/>
+<node COLOR="#111111" CREATED="1424674641635" ID="ID_1719201516" MODIFIED="1424674813306" TEXT="En el vac&#xed;o">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+<node COLOR="#111111" CREATED="1424674693814" ID="ID_321656254" MODIFIED="1424674813307" TEXT="El cuerpo acelera mientras cae debido a g">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1424674630007" ID="ID_983461927" MODIFIED="1424674813308" TEXT="Lanzamiento vertical">
+<edge COLOR="#111111" WIDTH="thin"/>
+<node COLOR="#111111" CREATED="1424674714537" ID="ID_1648451342" MODIFIED="1424674813309" TEXT="En el vac&#xed;o">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+<node COLOR="#111111" CREATED="1424674728903" ID="ID_20993839" MODIFIED="1424674813311" TEXT="El cuerpo frena mientras sube debido a g">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+<node COLOR="#111111" CREATED="1424674757694" ID="ID_1458317254" MODIFIED="1424674813312" TEXT="Al llegar a la m&#xe1;xima altura v=0">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1424667143845" ID="ID_632202286" MODIFIED="1424674813315" POSITION="left" TEXT="Movimiento ">
+<edge COLOR="#990000" WIDTH="1"/>
+<node COLOR="#111111" CREATED="1424671628187" ID="ID_439970560" MODIFIED="1424674813316" TEXT="Generalidades ">
+<edge COLOR="#111111" WIDTH="thin"/>
+<node COLOR="#111111" CREATED="1424672549168" ID="ID_597717309" MODIFIED="1424674813317" TEXT="">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+<node COLOR="#111111" CREATED="1424672553780" ID="ID_749540977" MODIFIED="1424674813318" TEXT="Definici&#xf3;n">
+<edge COLOR="#111111" WIDTH="thin"/>
+<node COLOR="#111111" CREATED="1424672713108" ID="ID_330030377" MODIFIED="1424674813319" TEXT="cambio de posici&#xf3;n de un cuerpo respecto a un sistema de referencia fijo ">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1424672577050" ID="ID_1493625922" MODIFIED="1424674813320" TEXT="Trayectoria">
+<edge COLOR="#111111" WIDTH="thin"/>
+<node COLOR="#111111" CREATED="1424672723119" ID="ID_232185889" MODIFIED="1424674813321" TEXT="rectil&#xed;nea">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+<node COLOR="#111111" CREATED="1424672744352" ID="ID_958781103" MODIFIED="1424674813322" TEXT="curvil&#xed;nea">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1424672596480" ID="ID_1766989038" MODIFIED="1424674813323" TEXT="Desplazamiento">
+<edge COLOR="#111111" WIDTH="thin"/>
+<node COLOR="#111111" CREATED="1424672760376" ID="ID_1290894195" MODIFIED="1424674813323" TEXT="Vector, cambio de posici&#xf3;n ">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="12"/>
+<node COLOR="#111111" CREATED="1424673121983" ID="ID_142618935" MODIFIED="1424674813324" TEXT="&#x2206;x ">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1424672628430" ID="ID_885287484" MODIFIED="1424674813325" TEXT="Distancia recorrida">
+<edge COLOR="#111111" WIDTH="thin"/>
+<node COLOR="#111111" CREATED="1424673028953" ID="ID_1290065825" MODIFIED="1424674813326" TEXT="Escalar, medida de la trayectoria">
+<edge COLOR="#111111" WIDTH="thin"/>
+<node COLOR="#111111" CREATED="1424673222067" ID="ID_1578416024" MODIFIED="1424674813327" TEXT="s">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1424672654785" ID="ID_863176930" MODIFIED="1424674813329" TEXT="Rapidez">
+<edge COLOR="#111111" WIDTH="thin"/>
+<node COLOR="#111111" CREATED="1424673073495" ID="ID_582956463" MODIFIED="1424674813330" TEXT="Escalar, distancia/tiempo">
+<edge COLOR="#111111" WIDTH="thin"/>
+<node COLOR="#111111" CREATED="1424673232012" ID="ID_1085050829" MODIFIED="1424674813331" TEXT="v=s/t">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1424672680934" ID="ID_1854626563" MODIFIED="1424674813332" TEXT="Velocidad">
+<edge COLOR="#111111" WIDTH="thin"/>
+<node COLOR="#111111" CREATED="1424673244088" ID="ID_1376241549" MODIFIED="1424674813333" TEXT="Vector, desplazamiento/tiempo">
+<edge COLOR="#111111" WIDTH="thin"/>
+<node COLOR="#111111" CREATED="1424673260445" ID="ID_379190899" MODIFIED="1424674813334" TEXT="v=&#x2206;x /t">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node COLOR="#111111" CREATED="1424672689272" ID="ID_1741411500" MODIFIED="1424674813335" TEXT="Aceleraci&#xf3;n">
+<edge COLOR="#111111" WIDTH="thin"/>
+<node COLOR="#111111" CREATED="1424673330044" ID="ID_856305785" MODIFIED="1424674813336" TEXT="Vector, cambio de velocidad/tiempo">
+<edge COLOR="#111111" WIDTH="thin"/>
+<node COLOR="#111111" CREATED="1424673349704" ID="ID_1699992536" MODIFIED="1424674813337" TEXT="">
+<edge COLOR="#111111" WIDTH="thin"/>
+<node COLOR="#111111" CREATED="1424673357743" ID="ID_1621846573" MODIFIED="1424674813339" TEXT="a=&#x2206;v /t">
+<edge COLOR="#111111" WIDTH="thin"/>
+<font BOLD="true" NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</map>
