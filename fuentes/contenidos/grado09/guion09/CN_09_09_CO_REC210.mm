@@ -15,12 +15,13 @@
 <node CREATED="1424486478759" ID="Freemind_Link_1488292704" MODIFIED="1424519881013" TEXT="No se desitinguen partes diferentes. "/>
 <node CREATED="1424519866934" ID="Freemind_Link_1787320198" MODIFIED="1424520988781" TEXT="Su composici&#xf3;n y propiedades son iguales en todos los puntos."/>
 </node>
-<node CREATED="1424486714115" ID="Freemind_Link_368360154" MODIFIED="1426488759643" POSITION="right" TEXT="Tipos y ejemplos ">
+<node CREATED="1424486714115" ID="Freemind_Link_368360154" MODIFIED="1426614834622" POSITION="right" TEXT="Tipos y ejemplos ">
 <icon BUILTIN="idea"/>
-<node CREATED="1424519092098" ID="Freemind_Link_752417689" MODIFIED="1424519715091" TEXT="L&#xed;quido. Por ejemplo: agua salada "/>
-<node CREATED="1424519135161" ID="Freemind_Link_1729835733" MODIFIED="1424519709553" TEXT="L&#xed;quido gas. Por ejemplo ox&#xed;geno en agua"/>
-<node CREATED="1424519612453" ID="Freemind_Link_1034404754" MODIFIED="1424519705323" TEXT="L&#xed;quido-l&#xed;quido. Por ejemplo gas-gas"/>
-<node CREATED="1424519686217" ID="Freemind_Link_1593186989" MODIFIED="1424519738197" TEXT="S&#xf3;lido-s&#xf3;lido. Por ejmplo aleaciones"/>
+<node CREATED="1424519092098" ID="Freemind_Link_752417689" MODIFIED="1426614775949" TEXT="L&#xed;quido-s&#xf3;lido. Por ejemplo: agua salada "/>
+<node CREATED="1424519135161" ID="Freemind_Link_1729835733" MODIFIED="1426614809679" TEXT="L&#xed;quido gas. Por ejemplo: ox&#xed;geno en agua"/>
+<node CREATED="1424519612453" ID="Freemind_Link_1034404754" MODIFIED="1426614887027" TEXT="L&#xed;quido-l&#xed;quido. Por ejemplo: alcohol en agua"/>
+<node CREATED="1424519686217" ID="Freemind_Link_1593186989" MODIFIED="1426614882466" TEXT="S&#xf3;lido-s&#xf3;lido. Por ejemplo: aleaciones"/>
+<node CREATED="1426614851481" ID="ID_960758397" MODIFIED="1426614870702" TEXT="Gas-gas. Por ejemplo: el aire"/>
 </node>
 <node CREATED="1424487095393" ID="Freemind_Link_1840215233" MODIFIED="1426488691793" POSITION="left" TEXT="Sus par&#xe1;metros son ">
 <icon BUILTIN="idea"/>
