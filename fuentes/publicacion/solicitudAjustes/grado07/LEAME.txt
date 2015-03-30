@@ -1,0 +1,7 @@
+//********************\\
+||        LÉAME       ||
+\\********************//
+
+En esta carpeta deberá poner el la solicitud de ajustes de todo el grado, en formato Excel .xls.
+
+Este archivo deberá tener el nombre del código de tema correspondiente.
