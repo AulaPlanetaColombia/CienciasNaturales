@@ -3,7 +3,7 @@
 <node CREATED="1425670777521" ID="ID_1041552669" MODIFIED="1425671850813" TEXT="El movimiento">
 <node CREATED="1425670795106" HGAP="-2" ID="ID_752083419" MODIFIED="1425678446328" POSITION="right" TEXT="Se define como " VSHIFT="-95">
 <icon BUILTIN="idea"/>
-<node CREATED="1425676130801" HGAP="83" ID="ID_1753355476" MODIFIED="1425678238668" TEXT="Cambio de posici&#xf3;n de un m&#xf3;vil o cuerpo en el espacio atrav&#xe9;s del tiempo" VSHIFT="-157">
+<node CREATED="1425676130801" HGAP="83" ID="ID_1753355476" MODIFIED="1427752472625" TEXT="Cambio de posici&#xf3;n de un m&#xf3;vil o cuerpo en el espacio atrav&#xe9;s del tiempo" VSHIFT="-157">
 <node CREATED="1425676411795" ID="ID_253550740" MODIFIED="1425678176630" TEXT="Medido con respecto a un ">
 <icon BUILTIN="idea"/>
 <node CREATED="1425676459774" ID="ID_1360691313" MODIFIED="1425676492277" TEXT="Sistema de referencia"/>
