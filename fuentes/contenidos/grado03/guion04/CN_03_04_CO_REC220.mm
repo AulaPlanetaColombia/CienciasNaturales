@@ -35,8 +35,7 @@
       <font face="Symbol">&#183;</font><font face="Times New Roman">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;- </font><font face="Times,serif">Evitar quemas de grandes extensiones de selvas.&#160;<o p="#DEFAULT"></o>&#160;</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -138,8 +137,7 @@
       <font face="Symbol">&#183;</font><font face="Times New Roman">&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;-&#160; </font><font face="Times,serif">Plantas de tratamiento de agua.<o p="#DEFAULT"></o></font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
@@ -532,7 +530,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1424276610319" HGAP="86" ID="ID_1289341798" MODIFIED="1424731329615" TEXT="Ilimitados"/>
+<node CREATED="1424276610319" HGAP="86" ID="ID_1289341798" MODIFIED="1427770936296" TEXT="Inagotables"/>
 <node CREATED="1424276631117" HGAP="68" ID="ID_1966815602" MODIFIED="1424731333968" TEXT="No renovables" VSHIFT="16"/>
 </node>
 </node>
