@@ -1,5 +1,0 @@
-//********************\\
-||        LÉAME       ||
-\\********************//
-
-En esta carpeta deberá poner el guión comprimido en formato ZIP, correspondientes al grado y al tema determinado. Este archivo deberá tener el nombre del código correspondiente.
