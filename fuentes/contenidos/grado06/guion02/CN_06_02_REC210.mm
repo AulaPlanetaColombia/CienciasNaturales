@@ -1,99 +1,104 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node COLOR="#3366ff" CREATED="1424089988504" ID="ID_128813255" MODIFIED="1425382120520" STYLE="bubble" TEXT="LA C&#xc9;LULA">
-<edge COLOR="#3399ff" STYLE="sharp_bezier" WIDTH="2"/>
-<font BOLD="true" NAME="SansSerif" SIZE="20"/>
-<node CREATED="1424090897044" HGAP="-19" ID="ID_1912176297" MODIFIED="1426168015820" POSITION="right" TEXT="Definici&#xf3;n:" VSHIFT="28">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<icon BUILTIN="idea"/>
-<node CREATED="1424090912660" ID="ID_1777617436" MODIFIED="1426168021046" TEXT="unidad estructural y funcional del ser vivo"/>
-</node>
-<node CREATED="1424091267979" HGAP="-27" ID="ID_1285906957" MODIFIED="1426167450400" POSITION="left" TEXT="Los tipos de c&#xe9;lula son" VSHIFT="-59">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<icon BUILTIN="idea"/>
-<node CREATED="1424091280795" HGAP="18" ID="ID_1089557442" MODIFIED="1426167466492" TEXT="procariota" VSHIFT="-15">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1424091310156" ID="ID_1630027366" MODIFIED="1426168329255" TEXT="el n&#xfa;cleo no est&#xe1; delimitado por una membrana"/>
-<node CREATED="1424091333699" ID="ID_1394051281" MODIFIED="1426167487447" TEXT="estructura sencilla"/>
-<node CREATED="1425381274762" ID="ID_877555202" MODIFIED="1426167494508" TEXT="presente en bacterias y cianobacterias"/>
-</node>
-<node CREATED="1424091290355" ID="ID_1280302723" MODIFIED="1426167494586" TEXT="eucariota" VSHIFT="22">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1424091305595" ID="ID_593186582" MODIFIED="1426168353149" TEXT="posee n&#xfa;cleo definido por membrana"/>
-<node CREATED="1424091359960" ID="ID_726440756" MODIFIED="1426167506526" TEXT="estructura compleja"/>
-<node CREATED="1425381240159" ID="ID_64395992" MODIFIED="1426167513072" TEXT="presente en algas, plantas, protozoos, animales, hongos"/>
-</node>
-</node>
-<node CREATED="1424091671204" HGAP="31" ID="ID_824869603" MODIFIED="1426167872138" POSITION="right" TEXT="La estructura celular consta de" VSHIFT="58">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<icon BUILTIN="idea"/>
-<node CREATED="1424093214945" ID="ID_1930640668" MODIFIED="1426167879594" TEXT="n&#xfa;cleo">
-<node CREATED="1424093293205" HGAP="13" ID="ID_170616512" MODIFIED="1426167900712" TEXT="dirige los procesos celulares" VSHIFT="-10">
-<icon BUILTIN="idea"/>
-</node>
-<node CREATED="1425381810424" ID="ID_1143667666" MODIFIED="1426167925849" TEXT="Tiene membrana nuclear en c&#xe9;lulas eucariotas"/>
-</node>
-<node CREATED="1424093234234" ID="ID_265706073" MODIFIED="1426167885020" TEXT="citoplasma">
-<node CREATED="1424093278940" ID="ID_425081283" MODIFIED="1426167947111" TEXT="contiene los organelos celulares">
-<icon BUILTIN="idea"/>
-<node CREATED="1424093366282" ID="ID_1710125199" MODIFIED="1426167956579" TEXT="mitocondria"/>
-<node CREATED="1424093378766" ID="ID_1109991916" MODIFIED="1426167961948" TEXT="ribosomas"/>
-<node CREATED="1424093387521" ID="ID_387402506" MODIFIED="1426167968220" TEXT="lisosomas"/>
-<node CREATED="1424093396928" ID="ID_971471178" MODIFIED="1426167977769" TEXT="vacuola"/>
-<node CREATED="1424093406357" ID="ID_321104770" MODIFIED="1426167981409" TEXT="ret&#xed;culo endoplasm&#xe1;tico liso y rugoso"/>
-<node CREATED="1424093419043" ID="ID_1522515588" MODIFIED="1426167985496" TEXT="plastidios"/>
-<node CREATED="1424093432386" ID="ID_1396359452" MODIFIED="1426167989870" TEXT="centriolos"/>
-<node CREATED="1424093449396" ID="ID_1015268589" MODIFIED="1426167997630" TEXT="aparato de Golgi"/>
-</node>
-</node>
-<node CREATED="1424093250586" ID="ID_482289228" MODIFIED="1426167894503" TEXT="membrana celular">
-<node CREATED="1424093303679" HGAP="16" ID="ID_723159844" MODIFIED="1426167945241" TEXT="rodea y delimita la c&#xe9;lula" VSHIFT="5">
-<icon BUILTIN="idea"/>
-</node>
-</node>
-</node>
-<node CREATED="1424091676435" HGAP="85" ID="ID_168321461" MODIFIED="1426167528992" POSITION="left" TEXT="realiza funciones vitales" VSHIFT="-55">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<icon BUILTIN="idea"/>
-<node CREATED="1424091688981" ID="ID_1501974764" MODIFIED="1426167533288" TEXT="nutrici&#xf3;n"/>
-<node CREATED="1424091806904" ID="ID_1146132335" MODIFIED="1426167537375" TEXT="respiraci&#xf3;n"/>
-<node CREATED="1424091819866" ID="ID_1519635523" MODIFIED="1426167545796" TEXT="reproducci&#xf3;n"/>
-</node>
-<node CREATED="1424091904906" HGAP="-161" ID="ID_1795637832" MODIFIED="1426167782075" POSITION="right" TEXT="constituye organismos " VSHIFT="-33">
+<node CREATED="1424089988504" ID="ID_128813255" MODIFIED="1428424165547" TEXT="LA C&#xc9;LULA">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1424090897044" HGAP="-19" ID="ID_1912176297" MODIFIED="1428424196860" POSITION="right" STYLE="fork" TEXT="es" VSHIFT="28">
 <font NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="idea"/>
-<node CREATED="1424092061525" HGAP="65" ID="ID_830187488" MODIFIED="1426167788066" STYLE="bubble" TEXT="unicelulares" VSHIFT="72">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1424092172419" HGAP="-42" ID="ID_767056782" MODIFIED="1426167804667" TEXT="formados por una sola c&#xe9;lula" VSHIFT="32">
-<icon BUILTIN="idea"/>
-<node CREATED="1424093755268" ID="ID_1057808362" MODIFIED="1426167817675" TEXT="Bacterias, cianobacterias  y protozoos"/>
+<node CREATED="1424090912660" ID="ID_1777617436" MODIFIED="1428424165516" STYLE="fork" TEXT="La unidad estructural y funcional de los seres vivos"/>
 </node>
-</node>
-<node CREATED="1424092068955" HGAP="54" ID="ID_244902465" MODIFIED="1426167793656" TEXT="multicelulares" VSHIFT="17">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1424092824763" HGAP="-40" ID="ID_1353898502" MODIFIED="1426167826008" TEXT="c&#xe9;lulas independientes que forman colonias" VSHIFT="39">
-<icon BUILTIN="idea"/>
-<node CREATED="1424093769110" ID="ID_1923392523" MODIFIED="1425381564569" TEXT="Algas y Hongos"/>
-</node>
-</node>
-<node CREATED="1424092124259" HGAP="-78" ID="ID_370608552" MODIFIED="1426167798495" TEXT="pluricelulares" VSHIFT="-29">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node CREATED="1424092849392" HGAP="-24" ID="ID_1881794961" MODIFIED="1426167838798" TEXT="formaci&#xf3;n de tejidos" VSHIFT="43">
-<icon BUILTIN="idea"/>
-<node CREATED="1424092884228" HGAP="23" ID="ID_1018951740" MODIFIED="1426167843483" TEXT="c&#xe9;lulas con estructura y funciones similares" VSHIFT="-10"/>
-<node CREATED="1424092987521" HGAP="21" ID="ID_1832864233" MODIFIED="1426167859090" TEXT="constituyen &#xf3;rganos y sistemas" VSHIFT="14">
-<node CREATED="1425381544225" ID="ID_818701859" MODIFIED="1425381558511" TEXT="Animales y plantas"/>
-</node>
-</node>
-</node>
-</node>
-<node CREATED="1424093652552" HGAP="55" ID="ID_813449817" MODIFIED="1426167752702" POSITION="left" TEXT="se puede observar a trav&#xe9;s del microscopio" VSHIFT="-12">
-<font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<icon BUILTIN="idea"/>
-<node CREATED="1424093721574" ID="ID_46474907" MODIFIED="1426167736947" TEXT="formas de acuerdo con su funci&#xf3;n vital">
+<node CREATED="1424091267979" HGAP="-27" ID="ID_1285906957" MODIFIED="1428424196860" POSITION="left" STYLE="fork" TEXT="puede ser" VSHIFT="-59">
 <font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="idea"/>
+<node CREATED="1424091280795" HGAP="18" ID="ID_1089557442" MODIFIED="1428424196860" STYLE="fork" TEXT="Procariota" VSHIFT="-15">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1427811866313" ID="ID_557927493" MODIFIED="1428424165516" STYLE="bubble" TEXT="- Sin membrana nuclear&#xa;- De estructura sencilla&#xa;- Propias de bacterias y cianobacterias&#xa;&#xa;"/>
 </node>
-<node CREATED="1426167675514" ID="ID_424560162" MODIFIED="1426167706405" TEXT="tama&#xf1;os muy peque&#xf1;os medidos en micras"/>
+<node CREATED="1424091290355" ID="ID_1280302723" MODIFIED="1428424196860" STYLE="fork" TEXT="Eucariota" VSHIFT="22">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1427811955931" ID="ID_1528139932" MODIFIED="1428424165516" STYLE="bubble" TEXT="- Con membrana nuclear&#xa;- De estructura compleja&#xa;- Propias de algas, plantas, protozoos, animales, hongos&#xa;"/>
+</node>
+</node>
+<node CREATED="1424091671204" HGAP="38" ID="ID_824869603" MODIFIED="1428424196860" POSITION="right" STYLE="fork" TEXT=" consta de" VSHIFT="35">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="idea"/>
+<node CREATED="1424093214945" ID="ID_1930640668" MODIFIED="1428424165532" STYLE="fork" TEXT="N&#xfa;cleo">
+<node CREATED="1427810689267" ID="ID_781299307" MODIFIED="1428424165532" STYLE="fork" TEXT="que dirige">
+<icon BUILTIN="idea"/>
+<node CREATED="1424093293205" HGAP="22" ID="ID_170616512" MODIFIED="1428424165532" STYLE="fork" TEXT="los procesos celulares" VSHIFT="-12"/>
+</node>
+<node CREATED="1427810724985" ID="ID_1130581542" MODIFIED="1428424165532" STYLE="fork" TEXT="que tiene">
+<icon BUILTIN="idea"/>
+<node CREATED="1425381810424" ID="ID_1143667666" MODIFIED="1428424165532" STYLE="fork" TEXT="Membrana nuclear en c&#xe9;lulas eucariotas"/>
+</node>
+</node>
+<node CREATED="1424093234234" ID="ID_265706073" MODIFIED="1428424165532" STYLE="fork" TEXT="Citoplasma">
+<node CREATED="1427810747501" ID="ID_541973238" MODIFIED="1428424165532" STYLE="fork" TEXT="que contiene">
+<icon BUILTIN="idea"/>
+<node CREATED="1424093278940" ID="ID_425081283" MODIFIED="1428424165532" STYLE="fork" TEXT="Organelos celulares">
+<node CREATED="1424093366282" ID="ID_1710125199" MODIFIED="1428424165532" STYLE="bubble" TEXT="- Mitocondria&#xa;- Ribosomas&#xa;- Lisosomas&#xa;- Vacuola&#xa;- Ret&#xed;culo endoplasm&#xe1;tico liso y rugoso&#xa;- Plastidios&#xa;- Centriolos&#xa;- Aparato de Golgi"/>
+</node>
+</node>
+</node>
+<node CREATED="1424093250586" ID="ID_482289228" MODIFIED="1428424165532" STYLE="fork" TEXT="Membrana celular">
+<node CREATED="1424093303679" HGAP="16" ID="ID_723159844" MODIFIED="1428424165532" STYLE="fork" TEXT="que rodea y delimita la c&#xe9;lula" VSHIFT="5"/>
+</node>
+</node>
+<node CREATED="1424091676435" HGAP="103" ID="ID_168321461" MODIFIED="1428424196860" POSITION="left" STYLE="fork" TEXT="realiza funciones vitales" VSHIFT="-51">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1427811703062" ID="ID_407352649" MODIFIED="1428424165532" STYLE="fork" TEXT="como">
+<icon BUILTIN="idea"/>
+<node CREATED="1427811717731" ID="ID_165325155" MODIFIED="1428424165532" STYLE="bubble" TEXT="- Nutrici&#xf3;n&#xa;- Respiraci&#xf3;n&#xa;- Reproducci&#xf3;n"/>
+</node>
+</node>
+<node CREATED="1424091904906" HGAP="-105" ID="ID_1795637832" MODIFIED="1428424172907" POSITION="right" STYLE="fork" TEXT="constituye organismos " VSHIFT="-14">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="idea"/>
+<node CREATED="1424092061525" HGAP="65" ID="ID_830187488" MODIFIED="1428424196860" STYLE="fork" TEXT="Unicelulares" VSHIFT="72">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1427810861632" HGAP="35" ID="ID_1953612012" MODIFIED="1428424165532" STYLE="fork" TEXT="formados por" VSHIFT="-26">
+<icon BUILTIN="idea"/>
+<node CREATED="1424092172419" HGAP="34" ID="ID_767056782" MODIFIED="1428424165532" STYLE="fork" TEXT="Una sola c&#xe9;lula" VSHIFT="3">
+<node CREATED="1427810953793" ID="ID_1742751932" MODIFIED="1428424165532" STYLE="fork" TEXT="como">
+<icon BUILTIN="idea"/>
+<node CREATED="1424093755268" ID="ID_1057808362" MODIFIED="1428424165532" STYLE="bubble" TEXT="- Bacterias&#xa;- Cianobacterias &#xa;- Protozoos"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1424092068955" HGAP="54" ID="ID_244902465" MODIFIED="1428424196860" STYLE="fork" TEXT="Multicelulares" VSHIFT="17">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1427811275880" HGAP="34" ID="ID_1993727600" MODIFIED="1428424165532" STYLE="fork" TEXT="formados por" VSHIFT="-4">
+<icon BUILTIN="idea"/>
+<node CREATED="1424092824763" HGAP="50" ID="ID_1353898502" MODIFIED="1428424165532" STYLE="fork" TEXT="C&#xe9;lulas independientes que forman colonias" VSHIFT="3">
+<node CREATED="1427811336854" ID="ID_1286523481" MODIFIED="1428424165532" STYLE="fork" TEXT="como">
+<icon BUILTIN="idea"/>
+<node CREATED="1424093769110" ID="ID_1923392523" MODIFIED="1428424165532" STYLE="bubble" TEXT="- Algas&#xa;- Hongos"/>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1424092124259" HGAP="64" ID="ID_370608552" MODIFIED="1428424196860" STYLE="fork" TEXT="Pluricelulares" VSHIFT="-1">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1427811288732" HGAP="21" ID="ID_1184037548" MODIFIED="1428424165532" STYLE="fork" TEXT="que constituyen" VSHIFT="24">
+<icon BUILTIN="idea"/>
+<node CREATED="1424092849392" HGAP="53" ID="ID_1881794961" MODIFIED="1428424165532" STYLE="fork" TEXT="Tejidos" VSHIFT="4">
+<icon BUILTIN="idea"/>
+<node CREATED="1424092884228" HGAP="23" ID="ID_1018951740" MODIFIED="1428424165532" STYLE="fork" TEXT="de c&#xe9;lulas con estructuras y funciones similares" VSHIFT="-10"/>
+<node CREATED="1427811428373" ID="ID_1539737492" MODIFIED="1428424165532" STYLE="fork" TEXT="que conforman">
+<icon BUILTIN="idea"/>
+<node CREATED="1424092987521" HGAP="29" ID="ID_1832864233" MODIFIED="1428424165532" STYLE="fork" TEXT="&#xd3;rganos y Sistemas" VSHIFT="-1">
+<node CREATED="1425381544225" ID="ID_818701859" MODIFIED="1428424165532" STYLE="bubble" TEXT="- Animales&#xa;- Plantas"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1424093652552" HGAP="55" ID="ID_813449817" MODIFIED="1428424196860" POSITION="left" STYLE="fork" TEXT="se puede observar a trav&#xe9;s de" VSHIFT="-12">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="idea"/>
+<node CREATED="1427811542090" ID="ID_1718516713" MODIFIED="1428424165532" TEXT="Microscopio"/>
 </node>
 </node>
 </map>

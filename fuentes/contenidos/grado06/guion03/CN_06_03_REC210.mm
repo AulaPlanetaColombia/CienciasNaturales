@@ -1,109 +1,45 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node BACKGROUND_COLOR="#ccff99" CREATED="1425759369542" ID="ID_729824331" MODIFIED="1425760771352" STYLE="bubble" TEXT="LOS SERES VIVOS">
+<node BACKGROUND_COLOR="#ccff99" CREATED="1425759369542" ID="ID_729824331" MODIFIED="1428424985027" STYLE="fork" TEXT="LOS SERES VIVOS">
 <edge COLOR="#009900"/>
 <font NAME="SansSerif" SIZE="13"/>
-<node BACKGROUND_COLOR="#ccffcc" CREATED="1425759389963" HGAP="-67" ID="ID_214483821" MODIFIED="1425760771352" POSITION="right" TEXT="Caracter&#xed;sticas" VSHIFT="-104">
+<node BACKGROUND_COLOR="#ccffcc" CREATED="1425759389963" HGAP="-67" ID="ID_214483821" MODIFIED="1428425033121" POSITION="right" TEXT="tienen caracter&#xed;sticas como" VSHIFT="-104">
 <edge COLOR="#009900"/>
-<node CREATED="1425759408256" ID="ID_1780208195" MODIFIED="1425760771352" TEXT="Se componen de los mismos elementos">
-<edge COLOR="#009900"/>
+<icon BUILTIN="idea"/>
+<node CREATED="1428425046106" ID="ID_566038069" MODIFIED="1428425145647" STYLE="bubble" TEXT="- Se componen de los mismos elementos&#xa;- Est&#xe1;n constituidos por c&#xe9;lulas&#xa;- Crecen&#xa;- Realizan procesos metab&#xf3;licos&#xa;- Buscan el equilibrio&#xa;- Cambian a trav&#xe9;s del tiempo&#xa;- Se nutren&#xa;- Son capaces de reproducirse&#xa;- Se relacionan&#xa;"/>
 </node>
-<node CREATED="1425759429033" ID="ID_27552494" MODIFIED="1425760771352" TEXT="Est&#xe1;n constituidos por c&#xe9;lulas">
+<node BACKGROUND_COLOR="#ccffcc" CREATED="1425759692029" ID="ID_943955843" MODIFIED="1428425176077" POSITION="left" TEXT="se clasifican en ">
 <edge COLOR="#009900"/>
+<icon BUILTIN="idea"/>
+<node CREATED="1425759713575" HGAP="37" ID="ID_1918149010" MODIFIED="1428425244287" TEXT="Dominios seg&#xfa;n Woese 1990" VSHIFT="-26">
+<edge COLOR="#009900"/>
+<node CREATED="1425759755061" HGAP="29" ID="ID_81797547" MODIFIED="1428425248005" TEXT="Archaea" VSHIFT="-34">
+<edge COLOR="#009900"/>
+<node CREATED="1428425085880" ID="ID_1865491325" MODIFIED="1428425145663" STYLE="bubble" TEXT="- Formadas por c&#xe9;lulas procariotas&#xa;- Unicelulaes&#xa;- Microsc&#xf3;picas&#xa;- Pueden vivir en ambientes extremos&#xa;"/>
 </node>
-<node CREATED="1425759470372" ID="ID_147414246" MODIFIED="1425760771351" TEXT="Crecen">
+<node CREATED="1425759768542" HGAP="43" ID="ID_517760529" MODIFIED="1428425255224" TEXT="Bacteria" VSHIFT="1">
 <edge COLOR="#009900"/>
+<node CREATED="1428425109046" ID="ID_754164538" MODIFIED="1428425145663" STYLE="bubble" TEXT="- Formadas por c&#xe9;lulas procariotas&#xa;- Unicelulares&#xa;- M&#xe1;s cercanas al hombre&#xa;- Cosmop&#xf3;litas&#xa;"/>
 </node>
-<node CREATED="1425759515789" ID="ID_375729638" MODIFIED="1425760771350" TEXT="Realizan procesos metab&#xf3;licos">
+<node CREATED="1425759806146" HGAP="45" ID="ID_1424869651" MODIFIED="1428425250943" TEXT="Eucarya" VSHIFT="28">
 <edge COLOR="#009900"/>
-</node>
-<node CREATED="1425759541922" ID="ID_462677503" MODIFIED="1425760771349" TEXT="Buscan el equilibrio">
+<node CREATED="1425760006964" ID="ID_100291380" MODIFIED="1428425301866" TEXT="formados por ">
 <edge COLOR="#009900"/>
-</node>
-<node CREATED="1425759573605" ID="ID_1720375269" MODIFIED="1425760771349" TEXT="Cambian a trav&#xe9;s del tiempo">
+<icon BUILTIN="idea"/>
+<node CREATED="1428425310682" ID="ID_432033219" MODIFIED="1428425326011" TEXT="C&#xe9;lulas eucariotas">
+<node CREATED="1425760061415" HGAP="23" ID="ID_1306191280" MODIFIED="1428425365219" TEXT="presentes en reinos" VSHIFT="33">
 <edge COLOR="#009900"/>
-</node>
-<node CREATED="1425759586753" ID="ID_1466933325" MODIFIED="1425760771348" TEXT="Se nutren">
-<edge COLOR="#009900"/>
-</node>
-<node CREATED="1425759619907" ID="ID_1896971874" MODIFIED="1425760771347" TEXT="Son capaces de reproducirse">
-<edge COLOR="#009900"/>
-</node>
-<node CREATED="1425759636627" ID="ID_294610503" MODIFIED="1425760720682" TEXT="Se relacionan">
-<edge COLOR="#009900"/>
-</node>
-</node>
-<node BACKGROUND_COLOR="#ccffcc" CREATED="1425759692029" ID="ID_943955843" MODIFIED="1425760771344" POSITION="left" TEXT="Se clasifican en ">
-<edge COLOR="#009900"/>
-<node CREATED="1425759713575" HGAP="-133" ID="ID_1918149010" MODIFIED="1425760771343" TEXT="Dominios" VSHIFT="-54">
-<edge COLOR="#009900"/>
-<node CREATED="1425759734023" ID="ID_1723686786" MODIFIED="1425760771343" TEXT="Seg&#xfa;n Woese 1990">
-<edge COLOR="#009900"/>
-<node CREATED="1425759755061" HGAP="-27" ID="ID_81797547" MODIFIED="1425760771342" TEXT="Archaea" VSHIFT="-36">
-<edge COLOR="#009900"/>
-<node CREATED="1425759822470" ID="ID_763025768" MODIFIED="1425760771341" TEXT="Formadas por c&#xe9;lulas procariotas">
-<edge COLOR="#009900"/>
-</node>
-<node CREATED="1425759847827" ID="ID_759463302" MODIFIED="1425760771340" TEXT="Unicelulaes">
-<edge COLOR="#009900"/>
-</node>
-<node CREATED="1425759881610" ID="ID_1127067733" MODIFIED="1425760771340" TEXT="Microsc&#xf3;picas">
-<edge COLOR="#009900"/>
-</node>
-<node CREATED="1425759900032" ID="ID_1591528487" MODIFIED="1425760771339" TEXT="Pueden vivir en ambientes extremos">
-<edge COLOR="#009900"/>
-</node>
-</node>
-<node CREATED="1425759768542" ID="ID_517760529" MODIFIED="1425760771338" TEXT="Bacteria">
-<edge COLOR="#009900"/>
-<node CREATED="1425759936438" ID="ID_265998950" MODIFIED="1425760771338" TEXT="Formadas por c&#xe9;lulas procariotas">
-<edge COLOR="#009900"/>
-</node>
-<node CREATED="1425759954441" ID="ID_745237733" MODIFIED="1425760771337" TEXT="Unicelulares">
-<edge COLOR="#009900"/>
-</node>
-<node CREATED="1425759968137" ID="ID_366427717" MODIFIED="1425760771336" TEXT="M&#xe1;s cercanas al hombre">
-<edge COLOR="#009900"/>
-</node>
-<node CREATED="1425759994505" ID="ID_884764638" MODIFIED="1425760771335" TEXT="Cosmop&#xf3;litas">
-<edge COLOR="#009900"/>
-</node>
-</node>
-<node CREATED="1425759806146" HGAP="-24" ID="ID_1424869651" MODIFIED="1425760771335" TEXT="Eucarya" VSHIFT="24">
-<edge COLOR="#009900"/>
-<node CREATED="1425760006964" ID="ID_100291380" MODIFIED="1425760771334" TEXT="Formados por c&#xe9;lulas eucariotas">
-<edge COLOR="#009900"/>
-<node CREATED="1425760061415" HGAP="-103" ID="ID_1306191280" MODIFIED="1425760771333" TEXT="Contiene a los reinos" VSHIFT="37">
-<edge COLOR="#009900"/>
-<node CREATED="1425760088571" ID="ID_1599488020" MODIFIED="1425760771333" TEXT="Protista">
-<edge COLOR="#009900"/>
-</node>
-<node CREATED="1425760105855" ID="ID_903248265" MODIFIED="1425760771332" TEXT="Fungi">
-<edge COLOR="#009900"/>
-</node>
-<node CREATED="1425760137924" ID="ID_836122441" MODIFIED="1425760771331" TEXT="Plantas">
-<edge COLOR="#009900"/>
-</node>
-<node CREATED="1425760153386" ID="ID_337722370" MODIFIED="1425760771331" TEXT="Animal">
-<edge COLOR="#009900"/>
+<icon BUILTIN="idea"/>
+<node CREATED="1428425125746" ID="ID_542546200" MODIFIED="1428425484116" STYLE="bubble" TEXT="- Protista&#xa;- Hongos&#xa;- Plantas&#xa;- Animales&#xa;"/>
 </node>
 </node>
 </node>
 </node>
 </node>
 </node>
-</node>
-<node BACKGROUND_COLOR="#ccffcc" CREATED="1425760219838" ID="ID_271820808" MODIFIED="1425760771330" POSITION="right" TEXT="Virus?">
+<node BACKGROUND_COLOR="#ccffcc" CREATED="1425760219838" ID="ID_271820808" MODIFIED="1428424985027" POSITION="right" TEXT="Virus?">
 <edge COLOR="#009900"/>
-<node CREATED="1425760233855" ID="ID_261066437" MODIFIED="1425760771329" TEXT="Agentes infecciosos">
-<edge COLOR="#009900"/>
-</node>
-<node CREATED="1425760249009" ID="ID_154635426" MODIFIED="1425760771329" TEXT="No est&#xe1;n formados por c&#xe9;lulas">
-<edge COLOR="#009900"/>
-</node>
-<node CREATED="1425760292981" ID="ID_449927721" MODIFIED="1425760771327" TEXT="Dependen de las c&#xe9;lulas para replicarse">
-<edge COLOR="#009900"/>
-</node>
+<node CREATED="1428425070211" ID="ID_600425103" MODIFIED="1428425145647" STYLE="bubble" TEXT="- Agentes infecciosos&#xa;- No est&#xe1;n formados por c&#xe9;lulas&#xa;- Dependen de las c&#xe9;lulas para replicarse&#xa;"/>
 </node>
 </node>
 </map>
