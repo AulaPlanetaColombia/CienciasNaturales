@@ -1,0 +1,127 @@
+<html>
+<head>
+	<!--
+	 ************************************************************************
+	 * Editor de ejercicios de tipo M
+	 * Versión: 15.02.18.1
+	 * Autores: Javier Garcés i Jesús Gironés (Sinergia)
+	 * Histórico:
+	 *  - 15.02.18.1:
+	 *	Primera versión
+	 ************************************************************************
+	-->
+	<script type="text/javascript">
+
+		//------------------------------------------------------------------------------
+		// Rutinas de soporte
+		//------------------------------------------------------------------------------
+		// Rutina para obtener dinámicamente un parámetro de la URL
+		function getQueryParam(pName) {
+			var CurrURL = location.href;
+			var ParamsPos = CurrURL.indexOf("?", 0);
+			if (ParamsPos > 0) {
+				var ParamsStr = CurrURL.substr(ParamsPos+1, CurrURL.length);
+				var Params = ParamsStr.split("&");
+				for (var i=0;i<Params.length;i++) {
+					if (Params[i].indexOf(pName + "=", 0) === 0) {
+						return unescape(Params[i].substr(pName.length + 1, Params[i].length));
+					}
+				}
+			}
+			return "";
+		}
+
+		// Rutina de ayuda para obtener un movie de flash (con API completo)
+		function GetFlashMovieObject(movieName)
+		{
+			if (window.document[movieName])
+					return window.document[movieName];
+
+			if (navigator.appName.indexOf("Microsoft Internet")==-1)
+				{
+					if (document.embeds && document.embeds[movieName])
+							return document.embeds[movieName];
+				}
+			else // if (navigator.appName.indexOf("Microsoft Internet")!=-1)
+				{
+					return document.getElementById(movieName);
+				}
+		}
+
+		function createFlashObjectTag(movieName, flashVars) {
+			return '' +			
+			'<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="100%" height="100%" id="' + movieName + '" align="middle">' +
+			'    <param name="allowScriptAccess" value="sameDomain" />' +
+			'    <param name="movie" value="editor/editor_pppUIEditor.swf" />' +
+			'    <param name="quality" value="high" />' +
+			'    <param name="wmode" value="transparent" />' +
+			'    <param name="flashvars" value="' + flashVars + '">' +
+			'		<embed id="editorFlash" name="editorFlash" src="editor/editor_pppUIEditor.swf"' +
+			'           width="100%" height="100%"' +
+			'           align="middle" quality="high"' +
+			'           allowScriptAccess="sameDomain"' +
+			'           type="application/x-shockwave-flash"' +
+			'           flashvars="' + flashVars + '"' +
+			'           pluginspage="http://www.macromedia.com/go/getflashplayer" wmode="transparent"/>' +
+			'</object>';
+		}
+
+
+		//------------------------------------------------------------------------------
+		// Funciones que llama Flash
+		//------------------------------------------------------------------------------
+		function onEditorSaveXML(xmlData) {
+			if ((window.parent != null) && (window.parent != window) && (typeof window.parent.onEditorSaveXML == "function")) {
+				window.parent.onEditorSaveXML(xmlData);
+			}
+		}
+
+		function onEditorPreviewXML(xmlData) {
+			if ((window.parent != null) && (window.parent != window) && (typeof window.parent.onEditorPreview == "function")) {
+				window.parent.onEditorPreview(xmlData);
+			}
+		}
+
+		function onEditorRequestResource(context, type, format, currentValue) {
+			if ((window.parent != null) && (window.parent != window) && (typeof window.parent.onEditorRequestResource == "function")) {
+				// Adaptación específica de los editores M (que manejan unos "tipos" antiguos)
+				if (type == "image")
+					type = "imagenes";
+				else if (type == "audio")
+					type = "sonidos";
+				else if (type == "video")
+					type = "videos";
+				window.parent.onEditorRequestResource(context, type, format, currentValue);
+			}
+		}
+
+		//------------------------------------------------------------------------------
+		// Funciones que llaman al Flash (de retorno del servidor)
+		//------------------------------------------------------------------------------
+		function onContainerResourceServed(context, newValue) {
+			// Limpiamos la URL para dejar sólo el nombre del archivo (específico del editor de motores M)
+			var finalUrl = url.replace(/^.*[\\\/]/, '');
+			var motor = GetFlashMovieObject("editorFlash");
+			motor.onContainerResourceServed(context, finalUrl);
+		}
+
+		// Montamos las FlashVars
+		var data_path = getQueryParam("data_path");
+		if (data_path == "")
+			data_path = "./data";
+		var datos_xml = getQueryParam("datos_xml");
+		if (datos_xml == "")
+			datos_xml = data_path + "/datos.xml";
+
+		var flashVars = "datos=" + datos_xml + "&imagenes=" + data_path + "/imagenes/&sonidos=" + data_path + "/sonidos/&videos=" + data_path + "/videos/&adjuntos=" + data_path + "/adjuntos/";
+
+	</script>
+</head>
+<body bgcolor="#ffffff">
+	<div id="Layer1">
+		<script type="text/javascript">
+			document.write(createFlashObjectTag("editorFlash", flashVars));
+		</script>
+	</div>
+</body>
+</html>

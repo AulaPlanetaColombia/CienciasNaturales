@@ -1,0 +1,9 @@
+[module]
+id=editor_mxx
+desc=Editor para ejercicios tipo M
+aprid=M101ap,M10a,M11a,M12a,M13a,M13b,M14a,M15a,M1a,M1b,M1c,M1d,M2a,M2b,M2c,M3a,M3b,M3b1,M4a,M5a,M5b,M5c,M5d,M6a,M6b,M7a,M8a,M9b
+version=14.10.2.1
+folder=editor
+entrypoint=editor.html
+dependencies=
+
