@@ -130,7 +130,7 @@
 <node CREATED="1425960659620" ID="ID_440334715" MODIFIED="1428440661344" TEXT="M&#xe9;todos anticonceptivos">
 <node CREATED="1425960669459" ID="ID_674102852" MODIFIED="1428440936103" TEXT="como">
 <icon BUILTIN="idea"/>
-<node CREATED="1428422505165" ID="ID_1123024789" MODIFIED="1428441076351" STYLE="bubble" TEXT="- M&#xe9;todos de barrera o mec&#xe1;nicos&#xa;- Hormonales&#xa;- Inhibidores de la implantaci&#xf3;n&#xa;- Esterilizaci&#xf3;n&#xa;- M&#xe9;todos naturales&#xa;-M&#xe9;todos qu&#xed;micos"/>
+<node CREATED="1428422505165" ID="ID_1123024789" MODIFIED="1429722956810" STYLE="bubble" TEXT="- M&#xe9;todos de barrera o mec&#xe1;nicos&#xa;- Hormonales&#xa;- Inhibidores de la implantaci&#xf3;n&#xa;- Esterilizaci&#xf3;n&#xa;- M&#xe9;todos naturales&#xa;- M&#xe9;todos qu&#xed;micos"/>
 </node>
 </node>
 </node>
