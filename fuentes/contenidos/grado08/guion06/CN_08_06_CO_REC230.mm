@@ -1,25 +1,58 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1426429769846" ID="ID_1849005272" MODIFIED="1426430062922" TEXT="FUNDAMENTOS DE GEN&#xc9;TICA">
-<node CREATED="1426429867499" HGAP="23" ID="ID_82629279" MODIFIED="1429476139340" POSITION="right" TEXT="se basan en " VSHIFT="22">
+<node CREATED="1426429769846" ID="ID_1849005272" MODIFIED="1435261555870" TEXT="Los genes">
+<node CREATED="1426431052059" HGAP="35" ID="ID_1431677298" MODIFIED="1435261583692" POSITION="left" TEXT="se localizan en" VSHIFT="-76">
 <icon BUILTIN="idea"/>
-<node CREATED="1426429914929" HGAP="17" ID="ID_626052686" MODIFIED="1429475936672" TEXT="Las leyes de la herencia de Mendel" VSHIFT="-39">
-<node CREATED="1429475892184" HGAP="13" ID="ID_402626123" MODIFIED="1429475941998" TEXT="estas son" VSHIFT="31">
+<node CREATED="1426431069305" HGAP="33" ID="ID_1073839482" MODIFIED="1435261908356" TEXT="Los cromosomas" VSHIFT="-11">
+<node CREATED="1426431577980" ID="ID_1789585204" MODIFIED="1426431588442" TEXT="pueden presentar">
 <icon BUILTIN="idea"/>
-<node CREATED="1429475944692" ID="ID_327780515" MODIFIED="1429476048277">
+<node CREATED="1426431595556" HGAP="19" ID="ID_1428655668" MODIFIED="1435261717133" TEXT="Aberraciones" VSHIFT="18">
+<node CREATED="1426431603744" HGAP="19" ID="ID_1780588592" MODIFIED="1426431759440" TEXT="de tipo" VSHIFT="-18">
+<icon BUILTIN="idea"/>
+<node CREATED="1426431648107" ID="ID_1874650205" MODIFIED="1435261699561" TEXT="num&#xe9;rico">
+<node CREATED="1426431665311" HGAP="18" ID="ID_898922056" MODIFIED="1429476478313" TEXT="llamadas" VSHIFT="-24">
+<icon BUILTIN="idea"/>
+<node CREATED="1429476422724" ID="ID_180630180" MODIFIED="1435261967743">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      La ley de la uniformidad
+      -Euploid&#237;as
     </p>
     <p>
-      La ley de la segregaci&#243;n&#160;
+      -Aneuploid&#237;as
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1426431655119" ID="ID_1158469548" MODIFIED="1435261699381" TEXT="estructural">
+<node CREATED="1426431707079" HGAP="16" ID="ID_169341692" MODIFIED="1429476492894" TEXT="denominadas" VSHIFT="28">
+<icon BUILTIN="idea"/>
+<node CREATED="1426431715597" ID="ID_1197643335" MODIFIED="1435261984059">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      -Deleciones
     </p>
     <p>
-      La ley de la independencia de caracteres
+      -Duplicaciones
+    </p>
+    <p>
+      -Inversiones
+    </p>
+    <p>
+      -Traslocaciones
+    </p>
+    <p>
+      -Inserciones
     </p>
   </body>
 </html>
@@ -28,189 +61,100 @@
 </node>
 </node>
 </node>
-<node CREATED="1426430065139" HGAP="-120" ID="ID_72418037" MODIFIED="1429476152746" POSITION="left" TEXT="se relacionan con" VSHIFT="86">
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1426431427183" HGAP="58" ID="ID_1341601087" MODIFIED="1435261903099" POSITION="right" TEXT="se transmiten" VSHIFT="-31">
+<icon BUILTIN="idea"/>
+<node CREATED="1426431473813" HGAP="22" ID="ID_886773322" MODIFIED="1435261384851" TEXT="A trav&#xe9;s de las generaciones" VSHIFT="-35">
+<node CREATED="1426431511450" HGAP="17" ID="ID_1533922984" MODIFIED="1435261419677" TEXT="a trav&#xe9;s de" VSHIFT="-49">
+<icon BUILTIN="idea"/>
+<node CREATED="1426430801443" ID="ID_1413150151" MODIFIED="1435261434385">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      -La mitosis
+    </p>
+    <p>
+      -La meiosis
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1426429914929" HGAP="18" ID="ID_626052686" MODIFIED="1435261875105" TEXT="Seg&#xfa;n las leyes de la herencia de Mendel" VSHIFT="34">
+<node CREATED="1429475892184" HGAP="13" ID="ID_402626123" MODIFIED="1435257874958" TEXT="que son" VSHIFT="31">
+<icon BUILTIN="idea"/>
+<node CREATED="1429475944692" ID="ID_327780515" MODIFIED="1435257893387">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      -Ley de la uniformidad
+    </p>
+    <p>
+      -Ley de la segregaci&#243;n&#160;
+    </p>
+    <p>
+      -Ley de la independencia de caracteres
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1426430881405" HGAP="19" ID="ID_1754179417" MODIFIED="1435261265192" POSITION="left" TEXT="son" VSHIFT="71">
+<icon BUILTIN="idea"/>
+<node CREATED="1426430906240" ID="ID_1737985839" MODIFIED="1435261281798" TEXT="Mol&#xe9;culas con informaci&#xf3;n gen&#xe9;tica">
+<node CREATED="1435261286623" HGAP="32" ID="ID_676530364" MODIFIED="1435261845825" TEXT="que indican" VSHIFT="-42">
+<icon BUILTIN="idea"/>
+<node CREATED="1435261312144" ID="ID_565529616" MODIFIED="1435261322445" TEXT="Como sintetizar una prote&#xed;na"/>
+</node>
+<node CREATED="1426430065139" ID="ID_72418037" MODIFIED="1435261562525" TEXT="determinan el">
 <arrowlink DESTINATION="ID_72418037" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1983438101" STARTARROW="None" STARTINCLINATION="0;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_72418037" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1983438101" SOURCE="ID_72418037" STARTARROW="None" STARTINCLINATION="0;0;"/>
 <icon BUILTIN="idea"/>
-<node CREATED="1426430102485" HGAP="16" ID="ID_1066158040" MODIFIED="1429476077482" TEXT="El genotipo" VSHIFT="-32">
-<node CREATED="1426430198232" HGAP="16" ID="ID_1778280223" MODIFIED="1426430716962" TEXT="es el conjunto de" VSHIFT="-27">
+<node CREATED="1426430102485" HGAP="22" ID="ID_1066158040" MODIFIED="1435261843217" TEXT="Genotipo" VSHIFT="-3">
+<node CREATED="1426430198232" HGAP="22" ID="ID_1778280223" MODIFIED="1435261841112" TEXT="que influye en el" VSHIFT="1">
 <arrowlink DESTINATION="ID_1778280223" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1003574845" STARTARROW="None" STARTINCLINATION="0;0;"/>
 <arrowlink DESTINATION="ID_1778280223" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1401870403" STARTARROW="None" STARTINCLINATION="0;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1778280223" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1003574845" SOURCE="ID_1778280223" STARTARROW="None" STARTINCLINATION="0;0;"/>
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1778280223" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1401870403" SOURCE="ID_1778280223" STARTARROW="None" STARTINCLINATION="0;0;"/>
 <icon BUILTIN="idea"/>
-<node CREATED="1426430747640" HGAP="23" ID="ID_1384805141" MODIFIED="1426431371886" TEXT="Genes de un organismo" VSHIFT="-39">
-<node CREATED="1426430762428" HGAP="18" ID="ID_1115008483" MODIFIED="1426430834065" TEXT="presentan" VSHIFT="36">
+<node CREATED="1426430103676" HGAP="27" ID="ID_474201780" MODIFIED="1435261851061" TEXT="El fenotipo" VSHIFT="-2"/>
+</node>
+</node>
+</node>
+<node CREATED="1426430762428" HGAP="18" ID="ID_1115008483" MODIFIED="1435261806701" TEXT="se presentan en" VSHIFT="36">
 <icon BUILTIN="idea"/>
-<node CREATED="1426430770631" HGAP="10" ID="ID_1658356912" MODIFIED="1426430838184" TEXT="Formas" VSHIFT="-30">
-<arrowlink DESTINATION="ID_1658356912" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_287717660" STARTARROW="None" STARTINCLINATION="0;0;"/>
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_1658356912" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_287717660" SOURCE="ID_1658356912" STARTARROW="None" STARTINCLINATION="0;0;"/>
-<node CREATED="1426430777873" HGAP="16" ID="ID_258022513" MODIFIED="1426430841749" TEXT="llamadas" VSHIFT="35">
-<arrowlink DESTINATION="ID_258022513" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_853682966" STARTARROW="None" STARTINCLINATION="0;0;"/>
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_258022513" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_853682966" SOURCE="ID_258022513" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<node CREATED="1426430788173" HGAP="21" ID="ID_739231426" MODIFIED="1435261890917" TEXT="Alelos" VSHIFT="7">
+<node CREATED="1426430793745" HGAP="31" ID="ID_680794931" MODIFIED="1435261893984" TEXT="que pueden ser" VSHIFT="13">
 <icon BUILTIN="idea"/>
-<node CREATED="1426430788173" HGAP="10" ID="ID_739231426" MODIFIED="1429476574110" TEXT="Alelos" VSHIFT="-35">
-<node CREATED="1426430793745" HGAP="16" ID="ID_680794931" MODIFIED="1429476580549" TEXT="que pueden ser" VSHIFT="37">
-<icon BUILTIN="idea"/>
-<node CREATED="1426430801443" ID="ID_838377594" MODIFIED="1429476601459">
+<node CREATED="1426430801443" HGAP="12" ID="ID_838377594" MODIFIED="1435261896804" VSHIFT="-14">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Dominantes
+      -Dominantes
     </p>
     <p>
-      Recesivos
+      -Recesivos
     </p>
     <p>
-      Codominantes
+      -Codominantes
     </p>
   </body>
-</html>
-</richcontent>
-</node>
-</node>
-</node>
-</node>
-</node>
-</node>
-<node CREATED="1426430881405" HGAP="19" ID="ID_1754179417" MODIFIED="1426430963470" TEXT="pueden ser" VSHIFT="71">
-<icon BUILTIN="idea"/>
-<node CREATED="1426430906240" ID="ID_1737985839" MODIFIED="1429476643672" TEXT="Homocigotos">
-<node CREATED="1426430936357" HGAP="18" ID="ID_1371464355" MODIFIED="1426431009482" TEXT="si" VSHIFT="-25">
-<icon BUILTIN="idea"/>
-<node CREATED="1426430946455" HGAP="18" ID="ID_1443623467" MODIFIED="1429476660061" TEXT="Los dos alelos del gen son iguales" VSHIFT="30"/>
-</node>
-</node>
-<node CREATED="1426430907332" HGAP="26" ID="ID_987994993" MODIFIED="1429476648051" TEXT="Heterocigotos" VSHIFT="28">
-<node CREATED="1426430965712" HGAP="13" ID="ID_558015917" MODIFIED="1429476686005" TEXT="cuando" VSHIFT="33">
-<icon BUILTIN="idea"/>
-<node CREATED="1426430974014" HGAP="18" ID="ID_1896870360" MODIFIED="1429476673272" TEXT="Los dos alelos del gen son diferentes " VSHIFT="-29"/>
-</node>
-</node>
-</node>
-<node CREATED="1426431052059" HGAP="35" ID="ID_1431677298" MODIFIED="1429476390316" TEXT="se localizan en" VSHIFT="-76">
-<icon BUILTIN="idea"/>
-<node CREATED="1426431069305" HGAP="22" ID="ID_1073839482" MODIFIED="1429476391612" TEXT="Los cromosomas" VSHIFT="-45">
-<node CREATED="1426431097010" HGAP="27" ID="ID_768083014" MODIFIED="1426431643582" TEXT="pueden estar" VSHIFT="-9">
-<icon BUILTIN="idea"/>
-<node CREATED="1426431108054" ID="ID_658971270" MODIFIED="1426431407434" TEXT="solos">
-<node CREATED="1426431191155" HGAP="12" ID="ID_154314351" MODIFIED="1426431410392" TEXT="en" VSHIFT="-37">
-<icon BUILTIN="idea"/>
-<node CREATED="1426431209449" HGAP="12" ID="ID_1971032214" MODIFIED="1426431414971" TEXT="Individuos HAPLOIDES " VSHIFT="-34"/>
-</node>
-</node>
-<node CREATED="1426431114626" ID="ID_129084269" MODIFIED="1426431179205" TEXT="en parejas">
-<node CREATED="1426431201322" HGAP="17" ID="ID_500525392" MODIFIED="1426431418608" TEXT="en" VSHIFT="24">
-<icon BUILTIN="idea"/>
-<node CREATED="1426431293365" HGAP="14" ID="ID_869499207" MODIFIED="1426431421372" TEXT="Individuos DIPLOIDES" VSHIFT="31"/>
-</node>
-</node>
-</node>
-<node CREATED="1426431577980" ID="ID_1789585204" MODIFIED="1426431588442" TEXT="pueden presentar">
-<icon BUILTIN="idea"/>
-<node CREATED="1426431595556" HGAP="19" ID="ID_1428655668" MODIFIED="1426431756640" TEXT="aberraciones" VSHIFT="18">
-<node CREATED="1426431603744" HGAP="19" ID="ID_1780588592" MODIFIED="1426431759440" TEXT="de tipo" VSHIFT="-18">
-<icon BUILTIN="idea"/>
-<node CREATED="1426431648107" ID="ID_1874650205" MODIFIED="1426431654795" TEXT="num&#xe9;rico">
-<node CREATED="1426431665311" HGAP="18" ID="ID_898922056" MODIFIED="1429476478313" TEXT="llamadas" VSHIFT="-24">
-<icon BUILTIN="idea"/>
-<node CREATED="1429476422724" ID="ID_180630180" MODIFIED="1429476459143">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Euploid&#237;as
-    </p>
-    <p>
-      Aneuploid&#237;as
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-</node>
-<node CREATED="1426431655119" ID="ID_1158469548" MODIFIED="1426431660897" TEXT="estructural">
-<node CREATED="1426431707079" HGAP="16" ID="ID_169341692" MODIFIED="1429476492894" TEXT="denominadas" VSHIFT="28">
-<icon BUILTIN="idea"/>
-<node CREATED="1426431715597" ID="ID_1197643335" MODIFIED="1429476526802">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      Deleciones
-    </p>
-    <p>
-      Duplicaciones
-    </p>
-    <p>
-      Inversiones
-    </p>
-    <p>
-      Traslocaciones
-    </p>
-    <p>
-      Inserciones
-    </p>
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-</node>
-</node>
-</node>
-</node>
-</node>
-</node>
-<node CREATED="1426431427183" HGAP="83" ID="ID_1341601087" MODIFIED="1426431820724" TEXT="transmitidos mediante" VSHIFT="-55">
-<icon BUILTIN="idea"/>
-<node CREATED="1426431473813" HGAP="22" ID="ID_886773322" MODIFIED="1426431833005" TEXT="MITOSIS" VSHIFT="-35">
-<node CREATED="1426431511450" HGAP="17" ID="ID_1533922984" MODIFIED="1426431815946" TEXT="genera" VSHIFT="-49">
-<icon BUILTIN="idea"/>
-<node CREATED="1426431536362" HGAP="19" ID="ID_1798405081" MODIFIED="1426431829741" TEXT="C&#xe9;lulas Diploides (2n)" VSHIFT="-13"/>
-</node>
-</node>
-<node CREATED="1426431481644" HGAP="33" ID="ID_234464428" MODIFIED="1426431835218" TEXT="MEIOSIS" VSHIFT="15">
-<node CREATED="1426431527758" HGAP="21" ID="ID_1156870312" MODIFIED="1426431824360" TEXT="produce" VSHIFT="26">
-<arrowlink DESTINATION="ID_1156870312" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_322334309" STARTARROW="None" STARTINCLINATION="0;0;"/>
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_1156870312" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_322334309" SOURCE="ID_1156870312" STARTARROW="None" STARTINCLINATION="0;0;"/>
-<icon BUILTIN="idea"/>
-<node CREATED="1426431559446" HGAP="6" ID="ID_760866920" MODIFIED="1426431826916" TEXT="C&#xe9;lulas haploides (n)" VSHIFT="19"/>
-</node>
-</node>
-</node>
-</node>
-</node>
-</node>
-<node CREATED="1426430103676" HGAP="36" ID="ID_474201780" MODIFIED="1429476326928" TEXT="El fenotipo" VSHIFT="-115">
-<node CREATED="1426431862266" HGAP="14" ID="ID_1794664179" MODIFIED="1429476197841" TEXT="el cual depende de" VSHIFT="-28">
-<icon BUILTIN="idea"/>
-<node CREATED="1429476279133" ID="ID_1740068375" MODIFIED="1429476285251" TEXT="La interacci&#xf3;n">
-<node CREATED="1429476289531" ID="ID_258317255" MODIFIED="1429476294362" TEXT="entre">
-<icon BUILTIN="idea"/>
-<node CREATED="1429476297863" ID="ID_284349859" MODIFIED="1429476317513">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      El genotipo&#160;
-    </p>
-    <p>
-      El ambiente
-    </p>
-  </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
