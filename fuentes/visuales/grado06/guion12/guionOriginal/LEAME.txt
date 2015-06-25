@@ -1,5 +1,0 @@
-//********************\\
-||        LÉAME       ||
-\\********************//
-
-En esta carpeta deberá poner el guión original, tal como se descargó de GRECO. Solo podrá tener un archivo, en formato ZIP, con el nombre del código del guión.

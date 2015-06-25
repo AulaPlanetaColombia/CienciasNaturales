@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoGuion">
+  <identificador>CN_07_13_CO</identificador>
+  <nivel>Educación Básica Secundaria</nivel>
+  <curso>7</curso>
+  <asignatura>Ciencias Naturales</asignatura>
+  <catalogaciones>
+    <disciplina>
+      <nivel id="3">Educación Secundaria Obligatoria</nivel>
+      <curso id="3.1">Primer curso</curso>
+      <asignatura id="3.1.1">Ciencias de la Naturaleza</asignatura>
+    </disciplina>
+    <nivelEducativo>
+      <nivel id="4">Educación Secundaria Obligatoria</nivel>
+      <ciclo id="4.1">Primer curso</ciclo>
+    </nivelEducativo>
+  </catalogaciones>
+  <tipo>Guión de exposición</tipo>
+  <titulo>Ciencia y tecnología al servicio de la Medicina</titulo>
+  <descripcion>La ciencia al cuidado de la salud. Aprende cómo la medicina se ha desarrollado gracias a las ciencias naturales.</descripcion>
+  <recursoMapaConceptual>Recurso210/MapaConceptual.pdf</recursoMapaConceptual>
+  <recursoEvaluacion>
+  </recursoEvaluacion>
+  <version>48</version>
+  <veditorial>10</veditorial>
+</metadata>
