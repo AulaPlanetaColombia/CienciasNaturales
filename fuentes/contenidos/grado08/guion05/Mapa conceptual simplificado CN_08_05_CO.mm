@@ -30,7 +30,7 @@
 <node CREATED="1425959537929" HGAP="65" ID="ID_1810981646" MODIFIED="1435883607976" TEXT="dependiente de" VSHIFT="-19">
 <icon BUILTIN="idea"/>
 <node CREATED="1425959633746" HGAP="23" ID="ID_571715184" MODIFIED="1435883107171" TEXT="Ciclo reproductor femenino (ciclo menstrual)" VSHIFT="-1">
-<node CREATED="1425959647930" ID="ID_541353722" MODIFIED="1435883102304" TEXT="que incluye">
+<node CREATED="1425959647930" ID="ID_541353722" MODIFIED="1436980261970" TEXT="incluye">
 <icon BUILTIN="idea"/>
 <node CREATED="1425959840654" ID="ID_534521565" MODIFIED="1428440413492" TEXT="Fases">
 <node CREATED="1425959933393" ID="ID_953522738" MODIFIED="1435883147430" TEXT="son">
@@ -59,7 +59,7 @@
 <node CREATED="1425960222324" HGAP="42" ID="ID_803209436" MODIFIED="1435883116814" TEXT="puede ser" VSHIFT="26">
 <icon BUILTIN="idea"/>
 <node CREATED="1425960236437" ID="ID_1634022510" MODIFIED="1428440497372" TEXT="Natural">
-<node CREATED="1425960248727" ID="ID_1712944550" MODIFIED="1428440510118" TEXT="que incluye">
+<node CREATED="1425960248727" ID="ID_1712944550" MODIFIED="1436980185122" TEXT="incluye">
 <icon BUILTIN="idea"/>
 <node CREATED="1428422273252" ID="ID_1121455121" MODIFIED="1428422331537" STYLE="bubble" TEXT="- Fecundaci&#xf3;n&#xa;- Implantaci&#xf3;n&#xa;- Embarazo&#xa;- Parto&#xa;"/>
 </node>
@@ -97,7 +97,10 @@
 <node CREATED="1425960659620" ID="ID_440334715" MODIFIED="1428440661344" TEXT="M&#xe9;todos anticonceptivos">
 <node CREATED="1425960669459" ID="ID_674102852" MODIFIED="1428440936103" TEXT="como">
 <icon BUILTIN="idea"/>
-<node CREATED="1428422505165" ID="ID_1123024789" MODIFIED="1429722956810" STYLE="bubble" TEXT="- M&#xe9;todos de barrera o mec&#xe1;nicos&#xa;- Hormonales&#xa;- Inhibidores de la implantaci&#xf3;n&#xa;- Esterilizaci&#xf3;n&#xa;- M&#xe9;todos naturales&#xa;- M&#xe9;todos qu&#xed;micos"/>
+<node CREATED="1428422505165" ID="ID_1123024789" MODIFIED="1436980231844" STYLE="bubble" TEXT="- M&#xe9;todos de barrera o mec&#xe1;nicos&#xa;- M&#xe9;todos hormonales&#xa;- Inhibidores de la implantaci&#xf3;n&#xa;- Esterilizaci&#xf3;n">
+<arrowlink DESTINATION="ID_1123024789" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1058631193" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1123024789" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1058631193" SOURCE="ID_1123024789" STARTARROW="None" STARTINCLINATION="0;0;"/>
+</node>
 </node>
 </node>
 </node>
