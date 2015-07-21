@@ -1,101 +1,93 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1429478943981" ID="ID_846309099" MODIFIED="1429481058683" TEXT="La clasificaci&#xf3;n biol&#xf3;gica">
-<node CREATED="1429479776910" HGAP="22" ID="ID_1856640630" MODIFIED="1429482145494" POSITION="right" TEXT="es estudiada por" VSHIFT="-61">
+<node CREATED="1434569519981" ID="ID_575186947" MODIFIED="1434570557133" TEXT="El material hereditario">
+<node CREATED="1434570760033" ID="ID_1223252635" MODIFIED="1434570770200" POSITION="right" TEXT="es estudiado por">
 <icon BUILTIN="idea"/>
-<node CREATED="1429479788412" ID="ID_1965478719" MODIFIED="1429480776709" TEXT="La Taxonom&#xed;a">
-<node CREATED="1429479975719" ID="ID_1655383945" MODIFIED="1429482492872" TEXT="fundada por">
+<node CREATED="1434570783324" ID="ID_371265545" MODIFIED="1434570792895" TEXT="La biolog&#xed;a molecular">
+<node CREATED="1434570797156" ID="ID_1075217945" MODIFIED="1434570814001" TEXT="ciencia que contempla ">
 <icon BUILTIN="idea"/>
-<node CREATED="1429480940135" ID="ID_1586830184" MODIFIED="1429482593153" TEXT="Carlos Linneo (1753)">
-<node CREATED="1429480977385" ID="ID_1090311869" MODIFIED="1429480986198" TEXT="quien propuso">
-<icon BUILTIN="idea"/>
-<node CREATED="1429480991948" ID="ID_516406200" MODIFIED="1429481002760" TEXT="El sistema binomial"/>
-</node>
-</node>
-</node>
-</node>
-</node>
-<node CREATED="1429480338057" HGAP="49" ID="ID_1713585804" MODIFIED="1429482154119" POSITION="right" TEXT="facilita organizar a " VSHIFT="-31">
-<icon BUILTIN="idea"/>
-<node CREATED="1429480665649" ID="ID_950978580" MODIFIED="1429480671741" TEXT="Los seres vivos">
-<node CREATED="1429480676272" ID="ID_747737261" MODIFIED="1429480679444" TEXT="en">
-<icon BUILTIN="idea"/>
-<node CREATED="1429480681944" ID="ID_1803442567" MODIFIED="1429480692666" TEXT="Categor&#xed;as jer&#xe1;rquicas">
-<node CREATED="1429480695228" ID="ID_1593943493" MODIFIED="1429481277209" TEXT="entre ellas">
-<arrowlink DESTINATION="ID_1593943493" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1048560567" STARTARROW="None" STARTINCLINATION="0;0;"/>
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_1593943493" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1048560567" SOURCE="ID_1593943493" STARTARROW="None" STARTINCLINATION="0;0;"/>
-<icon BUILTIN="idea"/>
-<node CREATED="1429480705459" ID="ID_1284454368" MODIFIED="1429480738716">
+<node CREATED="1434570817244" ID="ID_670279600" MODIFIED="1434570859444">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <p>
-      Dominio
+    <p style="text-align: center">
+      El Dogma Central de la Biolog&#237;a molecular
     </p>
-    <p>
-      Reino
-    </p>
-    <p>
-      Divisi&#243;n
-    </p>
-    <p>
-      Clase
-    </p>
-    <p>
-      Orden
-    </p>
-    <p>
-      Familia
-    </p>
-    <p>
-      G&#233;nero
-    </p>
-    <p>
-      Especie
+    <p style="text-align: center">
+      ADN -&gt; ARN -&gt; Prote&#237;na
     </p>
   </body>
 </html>
 </richcontent>
-<arrowlink DESTINATION="ID_1284454368" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_853659725" STARTARROW="None" STARTINCLINATION="0;0;"/>
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_1284454368" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_853659725" SOURCE="ID_1284454368" STARTARROW="None" STARTINCLINATION="0;0;"/>
 </node>
 </node>
 </node>
 </node>
-</node>
-</node>
-<node CREATED="1429481060074" HGAP="1" ID="ID_1890206334" MODIFIED="1429481749017" POSITION="right" TEXT="fue replanteada por" VSHIFT="-11">
-<arrowlink DESTINATION="ID_1890206334" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_29330042" STARTARROW="None" STARTINCLINATION="0;0;"/>
-<arrowlink DESTINATION="ID_1890206334" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1056164744" STARTARROW="None" STARTINCLINATION="0;0;"/>
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_1890206334" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_29330042" SOURCE="ID_1890206334" STARTARROW="None" STARTINCLINATION="0;0;"/>
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_1890206334" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1056164744" SOURCE="ID_1890206334" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<node CREATED="1434570925274" ID="ID_202576175" MODIFIED="1434570948887" POSITION="right" TEXT="tiene que ver con ">
 <icon BUILTIN="idea"/>
-<node CREATED="1429481094996" ID="ID_575639123" MODIFIED="1429481548817" TEXT="Woese en 1977">
-<arrowlink DESTINATION="ID_575639123" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1073648553" STARTARROW="None" STARTINCLINATION="0;0;"/>
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_575639123" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1073648553" SOURCE="ID_575639123" STARTARROW="None" STARTINCLINATION="0;0;"/>
-<node CREATED="1429481108324" ID="ID_783315494" MODIFIED="1429481652099" TEXT="quien propuso">
-<arrowlink DESTINATION="ID_783315494" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_97142243" STARTARROW="None" STARTINCLINATION="0;0;"/>
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_783315494" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_97142243" SOURCE="ID_783315494" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<node CREATED="1434570951652" ID="ID_1641932328" MODIFIED="1434570961347" TEXT="Los &#xe1;cidos nucleicos">
+<node CREATED="1434570969381" ID="ID_830571188" MODIFIED="1434570977979" TEXT="como">
 <icon BUILTIN="idea"/>
-<node CREATED="1429481428864" ID="ID_369264420" MODIFIED="1429481436957" TEXT="Tres dominios">
-<node CREATED="1429481438786" ID="ID_1269792577" MODIFIED="1429481446192" TEXT="estos son">
-<icon BUILTIN="idea"/>
-<node CREATED="1429481450176" ID="ID_124389323" MODIFIED="1429481481770">
+<node CREATED="1434570980905" ID="ID_897248066" MODIFIED="1434571223566">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Dominio Bacteria
+      El Acido desoxirribonucleico (ADN)
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1434571102757" ID="ID_925454257" MODIFIED="1434571457001" TEXT="sus nucle&#xf3;tidos son">
+<icon BUILTIN="idea"/>
+<node CREATED="1434571182773" ID="ID_149901246" MODIFIED="1434571216028">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Adenina (A)
     </p>
     <p>
-      Dominio Archaea
+      Timina (T)
     </p>
     <p>
-      Dominio Eukarya
+      Citocina (C)
+    </p>
+    <p>
+      Guanina (G)
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1434571080383" ID="ID_381984154" MODIFIED="1434571095024" TEXT="El Acido ribonucleico (ARN)">
+<node CREATED="1434571229347" ID="ID_782388809" MODIFIED="1434571257515" TEXT="sus nucle&#xf3;tidos son">
+<icon BUILTIN="idea"/>
+<node CREATED="1434571241956" ID="ID_976728699" MODIFIED="1434571273529">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Adenina (A)
+    </p>
+    <p>
+      Uracilo (U)
+    </p>
+    <p>
+      Citocina (C)
+    </p>
+    <p>
+      Guanina (G)
     </p>
   </body>
 </html>
@@ -105,26 +97,26 @@
 </node>
 </node>
 </node>
-</node>
-<node CREATED="1429481688970" HGAP="-6" ID="ID_302545785" MODIFIED="1429482125353" POSITION="right" TEXT="actualmente reconoce" VSHIFT="51">
+<node CREATED="1434570953150" ID="ID_552699067" MODIFIED="1434570966726" TEXT="Las prote&#xed;nas">
+<node CREATED="1434571295882" ID="ID_844790918" MODIFIED="1434571443328" TEXT="cuyos niveles de organizaci&#xf3;n pueden ser">
 <icon BUILTIN="idea"/>
-<node CREATED="1429481715079" ID="ID_1844203611" MODIFIED="1429481739798" TEXT="Dos grandes grupos">
-<node CREATED="1429481755532" ID="ID_1688219660" MODIFIED="1429482254994" TEXT="estos son">
-<icon BUILTIN="idea"/>
-<node CREATED="1429481767564" ID="ID_368494083" MODIFIED="1429481776925" TEXT="Los procariotas ">
-<node CREATED="1429481790769" ID="ID_1023811439" MODIFIED="1429482315370" TEXT="que incluye">
-<icon BUILTIN="idea"/>
-<node CREATED="1429481801863" ID="ID_1633982315" MODIFIED="1429481964384">
+<node CREATED="1434571344847" ID="ID_1865236510" MODIFIED="1434571363193">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      El dominio Bacteria
+      Primaria
     </p>
     <p>
-      El dominio Archaea
+      Secundaria
+    </p>
+    <p>
+      Terciaria
+    </p>
+    <p>
+      Cuaternaria
     </p>
   </body>
 </html>
@@ -132,34 +124,132 @@
 </node>
 </node>
 </node>
-<node CREATED="1429481768394" HGAP="28" ID="ID_1471543935" MODIFIED="1429482339854" TEXT="Los eucariotas" VSHIFT="22">
-<node CREATED="1429481903840" ID="ID_1201304113" MODIFIED="1429482056165" TEXT="que conforman">
+</node>
+<node CREATED="1434570931054" ID="ID_1061259672" MODIFIED="1434571405144" POSITION="right" TEXT="se transmite a trav&#xe9;s de">
 <icon BUILTIN="idea"/>
-<node CREATED="1429481921949" ID="ID_698195633" MODIFIED="1429482082290" TEXT="El dominio Eukarya">
-<node CREATED="1429481990665" ID="ID_243125647" MODIFIED="1429482360323" TEXT="e incluye">
+<node CREATED="1434571407284" ID="ID_159625507" MODIFIED="1434571480267" TEXT="La replicaci&#xf3;n">
+<node CREATED="1434571485816" ID="ID_428172418" MODIFIED="1434571490823" TEXT="en la cual">
 <icon BUILTIN="idea"/>
-<node CREATED="1429482086369" ID="ID_560413485" MODIFIED="1429482116744">
+<node CREATED="1434571492783" ID="ID_1800086847" MODIFIED="1434571505853" TEXT="El ADN hace una copia de s&#xed; mismo ">
+<node CREATED="1434571512797" ID="ID_1204014140" MODIFIED="1434571519903" TEXT="gracias a enzimas como ">
+<icon BUILTIN="idea"/>
+<node CREATED="1434571522686" ID="ID_1398343441" MODIFIED="1434571571342">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      El reino Protista
+      Las helicasas
     </p>
     <p>
-      El reino Fungi
+      Las topoisomerasas
     </p>
     <p>
-      El reino Vegetal
+      Las SSB
     </p>
     <p>
-      El reino Animal
+      Las ADN polimerasas
+    </p>
+    <p>
+      Las ligasas
     </p>
   </body>
 </html>
 </richcontent>
 </node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1434570931998" ID="ID_647053955" MODIFIED="1434571939026" POSITION="right" TEXT="se expresa por medio de">
+<icon BUILTIN="idea"/>
+<node CREATED="1434571608481" ID="ID_1272504782" MODIFIED="1434571826511" TEXT="La transcripci&#xf3;n">
+<node CREATED="1434571830194" ID="ID_1880292568" MODIFIED="1434571837454" TEXT="proceso en el que ">
+<icon BUILTIN="idea"/>
+<node CREATED="1434571839835" ID="ID_1745014691" MODIFIED="1434571880144" TEXT="El ADN se copia en ARN">
+<node CREATED="1434571884996" ID="ID_669262626" MODIFIED="1434571907193" TEXT="mediante">
+<icon BUILTIN="idea"/>
+<node CREATED="1434571909812" ID="ID_1603451623" MODIFIED="1434571933385">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Factores de transcipci&#243;n
+    </p>
+    <p>
+      ARN polimerasas
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1434571613910" ID="ID_1250222712" MODIFIED="1434571619650" TEXT="La traducci&#xf3;n">
+<node CREATED="1434571941634" ID="ID_1268895116" MODIFIED="1434571985963" TEXT="que consiste en">
+<icon BUILTIN="idea"/>
+<node CREATED="1434571988205" ID="ID_387116923" MODIFIED="1434572055315" TEXT="La s&#xed;ntesis de prote&#xed;nas a partir de ARNm ">
+<node CREATED="1434572062770" ID="ID_1496981640" MODIFIED="1434572069707" TEXT="con ayuda de">
+<icon BUILTIN="idea"/>
+<node CREATED="1434572071982" ID="ID_486722593" MODIFIED="1434572099752">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Ribosoma
+    </p>
+    <p>
+      ARNr
+    </p>
+    <p>
+      ARNt
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1434570933014" ID="ID_892555822" MODIFIED="1434571631573" POSITION="right" TEXT="puede presentar">
+<icon BUILTIN="idea"/>
+<node CREATED="1434571633517" ID="ID_28629693" MODIFIED="1434571638759" TEXT="Mutaciones">
+<node CREATED="1434571641828" ID="ID_1224723501" MODIFIED="1434571656557" TEXT="de tipo">
+<icon BUILTIN="idea"/>
+<node CREATED="1434571649248" ID="ID_24709543" MODIFIED="1434571677229">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      G&#233;nicas
+    </p>
+    <p>
+      Cromos&#243;micas
+    </p>
+    <p>
+      Gen&#243;micas
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1434571738439" ID="ID_676749625" MODIFIED="1434571756364" TEXT="y generar">
+<icon BUILTIN="idea"/>
+<node CREATED="1434571760141" ID="ID_1584759444" MODIFIED="1434571796164" TEXT="Enfermedades ">
+<node CREATED="1434571798645" ID="ID_1773334971" MODIFIED="1434571803319" TEXT="entre ellas">
+<icon BUILTIN="idea"/>
+<node CREATED="1434571805652" ID="ID_1591378891" MODIFIED="1434571811738" TEXT="C&#xe1;ncer"/>
 </node>
 </node>
 </node>
