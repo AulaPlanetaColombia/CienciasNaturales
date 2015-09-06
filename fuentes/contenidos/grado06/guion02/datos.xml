@@ -13,11 +13,11 @@
   </objeto>
   <objeto>
     <ref>10</ref>
-    <texto>Los tipos de célula son</texto>
+    <texto>puede ser</texto>
     <hijos>20,23</hijos>
     <padre>00</padre>
     <siz>14</siz>
-    <negcur>00000000000000000000000</negcur>
+    <negcur>000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
@@ -34,7 +34,7 @@
   <objeto>
     <ref>11</ref>
     <texto>constituye organismos</texto>
-    <hijos>21,24,25</hijos>
+    <hijos>21,25</hijos>
     <padre>00</padre>
     <siz>14</siz>
     <negcur>000000000000000000000</negcur>
@@ -53,18 +53,18 @@
   </objeto>
   <objeto>
     <ref>12</ref>
-    <texto>La estructura celular consta de</texto>
+    <texto>está formada por</texto>
     <hijos>22,26,27</hijos>
     <padre>00</padre>
     <siz>14</siz>
-    <negcur>0000000000000000000000000000000</negcur>
+    <negcur>0000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>22</ref>
     <texto>nucleo</texto>
-    <hijos>35,36</hijos>
+    <hijos>35</hijos>
     <padre>12</padre>
     <siz>0</siz>
     <negcur>000000</negcur>
@@ -78,16 +78,6 @@
     <padre>10</padre>
     <siz>0</siz>
     <negcur>000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>24</ref>
-    <texto>multicelulares</texto>
-    <hijos>33</hijos>
-    <padre>11</padre>
-    <siz>0</siz>
-    <negcur>00000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
@@ -123,221 +113,151 @@
   </objeto>
   <objeto>
     <ref>30</ref>
-    <texto/>
+    <texto>y se caracteriza por que</texto>
     <hijos>40,41,42</hijos>
     <padre>20</padre>
     <siz>14</siz>
-    <negcur/>
+    <negcur>000000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>40</ref>
-    <texto>el núcleo no está delimitado por una membrana</texto>
+    <texto>el núcleo no está delimitado por una membrana</texto>
     <hijos/>
     <padre>30</padre>
     <siz>0</siz>
-    <negcur>000000000000000000000000000000000000000000000</negcur>
+    <negcur>0000000000000000000000000000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>41</ref>
-    <texto>estructura sencilla</texto>
+    <texto>tiene estructura sencilla</texto>
     <hijos/>
     <padre>30</padre>
     <siz>0</siz>
-    <negcur>0000000000000000000</negcur>
+    <negcur>00000000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>42</ref>
-    <texto>presente en bacterias y cianobacterias</texto>
+    <texto>está presente en bacterias y cianobacterias</texto>
     <hijos/>
     <padre>30</padre>
     <siz>0</siz>
-    <negcur>00000000000000000000000000000000000000</negcur>
+    <negcur>00000000000000000000000000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>31</ref>
-    <texto/>
+    <texto>y se caracteriza por que</texto>
     <hijos>43,44,45</hijos>
     <padre>23</padre>
     <siz>14</siz>
-    <negcur/>
+    <negcur>000000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>43</ref>
-    <texto>posee núcleo definido por membrana</texto>
+    <texto>posee núcleo definido por membrana</texto>
     <hijos/>
     <padre>31</padre>
     <siz>0</siz>
-    <negcur>0000000000000000000000000000000000</negcur>
+    <negcur>00000000000000000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>44</ref>
-    <texto>estructura compleja</texto>
+    <texto>tiene estructura compleja</texto>
     <hijos/>
     <padre>31</padre>
     <siz>0</siz>
-    <negcur>0000000000000000000</negcur>
+    <negcur>00000000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>45</ref>
-    <texto>presente en algas, plantas, protozoos, animales, hongos</texto>
+    <texto>está presente en algas, plantas, protozoos, animales y hongos</texto>
     <hijos/>
     <padre>31</padre>
     <siz>0</siz>
-    <negcur>0000000000000000000000000000000000000000000000000000000</negcur>
+    <negcur>000000000000000000000000000000000000000000000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>32</ref>
-    <texto>formación de tejidos</texto>
-    <hijos>46,47</hijos>
+    <texto>los cuales están</texto>
+    <hijos>47</hijos>
     <padre>21</padre>
     <siz>14</siz>
-    <negcur>00000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>46</ref>
-    <texto>células con estructura y funciones similares</texto>
-    <hijos/>
-    <padre>32</padre>
-    <siz>0</siz>
-    <negcur>00000000000000000000000000000000000000000000</negcur>
+    <negcur>0000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>47</ref>
-    <texto>constituyen órganos y sistemas</texto>
+    <texto>conformados por más de dos células especializadas</texto>
     <hijos>50</hijos>
     <padre>32</padre>
     <siz>0</siz>
-    <negcur>000000000000000000000000000000</negcur>
+    <negcur>0000000000000000000000000000000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>50</ref>
-    <texto/>
+    <texto>constituyendo</texto>
     <hijos>60</hijos>
     <padre>47</padre>
     <siz>14</siz>
-    <negcur/>
+    <negcur>0000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>60</ref>
-    <texto>Animales y plantas</texto>
-    <hijos/>
+    <texto>tejidos, órganos y sistemas</texto>
+    <hijos>70</hijos>
     <padre>50</padre>
     <siz>0</siz>
-    <negcur>000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>33</ref>
-    <texto>células independientes que forman colonias</texto>
-    <hijos>48</hijos>
-    <padre>24</padre>
-    <siz>14</siz>
-    <negcur>000000000000000000000000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>48</ref>
-    <texto>Algas y Hongos</texto>
-    <hijos/>
-    <padre>33</padre>
-    <siz>0</siz>
-    <negcur>00000000000000</negcur>
+    <negcur>000000000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>34</ref>
-    <texto>formados por una sola célula</texto>
-    <hijos>49</hijos>
+    <texto>los cuales están</texto>
+    <hijos>49,48</hijos>
     <padre>25</padre>
     <siz>14</siz>
-    <negcur>0000000000000000000000000000</negcur>
+    <negcur>0000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>49</ref>
-    <texto>Bacterias, cianobacterias  y protozoos</texto>
-    <hijos/>
+    <texto>conformados por una célula</texto>
+    <hijos>52</hijos>
     <padre>34</padre>
     <siz>0</siz>
-    <negcur>00000000000000000000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>35</ref>
-    <texto>dirige los procesos celulares</texto>
-    <hijos>4A</hijos>
-    <padre>22</padre>
-    <siz>14</siz>
-    <negcur>00000000000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>4A</ref>
-    <texto/>
-    <hijos/>
-    <padre>35</padre>
-    <siz>0</siz>
-    <negcur/>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>36</ref>
-    <texto>Tiene membrana nuclear en células eucariotas</texto>
-    <hijos>4B</hijos>
-    <padre>22</padre>
-    <siz>14</siz>
-    <negcur>00000000000000000000000000000000000000000000</negcur>
-    <cen>1</cen>
-    <img/>
-  </objeto>
-  <objeto>
-    <ref>4B</ref>
-    <texto/>
-    <hijos/>
-    <padre>36</padre>
-    <siz>0</siz>
-    <negcur/>
+    <negcur>00000000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>37</ref>
-    <texto>contiene los organelos celulares</texto>
+    <texto>el cual contiene los orgánulos tales como</texto>
     <hijos>4C,4D,4E,4F,4G,4H,4I,4J</hijos>
     <padre>26</padre>
     <siz>14</siz>
-    <negcur>00000000000000000000000000000000</negcur>
+    <negcur>00000000000000000000000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
@@ -383,11 +303,11 @@
   </objeto>
   <objeto>
     <ref>4G</ref>
-    <texto>retículo endoplasmático liso y rugoso</texto>
+    <texto>retículo endoplasmático liso y rugoso</texto>
     <hijos/>
     <padre>37</padre>
     <siz>0</siz>
-    <negcur>0000000000000000000000000000000000000</negcur>
+    <negcur>00000000000000000000000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
@@ -423,21 +343,131 @@
   </objeto>
   <objeto>
     <ref>38</ref>
-    <texto>rodea y delimita la célula</texto>
-    <hijos>4K</hijos>
+    <texto>la cual</texto>
+    <hijos>4K,4L</hijos>
     <padre>27</padre>
-    <siz>0</siz>
-    <negcur>00000000000000000000000000</negcur>
+    <siz>14</siz>
+    <negcur>0000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>
   <objeto>
     <ref>4K</ref>
-    <texto/>
+    <texto>rodea y delimita la célula</texto>
     <hijos/>
     <padre>38</padre>
     <siz>0</siz>
-    <negcur/>
+    <negcur>000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>4L</ref>
+    <texto>controla el paso de sustancias con el medio externo</texto>
+    <hijos/>
+    <padre>38</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>35</ref>
+    <texto>el cual</texto>
+    <hijos>4A,4B</hijos>
+    <padre>22</padre>
+    <siz>14</siz>
+    <negcur>0000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>4A</ref>
+    <texto>dirige los procesos celulares</texto>
+    <hijos/>
+    <padre>35</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>4B</ref>
+    <texto>tiene membrana nuclear en células eucariotas</texto>
+    <hijos/>
+    <padre>35</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>48</ref>
+    <texto>en colonias</texto>
+    <hijos>51</hijos>
+    <padre>34</padre>
+    <siz>0</siz>
+    <negcur>00000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>51</ref>
+    <texto>como por ejemplo</texto>
+    <hijos>61</hijos>
+    <padre>48</padre>
+    <siz>14</siz>
+    <negcur>0000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>61</ref>
+    <texto>algunos protistas como las algas</texto>
+    <hijos/>
+    <padre>51</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>52</ref>
+    <texto>como por ejemplo</texto>
+    <hijos>62</hijos>
+    <padre>49</padre>
+    <siz>14</siz>
+    <negcur>0000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>62</ref>
+    <texto>bacterias, cianobacterias  y protozoos</texto>
+    <hijos/>
+    <padre>52</padre>
+    <siz>0</siz>
+    <negcur>00000000000000000000000000000000000000</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>70</ref>
+    <texto>en</texto>
+    <hijos>80</hijos>
+    <padre>60</padre>
+    <siz>14</siz>
+    <negcur>00</negcur>
+    <cen>1</cen>
+    <img/>
+  </objeto>
+  <objeto>
+    <ref>80</ref>
+    <texto>Animales y plantas</texto>
+    <hijos/>
+    <padre>70</padre>
+    <siz>0</siz>
+    <negcur>000000000000000000</negcur>
     <cen>1</cen>
     <img/>
   </objeto>

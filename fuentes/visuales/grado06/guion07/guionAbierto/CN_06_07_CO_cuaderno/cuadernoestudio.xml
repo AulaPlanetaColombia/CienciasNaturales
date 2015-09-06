@@ -109,8 +109,8 @@ que les permiten liberarse fácilmente de los excesos de este líquido.
 con la variación de sus constituyentes, tales como <negrita>piedras
 de diferentes tamaños, arcilla, arena, minerales, seres vivos, materia
 orgánica y agua</negrita>. Las diferencias en proporción de esos constituyentes
-afectan el crecimiento de las plantas y consecuentemente su tamaño. 
- </p>
+afectan el crecimiento de las plantas y consecuentemente su tamaño.
+  </p>
 <p>La Luz está directamente relacionada con la fotosíntesis y con
 los ritmos orgánicos de plantas y animales. En las praderas existen
 plantas que crecen a plena luz del Sol como las <negrita>gramíneas</negrita
@@ -300,12 +300,9 @@ A temperaturas más altas o menos bajas estos peces morirían. Algunos
 peces del desierto pueden vivir entre los 10oC y los 40oC, dentro
 un rango de 30oC; a diferencia de los peces del Ártico que solo pueden
 vivir dentro de un rango de 4oC.</p>
-</recuerdaTexto></recuerda><practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CN_06_07_CO_Recurso070&amp;IdRecurso=RES-53A6D300F7484AE9A1835F56E772CD10"
->Los organismos homeotermos y poiquilotermos</enlace>
-</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
-<seccion2 id="S2_CN_06_07_CO_4B864D0E8A2943B0BE6FC22EF30BB521">
+</recuerdaTexto></recuerda></seccion3Texto></seccion3></seccion2Texto>
+</seccion2><seccion2
+id="S2_CN_06_07_CO_4B864D0E8A2943B0BE6FC22EF30BB521">
 <seccion2Titulo>Los suelos</seccion2Titulo>
 <seccion2Texto>
 <p>Los <negrita>suelos</negrita> son el <negrita>sustrato</negrita
@@ -343,7 +340,6 @@ destino="http://www.virtual.unal.edu.co/cursos/ciencias/2000024/lecciones/cap04/
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_06_07_CO_Recurso080&amp;IdRecurso=RES-73E6BB27A20644D295AAD3F82B7E6518"
 >Los factores abióticos</enlace>
-</practica><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_06_07_CO_Recurso090&amp;IdRecurso=RES-BBDF4DEDAF124ABCB231353EEF979425"
 >El planeta Tierra y sus condiciones para la vida</enlace>
@@ -394,7 +390,6 @@ destino="/LoIdRedirect.aspx?LoId=CN_06_07_CO_Recurso110&amp;IdRecurso=RES-DBA8D2
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_06_07_CO_Recurso120&amp;IdRecurso=RES-A99CA87D18364DEA8BD76D725F92A91A"
 >Los componentes de una cadena alimentaria y sus relaciones</enlace>
-</practica><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_06_07_CO_Recurso130&amp;IdRecurso=RES-215D5F49A2964DDE87CCEA7C80F15CA9"
 >Los componentes bióticos y abióticos de los ecosistemas</enlace>
@@ -587,13 +582,8 @@ destino="http://recursos.cnice.mec.es/biosfera/alumno/2ESO/servivo/contenidos4.h
 >[VER]</enlace>.</p>
 <practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CN_06_07_CO_Recurso160&amp;IdRecurso=RES-650DD8AF34CC4BBDAD77FDBDA3CBF711"
->Las cualidades emergentes de los niveles de organización biológica</enlace>
-</practica><practica>
-<enlace
 destino="/LoIdRedirect.aspx?LoId=CN_06_07_CO_Recurso170&amp;IdRecurso=RES-582B3AE8F4884058843EE62A5184958C"
 >Los niveles de organización de la vida</enlace>
-</practica><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_06_07_CO_Recurso180&amp;IdRecurso=RES-7EAC6C58C8344EF7A04C5BCD3C56BEF1"
 >Los ecosistemas y sus componentes</enlace>
@@ -775,11 +765,7 @@ visitan las flores en busca de néctar, el cual constituye parte de
 su alimento; y a cambio transportan el polen de una flor a otra, lo
 cual es necesario para la reproducción de las plantas. </p>
 </imagen>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CN_06_07_CO_Recurso210&amp;IdRecurso=RES-FDA5DFF46E7E4BD2A822E53D57B6037C"
->Interacciones entre los seres vivos </enlace>
-</practica></seccion2Texto></seccion2><seccion2
+</seccion2Texto></seccion2><seccion2
 id="S2_CN_06_07_CO_9D27ED88434A4927B3ED312AD768F8B9">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
@@ -804,10 +790,9 @@ destino="/LoIdRedirect.aspx?LoId=CN_06_07_CO_Recurso230&amp;IdRecurso=RES-AE62D2
 destino="/LoIdRedirect.aspx?LoId=CN_06_07_CO_Recurso240&amp;IdRecurso=RES-BBF49B72B7B74718BDE2B8D4211BEF5F"
 >Proyecto: ¿Qué papel desempeñan las bacterias en la transformación
 del amonio en un ecosistema de acuario?</enlace>
-</practica><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_06_07_CO_Recurso250&amp;IdRecurso=RES-A08FC110C6754639942C88ED1009F3E2"
->La ecoesfera, un ecosistema en miniatura</enlace>
+>La ecoesfera, un ecosistema en miniatura</enlace><?Pub Caret -3?>
 </practica></seccion1Texto></seccion1><masinformacion
 id="MI_CN_06_07_CO_CB5AE343B4A847EDA5D8AD45FAC00B2B"><mapaconceptual>
 <enlace
@@ -823,5 +808,5 @@ destino="http://www.virtual.unal.edu.co/cursos/ciencias/2000088/lecciones/seccio
 >Conceptos relacionados  con la interacción entre los organismos.</enlace>
 <enlace
 destino="http://recursos.cnice.mec.es/biosfera/alumno/2ESO|||/servivo/contenidos1.htm"
->Contenidos y actividades sobre Ecología.</enlace><?Pub Caret -1?>
+>Contenidos y actividades sobre Ecología.</enlace>
 </enlacesreferencia></masinformacion></libro>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<diaporama autoplay="false" diapoDefaultTimeOut="5000" effectDefaultTimeOut="1500" textDefaultTimeOut="1000" toolbarAlign="LeftBottom" toolbarColor="Black" toolbarCounter="false" toolbarCounterColor="White" toolbarMargin="40,40,40,40" fotoMargin="0,0,0,0" textMargin="40,40,40,80" aprid="diaporama">
+  <diapo foto="CN_06_02_REC70_F1.jpg">
+    <texto type="Verdana" size="40" style="Normal" color="Black" align="CenterTop" effectTimeOut="1500">Célula procariota y eucariota</texto>
+    <texto type="Verdana" size="22" style="Normal" color="Black" align="LeftCenter" effectTimeOut="1500">Procariota: Pro-primitivo / Karión-núcleo </texto>
+    <texto type="Verdana" size="22" style="Normal" color="Black" align="LeftBottom" effectTimeOut="1500">Eucariota: Eu-verdadero / Karión-núcleo </texto>
+  </diapo>
+  <diapo foto="CN_06_02_REC70_F2.jpg">
+    <texto type="Verdana" size="40" style="Normal" color="Black" align="CenterTop" effectTimeOut="1500">Célula procariota</texto>
+    <texto type="Verdana" size="22" style="Normal" color="Black" align="LeftCenter" effectTimeOut="1500">No posee núcleo definido </texto>
+    <texto type="Verdana" size="22" style="Normal" color="Black" align="LeftBottom" effectTimeOut="1500">Característica de las bacterias</texto>
+  </diapo>
+  <diapo foto="CN_06_02_REC70_F3.jpg">
+    <texto type="Verdana" size="40" style="Normal" color="Black" align="CenterTop" effectTimeOut="1500">Célula eucariota</texto>
+    <texto type="Verdana" size="22" style="Normal" color="Black" align="LeftCenter" effectTimeOut="1500">Posee núcleo definido </texto>
+    <texto type="Verdana" size="22" style="Normal" color="Black" align="LeftBottom" effectTimeOut="1500">Característica de protozoos, algas, hongos, plantas y animales</texto>
+  </diapo>
+  <diapo foto="CN_06_02_REC70_F4.jpg">
+    <texto type="Verdana" size="40" style="Normal" color="Black" align="CenterTop" effectTimeOut="1500">Célula vegetal y célula animal</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+</diaporama>
