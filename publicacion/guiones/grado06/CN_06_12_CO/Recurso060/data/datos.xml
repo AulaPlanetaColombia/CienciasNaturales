@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<diaporama autoplay="false" diapoDefaultTimeOut="5000" effectDefaultTimeOut="1500" textDefaultTimeOut="1000" toolbarAlign="LeftBottom" toolbarColor="White" toolbarCounter="false" toolbarCounterColor="White" toolbarMargin="40,40,40,40" fotoMargin="0,0,0,0" textMargin="40,40,40,80" aprid="diaporama">
+  <diapo foto="fondo.jpg">
+    <texto type="Georgia" size="72" style="Normal" color="White" align="CenterCenter" effectTimeOut="1500">La energía:#tipos y origen</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="001DQ901.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="White" align="RightTop" effect="fadein" effectTimeOut="1500">Energía mecánica</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="000ZPM01.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="White" align="RightBottom" effect="fadein" effectTimeOut="1500">Energía mecánica</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="91623036.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">Energía mecánica</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="200224241-001.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="White" align="RightBottom" effect="fadein" effectTimeOut="1500">Energía mecánica</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="001DU001.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effect="fadein" effectTimeOut="1500">Energía#eléctrica</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="104701747.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effect="fadein" effectTimeOut="1500">Energía lumínica o luminosa</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="002DYA01.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="LeftCenter" effect="fadein" effectTimeOut="1500">Energía lumínica#o luminosa</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="104651418.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="White" align="RightTop" effect="fadein" effectTimeOut="1500">Energía térmica o calorífica</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="106586887.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effect="fadein" effectTimeOut="1500">Energía térmica#o calorífica</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="0012X501.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="White" align="LeftTop" effect="fadein" effectTimeOut="1500">Energía química</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="00153E01.jpg">
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightCenter" effect="fadein" effectTimeOut="1500">Energía nuclear</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+  <diapo foto="106550698.jpg" diapoTimeOut="50">
+    <texto type="Verdana" size="48" style="Normal" color="White" align="LeftTop" effectTimeOut="1500">Energía#geotérmica</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500" />
+  </diapo>
+</diaporama>

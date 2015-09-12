@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-BE1AC1DDA47C460292FAAC0128C9CAC1</identificador>
+  <loid>CN_06_12_CO_Recurso010</loid>
+  <titulo>La evolución histórica de las fuentes de energía</titulo>
+  <descripcion>Secuencia de imágenes que ayuda a analizar la evolución del consumo de energía  y la necesidad de avanzar hacia un modelo de producción y consumo energético sostenible</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso con ficha</tiporecurso>
+  <tiempoestimado>50</tiempoestimado>
+  <acciondidactica>Exposición</acciondidactica>
+  <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
+  <tipomedia pesado="false" matricula="">Secuencia de imágenes</tipomedia>
+  <conceptos>
+    <concepto>biocombustible</concepto>
+    <concepto>biomasa</concepto>
+    <concepto>carbón</concepto>
+    <concepto>energía</concepto>
+    <concepto>eólica</concepto>
+    <concepto>gas</concepto>
+    <concepto>geotérmica</concepto>
+    <concepto>hidroeléctrica</concepto>
+    <concepto>mareomotriz</concepto>
+    <concepto>petróleo</concepto>
+    <concepto>renovable</concepto>
+    <concepto>solar</concepto>
+    <concepto>undimotriz</concepto>
+  </conceptos>
+</metadata>

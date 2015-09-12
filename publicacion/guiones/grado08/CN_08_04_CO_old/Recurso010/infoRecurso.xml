@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-2195C6DEFFB243DFB206C31660FEA9F0</identificador>
+  <loid>CN_08_04_CO_Recurso010</loid>
+  <titulo>La reproducción en la naturaleza</titulo>
+  <descripcion>Interactivo que permite conocer la importancia de la reproducción y las estrategias reproductivas básicas.
+</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso con ficha</tiporecurso>
+  <tiempoestimado>30</tiempoestimado>
+  <acciondidactica>Exposición</acciondidactica>
+  <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
+  <competencias>
+    <descriptor>3_1_1</descriptor>
+  </competencias>
+  <tipomedia pesado="false" matricula="">Interactivo</tipomedia>
+  <conceptos>
+    <concepto>Reproducción</concepto>
+    <concepto> sexual</concepto>
+    <concepto> asexual</concepto>
+    <concepto> estrategias reproductivas.</concepto>
+  </conceptos>
+</metadata>

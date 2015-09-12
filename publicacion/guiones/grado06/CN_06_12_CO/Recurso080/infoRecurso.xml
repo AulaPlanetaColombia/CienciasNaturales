@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-E3EE73B49DC7401C960309D3ECE5C525</identificador>
+  <loid>CN_06_12_CO_Recurso080</loid>
+  <titulo>Refuerza tu aprendizaje: La energía eléctrica</titulo>
+  <descripcion>Actividades sobre La energía eléctrica</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso sin ficha</tiporecurso>
+  <tiempoestimado>10</tiempoestimado>
+  <acciondidactica>Preguntas con respuesta libre</acciondidactica>
+  <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
+  <tipomedia pesado="false" matricula="">Actividad</tipomedia>
+  <conceptos>
+    <concepto>electricidad</concepto>
+    <concepto>energía</concepto>
+    <concepto>Nikola Tesla</concepto>
+    <concepto>Thomas Edison</concepto>
+    <concepto>energía eléctrica</concepto>
+  </conceptos>
+</metadata>

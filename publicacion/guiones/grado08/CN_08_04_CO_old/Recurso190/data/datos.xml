@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="102" clase="ab" aprid="M102ab">
+  <plataforma>
+    <grado>2</grado>
+    <titulo>Competencias: relación de la reproducción con los seres vivos</titulo>
+    <volumen />
+    <nivel>2</nivel>
+    <referencia />
+    <motor />
+    <lang>es</lang>
+  </plataforma>
+  <calc>0</calc>
+  <textoupload />
+  <enunciado><![CDATA[Realiza la siguiente actividad. Cuando termines, envíala para que pueda ser validada.]]></enunciado>
+  <masinfo inicio="0" />
+  <adjunto>Principal.html</adjunto>
+  <url />
+  <amano>0</amano>
+</motor>

@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Alternancia de generaciones</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css"> 
+
+        <script src="extlib/createjs/2013_12_12/createjs-min.js"></script>
+        <script src="extlib/createjs/2013_12_12/movieclip-0-7-1-min.js"></script>
+        <script src="js/principal.js"></script>
+        <script src="extlib/createjs/2013_12_12/zoom.js"></script>
+
+        <script>
+            var canvas, stage, exportRoot, incremento,popupon;
+            window.onresize = function ()
+            {
+                onResize();
+            }
+           
+            function init() {
+                canvas = document.getElementById("canvas");
+                images = images || {};
+                if (navigator.userAgent.toLowerCase().indexOf("firefox") == -1)
+                    incremento = 0;
+                else
+                    incremento = 4;
+                var manifest = [
+               
+		{src:"images/_000TT901.jpg", id:"_000TT901"},
+		{src:"images/_0012EX01.jpg", id:"_0012EX01"},
+		{src:"images/_0016G701.jpg", id:"_0016G701"},
+		{src:"images/_001Q2401.jpg", id:"_001Q2401"},
+		{src:"images/_0028LZ01.jpg", id:"_0028LZ01"},
+		{src:"images/Capa1.png", id:"Capa1"},
+		{src:"images/Capa1_1.png", id:"Capa1_1"},
+		{src:"images/Capa1copia.png", id:"Capa1copia"},
+		{src:"images/Capa10.png", id:"Capa10"},
+		{src:"images/Capa10_1.png", id:"Capa10_1"},
+		{src:"images/Capa11.png", id:"Capa11"},
+		{src:"images/Capa11_1.png", id:"Capa11_1"},
+		{src:"images/Capa3.png", id:"Capa3"},
+		{src:"images/Capa5.png", id:"Capa5"},
+		{src:"images/Capa5_1.png", id:"Capa5_1"},
+		{src:"images/Capa5_2.png", id:"Capa5_2"},
+		{src:"images/Capa6.png", id:"Capa6"},
+		{src:"images/Capa6_1.png", id:"Capa6_1"},
+		{src:"images/Capa6_2.png", id:"Capa6_2"},
+		{src:"images/Capa6_3.png", id:"Capa6_3"},
+		{src:"images/Capa6_4.png", id:"Capa6_4"},
+		{src:"images/Capa6_0.png", id:"Capa6_0"},
+		{src:"images/Capa6_0_1.png", id:"Capa6_0_1"},
+		{src:"images/Capa6_0_2.png", id:"Capa6_0_2"},
+		{src:"images/Capa7.png", id:"Capa7"},
+		{src:"images/Capa7_1.png", id:"Capa7_1"},
+		{src:"images/Capa7_2.png", id:"Capa7_2"},
+		{src:"images/Capa7_3.png", id:"Capa7_3"},
+		{src:"images/Capa7_4.png", id:"Capa7_4"},
+		{src:"images/Capa8.png", id:"Capa8"},
+		{src:"images/Capa8_1.png", id:"Capa8_1"},
+		{src:"images/Capa8_2.png", id:"Capa8_2"},
+		{src:"images/Capa9.png", id:"Capa9"},
+		{src:"images/Capa9_1.png", id:"Capa9_1"},
+		{src:"images/ImatgeGuia.png", id:"ImatgeGuia"},
+                ];
+
+                var loader = new createjs.LoadQueue(false);
+                loader.addEventListener("fileload", handleFileLoad);
+                loader.addEventListener("complete", handleComplete);
+                loader.loadManifest(manifest);
+                loadXML();
+            }
+
+            function handleFileLoad(evt) {
+                if (evt.item.type == "image") {
+                    images[evt.item.id] = evt.result;
+                }
+            }
+            function putStage(myStage) {
+
+                if (exportRoot) {
+                    exportRoot.removeAllChildren();
+                }
+                exportRoot = myStage;
+                stage = new createjs.Stage(canvas);
+                stage.clear();
+                createjs.Ticker.removeAllEventListeners();
+                stage.autoClear = true; // This must be true to clear the stage.
+                stage.removeAllChildren();
+
+                stage.addChild(exportRoot);
+                stage.update();
+                stage.enableMouseOver();
+                onResize();
+                createjs.Ticker.setFPS(24);
+                createjs.Ticker.addEventListener("tick", stage);
+            }
+            function handleComplete() {
+                var child = document.getElementById("loading");
+                if (child != null)
+                    child.parentNode.removeChild(child);
+                putStage(new lib.frame1())
+
+            }
+            function loadXML() {
+                xmlhttp = new XMLHttpRequest();
+                xmlhttp.open("GET", "data/datos.xml", false);
+                xmlhttp.send();
+                xmlDoc = xmlhttp.responseXML;
+                x = xmlDoc.getElementsByTagName("XMLDatos")[0].childNodes;
+                y = xmlDoc.getElementsByTagName("XMLDatos")[0].firstChild;
+                for (i = 0; i < x.length; i++)
+                {
+                    if (y.nodeType == 1)
+                    {//Process only element nodes (type 1)
+                        j = xmlDoc.getElementsByTagName(y.nodeName)[0].childNodes[0]
+                        textos[y.nodeName] = j.nodeValue;
+                    }
+                    y = y.nextSibling;
+                }
+            }
+        </script>
+    </head>
+
+    <body onload="init();" onorientationchange="onResize();" style="background-color:#FFFFFF" ><div id="loading" align="center" style="position: absolute;top:50%;left:50%;width:400px;margin-left:-200px;height:300px;margin-top:-150px;" ><img src="images/status.gif"/></div>
+        <canvas id="canvas" width="950" height="608" style="background-color:transparent"></canvas>
+    </body>
+</html>

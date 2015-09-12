@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-F986BC3B30FB4033A9D04A18C3E6215B</identificador>
+  <loid>CN_06_12_CO_Recurso140</loid>
+  <titulo>La energía geotérmica</titulo>
+  <descripcion>Animación que muestra el proceso de obtención de electricidad en una central geotérmica</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso con ficha</tiporecurso>
+  <tiempoestimado>20</tiempoestimado>
+  <acciondidactica>Exposición</acciondidactica>
+  <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
+  <tipomedia pesado="true" matricula="AN001013_CO">Animación</tipomedia>
+  <conceptos>
+    <concepto>alternativas</concepto>
+    <concepto>electricidad</concepto>
+    <concepto>energía</concepto>
+    <concepto>generador</concepto>
+    <concepto>geotérmica</concepto>
+    <concepto>renovable</concepto>
+    <concepto>turbina</concepto>
+    <concepto>vapor</concepto>
+  </conceptos>
+</metadata>

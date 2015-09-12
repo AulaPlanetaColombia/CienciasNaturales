@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="101" clase="a" aprid="M101a">
+  <plataforma>
+    <grado><![CDATA[1]]></grado>
+    <titulo>Refuerza tu aprendizaje: ¿Qué es la energía?</titulo>
+    <area>1</area>
+    <nivel>2</nivel>
+    <referencia><![CDATA[MN_3C_19]]></referencia>
+    <idreg><![CDATA[4650]]></idreg>
+    <motor><![CDATA[M101A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Realiza la siguiente actividad. Al terminar haz clic en Enviar. Si es necesario, entrega las respuestas en mano o por email a tu profesor para su evaluación.]]></enunciado>
+  <masinfo inicio="0" />
+  <calc><![CDATA[0]]></calc>
+  <preguntas cantidad="5">
+    <pregunta>
+      <enunciado><![CDATA[Describe una situación de tu día a día que puedas realizar gracias a la energía.]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[1]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Describe dos ejemplos que reprensenten la transformación de energía.]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[1]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Identifica las propiedades de la energía que observas en esta imagen.]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[2]]></nivel>
+      <tipo />
+      <imagen><![CDATA[MN_3C_19_16_T1_img1_small.jpg]]></imagen>
+      <ampliacion><![CDATA[MN_3C_19_16_T1_img1_zoom.jpg]]></ampliacion>
+      <texto />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Investiga y escribe las diferencias entre cambios físicos y cambios químicos en la materia.]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[2]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Menciona un cambio físico en la materia que pueda producir la energía.]]></enunciado>
+      <explicacion />
+      <nivel><![CDATA[1]]></nivel>
+      <tipo />
+      <imagen />
+      <ampliacion />
+      <texto />
+    </pregunta>
+  </preguntas>
+  <temps>30</temps>
+</motor>

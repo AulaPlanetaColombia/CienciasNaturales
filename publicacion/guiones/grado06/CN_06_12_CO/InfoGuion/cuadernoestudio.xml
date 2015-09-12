@@ -1,0 +1,677 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
+<!--Arbortext, Inc., 1988-2013, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<libro id="CN_06_12_CO">
+<libroTitulo>Fuentes de energía y su transformación</libroTitulo>
+<seccion1 id="S1_CN_06_12_CO_907757CC59C340DCB7B031AD92D9C59D">
+<seccion1Titulo>Fuentes de energía y su transformación</seccion1Titulo>
+<seccion1Texto>
+<p>La energía es aquello que provoca cambios físicos y químicos en
+la materia, y también lo que nos permite poner un cuerpo en movimiento.</p>
+<imagen src="CN_06_12_CO_img_01_small.jpg">
+<p>Observa las diferentes formas de energía que se encuentran en la
+imagen. Recuerda que las plantas, por medio de la fotosíntesis, transforman
+la energía del Sol en energía química. Al consumir estos vegetales,
+obtenemos esta energía y la aprovechamos para realizar las funciones
+que sostienen nuestra vida. </p>
+</imagen>
+<p>Pie de imagen	Observa las diferentes formas de energía que se encuentran
+en la imagen. Recuerda que las plantas, por medio de la fotosíntesis,
+transforman la energía del Sol en energía química. Al consumir estos
+vegetales, obtenemos esta energía y la aprovechamos para realizar
+las funciones que sostienen nuestra vida.  En nuestro caso, los alimentos
+que tomamos nos proporcionan energía para realizar las actividades
+diarias como caminar, jugar, estudiar, hacer deporte. </p>
+<imagen src="CN_06_12_CO_img_02_small.jpg">
+<p>Los alimentos que se consumen producen la energía necesaria para
+poder escalar una montaña, debido a que la energía química de los
+alimentos se transforma en energía mecánica en el cuerpo humano. </p>
+</imagen>
+<p>También los medios de transporte en los que viajas necesitan energía
+para funcionar, la cual obtienen de los combustibles. </p>
+<imagen src="CN_06_12_CO_img_03_small.jpg">
+<p>Debido a que las reservas de los combustibles fósiles se están
+agotando, el ser humano ha tenido la necesidad de encontrar nuevas
+formas de energía que permitan resolver la demanda de gasolina. Algunos
+automóviles aprovechan la energía eléctrica para su funcionamiento.</p>
+</imagen>
+<destacado><destacadoTitulo>La energía</destacadoTitulo><destacadoTexto>
+<p>La energía del Sol calienta e ilumina la Tierra, y permite el crecimiento
+de todos los seres vivos. La energía de la luz del Sol juega un papel
+importante en la producción del alimento en las plantas en el proceso
+conocido como fotosíntesis. La energía del Sol termina almacenada,
+como energía química, en los enlaces de los compuestos que se forman
+en este proceso.  </p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_06_12_CO_Recurso010&amp;IdRecurso=RES-BE1AC1DDA47C460292FAAC0128C9CAC1"
+>La evolución histórica de las fuentes de energía</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_06_12_CO_Recurso020&amp;IdRecurso=RES-88AF1CA19B0F4D5A859913B49A191A26"
+>Refuerza tu aprendizaje: ¿Qué es la energía?</enlace>
+</practica><seccion2
+id="S2_CN_06_12_CO_D3D2900C19D6467DAF2D9E251879CDE4">
+<seccion2Titulo>Características de la Energía</seccion2Titulo>
+<seccion2Texto>
+<p>La energía tiene <negrita>propiedades</negrita> que los humanos
+aprovechan en numerosos dispositivos y máquinas para realizar diversas
+actividades:</p>
+<listaSinNumerar>
+<listaElemento><negrita>La energía se conserva</negrita>: la energía
+no aparece de la nada ni desaparece. En toda transformación, la energía
+que pierde un cuerpo, la gana otro. Esta es una ley general que se
+conoce como <negrita>Principio de conservación de la energía</negrita
+>. La energía puede cambiar de una forma a otra, pero la cantidad
+total se mantiene.</listaElemento>
+<listaElemento><negrita>La energía se transforma</negrita>: una forma
+de energía se puede convertir en otra. Por ejemplo, la energía eléctrica
+se transforma en energía térmica en un secador de cabello. “La energía
+no se crea ni se destruye, sino que se transforma”.</listaElemento>
+</listaSinNumerar>
+<imagen src="CN_06_12_CO_img_04_small.jpg">
+<p>Observa la imagen. Piensa cómo se transforma la energía eléctrica
+en energía térmica en un secador de cabello.</p>
+</imagen>
+<listaSinNumerar>
+<listaElemento><negrita>La energía se transfiere</negrita>: la energía
+puede pasar de un cuerpo a otro. Esto se conoce como <negrita>transferencia
+de energía</negrita> y puede ocurrir de dos formas: como <negrita
+>calor</negrita> o como <negrita>trabajo</negrita>. El gas que arde
+en el fogón de la cocina transfiere calor a una vasija con agua. La
+gasolina que arde en el motor de un carro transfiere trabajo a las
+ruedas haciendo que se desplace. El calor y el trabajo son energía
+en movimiento. </listaElemento>
+</listaSinNumerar>
+<imagen src="CN_06_12_CO_img_05_small.jpg">
+<p>La energía se transfiere como calor producido por la llama a las
+ollas que se ponen sobre el fogón, de allí esta se transfiere a los
+alimentos que se encuentran dentro del recipiente.</p>
+</imagen>
+<listaSinNumerar>
+<listaElemento>La energía se almacena: la energía se puede almacenar
+para utilizarse después, como ocurre con las pilas de los celulares
+o las baterías de los carros, o con la energía química almacenada
+en las sustancias que producen las plantas al realizar la fotosíntesis.</listaElemento>
+</listaSinNumerar>
+<imagen src="CN_06_12_CO_img_06_small.jpg">
+<p>La energía se almacena en baterías y es utilizada en el sistema
+eléctrico de los carros. La cantidad de energía de una batería es
+limitada, por lo que debe recargarse o reemplazarse. Se dice que las
+cosas tienen energía si permiten realizar trabajo; en este caso, una
+batería cargada dispone de la energía para poner un carro en movimiento.</p>
+</imagen>
+<listaSinNumerar>
+<listaElemento><negrita>La energía se degrada</negrita>: en todos
+los procesos la energía puede transformarse en otra forma de energía.
+Sin embargo, parte de esta energía puede disiparse en forma de calor,
+esto significa que la energía se degrada. </listaElemento>
+</listaSinNumerar>
+<imagen src="CN_06_12_CO_img_07_small.jpg">
+<p>La energía eléctrica se transforma en luz pero parte de esta energía
+se disipa en forma de calor.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>La <negrita> energía</negrita> es aquello que provoca cambios físicos
+y químicos en la materia, y también lo que nos permite poner un cuerpo
+en movimiento. </p>
+</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
+id="S2_CN_06_12_CO_23959E152FDC421AA42C36F07CADFDFC">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_06_12_CO_Recurso030&amp;IdRecurso=RES-A53FB4D8B34E407AA9E45A4017605074"
+>Características de la energía</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_06_12_CO_C7942F319FC546938CEC3AA4A88AD55D">
+<seccion1Titulo>Tipos de energía</seccion1Titulo>
+<seccion1Texto>
+<p>Conocer la energía y de dónde se obtiene es esencial para que sepamos
+hacer un buen uso de ella. </p>
+<p>La energía se manifiesta de distintas formas según la posición,
+el movimiento, la temperatura, la masa o la composición de los cuerpos,
+entre otras. De acuerdo con esto, podemos distinguir diversos tipos
+de energía: <negrita>energía mecánica, eléctrica, térmica, química
+y nuclear</negrita>.</p>
+<imagen src="CN_06_12_CO_img_08_small.jpg">
+<p>Si observas la imagen podrás advertir varios tipos de energía,
+los cuales son generados a partir la energía mecánica que contiene
+el río debido al movimiento del agua.</p>
+</imagen>
+<seccion2 id="S2_CN_06_12_CO_27F4EA94DE044BF19AFA192A563D3949">
+<seccion2Titulo>La energía mecánica</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>energía mecánica</negrita> es aquella que tiene un
+cuerpo de acuerdo con el estado inercial.  </p>
+<p>Se entiende por <negrita>inercia</negrita> la tendencia de un cuerpo
+a permanecer en el estado de reposo o movimiento en el cual se encuentra.
+De acuerdo con lo anterior, la energía mecánica se puede subdividir
+en energía <negrita>cinética y potencial</negrita>. </p>
+<seccion3 id="S3_CN_06_12_CO_8BE4FABA24BB4A86900C2ACE267970DC">
+<seccion3Titulo>Energía cinética</seccion3Titulo>
+<seccion3Texto>
+<p>La energía cinética es aquella que tiene un cuerpo en movimiento.
+Esta energía es directamente proporcional a dos factores: a la masa
+del cuerpo que se mueve y a la velocidad con la cual se mueve. Todos
+los cuerpos en movimiento, desde el más lento hasta el más rápido
+tienen energía cinética.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_06_12_CO_CCD8B8B3D304467C974BB5F17F7C2503">
+<seccion3Titulo>Energía potencial</seccion3Titulo>
+<seccion3Texto>
+<p>La energía potencial es aquella que tiene un cuerpo debido a su
+posición, con respecto a un sistema de referencia. La energía potencial
+de un cuerpo es directamente proporcional a la masa del mismo y a
+la altura a la cual se encuentre. A mayor altura, mayor es la energía
+potencial. Por esto, la energía potencial de un clavadista es mayor
+cuanto más distante se encuentre del agua. En cuanto se lanza y empieza
+a descender, su energía potencial decrece. </p>
+<imagen src="CN_06_12_CO_img_09_small.jpg">
+<p>El recorrido de un carrito en la montaña rusa alterna su energía
+entre la potencial y la cinética, esto obedece a que la energía mecánica
+se conserva en el recorrido pues es la suma de la energía potencial
+y la cinética.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_06_12_CO_2C1FECB1F3C443C281F0020060EC1F80">
+<seccion3Titulo>Conservación de la energía mecánica</seccion3Titulo>
+<seccion3Texto>
+<p>En un sistema ideal, donde no existan fuerzas de rozamiento, la
+energía mecánica se conserva y, por tanto, la energía potencial puede
+transformarse en cinética y viceversa. Al caer un cuerpo, la energía
+potencial disminuye y aumenta la cinética, manteniéndose el valor
+total de la energía mecánica.</p>
+<destacado><destacadoTitulo>La energía mecánica</destacadoTitulo>
+<destacadoTexto>
+<p>La energía mecánica está formada por la suma de la energía cinética
+y la energía potencial. Si se consiguiera un sistema en el que no
+existieran pérdidas de energía, una de ellas proporcionaría energía
+a la otra, es decir, se retroalimentaría de forma autónoma.  </p>
+<p>Energía Mecánica = Energía Potencial + Energía Cinética </p>
+<p><negrita>EM = EP + EC</negrita></p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_06_12_CO_Recurso040&amp;IdRecurso=RES-B6003481F84E4ACCAC140448715070AE"
+>La energía potencial y cinética</enlace>
+</profundiza></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CN_06_12_CO_F23C953FFFDA49B986163A7283BD2F20">
+<seccion2Titulo>La energía eléctrica</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>energía eléctrica</negrita> es una de las formas de
+energía más empleadas en la actualidad. Si miras a tu alrededor podrás
+darte cuenta de cómo depende tu vida de la energía eléctrica. Con
+ella funcionan los electrodomésticos y gran parte de la iluminación
+en las casas y los edificios. </p>
+<imagen src="CN_06_12_CO_img_10_small.jpg">
+<p>Los <negrita>rayos</negrita> que se producen durante una tormenta
+son una manifestación de la energía eléctrica en la naturaleza. Estas
+descargas se producen entre dos nubes o entre una nube y la tierra.
+Aquí la descarga se hace a través de un pararrayo.</p>
+</imagen>
+<p>Existen diversas formas de generar energía eléctrica, por ejemplo
+a partir del movimiento del agua (hidroeléctrica) o del calor del
+agua (geotérmica). En el siguiente enlace encontrarás una explicación
+detallada del funcionamiento de una termoeléctrica que transforma
+la energía potencial y cinética del agua en energía eléctrica. <enlace
+destino="https://www.youtube.com/watch?v=9qhx6Y9u14g">[VER]</enlace
+> </p>
+<seccion3 id="S3_CN_06_12_CO_10E62F39D9BD4564B00501ECD04CEC33">
+<seccion3Titulo>Qué es la electricidad</seccion3Titulo>
+<seccion3Texto>
+<p>Cuando enciendes la televisión, “la electricidad” que pasa a través
+del cable es en realidad un flujo de cargas negativas (electrones).
+El flujo de electrones se conoce como <negrita>corriente eléctrica</negrita
+>. </p>
+<p><negrita>La electricidad</negrita> es una forma de energía que
+se manifiesta en la naturaleza, debido a la estructura de la materia. </p>
+<p>La materia está constituida por <negrita>partículas</negrita> con
+cargas <negrita>positivas y negativas</negrita>, las cuales tienden
+a mantenerse en equilibrio, es decir, el número de cargas positivas
+(protones) se hace igual al número de cargas negativas (electrones).</p>
+<imagen src="CN_06_12_CO_img_11_small.jpg">
+<p>El número de electrones —cargas negativas— es igual al número de
+protones —cargas positivas—.</p>
+</imagen>
+<destacado><destacadoTitulo>DESTACADO</destacadoTitulo><destacadoTexto>
+<p>La materia está formada por átomos. Los átomos están constituidos
+por tres partículas fundamentales: protón, electrón y neutrón. El
+protón tiene carga eléctrica positiva y el electrón carga eléctrica
+negativa. El neutrón no tiene carga eléctrica. Los protones y neutrones
+se hallan en el núcleo y los electrones giran alrededor de este. Se
+podría decir que los electrones se mantienen volando alrededor del
+núcleo como una mosca alrededor de una fruta madura. </p>
+</destacadoTexto></destacado>
+<p>Si te peinas en un día seco, puedes observar que el cabello se
+separa y es atraído por el peine, esto se debe a la carga que adquiere
+al pasar el peine. Cuando los materiales se comportan así, decimos
+que se han cargado eléctricamente.  </p>
+<p>Un globo o un saco de lana son cuerpos neutros, pero adquieren
+carga positiva o negativa si se frotan. Cuando un objeto resulta cargado
+porque ha adquirido cargas positivas o negativas, estas no se han
+creado, simplemente se han movido de un cuerpo a otro.  </p>
+<p><negrita>La carga eléctrica</negrita> es una propiedad de la materia
+que hace que dos cuerpos se atraigan o se rechacen entre sí. Cargas
+eléctricas del mismo signo se repelen y cargas eléctricas de signo
+contrario se atraen. Por esta razón, en el ejemplo arriba citado,
+el peine atrae al cabello. </p>
+<p>En algunos materiales, los electrones más alejados del núcleo se
+hallan débilmente atraídos por los protones y pueden saltar de un
+átomo a otro. </p>
+<p>El átomo que pierde electrones adquiere <negrita>carga eléctrica
+positiva (+)</negrita> y el que los recibe, al tener un exceso de
+electrones, tiene <negrita>carga eléctrica negativa (–)</negrita>.
+Por tanto, para adquirir carga eléctrica, los átomos tienen que ganar
+o perder electrones.  </p>
+<p>A diario puedes experimentar la transferencia de carga entre los
+objetos. Por ejemplo, cuando caminas y las suelas de tus zapatos rozan
+el tapete, estas adquieren cargas negativas (electrones) mientras
+el tapete, cargas positivas. De la misma manera como los cuerpos adquieren
+carga también la pierden, fácilmente. </p>
+<p>En el siguiente enlace puedes ampliar tus conocimientos relacionados
+con las cargas eléctricas <enlace
+destino="https://www.youtube.com/watch?v=ZOVu54vfxGg">[VER]</enlace
+></p>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CN_06_12_CO_6F9F7A7C6A4B453DA12BE4D58204704B">
+<seccion2Titulo>La energía térmica</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>energía térmica</negrita> o <negrita>calórica</negrita
+> es la que desprenden los cuerpos en forma de calor. Pasa de los
+cuerpos de mayor que tienen mayor a los de menor temperatura. Por
+ejemplo, una estufa transmite energía térmica. </p>
+<destacado><destacadoTitulo>DESTACADO</destacadoTitulo><destacadoTexto>
+<p>La energía térmica está asociada a los movimientos de las partículas
+que constituyen la materia. Un cuerpo tiene más energía térmica cuanto
+mayor es su temperatura.</p>
+</destacadoTexto></destacado><seccion3
+id="S3_CN_06_12_CO_991F4D715FE24306960083A6BBD3A4DF">
+<seccion3Titulo>El calor y la temperatura</seccion3Titulo>
+<seccion3Texto>
+<p>El <negrita>calor</negrita> es la energía térmica que puede pasar
+de un cuerpo a otro. Se transfiere del que tiene mayor temperatura
+al de menor temperatura, es energía en movimiento. Se mide en julios
+(J). </p>
+<p>La <negrita>temperatura</negrita> es una propiedad de la materia
+que indica la cantidad de energía cinética promedio de las partículas
+de un cuerpo. Se mide en grados centígrados (°C), en Kelvin (K) o
+grados Fahrenheit (°F).</p>
+<imagen src="CN_06_12_CO_img_12_small.jpg">
+<p>Observa la comparación de diferentes escalas de temperatura. Todas
+las escalas utilizan el punto de fusión y el punto de ebullición del
+agua para relacionar los sistemas utilizados para la medición de la
+temperatura. Estos son: Celsius (Cº), Kelvin (K) y Fahrenheit (ºF). </p>
+</imagen>
+<p>Los grados centígrados se utilizan para medir la temperatura de
+sucesos cotidianos, por ejemplo, la temperatura ambiente, la del cuerpo
+humano, la de un horno doméstico. La temperatura en Kelvin se utiliza
+para realizar trabajos científicos y tecnológicos.</p>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CN_06_12_CO_0FE1086D1E184EF1BB998E8DC4FE3813">
+<seccion2Titulo>La energía química</seccion2Titulo>
+<seccion2Texto>
+<p>Esta energía se manifiesta en las reacciones químicas y muchas
+de ellas se producen en los procesos que mantienen la vida de los
+seres. Por ejemplo, mediante el proceso de respiración celular muchos
+seres vivos obtienen la energía química contenida en el alimento.
+En este caso el oxígeno se combina con la glucosa y de esta manera
+se libera la energía almacenada en sus enlaces. En el proceso de fotosíntesis,
+en cambio, las plantas usan la energía de la luz del Sol. En el enlace
+encontrarás una explicación del proceso de transformación de energía
+solar en química <enlace
+destino="https://www.youtube.com/watch?v=KPFRz7pnprQ">[VER]</enlace
+> </p>
+<p>Un automóvil funciona gracias a la energía química del combustible,
+la cual se manifiesta al quemarse el combustible en el motor. La combustión
+permite aprovechar la energía contenida en la gasolina con la que
+funciona un carro.  </p>
+<p>En las pilas y las baterías se almacena energía química que se
+transforma en energía eléctrica para hacer funcionar distintos aparatos.
+En el siguiente enlace encontrarás un experimento sencillo para hacer
+una curiosa pila con limones <enlace
+destino="http://www.youtube.com/watch?v=XtHt00AN0pU">[VER]</enlace
+>.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CN_06_12_CO_D4E71F4707C7493CA81EB062AAFE247F">
+<seccion2Titulo>La energía nuclear</seccion2Titulo>
+<seccion2Texto>
+<p>La energía nuclear es la almacenada en el núcleo de algunos átomos
+como el uranio o el plutonio, y se manifiesta en las <negrita>reacciones
+nucleares</negrita> denominadas fisión y fusión.</p>
+<seccion3 id="S3_CN_06_12_CO_F6751435E6A348E29962060EF83E3130">
+<seccion3Titulo>La fisión nuclear</seccion3Titulo>
+<seccion3Texto>
+<p>Es el proceso mediante el cual el núcleo de un átomo grande, como
+el de uranio, se desintegra dividiéndose en dos más pequeños y liberando
+una gran cantidad de energía. Este proceso se lleva a cabo de forma
+controlada en las centrales nucleares productoras de electricidad. </p>
+<imagen src="CN_06_12_CO_img_13_small.jpg">
+<p>Rompimiento del núcleo de un átomo por el bombardeo con neutrones.
+Este proceso se denomina fisión nuclear.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_06_12_CO_748F3E755B2C479082F1D68C428B7E63">
+<seccion3Titulo>La fusión nuclear</seccion3Titulo>
+<seccion3Texto>
+<p>Es el proceso mediante el cual los núcleos de dos átomos pequeños
+se unen para formar uno más pesado. La energía del Sol proviene de
+la fusión de átomos de hidrógeno en su interior para convertirse en
+helio. </p>
+<imagen src="CN_06_12_CO_img_14_small.jpg">
+<p>La formación de un núcleo complejo a partir de núcleos sencillos
+es el proceso denominado fusión nuclear. Mediante este método se obtiene
+una gran cantidad de energía calórica que luego se puede transformar
+en energía eléctrica.</p>
+</imagen>
+<p>En el siguiente link encontrarás el funcionamiento de una planta
+nuclear y su proceso de transformación en energía eléctrica <enlace
+destino="https://www.youtube.com/watch?v=vl6A0igOw7o">[VER]</enlace
+></p>
+<destacado><destacadoTitulo>Reacciones nucleares</destacadoTitulo>
+<destacadoTexto>
+<p>La fisión es el proceso mediante el cual el núcleo de un átomo
+grande se desintegra dividiéndose en dos más pequeños y liberando
+una gran cantidad de energía.  </p>
+<p>La fusión nuclear es el proceso mediante el cual los núcleos de
+dos átomos pequeños se unen para formar uno más pesado. </p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_06_12_CO_Recurso050&amp;IdRecurso=RES-8133AA6FBF5C445DB5BD47F30F6236F2"
+>La energía nuclear</enlace>
+</profundiza></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CN_06_12_CO_0FE1086D1E184EF1BB998E8DC4FE3914">
+<seccion2Titulo>Consolidación </seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_06_12_CO_Recurso060&amp;IdRecurso=RES-E44FB7DEE1F54AADAC3F3B49FAB77209"
+>La energía: tipos y origen</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_06_12_CO_Recurso070&amp;IdRecurso=RES-E37A14E27EB14EF49FBA4183D3C2D0FB"
+>Define los tipos de energía</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_06_12_CO_Recurso080&amp;IdRecurso=RES-E3EE73B49DC7401C960309D3ECE5C525"
+>Refuerza tu aprendizaje: La energía eléctrica</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_06_12_CO_41CFADFC68CA4065A793A17CCB3AB716">
+<seccion1Titulo>Fuentes de energía</seccion1Titulo>
+<seccion1Texto>
+<p>La mayor parte de la energía que usamos en la Tierra proviene del
+Sol. La energía del Sol nos calienta, forma el viento, permite la
+fotosíntesis, e hizo posible la formación de petróleo en nuestro planeta.
+Las <negrita>fuentes de energía</negrita> son los recursos naturales
+a partir de los cuales obtenemos energía. </p>
+<p>Las fuentes de energía se clasifican en <negrita>renovables</negrita
+> y <negrita>no renovables</negrita>.</p>
+<imagen src="CN_06_12_CO_img_15_small.jpg">
+<p>Observa diferentes fuentes de energía utilizadas por el ser humano.
+Obtenemos energía a partir del viento, de las caídas de agua, de las
+mareas, del calor del Sol, de los materiales radiactivos, de fuentes
+termales, o por combustión de petróleo o biomasas.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_06_12_CO_Recurso090&amp;IdRecurso=RES-634812D06F9140BABA60B93D67B58111"
+>Identifica las fuentes de energía</enlace>
+</practica><seccion2
+id="S2_CN_06_12_CO_D9F59A497C664EC4945A5A7EACF3AD35">
+<seccion2Titulo>Las fuentes de energía renovables</seccion2Titulo>
+<seccion2Texto>
+<p>Las fuentes de energía renovables son aquellas que no se agotan
+o que se regeneran de forma natural; se consideran limpias o no contaminantes
+porque causan un impacto ambiental mínimo. </p>
+<p>Algunas de las fuentes de energía renovables son: la solar, la
+eólica, la hidráulica, la geotérmica y la biomasa, las cuales han
+sido utilizadas por el hombre a través de la historia.</p>
+<imagen src="CN_06_12_CO_img_16_small.jpg">
+<p>Son <negrita>energías renovables</negrita> son la hidráulica, la
+solar, la eólica, la geotérmica, la de biomasa y la mareomotriz. </p>
+</imagen>
+<seccion3 id="S3_CN_06_12_CO_9EE9742733714692A2B992505429058E">
+<seccion3Titulo>La energía solar</seccion3Titulo>
+<seccion3Texto>
+<p>La energía solar es la producida por el Sol, que es la fuente natural
+más importante para la transformación de todas las otras formas de
+energía en la Tierra. Esta llega en forma de energía radiante.  </p>
+<p>La energía solar es utilizada por todos los seres vivos en nuestro
+planeta, las plantas y algas la transforman en energía química durante
+el proceso de la fotosíntesis.</p>
+<imagen src="CN_06_12_CO_img_17_small.jpg">
+<p>En algunos hogares se utiliza la energía solar para calentar el
+ambiente y el agua para las duchas, y así sustituir o ahorrar la energía
+eléctrica que se genera en las hidroeléctricas y que tiene mayor impacto
+ambiental.</p>
+</imagen>
+<p>La <negrita>energía lumínica</negrita>: la luz del Sol nos permite
+ver durante el día y activa ciertas reacciones químicas en nuestros
+cuerpos. Las plantas la utilizan para producir su alimento. Los seres
+humanos la aprovechamos también para producir electricidad mediante <negrita
+>placas fotovoltaicas</negrita>.  La <negrita>energía térmica</negrita
+>: los rayos del Sol calientan la superficie terrestre y proporcionan
+el calor necesario para que se desarrolle la vida en la Tierra. Los
+humanos aprovechamos la energía térmica de hornos y cocinas solares
+y de los  <negrita>calentadores solares</negrita> de agua. </p>
+<recuerda><recuerdaTexto>
+<p>El Sol es la fuente de energía más importante para la Tierra, ya
+que sin su presencia no se darían otros tipos de energía y, por tanto,
+no existiría la vida en el planeta. La energía que procede del Sol
+se denomina <negrita>energía solar</negrita> y le proporciona a la
+Tierra energías lumínica y térmica, es decir, luz y calor.</p>
+</recuerdaTexto></recuerda><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_06_12_CO_Recurso100&amp;IdRecurso=RES-E0267C882E3B4F92A5E3A2D6CABAAC18"
+>La energía solar</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_06_12_CO_Recurso110&amp;IdRecurso=RES-CDE0F7473B6544F3A6B2469D912FD392"
+>Conoce la energía solar</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_CN_06_12_CO_04173CFDB0F24494AE3623573D0C2603">
+<seccion3Titulo>La energía eólica</seccion3Titulo>
+<seccion3Texto>
+<p>La energía eólica es la producida por el movimiento del aire en
+la atmósfera. Este movimiento se produce por el calentamiento desigual
+de las masas de aire, lo que hace que estas se desplacen de un punto
+a otro y originen los vientos.  </p>
+<p>La energía eólica aprovecha la energía cinética del viento y la
+transforma en <negrita>energía eléctrica </negrita>al mover las aspas
+de los <negrita>molinos</negrita>.</p>
+<imagen src="CN_06_12_CO_img_18_small.jpg">
+<p>Los <negrita>aerogeneradores</negrita> transforman la energía eólica
+o del viento en energía eléctrica. Se agrupan en <negrita>parques</negrita
+> o <negrita>centrales eólicas</negrita>.</p>
+</imagen>
+<p>La energía eólica no contamina y es inagotable, pero tiene como
+inconveniente que depende de las ráfagas de viento, que no son constantes.
+Además, los aerogeneradores provocan un gran impacto visual y, por
+la altura que alcanzan, pueden interferir en las rutas migratorias
+de las aves. </p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_06_12_CO_Recurso120&amp;IdRecurso=RES-B7EE53E046674AB796DE7D8F7E1B9F23"
+>La energía eólica</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_06_12_CO_Recurso130&amp;IdRecurso=RES-80AD8BD9E6744B4EB348FE0014006F38"
+>Conoce la energía eólica</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_CN_06_12_CO_FB5156FA8FC349DD84BCD1C2A84B7C7E">
+<seccion3Titulo>La energía hidráulica</seccion3Titulo>
+<seccion3Texto>
+<p>La energía hidráulica es la que se obtiene por el aprovechamiento
+de las energías cinética y potencial del agua, como la existente en
+las corrientes y en los embalses. Se puede transformar a diferentes
+escalas, sin embargo, la utilización más común es la transformación
+en energía eléctrica a través de la central hidroeléctrica.</p>
+<imagen src="CN_06_12_CO_img_19_small.jpg">
+<p>La energía del agua se transforma en eléctrica en las centrales
+hidroeléctricas. Esta es utilizada para el funcionamiento de los equipos
+eléctricos que usamos diariamente.</p>
+</imagen>
+<p>En el siguiente enlace encontrarás una explicación detallada del
+funcionamiento de una hidroeléctrica <enlace
+destino="https://www.youtube.com/watch?v=MIlBmQzVGVs">[VER]</enlace
+></p>
+<destacado><destacadoTitulo>La energía hidráulica</destacadoTitulo>
+<destacadoTexto>
+<p>La energía hidráulica es considerada una fuente de energía renovable;
+sin embargo, la construcción de las hidroeléctricas trae como consecuencia
+el deterioro de los ecosistemas por la desviación de los cauces de
+los ríos, la erosión de los suelos, la alteración de los ritmos de
+vida acuática y terrestre, y el desplazamiento de poblaciones y comunidades. <enlace
+destino="https://youtu.be/vJ6auERm-WU">[VER]</enlace></p>
+</destacadoTexto></destacado></seccion3Texto></seccion3><seccion3
+id="S3_CN_06_12_CO_9A1A926B79A7450DB24363CBDB253224">
+<seccion3Titulo>La energía geotérmica</seccion3Titulo>
+<seccion3Texto>
+<p>La <negrita>energía geotérmica</negrita> es aquella que se obtiene
+mediante el aprovechamiento del <negrita>calor</negrita> del interior
+de la Tierra. </p>
+<p>La temperatura al interior de la Tierra aumenta con la profundidad.
+A diferentes profundidades existen <negrita>reservorios</negrita> de
+agua conocidos como capas <negrita>freáticas</negrita> o <negrita
+>acuíferos</negrita>, en las que el agua puede estar muy caliente. </p>
+<p>La presión generada por el vapor de agua que asciende origina géiseres
+y aguas termales en la superficie. Si el reservorio tiene una alta
+temperatura el vapor puede ser utilizado para la generación de corriente
+eléctrica.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_06_12_CO_Recurso140&amp;IdRecurso=RES-F986BC3B30FB4033A9D04A18C3E6215B"
+>La energía geotérmica</enlace>
+</profundiza></seccion3Texto></seccion3><seccion3
+id="S3_CN_06_12_CO_043AAB0336734A1180D07972B6E7FA18">
+<seccion3Titulo>La energía de la biomasa</seccion3Titulo>
+<seccion3Texto>
+<p>La energía de la biomasa es la generada por el aprovechamiento
+de la materia orgánica procedente de los residuos de explotaciones
+ganaderas, agrícolas y forestales, y de los desechos de jardines,
+parques y bosques.  </p>
+<p>Esta energía también se obtiene a partir de cultivos destinados
+exclusivamente a la obtención de <negrita>biomasa</negrita>, como
+la palma aceitera, los cuales reciben el nombre de cultivos <negrita
+>energéticos</negrita>. Toda esta materia orgánica se quema para producir <negrita
+>energía térmica</negrita>, o se transforma por fermentación o gasificación
+en otros <negrita>combustibles</negrita> como alcohol y biogás. Estos,
+a su vez, se usan para generar electricidad en las <negrita>centrales
+de biomasa</negrita>.</p>
+<imagen src="CN_06_12_CO_img_20_small.jpg">
+<p>El aserrín, producto desecho en los aserraderos, se convierte en
+biomasa, fuente de energía. </p>
+</imagen>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CN_06_12_CO_2FEB317E6E144FC1A480021098F8C0E0">
+<seccion2Titulo>Las fuentes de energía no renovables</seccion2Titulo>
+<seccion2Texto>
+<p>Las fuentes de energía <negrita>no renovables</negrita> son las
+que existen en la naturaleza en cantidades limitadas y no se pueden
+renovar a corto plazo, por lo que su consumo puede llegar a agotar
+las existencias. </p>
+<p>Estas fuentes de energía se clasifican en: combustibles <negrita
+>fósiles</negrita> y combustibles <negrita>nucleares</negrita>.</p>
+<seccion3 id="S3_CN_06_12_CO_5170C3F60D97479B8E2C1ED3EB67F08F">
+<seccion3Titulo>Los combustibles fósiles</seccion3Titulo>
+<seccion3Texto>
+<p>Los <negrita>combustibles fósiles</negrita> son los que se originan
+por la descomposición natural de la materia orgánica a lo largo de
+millones de años, estos son: el petróleo, el carbón mineral y el gas
+natural.</p>
+<imagen src="CN_06_12_CO_img_21_small.jpg">
+<p>El petróleo, el carbón y el gas que se explotan en la actualidad
+se generaron por la acumulación de materia orgánica (plantas y restos
+de animales y otros seres vivos) al interior de las capas de la Tierra,
+y que por esto, permanecieron sometidos a una gran presión, por miles
+y miles de años. Estas sustancias guardan una gran cantidad de energía,
+por lo que son los combustibles más usados en nuestro planeta. </p>
+</imagen>
+<p>La energía obtenida de los combustibles fósiles produce gran contaminación
+ambiental debida a la acumulación de gas carbónico en la atmósfera,
+lo cual incide en el calentamiento global.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_06_12_CO_Recurso150&amp;IdRecurso=RES-45D6E38747554B68B451B332F1D5DA9A"
+>El petróleo</enlace>
+</profundiza></seccion3Texto></seccion3><seccion3
+id="S3_CN_06_12_CO_40F27F9F274C478A85B185006CB5C9A2">
+<seccion3Titulo>Los combustibles nucleares</seccion3Titulo>
+<seccion3Texto>
+<p>Los <negrita>combustibles nucleares</negrita> son los que se generan
+por la descomposición <negrita>radiactiva</negrita> de algunos elementos
+como el <negrita>uranio</negrita>, poco abundante en la naturaleza,
+y el <negrita>plutonio</negrita>, que se produce en los laboratorios.</p>
+<imagen src="CN_06_12_CO_img_22_small.jpg">
+<p>Los materiales radiactivos naturalmente producen calor. Las plantas
+nucleares utilizan los procesos de fusión y fisión para la producción
+de energía eléctrica. </p>
+</imagen>
+<p>La generación de energía mediante combustibles nucleares no provoca
+contaminación directa, pero genera residuos radiactivos de alta peligrosidad,
+que deben ser almacenados en lugares especialmente acondicionados
+y bajo estrictas normas de seguridad.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_06_12_CO_Recurso160&amp;IdRecurso=RES-886F24C87A8844A59738CAFF1B726AB7"
+>¿Qué sabes sobre energía nuclear?</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_06_12_CO_Recurso170&amp;IdRecurso=RES-89A3827057334FD2AEDCB87439FCFED0"
+>Comprende las principales fuentes de energía</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CN_06_12_CO_0FE1086D1E184EF1BB998E8DC4FE4025">
+<seccion2Titulo>Consolidación </seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_06_12_CO_Recurso180&amp;IdRecurso=RES-B158389107844DF89D8260B94429DE6F"
+>Refuerza tu aprendizaje: Las fuentes de energía</enlace>
+</practica><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_06_12_CO_Recurso190&amp;IdRecurso=RES-FA1CCFB704124C59A3EC6460CBBD8643"
+>Fuentes y tipos de energía</enlace>
+</profundiza></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_06_12_CO_287BAFA722044A6F8A2C3A3C7B307B0D">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_06_12_CO_Recurso200&amp;IdRecurso=RES-13D4118DCA89412CA5643B4CD8E293D2"
+>Competencias: identificación de los tipos de energía</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_06_12_CO_Recurso210&amp;IdRecurso=RES-1D979BC3F31647A1AFF847113B3FD27A"
+>Competencias: reconocimiento de las propiedades de la energía</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_06_12_CO_Recurso220&amp;IdRecurso=RES-1B5210BEEDF84E578D16330345C7F28A"
+>Competencias: Comparación de las fuentes de energía</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_06_12_CO_Recurso230&amp;IdRecurso=RES-762AAAE9CDFE4CE1AD25275B93647809"
+>Competencias: valoración del agua como fuente de energía</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_06_12_CO_Recurso240&amp;IdRecurso=RES-A548A8D0ADE14685918532BE5D561A89"
+>Competencias: realización de un plan para el ahorro energético</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CN_06_12_CO_D941C102617A40F9AA030F728167F464"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_06_12_CO_Recurso250&amp;IdRecurso=RES-072387965D3645B68D77563699CBAFB5"
+>Mapa Conceptual</enlace></mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CN_06_12_CO_Recurso260&amp;IdRecurso=RES-0E9262C808A649009434FD44F3D4D4A1"
+>Evaluación</enlace></autoevaluate><enlacesreferencia>
+<enlace
+destino="http://proyectos.cnice.mec.es/arquimedes/fp005/gm001/md010/ut001/0flash/actividades/actividad.php?familia_id=5&amp;ciclo_id=1&amp;modulo_id=22&amp;unidad_id=14&amp;experiencia_id=102	"
+> Proyecto Arquímedes</enlace>
+<enlace destino="http://www.upme.gov.co/Docs/Alumbrado_Residencial.pdf"
+>Alumbrado interior de edificaciones </enlace>
+<enlace
+destino="http://www3.gobiernodecanarias.org/medusa/contenidosdigitales/programasflash/Agrega/Primaria/Conocimiento/La_energia/0_ID/index.html"
+>La energía</enlace><?Pub Caret -1?>
+</enlacesreferencia></masinformacion></libro>

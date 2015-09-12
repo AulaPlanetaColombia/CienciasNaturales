@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="10" clase="a" aprid="M10a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Identifica las fuentes de energía</titulo>
+    <volumen><![CDATA[1]]></volumen>
+    <nivel><![CDATA[1]]></nivel>
+    <referencia><![CDATA[cn_08_06_03]]></referencia>
+    <id_reg><![CDATA[62]]></id_reg>
+    <motor><![CDATA[M10a]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Clasifica las fuentes de energía en renovables y no renovables.]]></enunciado>
+  <masinfo inicio="0" />
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <textoacategoria cantidad="2">
+    <cuestion>
+      <categoria><![CDATA[Renovables]]></categoria>
+      <respuestas>
+        <respuesta id="1"><![CDATA[Agua de ríos y embalses]]></respuesta>
+        <respuesta id="2"><![CDATA[Sol]]></respuesta>
+        <respuesta id="3"><![CDATA[Viento]]></respuesta>
+        <respuesta id="4"><![CDATA[Materia orgánica]]></respuesta>
+        <respuesta id="5"><![CDATA[Mareas y agua del mar]]></respuesta>
+      </respuestas>
+      <sonido />
+    </cuestion>
+    <cuestion>
+      <categoria><![CDATA[No renovables]]></categoria>
+      <respuestas>
+        <respuesta id="1"><![CDATA[Carbón]]></respuesta>
+        <respuesta id="2"><![CDATA[Petróleo]]></respuesta>
+        <respuesta id="3"><![CDATA[Gas natural]]></respuesta>
+        <respuesta id="4"><![CDATA[Uranio]]></respuesta>
+        <respuesta id="5"><![CDATA[Plutonio]]></respuesta>
+      </respuestas>
+      <sonido />
+    </cuestion>
+  </textoacategoria>
+</motor>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-69EA5360806C41AFBC1858081DC874C9</identificador>
+  <loid>CN_08_04_CO_Recurso090</loid>
+  <titulo>Identifica las partes de una flor</titulo>
+  <descripcion>Actividad que permite identificar las partes de una flor</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso sin ficha</tiporecurso>
+  <tiempoestimado>5</tiempoestimado>
+  <acciondidactica>Ejercitación</acciondidactica>
+  <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
+  <tipomedia pesado="false" matricula="">Actividad</tipomedia>
+  <conceptos>
+    <concepto>estambre</concepto>
+    <concepto>estigma</concepto>
+    <concepto>estilo</concepto>
+    <concepto>flor</concepto>
+    <concepto>ovario</concepto>
+    <concepto>pétalo</concepto>
+    <concepto>planta</concepto>
+    <concepto>reproducción</concepto>
+    <concepto>sépalo</concepto>
+    <concepto>vegetal</concepto>
+  </conceptos>
+</metadata>

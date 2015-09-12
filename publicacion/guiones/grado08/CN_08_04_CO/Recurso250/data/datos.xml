@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="10" clase="a" aprid="m10a">
+  <plataforma>
+    <grado><![CDATA[1]]></grado>
+    <titulo>Las estrategias reproductivas</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia />
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M10A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Clasifica las siguientes frases en función de si se adecúan a las características de la estrategis reproductiva r o K.]]></enunciado>
+  <masinfo inicio="0" />
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <textoacategoria cantidad="2">
+    <cuestion>
+      <categoria><![CDATA[Estrategia r]]></categoria>
+      <respuestas>
+        <respuesta id="1"><![CDATA[Tiempo de vida corto]]></respuesta>
+        <respuesta id="2"><![CDATA[Organismos pequeños]]></respuesta>
+        <respuesta id="3"><![CDATA[Alto número de crías]]></respuesta>
+        <respuesta id="4"><![CDATA[Crecimiento rápido]]></respuesta>
+      </respuestas>
+      <sonido />
+    </cuestion>
+    <cuestion>
+      <categoria><![CDATA[Estrategia K]]></categoria>
+      <respuestas>
+        <respuesta id="1"><![CDATA[Tiempo de vida largo]]></respuesta>
+        <respuesta id="2"><![CDATA[Organismos grandes]]></respuesta>
+        <respuesta id="3"><![CDATA[Bajo número de crías]]></respuesta>
+        <respuesta id="4"><![CDATA[Crecimiento lento]]></respuesta>
+      </respuestas>
+      <sonido />
+    </cuestion>
+  </textoacategoria>
+</motor>

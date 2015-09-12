@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-E0267C882E3B4F92A5E3A2D6CABAAC18</identificador>
+  <loid>CN_06_12_CO_Recurso100</loid>
+  <titulo>La energía solar</titulo>
+  <descripcion>Interactivo que sirve para comprender la importancia que tiene la energía solar para nuestro planeta</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso con ficha</tiporecurso>
+  <tiempoestimado>20</tiempoestimado>
+  <acciondidactica>Exposición</acciondidactica>
+  <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
+  <tipomedia pesado="false" matricula="">Interactivo</tipomedia>
+  <conceptos>
+    <concepto>agua</concepto>
+    <concepto>animal</concepto>
+    <concepto>calentar</concepto>
+    <concepto>calorífica</concepto>
+    <concepto>electricidad</concepto>
+    <concepto>energía</concepto>
+    <concepto>fotosíntesis</concepto>
+    <concepto>fotovoltaica</concepto>
+    <concepto>inagotable</concepto>
+    <concepto>limpia</concepto>
+    <concepto>lumínica</concepto>
+    <concepto>panel</concepto>
+    <concepto>placa</concepto>
+    <concepto>planta</concepto>
+    <concepto>radiación</concepto>
+    <concepto>renovable</concepto>
+    <concepto>ser humano</concepto>
+    <concepto>Sol</concepto>
+    <concepto>solar</concepto>
+  </conceptos>
+</metadata>

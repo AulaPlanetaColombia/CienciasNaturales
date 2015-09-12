@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-E37A14E27EB14EF49FBA4183D3C2D0FB</identificador>
+  <loid>CN_06_12_CO_Recurso070</loid>
+  <titulo>Define los tipos de energía</titulo>
+  <descripcion>Actividad que permite relacionar los tipos de energía con su definición</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso sin ficha</tiporecurso>
+  <tiempoestimado>5</tiempoestimado>
+  <acciondidactica>Ejercitación</acciondidactica>
+  <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
+  <tipomedia pesado="false" matricula="">Actividad</tipomedia>
+  <conceptos>
+    <concepto>energía cinética</concepto>
+    <concepto>energía eléctrica</concepto>
+    <concepto>energía mecánica</concepto>
+    <concepto>energía potencial</concepto>
+    <concepto>energía química</concepto>
+  </conceptos>
+</metadata>

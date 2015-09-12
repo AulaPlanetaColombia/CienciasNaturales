@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-472F786575694863B80C5458B77ED2B4</identificador>
+  <loid>CN_08_04_CO_Recurso290</loid>
+  <titulo>La reproducción de los microorganismos</titulo>
+  <descripcion>Interactivo que expone los tipos de reproducción de los microorganismos
+</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso con ficha</tiporecurso>
+  <tiempoestimado>30</tiempoestimado>
+  <acciondidactica>Exposición</acciondidactica>
+  <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
+  <tipomedia pesado="false" matricula="">Interactivo</tipomedia>
+  <conceptos>
+    <concepto>Reproducción</concepto>
+    <concepto> microorganismos</concepto>
+    <concepto> bacteria</concepto>
+    <concepto> arquea</concepto>
+    <concepto> protista</concepto>
+    <concepto> gemación</concepto>
+    <concepto> esporulación</concepto>
+    <concepto> bipartición</concepto>
+    <concepto> parasexual</concepto>
+    <concepto> isogametos</concepto>
+    <concepto> conjugación</concepto>
+    <concepto> transformación</concepto>
+    <concepto> transducción.</concepto>
+  </conceptos>
+</metadata>

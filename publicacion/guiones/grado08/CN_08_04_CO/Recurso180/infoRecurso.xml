@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-15CC2ED027C144F7BBEB47886FD625F8</identificador>
+  <loid>CN_08_04_CO_Recurso180</loid>
+  <titulo>Refuerza tu aprendizaje: La reproducción de los animales</titulo>
+  <descripcion>Actividad para reconocer los tipos de reproducción de los animales
+</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso sin ficha</tiporecurso>
+  <tiempoestimado>10</tiempoestimado>
+  <acciondidactica>Preguntas con respuesta libre</acciondidactica>
+  <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
+  <tipomedia pesado="false" matricula="">Actividad</tipomedia>
+  <conceptos>
+    <concepto>asexual</concepto>
+    <concepto>fragmentación</concepto>
+    <concepto>función</concepto>
+    <concepto>gameto</concepto>
+    <concepto>gemación</concepto>
+    <concepto>interna</concepto>
+    <concepto>oviparismo</concepto>
+    <concepto>ovoviviparismo</concepto>
+    <concepto>reino animal</concepto>
+    <concepto>reproducción</concepto>
+    <concepto>sexual</concepto>
+    <concepto>viviparismo</concepto>
+  </conceptos>
+</metadata>

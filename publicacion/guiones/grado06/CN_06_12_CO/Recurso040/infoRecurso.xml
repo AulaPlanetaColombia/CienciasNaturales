@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-B6003481F84E4ACCAC140448715070AE</identificador>
+  <loid>CN_06_12_CO_Recurso040</loid>
+  <titulo>La energía potencial y cinética</titulo>
+  <descripcion>Animación que muestra que la energía mecánica es la suma de la energía cinética y la energía potencial</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso con ficha</tiporecurso>
+  <tiempoestimado>20</tiempoestimado>
+  <acciondidactica>Exposición</acciondidactica>
+  <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
+  <tipomedia pesado="true" matricula="an001193_CO">Animación</tipomedia>
+  <conceptos>
+    <concepto>altura</concepto>
+    <concepto>cuerpo</concepto>
+    <concepto>energía</concepto>
+    <concepto>energía cinética</concepto>
+    <concepto>energía mecánica</concepto>
+    <concepto>energía potencial</concepto>
+    <concepto>movimiento</concepto>
+    <concepto>proporcional</concepto>
+    <concepto>rozamiento</concepto>
+    <concepto>tipo energía</concepto>
+    <concepto>velocidad</concepto>
+  </conceptos>
+</metadata>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-0DC3FEFDCB964928910A39C62FD642BA</identificador>
+  <loid>CN_08_04_CO_Recurso070</loid>
+  <titulo>La reproducción del hongo Philobolus</titulo>
+  <descripcion>Animación que trata sobre el proceso de dispersión del hongo Philobolus</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso con ficha</tiporecurso>
+  <tiempoestimado>15</tiempoestimado>
+  <acciondidactica>Exposición</acciondidactica>
+  <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
+  <tipomedia pesado="true" matricula="AVE00013_CO">Animación</tipomedia>
+  <conceptos>
+    <concepto>diseminación</concepto>
+    <concepto>espora</concepto>
+    <concepto>hongo</concepto>
+    <concepto>moho</concepto>
+  </conceptos>
+</metadata>

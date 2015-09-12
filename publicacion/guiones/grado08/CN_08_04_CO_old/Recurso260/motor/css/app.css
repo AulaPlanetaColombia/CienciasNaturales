@@ -1,0 +1,205 @@
+/* APP CSS */ 
+
+.sampleUIObject {
+	background-color: orange;
+	border: 2px solid blueviolet;
+	-ms-box-sizing: border-box; 
+    -moz-box-sizing: border-box; 
+    -webkit-box-sizing: border-box; 
+    box-sizing: border-box;
+}
+
+.sampleContainer {
+	background-color: white;
+	border: 1px solid black;
+	-ms-box-sizing: border-box; 
+    -moz-box-sizing: border-box; 
+    -webkit-box-sizing: border-box; 
+    box-sizing: border-box;
+}
+
+/* Element amb borde interior d'1 pixel negre*/
+.innerBordered {
+	border: 1px solid black;
+	-ms-box-sizing: border-box; 
+	-moz-box-sizing: border-box; 
+	-webkit-box-sizing: border-box; 
+	box-sizing: border-box;
+}
+
+@media only screen and (max-width: 950px), only screen and (max-height: 608px) {
+	.innerBordered {
+		border: 2px solid black;
+	}
+}
+
+/* Botons de text blancs amb cantonades arrodonides */
+.roundtextbutton {
+	background-color: white;
+	border: 1px solid black;
+
+    -ms-box-sizing: border-box; 
+    -moz-box-sizing: border-box; 
+    -webkit-box-sizing: border-box; 
+    box-sizing: border-box;
+
+	
+	-webkit-border-radius: 8px; /* Safari 3-4, iOS 1-3.2, Android 1.6- */
+	-moz-border-radius: 8px; /* Firefox 1-3.6 */
+	border-radius: 8px;/* Opera 10.5, IE 9, Safari 5, Chrome, Firefox 4, iOS 4, Android 2.1+ */
+
+    /* Alineacion de texto*/
+    text-align: center;
+    vertical-align: middle;
+
+    font-family: Verdana, Arial, sans-serif;
+    color: black;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+@media only screen and (max-width: 950px), only screen and (max-height: 608px) {
+	.roundtextbutton {
+		border: 2px solid black;
+	}
+}
+
+.roundtextbutton.hover {
+	background-color: #CCCCCC;/*darkgray;*/
+}
+
+.roundtextbutton.active {
+	background-color: #CCCCCC;/*gray;*/
+    color: black;
+}
+
+.roundtextbutton.down {
+	background-color: #666666;/*darkgray;*/
+    color: white;
+}
+
+.roundtextbutton.disabled {
+	border: 1px solid gray;
+	color: gray;
+	cursor: default;
+}
+
+@media only screen and (max-width: 950px), only screen and (max-height: 608px) {
+	.roundtextbutton.disabled {
+		border: 2px solid gray;
+	}
+}
+
+
+/* Botons tipus "slider" (quadrats negres de 37x37 amb icona) */
+.sliderhomebutton {
+    background: transparent url("../images/btnhome35.svg") no-repeat;
+}
+
+.sliderhomebutton_white {
+    background: transparent url("../images/btnhome35_white.svg") no-repeat;
+}
+
+.sliderprevbutton {
+    background: transparent url("../images/btnprev35.svg") no-repeat;
+}
+
+.sliderprevbutton_white {
+    background: transparent url("../images/btnprev35_white.svg") no-repeat;
+}
+
+.slidernextbutton {
+    background: transparent url("../images/btnnext35.svg") no-repeat;
+}
+
+.slidernextbutton_white {
+    background: transparent url("../images/btnnext35_white.svg") no-repeat;
+}
+
+/* Botó imatge que brilla quan passes pel damunt o piques */
+.brightimagebutton {
+	/* NO TE RES */
+}
+
+.brightimagebutton img {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+
+.brightimagebutton div {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	z-index: 300;
+	visibility: hidden;
+	opacity: 0;
+}
+
+.brightimagebutton.hover div {
+	background-color: white;
+	visibility: visible;
+	opacity: 0.3;
+	-ms-transition: opacity .3s ease-in-out;
+  -moz-transition: opacity .3s ease-in-out;
+  -webkit-transition: opacity .3s ease-in-out;
+  transition: opacity .3s ease-in-out;
+
+}
+
+.brightimagebutton.active div {
+	background-color: black;
+	visibility: visible;
+	opacity: 0.3;
+}
+
+/* CSSBox - Estil per defecte */
+.defaultCSSBox {
+	background: orange;
+}
+
+/* SimpleText - Estil per defecte */
+.defaultSimpleText {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 31px;
+}
+
+/* RichText - Estil per defecte */
+.defaultRichText {
+	font-family: Arial, sans-serif;
+	font-size: 20px;
+}
+
+/* Botonera */
+.botonera {
+    position: absolute;
+    top: 480px;
+    left: 0;
+	background-color: transparent;
+}
+
+/* Watermark */
+.watermark {
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	width: 62px;
+	height: 62px;
+	background: transparent url("../images/watermark.svg") no-repeat;
+
+	-webkit-opacity: 0.3;
+	-khtml-opacity: 0.3;
+	-moz-opacity: 0.3;
+	opacity: 0.3;
+	filter: alpha(opacity=30); /* For IE8 and earlier */
+	pointer-events: none;
+}
+
+/* Fondos básicos de colores*/
+.bkWhite {
+	background-color: white;
+}
+
+.bkBlack {
+	background-color: black;
+}

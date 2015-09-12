@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="2" clase="c" aprid="M2c">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Conoce la energía solar</titulo>
+    <area>1</area>
+    <nivel><![CDATA[2]]></nivel>
+    <referencia><![CDATA[CN_08_06_16]]></referencia>
+    <idreg><![CDATA[978]]></idreg>
+    <motor><![CDATA[M2C]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Completa el siguiente texto sobre la energía solar y sus aplicaciones con las palabras adecuadas.]]></enunciado>
+  <masinfo inicio="0" />
+  <calc><![CDATA[0]]></calc>
+  <sonido />
+  <textoacategoria>
+    <cuestion>
+      <pregunta><![CDATA[La energía solar es la que proveniente del Sol. Es [*], inagotable y [*]. Entre sus desventajas está la intermitencia, pues en días nublados o en la noche no es posible obtenerla o almacenarla. Las placas [*] son grandes superficies de vidrio, debajo de ellos hay tubos con agua. El Sol las atraviesa, eleva la temperatura del agua y así se obtiene agua caliente o calefacción a nivel [*].Las placas [*] transforman la energía solar a través de los paneles [*] en [*]. Esta energía [*] se utiliza a nivel doméstico o se envía a la red eléctrica.]]></pregunta>
+      <respuestas>
+        <respuesta orden="1">
+          <opcion correcta="1"><![CDATA[renovable]]></opcion>
+          <opcion correcta="0"><![CDATA[no renovable]]></opcion>
+        </respuesta>
+        <respuesta orden="2">
+          <opcion correcta="1"><![CDATA[limpia]]></opcion>
+          <opcion correcta="0"><![CDATA[contaminante]]></opcion>
+        </respuesta>
+        <respuesta orden="3">
+          <opcion correcta="0"><![CDATA[fotovoltaicas]]></opcion>
+          <opcion correcta="1"><![CDATA[solares]]></opcion>
+        </respuesta>
+        <respuesta orden="4">
+          <opcion correcta="1"><![CDATA[doméstico]]></opcion>
+          <opcion correcta="0"><![CDATA[industrial]]></opcion>
+        </respuesta>
+        <respuesta orden="5">
+          <opcion correcta="0"><![CDATA[solares]]></opcion>
+          <opcion correcta="1"><![CDATA[fotovoltaicas]]></opcion>
+        </respuesta>
+        <respuesta orden="6">
+          <opcion correcta="0"><![CDATA[solares]]></opcion>
+          <opcion correcta="1"><![CDATA[fotovoltaicos]]></opcion>
+        </respuesta>
+        <respuesta orden="7">
+          <opcion correcta="0"><![CDATA[luz]]></opcion>
+          <opcion correcta="0"><![CDATA[calor]]></opcion>
+          <opcion correcta="1"><![CDATA[electricidad]]></opcion>
+        </respuesta>
+        <respuesta orden="8">
+          <opcion correcta="0"><![CDATA[solar ]]></opcion>
+          <opcion correcta="1"><![CDATA[eléctrica]]></opcion>
+          <opcion correcta="0"><![CDATA[calorífica]]></opcion>
+        </respuesta>
+      </respuestas>
+    </cuestion>
+  </textoacategoria>
+</motor>

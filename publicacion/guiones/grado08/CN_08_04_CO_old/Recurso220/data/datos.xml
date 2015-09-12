@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="4" clase="a" aprid="m4a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Evaluación</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia />
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M4A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Responde las siguientes preguntas acerca de la reproducción de los seres vivos. Recuerda que puede haber más de una respuesta correcta.]]></enunciado>
+  <masinfo inicio="0" />
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="10">
+    <cuestion>
+      <enunciado><![CDATA[La reproducción es importante para las especies porque:]]></enunciado>
+      <explicacion><![CDATA[La reproducción le permite a las especies autoperpetuarse mediante la generación de nuevos individuos, pero no puede evitar que haya extinción por diferentes causas]]></explicacion>
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Les permite autoperpetuarse." correcta="1" />
+        <respuesta contestacion="Favorece su supervivencia." correcta="1" />
+        <respuesta contestacion="Genera formas de vida completamente nuevas." correcta="0" />
+        <respuesta contestacion="Garantiza que no haya extinción." correcta="0" />
+        <respuesta contestacion="Les facilita la obtención de recursos." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Selecciona las respuestas correctas con relación a las estrategias reproductivas r y K.]]></enunciado>
+      <explicacion><![CDATA[En la estrategia r se genera un gran número de descendientes. La estrategia K es propia de organismos de mayor tamaño y menor tasa reproductiva.]]></explicacion>
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Los ratones e insectos adoptan la estrategia r." correcta="1" />
+        <respuesta contestacion="Los representantes de la estrategia K tienen muchas camadas al año." correcta="0" />
+        <respuesta contestacion="Los elefantes son un ejemplo de estrategia K." correcta="1" />
+        <respuesta contestacion="Las poblaciones de la estrategia r crecen rápidamente." correcta="1" />
+        <respuesta contestacion="La estrategia K facilita la colonización" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[La reproducción asexual se caracteriza por:]]></enunciado>
+      <explicacion><![CDATA[La reproducción asexual es un mecanismo sencillo y rápido. Aquí participa un solo progenitor, el consumo de energía es bajo y se generan clones del parental.]]></explicacion>
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Necesitar solo un progenitor." correcta="1" />
+        <respuesta contestacion="Necesitar dos progenitores." correcta="0" />
+        <respuesta contestacion="Tener alto gasto de energía." correcta="0" />
+        <respuesta contestacion="Tener bajo consumo de energía." correcta="1" />
+        <respuesta contestacion="Generar clones." correcta="1" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[La reproducción sexual se caracteriza por:]]></enunciado>
+      <explicacion><![CDATA[La reproducción sexual implica la participación de células especializadas provenientes de dos parentales cuya mezcla genera variabilidad. Demanda alto consumo energético.]]></explicacion>
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Necesitar solo un progenitor." correcta="0" />
+        <respuesta contestacion="Necesitar dos progenitores." correcta="1" />
+        <respuesta contestacion="Tener alto gasto de energía." correcta="1" />
+        <respuesta contestacion="Tener bajo consumo de energía." correcta="0" />
+        <respuesta contestacion="Generar variabilidad." correcta="1" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Corresponden a conceptos relacionados con la reproducción asexual: ]]></enunciado>
+      <explicacion><![CDATA[La gemación y la bipartición son tipos de reproducción asexual.]]></explicacion>
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Esporangio" correcta="0" />
+        <respuesta contestacion="Óvulo" correcta="0" />
+        <respuesta contestacion="Gemación" correcta="1" />
+        <respuesta contestacion="Espermatozoide" correcta="0" />
+        <respuesta contestacion="Bipartición" correcta="1" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Estos conceptos se relacionan con la reproducción sexual: ]]></enunciado>
+      <explicacion><![CDATA[La flor es el órgano reproductor de las plantas con semilla, el espermatozoide es el gameto masculino y los isogametos son células especializadas en la reproducción sexual.]]></explicacion>
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Fragmentación" correcta="0" />
+        <respuesta contestacion="Flor" correcta="1" />
+        <respuesta contestacion="Clon" correcta="0" />
+        <respuesta contestacion="Espermatozoide" correcta="1" />
+        <respuesta contestacion="Isogametos" correcta="1" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Los microorganismos se reproducen mediante:]]></enunciado>
+      <explicacion><![CDATA[Los microorganismos utilizan mecanismos variados de reproducción, entre ellos, gemación y fisión binaria.]]></explicacion>
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Polinización" correcta="0" />
+        <respuesta contestacion="Gemación" correcta="1" />
+        <respuesta contestacion="Fisión binaria" correcta="1" />
+        <respuesta contestacion="Viviparidad" correcta="0" />
+        <respuesta contestacion="Ovoviviparidad" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Entre las formas de reproducción de los hongos se encuentra]]></enunciado>
+      <explicacion><![CDATA[El mecanismo más común de reproducción presente en hongos es la generación de esporas, sin embargo las levaduras realizan gemación.]]></explicacion>
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Esporulación" correcta="1" />
+        <respuesta contestacion="Partenogénesis" correcta="0" />
+        <respuesta contestacion="Regeneración" correcta="0" />
+        <respuesta contestacion="Polinización" correcta="0" />
+        <respuesta contestacion="Gemación" correcta="1" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Las plantas se reproducen a través de:]]></enunciado>
+      <explicacion><![CDATA[Las plantas tienen alternancia de generaciones, que incluye esporulación. La polinización es parte del ciclo reproductivo de las plantas con flor.]]></explicacion>
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Partenogénesis" correcta="0" />
+        <respuesta contestacion="Fisión binaria" correcta="0" />
+        <respuesta contestacion="Polinización" correcta="1" />
+        <respuesta contestacion="Alternancia de generaciones" correcta="1" />
+        <respuesta contestacion="Esporulación" correcta="1" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Son formas de reproducción propias de los animales:]]></enunciado>
+      <explicacion><![CDATA[Los animales, en su mayoría, tienen reproducción sexual; sin embargo algunos de ellos presentan partenogénesis.]]></explicacion>
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Reproducción sexual" correcta="1" />
+        <respuesta contestacion="Fisión binaria" correcta="0" />
+        <respuesta contestacion="Partenogénesis" correcta="1" />
+        <respuesta contestacion="Bipartición" correcta="0" />
+        <respuesta contestacion="Esporulación" correcta="0" />
+      </respuestas>
+    </cuestion>
+  </test>
+  <temps>15</temps>
+</motor>

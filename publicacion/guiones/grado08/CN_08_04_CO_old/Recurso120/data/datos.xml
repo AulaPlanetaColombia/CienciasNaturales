@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="1" clase="b" aprid="M1b">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Relaciona la reproducción asexual en las plantas</titulo>
+    <volumen><![CDATA[1]]></volumen>
+    <nivel><![CDATA[1]]></nivel>
+    <referencia><![CDATA[cn_08_03_06]]></referencia>
+    <id_reg><![CDATA[74]]></id_reg>
+    <motor><![CDATA[M1b]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Asocia las diferentes formas de reproducción asexual de las plantas con su definición.]]></enunciado>
+  <masinfo inicio="0" />
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <textoatexto cantidad="4">
+    <cuestion>
+      <pregunta><![CDATA[Estolón]]></pregunta>
+      <respuesta><![CDATA[Brote lateral que crece de la base del tallo y va a ras de suelo.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Rizoma]]></pregunta>
+      <respuesta><![CDATA[Tallo subterráneo que crece de manera horizontal creando raíces y brotes.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Tubérculo]]></pregunta>
+      <respuesta><![CDATA[Tallo subterráneo donde se acumulan reservas y del que nace una planta.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Bulbo]]></pregunta>
+      <respuesta><![CDATA[Engrosamiento del tallo subterráneo en la base de las hojas que almacena nutrientes.]]></respuesta>
+    </cuestion>
+  </textoatexto>
+  <textofalso cantidad="0" />
+</motor>

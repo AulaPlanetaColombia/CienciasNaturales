@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="5" clase="b" aprid="M5b">
+  <plataforma>
+    <grado><![CDATA[1]]></grado>
+    <titulo>Conoce la energía eólica</titulo>
+    <volumen><![CDATA[1]]></volumen>
+    <nivel><![CDATA[2]]></nivel>
+    <referencia><![CDATA[mn_3c_19_07]]></referencia>
+    <id_reg><![CDATA[144]]></id_reg>
+    <motor><![CDATA[M5b]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Después de ver la animación, contesta las preguntas indicando la respuesta o respuestas correctas.]]></enunciado>
+  <masinfo inicio="0" />
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="8">
+    <cuestion>
+      <enunciado><![CDATA[¿Cómo se llaman las corrientes de aire que se forman en la atmósfera?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[AN001011_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Viento" correcta="1" />
+        <respuesta contestacion="Efecto invernadero" correcta="0" />
+        <respuesta contestacion="Isobaras" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Cómo se llama la energía que aprovecha las corrientes de aire atmosféricas?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[AN001011_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Energía eólica" correcta="1" />
+        <respuesta contestacion="Energía solar" correcta="0" />
+        <respuesta contestacion="Energía nuclear" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Antiguamente, la energía eólica se utilizaba para...]]></enunciado>
+      <explicacion />
+      <video><![CDATA[AN001011_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="... el transporte marítimo." correcta="1" />
+        <respuesta contestacion="... las labores agrícolas." correcta="1" />
+        <respuesta contestacion="... el transporte terrestre." correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En qué siglo se ha empezado a utilizar la energía eólica para producir electricidad?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[AN001011_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="En el siglo XXI" correcta="0" />
+        <respuesta contestacion="En el siglo XX" correcta="1" />
+        <respuesta contestacion="En el siglo XIX" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué velocidad de viento se necesita para que funcione un aerogenerador?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[AN001011_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Entre 50 y 100 km/h" correcta="0" />
+        <respuesta contestacion="Entre 20 y 100 km/h" correcta="1" />
+        <respuesta contestacion="Entre 10 y 100 km/h" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué máquina convierte la energía del viento en energía rotatoria?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[AN001011_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Generador" correcta="0" />
+        <respuesta contestacion="Turbina" correcta="0" />
+        <respuesta contestacion="Rotor" correcta="1" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué aparato transforma la energía del eje en energía eléctrica de alto rendimiento?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[AN001011_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Generador" correcta="1" />
+        <respuesta contestacion="Turbina" correcta="0" />
+        <respuesta contestacion="Rotor" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Con qué tipo de centrales energéticas se compara la energía producida por un parque eólico?]]></enunciado>
+      <explicacion />
+      <video><![CDATA[AN001011_LO.mp4]]></video>
+      <salto />
+      <respuestas>
+        <respuesta contestacion="Con las centrales hidráulicas" correcta="0" />
+        <respuesta contestacion="Con las centrales térmicas" correcta="0" />
+        <respuesta contestacion="Con las centrales nucleares" correcta="1" />
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-55FD6497ECAC4996B8059865E2BA19E1</identificador>
+  <loid>CN_08_04_CO_Recurso110</loid>
+  <titulo>La reproducción de las plantas con flor</titulo>
+  <descripcion>Animación que muestra la reproducción sexual en las plantas con semilla</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso con ficha</tiporecurso>
+  <tiempoestimado>20</tiempoestimado>
+  <acciondidactica>Exposición</acciondidactica>
+  <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
+  <tipomedia pesado="true" matricula="AVE00006_CO">Vídeo</tipomedia>
+  <conceptos>
+    <concepto>antera</concepto>
+    <concepto>embrión</concepto>
+    <concepto>estambre</concepto>
+    <concepto>estigma</concepto>
+    <concepto>estilo</concepto>
+    <concepto>fecundación</concepto>
+    <concepto>filamento</concepto>
+    <concepto>flor</concepto>
+    <concepto>función</concepto>
+    <concepto>gametófito</concepto>
+    <concepto>macrospora</concepto>
+    <concepto>microspora</concepto>
+    <concepto>ovario</concepto>
+    <concepto>pistilo</concepto>
+    <concepto>planta</concepto>
+    <concepto>polen</concepto>
+    <concepto>polinización</concepto>
+    <concepto>reino vegetal</concepto>
+    <concepto>reproducción</concepto>
+    <concepto>semilla</concepto>
+    <concepto>sexual</concepto>
+  </conceptos>
+</metadata>

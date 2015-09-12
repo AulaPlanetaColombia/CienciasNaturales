@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<diaporama autoplay="false" diapoDefaultTimeOut="false" effectDefaultTimeOut="1500" textDefaultTimeOut="1000" toolbarAlign="LeftBottom" toolbarColor="Black" toolbarCounter="false" toolbarCounterColor="White" toolbarMargin="40,40,40,40" fotoMargin="0,0,0,0" textMargin="40,40,40,80" aprid="diaporama">
+  <diapo foto="001ADO01.jpg">
+    <texto type="Georgia" size="72" style="Normal" color="Black" align="LeftCenter" effectTimeOut="1500">La energía#nuclear</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+  <diapo foto="Sin_titulo_4.jpg">
+    <texto type="Verdana" size="40" style="Normal" color="White" align="LeftTop" effectTimeOut="1500">Energía en#el núcleo atómico</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+  <diapo foto="Sin_titulo_2.jpg">
+    <texto type="Verdana" size="40" style="Normal" color="White" align="RightTop" effectTimeOut="1500">Fusión</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+  <diapo foto="Sin_titulo_3.jpg">
+    <texto type="Verdana" size="40" style="Normal" color="White" align="RightTop" effectTimeOut="1500">Fisión</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+  <diapo foto="shutterstock_69675613_2.jpg">
+    <texto type="Verdana" size="40" style="Normal" color="White" align="RightTop" effectTimeOut="1500">Energía nuclear natural</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+  <diapo foto="00153E01.jpg">
+    <texto type="Verdana" size="40" style="Normal" color="White" align="RightTop" effectTimeOut="1500">Central nuclear</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+  <diapo foto="central.jpg">
+    <texto type="Verdana" size="40" style="Normal" color="Black" align="LeftTop" effectTimeOut="1500">¿Cómo funciona una central nuclear?</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+  <diapo foto="MOTOR.jpg">
+    <texto type="Verdana" size="40" style="Normal" color="Black" align="CenterTop" effectTimeOut="1500">¿Cómo se transforma la energía#nuclear en energía eléctrica?</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+  <diapo foto="shutterstock_65210005.jpg">
+    <texto type="Verdana" size="40" style="Normal" color="White" align="LeftTop" effectTimeOut="1500">Refrigeración de las centrales nucleares</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+  <diapo foto="shutterstock_73412554.jpg" diapoTimeOut="50">
+    <texto type="Verdana" size="40" style="Normal" color="White" align="CenterTop" effectTimeOut="1500">¿Cuál es el problema principal#de las centrales nucleares?</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+</diaporama>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="10" clase="a" aprid="m10a">
+  <plataforma>
+    <grado><![CDATA[1]]></grado>
+    <titulo>Ventajas y desventajas de los tipos de reproducción</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia />
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M10A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Clasifica las siguientes ideas según correspondan a las ventajas o desventajas de la reproducción sexual (RS), o de la reproducción asexual (RA).]]></enunciado>
+  <masinfo inicio="0" />
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <textoacategoria cantidad="4">
+    <cuestion>
+      <categoria><![CDATA[Ventajas - RA]]></categoria>
+      <respuestas>
+        <respuesta id="1"><![CDATA[Rápida y simple]]></respuesta>
+        <respuesta id="2"><![CDATA[Gasta poca energía]]></respuesta>
+        <respuesta id="3"><![CDATA[Rápida colonización]]></respuesta>
+      </respuestas>
+      <sonido />
+    </cuestion>
+    <cuestion>
+      <categoria><![CDATA[Ventajas - RS]]></categoria>
+      <respuestas>
+        <respuesta id="1"><![CDATA[Produce variabilidad]]></respuesta>
+      </respuestas>
+      <sonido />
+    </cuestion>
+    <cuestion>
+      <categoria><![CDATA[Desventajas - RA]]></categoria>
+      <respuestas>
+        <respuesta id="1"><![CDATA[Genera clones]]></respuesta>
+      </respuestas>
+      <sonido />
+    </cuestion>
+    <cuestion>
+      <categoria><![CDATA[Desventajas - RS]]></categoria>
+      <respuestas>
+        <respuesta id="1"><![CDATA[Proceso lento]]></respuesta>
+        <respuesta id="2"><![CDATA[Gasta mucha energía]]></respuesta>
+        <respuesta id="3"><![CDATA[Colonización lenta]]></respuesta>
+      </respuestas>
+      <sonido />
+    </cuestion>
+  </textoacategoria>
+  <temps>20</temps>
+</motor>

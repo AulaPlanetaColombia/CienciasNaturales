@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-0E9262C808A649009434FD44F3D4D4A1</identificador>
+  <loid>CN_06_12_CO_Recurso260</loid>
+  <titulo>Evaluación</titulo>
+  <descripcion>Evalúa tus conocimientos sobre el tema Fuentes de energia y su transformación</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso sin ficha</tiporecurso>
+  <tiempoestimado>20</tiempoestimado>
+  <acciondidactica>Evaluación</acciondidactica>
+  <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
+  <tipomedia pesado="false" matricula="">Actividad</tipomedia>
+  <conceptos>
+    <concepto>Energía</concepto>
+    <concepto>mecánica</concepto>
+    <concepto>cinética</concepto>
+    <concepto>potencial</concepto>
+    <concepto>térmica</concepto>
+    <concepto>solar</concepto>
+    <concepto>radiante</concepto>
+    <concepto>química</concepto>
+    <concepto>eléctrica</concepto>
+    <concepto>trabajo</concepto>
+    <concepto>renovable</concepto>
+    <concepto>no renovable</concepto>
+    <concepto>nuclear</concepto>
+    <concepto>transformación</concepto>
+    <concepto> transferencia</concepto>
+    <concepto>almacenamiento</concepto>
+    <concepto>degradación</concepto>
+    <concepto>conservación</concepto>
+    <concepto>calor</concepto>
+    <concepto>temperatura</concepto>
+    <concepto>fusión</concepto>
+    <concepto>fisión</concepto>
+    <concepto>eólica</concepto>
+    <concepto>hidráulica.</concepto>
+  </conceptos>
+</metadata>

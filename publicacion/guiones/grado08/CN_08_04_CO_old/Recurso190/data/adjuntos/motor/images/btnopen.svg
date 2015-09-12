@@ -1,0 +1,45 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="32px" height="32px" viewBox="0 0 32 32">
+<defs>
+<g id="Section_stuff_Zoom_button_0_Layer2_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 20.95 16.5
+L 20.95 13.6 15.2 13.6 15.2 7.95 12.25 7.95 12.25 13.6 6.55 13.6 6.55 16.5 12.25 16.5 12.25 22.15 15.2 22.15 15.2 16.5 20.95 16.5 Z"/>
+</g>
+
+<g id="fonts_shape_25012_0_Layer0_0_FILL">
+<path fill="#000000" stroke="none" d="
+M 10 -5
+Q 10 -10 5 -10
+L -5 -10
+Q -10 -10 -10 -5
+L -10 5
+Q -10 10 -5 10
+L 5 10
+Q 10 10 10 5
+L 10 -5 Z"/>
+</g>
+
+<g id="Section_stuff_Zoom_button_0_Layer1_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 20.95 15.95
+L 20.95 13.05 15.2 13.05 15.2 7.4 12.25 7.4 12.25 13.05 6.55 13.05 6.55 15.95 12.25 15.95 12.25 21.6 15.2 21.6 15.2 15.95 20.95 15.95 Z"/>
+</g>
+</defs>
+
+<g id="zoomButton" transform="matrix( 1.111083984375, 0, 0, 1.111083984375, 1,1) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Section_stuff_Zoom_button_0_Layer2_0_FILL"/>
+</g>
+
+<g transform="matrix( 1.3499755859375, 0, 0, 1.3499755859375, 13.75,13.4) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#fonts_shape_25012_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 0.97222900390625, 0, 0, 0.9859161376953125, 0.65,-0.3) ">
+<use xlink:href="#Section_stuff_Zoom_button_0_Layer1_0_FILL"/>
+</g>
+</g>
+</svg>

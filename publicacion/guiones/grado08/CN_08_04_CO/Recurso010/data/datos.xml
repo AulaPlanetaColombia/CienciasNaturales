@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<engine copy="Editorial Planeta" version="1" aprid="f6">
+  <main layout="7">
+    <title>La reproducción en la naturaleza</title>
+    <footer>Selecciona una imagen</footer>
+  </main>
+  <sections>
+    <section i="0" star="false" hasSubsections="false">
+      <menuImage path="imagenDummy-MotorF.jpg" border="0">
+        <title><![CDATA[La importancia de la reproducción]]></title>
+      </menuImage>
+      <pages>
+        <page i="0" visible="true" color="">
+          <title>La reproducción y la supervivencia</title>
+          <description><![CDATA[<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">La reproducci&oacute;n es el mecanismo que utilizan los seres vivos&nbsp;para producir nuevos&nbsp;individuos.</span></span></p>
+
+<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Gracias a la reproducci&oacute;n, las plantas, los animales, las bacterias, los hongos, las arqueas y los protistas se <strong>autoperpet&uacute;an</strong>, es decir, generan organismos semejantes a ellos.</span></span></p>
+
+<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Es importante que los seres vivos se reproduzcan, ya que de no hacerlo, las especies desaparecer&iacute;an a medida que los individuos mueran&nbsp;sin ser&nbsp;reemplazados.</span></span></p>
+]]></description>
+          <images>
+            <image path="imagenDummy-MotorF.jpg" border="0" pathbig="imagenDummy-MotorF.jpg">
+              <title><![CDATA[]]></title>
+            </image>
+          </images>
+        </page>
+      </pages>
+    </section>
+    <section i="0" star="false" hasSubsections="false">
+      <menuImage path="imagenDummy-MotorF.jpg" border="0">
+        <title><![CDATA[Las estrategias reproductivas]]></title>
+      </menuImage>
+      <pages>
+        <page i="0" visible="true" color="">
+          <title>Diferentes estrategias, diferentes resultados</title>
+          <description><![CDATA[<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">El <strong>n&uacute;mero de individuos</strong> de&nbsp;una poblaci&oacute;n se relaciona con su&nbsp;<strong>capacidad de reproducci&oacute;n</strong>, y depende de las <strong>caracter&iacute;sticas del ambiente</strong> en el que&nbsp;se desarrolla.&nbsp;</span></span></p>
+
+<p><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">As&iacute;,&nbsp;es posible encontrar en la naturaleza poblaciones que al reproducirse&nbsp;</span></span><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">generan <strong>muchos descendientes</strong>, mientras que otras producen&nbsp;<strong>pocos organismos</strong>.</span></span></p>
+
+<p><font face="verdana, geneva, sans-serif"><span style="font-size: 20px;">Los cient&iacute;ficos han descrito dos <strong>estrategias reproductivas </strong>que pueden utilizar los seres vivos para mantener sus poblaciones: la <strong>estrategia r </strong>y la <strong>estrategia K</strong>.</span></font></p>
+]]></description>
+          <images>
+            <image path="imagenDummy-MotorF.jpg" border="0" pathbig="imagenDummy-MotorF.jpg">
+              <title><![CDATA[]]></title>
+            </image>
+          </images>
+        </page>
+        <page i="0" visible="true" color="">
+          <title>Estrategia r</title>
+          <description><![CDATA[<p><span style="font-size: 20px;"><span style="font-family: verdana, geneva, sans-serif;">Son representantes de la&nbsp;<strong>estratergia r</strong>&nbsp;aquellas&nbsp;poblaciones que al reproducirse generan un&nbsp;<strong>elevado numero de individuos</strong>&nbsp;en poco tiempo.</span></span></p>
+
+<p><span style="font-size: 20px;"><span style="font-family: verdana, geneva, sans-serif;">Los individuos de estas poblaciones adem&aacute;s se caracterizan porque:</span></span></p>
+
+<p style="margin-left: 40px;"><span style="font-size: 20px;"><span style="font-family: verdana, geneva, sans-serif;">Tienen&nbsp;un tiempo de vida corto</span></span></p>
+
+<p style="margin-left: 40px;"><span style="font-size: 20px;"><span style="font-family: verdana, geneva, sans-serif;">Su tama&ntilde;o corporal es peque&ntilde;o</span></span></p>
+
+<p style="margin-left: 40px;"><span style="font-size: 20px;"><span style="font-family: verdana, geneva, sans-serif;">Alcanzan su madurez sexual pronto</span></span></p>
+
+<p style="margin-left: 40px;"><span style="font-size: 20px;"><span style="font-family: verdana, geneva, sans-serif;">Su crecimiento es r&aacute;pido</span></span></p>
+
+<p style="margin-left: 40px;"><span style="font-size: 20px;"><span style="font-family: verdana, geneva, sans-serif;">Generan numerosas camadas al a&ntilde;o&nbsp;</span></span></p>
+
+<p><font face="verdana, geneva, sans-serif"><span style="font-size: 20px;">Las especies&nbsp;con la estrategia reproductiva r son buenas para adptarse a los cambios en el medio ambiente.</span></font></p>
+
+<p><span style="font-family: verdana, geneva, sans-serif; font-size: 20px;">Las <strong>bacterias</strong>, los <strong>insecos </strong>y los <strong>peces</strong>&nbsp;</span><span style="font-family: verdana, geneva, sans-serif; font-size: 20px;">son ejemplos&nbsp;de la estrategia K.</span></p>
+]]></description>
+          <images>
+            <image path="imagenDummy-MotorF.jpg" border="0" pathbig="imagenDummy-MotorF.jpg">
+              <title><![CDATA[Las bacterias adoptan la estrategia r]]></title>
+            </image>
+            <image path="imagenDummy-MotorF.jpg" border="0" pathbig="imagenDummy-MotorF.jpg">
+              <title><![CDATA[Insectos como las mariquitas adoptan la estrategia r]]></title>
+            </image>
+            <image path="imagenDummy-MotorF.jpg" border="0" pathbig="imagenDummy-MotorF.jpg">
+              <title><![CDATA[Los peces son representantes de la estrategia r]]></title>
+            </image>
+          </images>
+        </page>
+        <page i="0" visible="true" color="">
+          <title> Estrategia K   </title>
+          <description><![CDATA[<p><span style="font-size: 20px;"><span style="font-family: verdana, geneva, sans-serif;">Son representantes de la&nbsp;<strong>estratergia K&nbsp;</strong>aquellas&nbsp;poblaciones que al reproducirse generan un&nbsp;<strong>bajo&nbsp;numero de individuos</strong>.</span></span></p>
+
+<p><span style="font-size: 20px;"><span style="font-family: verdana, geneva, sans-serif;">Los individuos de estas poblaciones tambi&eacute;n se caracterizan porque:</span></span></p>
+
+<p style="margin-left: 40px;"><span style="font-size: 20px;"><span style="font-family: verdana, geneva, sans-serif;">Tienen&nbsp;un tiempo de vida largo</span></span></p>
+
+<p style="margin-left: 40px;"><span style="font-size: 20px;"><span style="font-family: verdana, geneva, sans-serif;">Su tama&ntilde;o corporal es grande</span></span></p>
+
+<p style="margin-left: 40px;"><span style="font-size: 20px;"><span style="font-family: verdana, geneva, sans-serif;">Alcanzan su madurez sexual en una etapa tard&iacute;a de su desarrollo</span></span></p>
+
+<p style="margin-left: 40px;"><span style="font-size: 20px;"><span style="font-family: verdana, geneva, sans-serif;">Su crecimiento es lento</span></span></p>
+
+<p style="margin-left: 40px;"><span style="font-size: 20px;"><span style="font-family: verdana, geneva, sans-serif;">Generan pocas&nbsp;camadas al a&ntilde;o&nbsp;</span></span></p>
+
+<p><span style="font-size: 20px;"><span style="font-family: verdana, geneva, sans-serif;">Los organismos con estrategia reproductiva K suelen ser m&aacute;s susceptibles a&nbsp;los&nbsp;cambios en su&nbsp;ambiente que aquellos que usan la estrategia r, sin embargo, son&nbsp;m&aacute;s&nbsp;eficientes en el manejo de sus recursos.</span></span></p>
+
+<p><font face="verdana, geneva, sans-serif"><span style="font-size: 20px;">La mayor&iacute;a de los <strong>mam&iacute;feros</strong> como los leones y los hipop&oacute;tamos, adem&aacute;s las <strong>aves</strong> son ejemplos&nbsp;de la estrategia K.</span></font></p>
+]]></description>
+          <images>
+            <image path="imagenDummy-MotorF.jpg" border="0" pathbig="imagenDummy-MotorF.jpg">
+              <title><![CDATA[Los leones como la mayoría de los mamíferos representan la estrategia K]]></title>
+            </image>
+            <image path="imagenDummy-MotorF.jpg" border="0" pathbig="imagenDummy-MotorF.jpg">
+              <title><![CDATA[Los hipopótamos adoptan la estrategia K]]></title>
+            </image>
+            <image path="imagenDummy-MotorF.jpg" border="0" pathbig="imagenDummy-MotorF.jpg">
+              <title><![CDATA[Las aves son un ejemplo de estrategia K]]></title>
+            </image>
+          </images>
+        </page>
+      </pages>
+    </section>
+  </sections>
+</engine>

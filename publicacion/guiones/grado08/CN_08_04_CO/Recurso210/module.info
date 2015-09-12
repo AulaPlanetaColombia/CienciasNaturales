@@ -1,0 +1,9 @@
+[module]
+id=mc
+desc=Visor de mapas conceptuales
+aprid=mc
+version=14.12.16.1
+folder=motor
+entrypoint=principal.html
+dependencies=principal.dep
+

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="101" clase="ap" aprid="m101ap">
+  <plataforma>
+    <grado>2</grado>
+    <titulo>
+    </titulo>
+    <volumen />
+    <nivel><![CDATA[1]]></nivel>
+    <referencia />
+    <motor />
+    <lang>es</lang>
+  </plataforma>
+  <enunciado>
+  </enunciado>
+  <masinfo inicio="0" />
+  <calc><![CDATA[0]]></calc>
+</motor>

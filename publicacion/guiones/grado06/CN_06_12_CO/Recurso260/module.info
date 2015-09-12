@@ -1,0 +1,9 @@
+[module]
+id=m5a
+desc=Motor M5a
+aprid=m5a
+version=1.0
+folder=motor
+entrypoint=principal.html
+dependencies=
+

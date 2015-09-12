@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-313AAFF90FE444E9A342507109DEBFF7</identificador>
+  <loid>CN_08_04_CO_Recurso190</loid>
+  <titulo>Competencias: relaciona los tipos de reproducción con organismos en los que se lleva a cabo</titulo>
+  <descripcion>Actividad que propone relacionar los diferentes tipos de reproducción que existen con los organismos que la realizan</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso sin ficha</tiporecurso>
+  <tiempoestimado>60</tiempoestimado>
+  <acciondidactica>Proyecto</acciondidactica>
+  <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
+  <tipomedia pesado="false" matricula="">Actividad</tipomedia>
+  <conceptos>
+    <concepto>asexual</concepto>
+    <concepto>comprensión</concepto>
+    <concepto>descendiente</concepto>
+    <concepto>función</concepto>
+    <concepto>individuo</concepto>
+    <concepto>organismo</concepto>
+    <concepto>pluricelular</concepto>
+    <concepto>reproducción</concepto>
+    <concepto>ser vivo</concepto>
+    <concepto>sexual</concepto>
+    <concepto>unicelular</concepto>
+    <concepto>vital</concepto>
+  </conceptos>
+</metadata>

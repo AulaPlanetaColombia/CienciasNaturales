@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="4" clase="a" aprid="M4a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>¿Qué sabes sobre la reproducción de los animales?</titulo>
+    <volumen><![CDATA[1]]></volumen>
+    <nivel><![CDATA[1]]></nivel>
+    <referencia><![CDATA[cn_08_05_08]]></referencia>
+    <id_reg><![CDATA[231]]></id_reg>
+    <motor><![CDATA[M4a]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[En cada una de las siguientes afirmaciones, señala si son verdaderas o falsas. ]]></enunciado>
+  <masinfo inicio="0" />
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="7">
+    <cuestion>
+      <enunciado><![CDATA[Los animales vertebrados se reproducen asexualmente.]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Verdadero" correcta="0" />
+        <respuesta contestacion="Falso" correcta="1" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[La gemación es una forma de reproducción sexual.]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Verdadero" correcta="0" />
+        <respuesta contestacion="Falso" correcta="1" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Los anfibios presentan fecundación externa.]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Verdadero" correcta="1" />
+        <respuesta contestacion="Falso" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[La fecundación interna es propia de los animales terrestres.]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Verdadero" correcta="1" />
+        <respuesta contestacion="Falso" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Las aves son animales ovíparos.]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Verdadero" correcta="1" />
+        <respuesta contestacion="Falso" correcta="0" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Los insectos son animales vivíparos.]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Verdadero" correcta="0" />
+        <respuesta contestacion="Falso" correcta="1" />
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[En la fragmentación el organismo se divide en varias partes y cada una genera un nuevo organismo completo.]]></enunciado>
+      <explicacion />
+      <imagen />
+      <respuestas>
+        <respuesta contestacion="Verdadero" correcta="1" />
+        <respuesta contestacion="Falso" correcta="0" />
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>

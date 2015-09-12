@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<engine copy="Editorial Planeta" version="1" aprid="f7b">
+  <main layout="7">
+    <title>Fuentes y tipos de energías</title>
+    <footer>Selecciona una imagen</footer>
+  </main>
+  <sections>
+    <section i="0" star="false" hasSubsections="true">
+      <menuImage path="image_69.jpg" border="0">
+        <title><![CDATA[Energías no renovables]]></title>
+      </menuImage>
+      <submenu>
+        <main layout="2">
+          <title>Las fuentes de energía no renovable</title>
+          <footer>Selecciona una imagen</footer>
+        </main>
+        <sections>
+          <section i="0" star="false" hasSubsections="false">
+            <menuImage path="image_109.jpg" border="0">
+              <title><![CDATA[Petróleo]]></title>
+            </menuImage>
+            <pages>
+              <page i="0" visible="true" color="#BCDCE8">
+                <title>El petróleo</title>
+                <description><![CDATA[<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&bull; L&iacute;quido oleaginoso formado por una mezcla de hidrocarburos.</p>
+
+<p>&bull; Procede de la descomposici&oacute;n de materia org&aacute;nica.</p>
+]]></description>
+                <images>
+                  <image path="image_39.jpg" border="0" pathbig="">
+                    <title><![CDATA[]]></title>
+                  </image>
+                </images>
+              </page>
+            </pages>
+          </section>
+          <section i="0" star="false" hasSubsections="false">
+            <menuImage path="image_112.jpg" border="0">
+              <title><![CDATA[Carbón]]></title>
+            </menuImage>
+            <pages>
+              <page i="0" visible="true" color="#dcd0c4">
+                <title>El carbón</title>
+                <description><![CDATA[<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&bull; De origen f&oacute;sil.</p>
+
+<p>&bull; Sustancia combustible s&oacute;lida.</p>
+
+<p>&bull; De color negro.</p>
+
+<p>&bull; Compuesta principalmente por carbono.</p>
+]]></description>
+                <images>
+                  <image path="image_54.jpg" border="0" pathbig="">
+                    <title><![CDATA[]]></title>
+                  </image>
+                </images>
+              </page>
+            </pages>
+          </section>
+          <section i="0" star="false" hasSubsections="false">
+            <menuImage path="image_115.jpg" border="0">
+              <title><![CDATA[Gas natural]]></title>
+            </menuImage>
+            <pages>
+              <page i="0" visible="true" color="#fcccbd">
+                <title>El gas natural</title>
+                <description><![CDATA[<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&bull; Formado por una mezcla de gases que se encuentra en yacimientos de petr&oacute;leo o en dep&oacute;sitos de carb&oacute;n.</p>
+]]></description>
+                <images>
+                  <image path="image_49.jpg" border="0" pathbig="">
+                    <title><![CDATA[]]></title>
+                  </image>
+                </images>
+              </page>
+            </pages>
+          </section>
+          <section i="0" star="false" hasSubsections="false">
+            <menuImage path="image_118.jpg" border="0">
+              <title><![CDATA[Energía nuclear]]></title>
+            </menuImage>
+            <pages>
+              <page i="0" visible="true" color="#bcc1db">
+                <title>La energía nuclear</title>
+                <description><![CDATA[<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&bull; Energ&iacute;a que se libera en las reacciones nucleares.</p>
+]]></description>
+                <images>
+                  <image path="image_44.jpg" border="0" pathbig="">
+                    <title><![CDATA[]]></title>
+                  </image>
+                </images>
+              </page>
+            </pages>
+          </section>
+        </sections>
+        <masinfo>
+          <pantalla1><![CDATA[<p style="text-align:center">&nbsp;</p>
+
+<p style="text-align:center"><strong>&iquest;Cu&aacute;les son las fuentes de energ&iacute;as no renovables?</strong></p>
+
+<p>&nbsp;</p>
+
+<p><img alt="" src="data/imagenes/image_69.jpg" style="float:right; height:303px; margin-left:10px; margin-right:10px; width:305px" /></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Son aquellas que se obtienen de fuentes de energ&iacute;a que se encuentran en la naturaleza en una cantidad limitada y una vez consumidas en su totalidad, no pueden sustituirse.</p>
+]]></pantalla1>
+        </masinfo>
+      </submenu>
+    </section>
+    <section i="0" star="false" hasSubsections="true">
+      <menuImage path="image_72.jpg" border="0">
+        <title><![CDATA[Energías renovables]]></title>
+      </menuImage>
+      <submenu>
+        <main layout="4">
+          <title>Los tipos de energía renovables</title>
+          <footer>Selecciona una imagen</footer>
+        </main>
+        <sections>
+          <section i="0" star="false" hasSubsections="false">
+            <menuImage path="image_137.jpg" border="0">
+              <title><![CDATA[Energía hidráulica]]></title>
+            </menuImage>
+            <pages>
+              <page i="0" visible="true" color="#bcc1db">
+                <title>La energía hidráulica</title>
+                <description><![CDATA[<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&bull; Se obtiene del aprovechamiento de las energ&iacute;as cin&eacute;tica y potencial de la corriente del agua, ca&iacute;das de agua o mareas.</p>
+]]></description>
+                <images>
+                  <image path="image_19.jpg" border="0" pathbig="">
+                    <title><![CDATA[]]></title>
+                  </image>
+                </images>
+              </page>
+            </pages>
+          </section>
+          <section i="0" star="false" hasSubsections="false">
+            <menuImage path="image_140.jpg" border="0">
+              <title><![CDATA[Energía solar]]></title>
+            </menuImage>
+            <pages>
+              <page i="0" visible="true" color="#fcccbd">
+                <title>La energía solar</title>
+                <description><![CDATA[<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&bull; Se obtiene por la captaci&oacute;n de la luz y el calor emitidos por el Sol.</p>
+]]></description>
+                <images>
+                  <image path="image_1.jpg" border="0" pathbig="">
+                    <title><![CDATA[]]></title>
+                  </image>
+                </images>
+              </page>
+            </pages>
+          </section>
+          <section i="0" star="false" hasSubsections="false">
+            <menuImage path="image_143.jpg" border="0">
+              <title><![CDATA[Energía eólica]]></title>
+            </menuImage>
+            <pages>
+              <page i="0" visible="true" color="#b9dece">
+                <title>La energía eólica</title>
+                <description><![CDATA[<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&bull; Se obtiene por efecto de las corrientes de aire.</p>
+]]></description>
+                <images>
+                  <image path="image_29.jpg" border="0" pathbig="">
+                    <title><![CDATA[]]></title>
+                  </image>
+                </images>
+              </page>
+            </pages>
+          </section>
+          <section i="0" star="false" hasSubsections="false">
+            <menuImage path="image_146.jpg" border="0">
+              <title><![CDATA[Energía geotérmica]]></title>
+            </menuImage>
+            <pages>
+              <page i="0" visible="true" color="#e3c3f4">
+                <title>La energía geotérmica</title>
+                <description><![CDATA[<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&bull; Se obtiene mediante el aprovechamiento del calor del interior de la Tierra.</p>
+]]></description>
+                <images>
+                  <image path="image_24.jpg" border="0" pathbig="">
+                    <title><![CDATA[]]></title>
+                  </image>
+                </images>
+              </page>
+            </pages>
+          </section>
+          <section i="0" star="false" hasSubsections="false">
+            <menuImage path="image_149.jpg" border="0">
+              <title><![CDATA[Energía de la biomasa]]></title>
+            </menuImage>
+            <pages>
+              <page i="0" visible="true" color="#dcd0c4">
+                <title>La energía de la biomasa</title>
+                <description><![CDATA[<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&bull; Se obtiene de residuos de procesos agr&iacute;colas y forestales, y de la basura industrial, humana o animal.</p>
+]]></description>
+                <images>
+                  <image path="image_34.jpg" border="0" pathbig="">
+                    <title><![CDATA[]]></title>
+                  </image>
+                </images>
+              </page>
+            </pages>
+          </section>
+          <section i="0" star="false" hasSubsections="false">
+            <menuImage path="image_152.jpg" border="0">
+              <title><![CDATA[Energía maremotriz]]></title>
+            </menuImage>
+            <pages>
+              <page i="0" visible="true" color="#bcc1db">
+                <title>La energía mareomotriz</title>
+                <description><![CDATA[<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&bull; Se obtiene aprovechando los movimientos de aguas de las mareas.</p>
+]]></description>
+                <images>
+                  <image path="image_14.jpg" border="0" pathbig="">
+                    <title><![CDATA[]]></title>
+                  </image>
+                </images>
+              </page>
+            </pages>
+          </section>
+        </sections>
+        <masinfo>
+          <pantalla1><![CDATA[<p style="text-align:center"><strong>&iquest;Cu&aacute;les son los tipos de energ&iacute;as renovables?</strong></p>
+
+<p style="text-align:center">&nbsp;</p>
+
+<p><img alt="" src="data/imagenes/image_72.jpg" style="float:right; height:243px; margin-left:10px; margin-right:10px; width:256px" /><span style="font-size:18px">Son aquellas que se obtienen de fuentes naturales inagotables, ya sea por la cantidad de energ&iacute;a que contienen o porque son capaces de regenerarse por medios naturales.&nbsp;</span></p>
+
+<ul>
+	<li><span style="font-size:18px">&nbsp;aguas de r&iacute;os y embalses</span></li>
+	<li><span style="font-size:18px">&nbsp;Sol</span></li>
+	<li><span style="font-size:18px">&nbsp;viento</span></li>
+	<li><span style="font-size:18px">&nbsp;calor interior de la Tierra</span></li>
+	<li><span style="font-size:18px">&nbsp;materia org&aacute;nica</span></li>
+	<li><span style="font-size:18px">&nbsp;agua del mar</span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+]]></pantalla1>
+        </masinfo>
+      </submenu>
+    </section>
+  </sections>
+</engine>

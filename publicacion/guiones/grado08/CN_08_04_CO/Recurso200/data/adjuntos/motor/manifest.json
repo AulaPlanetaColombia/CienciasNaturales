@@ -1,0 +1,57 @@
+{
+
+    "blocks": [
+            { "type": "css", "files": [
+                { "from": "CDN", "file": "lib/pppui/1_0/css/pppui.css" },
+
+                { "from": "module", "file": "motor/css/app.css" },
+                { "from": "module", "file": "motor/css/f13.css" }
+            ]},
+
+            { "type": "js", "files": [
+                { "from": "CDN", "file": "extlib/jquery/1_11_1/jquery_1_11_1_min.js" },
+                { "from": "CDN", "file": "lib/pppui/1_0/js/pppui_min.js" },
+                
+                { "from": "module", "file": "motor/js/f13all_min.js" },
+
+                { "from": "mathjax", "file": "MathJax.js?config=TeX-AMS-MML_SVG", "onlyif": "Chrome" },
+                { "from": "mathjax", "file": "MathJax.js?config=TeX-AMS-MML_HTMLorMML", "onlyif": "!Chrome" }
+
+            ]},
+
+            { "type": "img", "files": [
+                { "from": "module", "file": "motor/images/btnclose35.svg" },
+                { "from": "module", "file": "motor/images/btnclose35_white.svg" },
+                { "from": "module", "file": "motor/images/btnfirst35.svg" },
+                { "from": "module", "file": "motor/images/btnfirst35_white.svg" },
+                { "from": "module", "file": "motor/images/btnhome35.svg" },
+                { "from": "module", "file": "motor/images/btnhome35_white.svg" },
+                { "from": "module", "file": "motor/images/btninfo35.svg" },
+                { "from": "module", "file": "motor/images/btninfo35_white.svg" },
+                { "from": "module", "file": "motor/images/btnlast35.svg" },
+                { "from": "module", "file": "motor/images/btnlast35_white.svg" },
+                { "from": "module", "file": "motor/images/btnminus35.svg" },
+                { "from": "module", "file": "motor/images/btnminus35_white.svg" },
+                { "from": "module", "file": "motor/images/btnnext35.svg" },
+                { "from": "module", "file": "motor/images/btnnext35_white.svg" },
+                { "from": "module", "file": "motor/images/btnnoinfo35.svg" },
+                { "from": "module", "file": "motor/images/btnnoinfo35_white.svg" },
+                { "from": "module", "file": "motor/images/btnopen35.svg" },
+                { "from": "module", "file": "motor/images/btnopen35_white.svg" },
+                { "from": "module", "file": "motor/images/btnpause35.svg" },
+                { "from": "module", "file": "motor/images/btnpause35_white.svg" },
+                { "from": "module", "file": "motor/images/btnplay35.svg" },
+                { "from": "module", "file": "motor/images/btnplay35_white.svg" },
+                { "from": "module", "file": "motor/images/btnprev35.svg" },
+                { "from": "module", "file": "motor/images/btnprev35_white.svg" },
+                { "from": "module", "file": "motor/images/btnroundamp35.svg" },
+                { "from": "module", "file": "motor/images/btnroundamp35_white.svg" },
+                { "from": "module", "file": "motor/images/btnzoom35.svg" },
+                { "from": "module", "file": "motor/images/btnzoom35_white.svg" },
+                { "from": "module", "file": "motor/images/scrollmarkertrans.png" },
+                { "from": "module", "file": "motor/images/watermark.svg" },
+                { "from": "module", "file": "motor/images/watermark_white.svg" },
+                { "from": "module", "file": "motor/images/_noimage.png" }
+            ]}
+    ]
+}

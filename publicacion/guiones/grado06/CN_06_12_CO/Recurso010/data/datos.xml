@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<diaporama autoplay="false" diapoDefaultTimeOut="false" effectDefaultTimeOut="1500" textDefaultTimeOut="1000" toolbarAlign="LeftBottom" toolbarColor="White" toolbarCounter="false" toolbarCounterColor="White" toolbarMargin="40,40,40,40" fotoMargin="0,0,0,0" textMargin="40,40,40,80" aprid="diaporama">
+  <diapo foto="1.jpg" diapoTimeOut="3000">
+    <texto type="Georgia" size="50" style="Normal" color="White" align="CenterTop" effectTimeOut="1500">#La evolución histórica#de las fuentes de energía</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+  <diapo foto="TC_10_07_01_02.jpg" diapoTimeOut="3000">
+    <texto type="Verdana" size="40" style="Normal" color="White" align="RightTop" effectTimeOut="1500">El control del fuego</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+  <diapo foto="2.jpg" diapoTimeOut="3000">
+    <texto type="Verdana" size="40" style="Normal" color="White" align="LeftTop" effectTimeOut="1500">El uso de los animales y...</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+  <diapo foto="TC_10_07_01_04.jpg" diapoTimeOut="3000">
+    <texto type="Verdana" size="40" style="Normal" color="White" align="LeftTop" effectTimeOut="1500">... la invención#de la rueda.</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+  <diapo foto="4.jpg" diapoTimeOut="3000">
+    <texto type="Verdana" size="40" style="Normal" color="White" align="LeftTop" effectTimeOut="1500">La energía del agua</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+  <diapo foto="TC_10_07_01_06.jpg" diapoTimeOut="3000">
+    <texto type="Verdana" size="40" style="Normal" color="Black" align="LeftTop" effectTimeOut="1500">La utilización de velas o... </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+  <diapo foto="0006PK01_molinos.jpg" diapoTimeOut="3000">
+    <texto type="Verdana" size="40" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">... molinos para captar#la energía del viento.</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+  <diapo foto="fondo.jpg" diapoTimeOut="3000">
+    <texto type="Verdana" size="40" style="Normal" color="White" align="CenterCenter" effectTimeOut="1500">La utilización de combustibles fósiles</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+  <diapo foto="TC_10_07_01_09.jpg" diapoTimeOut="3000">
+    <texto type="Verdana" size="40" style="Normal" color="Black" align="LeftTop" effectTimeOut="1500">El carbón</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+  <diapo foto="TC_10_07_01_10.jpg" diapoTimeOut="3000">
+    <texto type="Verdana" size="40" style="Normal" color="Black" align="LeftTop" effectTimeOut="1500">El petróleo</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+  <diapo foto="TC_10_07_01_11.jpg" diapoTimeOut="3000">
+    <texto type="Verdana" size="40" style="Normal" color="Black" align="LeftTop" effectTimeOut="1500">El gas natural</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+  <diapo foto="TC_10_07_01_12.jpg" diapoTimeOut="3000">
+    <texto type="Verdana" size="40" style="Normal" color="White" align="LeftTop" effectTimeOut="1500">Se dispara el consumo energético#en la Tierra.</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+  <diapo foto="001ADO01.jpg" diapoTimeOut="3000">
+    <texto type="Verdana" size="40" style="Normal" color="White" align="LeftTop" effectTimeOut="1500">La energía nuclear
+ 
+</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+  <diapo foto="fondo.jpg" diapoTimeOut="3000">
+    <texto type="Verdana" size="40" style="Normal" color="White" align="LeftCenter" effectTimeOut="1500">- Agotamiento de recursos naturales.#- Cambio en el modelo energético:#  ahorro y eficiencia.
+</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+  <diapo foto="TC_10_07_01_14.jpg" diapoTimeOut="3000">
+    <texto type="Verdana" size="40" style="Normal" color="Black" align="LeftTop" effectTimeOut="1500">Se impulsa el uso de fuentes#de energía renovables.</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+  <diapo foto="TC_10_07_01_15.jpg" diapoTimeOut="3000">
+    <texto type="Verdana" size="40" style="Normal" color="Black" align="LeftTop" effectTimeOut="1500">La energía eólica </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+  <diapo foto="TC_10_07_01_16.jpg" diapoTimeOut="3000">
+    <texto type="Verdana" size="40" style="Normal" color="White" align="LeftTop" effectTimeOut="1500">La energía solar</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+  <diapo foto="TC_10_07_01_17.jpg" diapoTimeOut="3000">
+    <texto type="Verdana" size="40" style="Normal" color="Black" align="LeftTop" effectTimeOut="1500">La energía geotérmica</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+  <diapo foto="TC_10_07_01_18.jpg" diapoTimeOut="3000">
+    <texto type="Verdana" size="40" style="Normal" color="White" align="LeftTop" effectTimeOut="1500">La energía hidroeléctrica</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+  <diapo foto="TC_10_07_01_19.jpg" diapoTimeOut="3000">
+    <texto type="Verdana" size="40" style="Normal" color="Black" align="LeftTop" effectTimeOut="1500">La energía mareomotriz </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+  <diapo foto="TC_10_07_01_20.jpg" diapoTimeOut="3000">
+    <texto type="Verdana" size="40" style="Normal" color="White" align="LeftTop" effectTimeOut="1500">La energía undimotriz </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+  <diapo foto="fondo.jpg" diapoTimeOut="50">
+    <texto type="Verdana" size="40" style="Normal" color="White" align="CenterCenter" effectTimeOut="1500">¿Son las energías renovables#el futuro?</texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+    <texto type="Verdana" size="48" style="Normal" color="Black" align="RightTop" effectTimeOut="1500">
+    </texto>
+  </diapo>
+</diaporama>

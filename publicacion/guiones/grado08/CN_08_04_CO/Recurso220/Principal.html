@@ -1,0 +1,90 @@
+﻿<!doctype html>
+<html lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=10">
+        <title>Evaluación</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+        <script type='text/javascript' src='lib/ppppreloader/1_0/ppppreloader_min.js'></script> 
+	    <script>
+
+				var manifest = {
+
+				    blocks: [
+				    		{ type: "manifest", files: [ { from: "module", file:"motor/manifest.json"} ] }
+				    ],
+
+				    spinner: "no",
+
+				    waitForDocumentReady: true, 
+
+				    onEndLoading: function (mf) {
+
+				    	if (mf.errors.length > 0) {
+				    		logPreloaderErrors(mf);
+					        pppSpinner.hide();
+				    		return;
+				    	}
+
+				        Main.init();
+						$.calculator.setDefaults( {
+							showOn: 'both', 
+							buttonImageOnly: true, 
+							onButton: function(value, inst) { 
+								if( value == "Cerrar" ){
+						        	Contenedor.closeHandler();
+						       	}
+						   },
+							buttonImage: pppPreloader.from('CDN', 'extlib/calculadora/calculator.png')
+						});
+
+						pppSpinner.hide();
+
+						window.onbeforeunload = function() {
+							aulaPlaneta.SCORM.terminate();
+						};
+				    }
+				};
+
+				pppPreloader.init( {
+        			aliases: { "module": "CDN" },
+	        		remotePaths: { "module": "motors/m4a/" }
+	      		});
+
+				pppSpinner.show();
+
+				pppPreloader.loadManifest(manifest);
+
+				function logPreloaderErrors(mf) {
+			    	if (mf.errors.length > 0) {
+				        var msg = "ERROR pppPreloader: \n";
+				        for (var i=0;i<mf.errors.length;i++) {
+				        	msg += "  - " + mf.errors[i].type + ": " + mf.errors[i].file + " [" + mf.errors[i].url + "]\n";
+				        }
+				        console.log(msg);
+			    	}
+				}
+				
+				function buttonSymbol(typeSymbol, numberSymbol){
+        			Motor.InsertSymbol(typeSymbol,numberSymbol);
+        		}
+
+	    </script>
+
+    </head>
+    <body id="background">
+
+        <div id="aplicacion">
+        	<div id="wrapper">
+	        	
+				<div id="mediaHolder" style="height:0px">
+				</div>
+				<canvas id="stage" width="950" height="608"></canvas>
+				<span id="calculator"></span>
+			</div>
+		</div>
+
+    </body>
+</html>

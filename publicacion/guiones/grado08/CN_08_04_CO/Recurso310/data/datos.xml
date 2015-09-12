@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<engine copy="Editorial Planeta" version="1" aprid="f7b">
+  <main layout="8">
+    <title>La reproducción de los hongos</title>
+    <footer>Selecciona una imagen</footer>
+  </main>
+  <sections>
+    <section i="0" star="false" hasSubsections="false">
+      <menuImage path="imagenDummy-MotorF.jpg" border="0">
+        <title><![CDATA[Gemación]]></title>
+      </menuImage>
+      <pages>
+        <page i="0" visible="true" color="">
+          <title>La gemación en hongos</title>
+          <description><![CDATA[<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif"><strong>Hongos microsc&oacute;picos</strong>&nbsp;como las&nbsp;<strong>levaduras</strong>&nbsp;se reproducen&nbsp;<strong>asexualmente</strong>&nbsp;mediante&nbsp;<strong>gemaci&oacute;n</strong>.</span></span></p>
+
+<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Durante la gemaci&oacute;n, las levaduras forman un bulto o&nbsp;<strong>yema</strong>&nbsp;en una parte de su c&eacute;lula, la cual contiene informaci&oacute;n gen&eacute;tica. La yema&nbsp;se desarrolla hasta generar una nueva levadura id&eacute;ntica a&nbsp;aquella de la cual proviene.</span></span></p>
+
+<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Las levaduras se reproducen&nbsp;r&aacute;pidamente.</span></span></p>
+]]></description>
+          <images>
+            <image path="imagenDummy-MotorF.jpg" border="0" pathbig="imagenDummy-MotorF.jpg">
+              <title><![CDATA[Las levaduras son usadas por los humanos en la elaboración de pan y cerveza. ]]></title>
+            </image>
+          </images>
+        </page>
+      </pages>
+    </section>
+    <section i="0" star="false" hasSubsections="false">
+      <menuImage path="imagenDummy-MotorF.jpg" border="0">
+        <title><![CDATA[Esporulación]]></title>
+      </menuImage>
+      <pages>
+        <page i="0" visible="true" color="">
+          <title>La esporulación en los hongos</title>
+          <description><![CDATA[<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">La <strong>esporulaci&oacute;n</strong> es la forma de reproducci&oacute;n m&aacute;s com&uacute;n en&nbsp;los hongos <strong>multicelulares</strong>.</span></span></p>
+
+<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Los hongos </span></span><span style="font-family:verdana,geneva,sans-serif; font-size:20px">multicelulares est&aacute;n formados por filamentos o <strong>hifas</strong> la</span><span style="font-family:verdana,geneva,sans-serif; font-size:20px">rgas y delgadas, que&nbsp;mediante <strong>mitosis</strong> producen </span><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif"><strong>esporas&nbsp;</strong>muy peque&ntilde;as&nbsp;con nutrientes e informaci&oacute;n gen&eacute;tica <strong>haploide</strong> (una sola copia de cada cromosoma). Dichas&nbsp;esporas al&nbsp;</span></span><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">desarrollarse, forman&nbsp;clones del hongo que las gener&oacute;.&nbsp;</span></span></p>
+
+<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Las esporas pueden tener un <strong>origen sexual</strong> o <strong>asexual</strong>, suelen desarrollarse en una estructura llamada&nbsp;<strong>esporangio</strong>, son muy <strong>resistentes</strong> y le permiten a los hongos <strong>dispersarse</strong> a trav&eacute;s del agua o del aire.</span></span></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+]]></description>
+          <images>
+            <image path="imagenDummy-MotorF.jpg" border="0" pathbig="imagenDummy-MotorF.jpg">
+              <title><![CDATA[Hongo filamentoso de la especie Fusarium verticillioides]]></title>
+            </image>
+          </images>
+        </page>
+      </pages>
+    </section>
+    <section i="0" star="false" hasSubsections="false">
+      <menuImage path="imagenDummy-MotorF.jpg" border="0">
+        <title><![CDATA[Fusión de hifas]]></title>
+      </menuImage>
+      <pages>
+        <page i="0" visible="true" color="">
+          <title>La fusión de hifas en los hongos</title>
+          <description><![CDATA[<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Ciertos <strong>hongos multicelulares</strong> realizan <strong>reproducci&oacute;n sexual</strong>, en la cual&nbsp;se</span></span><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">&nbsp;<strong>fusionan</strong> dos <strong>hifas</strong> de diferentes hongos.</span></span></p>
+
+<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif">Cuando se fusionan los n&uacute;cleos haploides de las dos hifas se forma un nuevo n&uacute;cleo que ahora es <strong>diploide</strong> (contiene dos copias de cada cromosoma), este luego dar&aacute;&nbsp;origen a esporas haploides mediante <strong>meiosis</strong>.&nbsp;</span></span></p>
+
+<p><font face="verdana, geneva, sans-serif"><span style="font-size:20px">En resumen, algunos hongos alternan su reproducci&oacute;n, frente a&nbsp;condiciones estables se&nbsp;reproducen <strong>asexualmente</strong>, mientras que cuando hay&nbsp;cambios en el ambiente, optan por la <strong>reproducci&oacute;n sexual</strong>. Otros hongos solo usan la reproducci&oacute;n asexual.</span></font></p>
+
+<p>&nbsp;</p>
+]]></description>
+          <images>
+            <image path="imagenDummy-MotorF.jpg" border="0" pathbig="imagenDummy-MotorF.jpg">
+              <title><![CDATA[Hifas de un hongo de la especie Neotyphodium coenophialum]]></title>
+            </image>
+          </images>
+        </page>
+      </pages>
+    </section>
+  </sections>
+  <practica actividad="" boton="PRACTICA" boton2="SOLUCIÓN">
+    <pantalla1><![CDATA[<p style="text-align: center;"><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif"><strong>Escribe en la tabla la letra asociada a la descripci&oacute;n correcta y completa las dem&aacute;s casillas.</strong></span></span></p>
+
+<p><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif">Descripciones:</span></span></p>
+
+<ol style="list-style-type:upper-alpha">
+	<li><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif">Las hifas producen esporas haploides que al desarrollarse forman clones del hongo que las gener&oacute;.</span></span></li>
+	<li><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif">Se presenta fusi&oacute;n de las hifas provenientes de dos hongos diferentes.</span></span></li>
+	<li><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif">Las levaduras forman una protuberancia, a partir de la cual se desarrolla un nuevo hongo id&eacute;ntico al que lo origin&oacute;.</span></span></li>
+</ol>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:564px">
+	<tbody>
+		<tr>
+			<td style="height:41px; width:111px">&nbsp;</td>
+			<td style="height:41px; width:118px">
+			<p style="text-align:center"><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif">Descripci&oacute;n</span></span></p>
+
+			<p style="text-align:center"><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif">(A, B &oacute; C)</span></span></p>
+			</td>
+			<td style="height:41px; width:158px">
+			<p style="text-align:center"><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif">Tipo de reproducci&oacute;n</span></span></p>
+
+			<p style="text-align:center"><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif">&nbsp;(sexual / asexual)</span></span></p>
+			</td>
+			<td style="height:41px; width:177px">
+			<p style="text-align:center"><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif">Se da en hongos (unicelulares / multicelulares)</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:111px">
+			<p><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif">Gemaci&oacute;n</span></span></p>
+			</td>
+			<td style="width:118px">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+			</td>
+			<td style="width:158px">
+			<p>&nbsp;</p>
+			</td>
+			<td style="width:177px">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:111px">
+			<p><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif">Esporulaci&oacute;n</span></span></p>
+			</td>
+			<td style="width:118px">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+			</td>
+			<td style="width:158px">
+			<p>&nbsp;</p>
+			</td>
+			<td style="width:177px">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:111px">
+			<p><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif">Fusi&oacute;n de hifas</span></span></p>
+			</td>
+			<td style="width:118px">
+			<p>&nbsp;</p>
+
+			<p>&nbsp;</p>
+			</td>
+			<td style="width:158px">
+			<p>&nbsp;</p>
+			</td>
+			<td style="width:177px">
+			<p>&nbsp;</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+]]></pantalla1>
+    <pantalla2><![CDATA[<div style="page-break-after: always"><span style="display:none">&nbsp;</span></div>
+
+<table border="1" cellpadding="0" cellspacing="0" style="width:564px">
+	<tbody>
+		<tr>
+			<td style="height:41px; width:111px">
+			<p style="text-align:center">&nbsp;</p>
+			</td>
+			<td style="height:41px; width:118px">
+			<p style="text-align:center"><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif">Descripci&oacute;n</span></span></p>
+
+			<p style="text-align:center"><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif">(A, B &oacute; C)</span></span></p>
+			</td>
+			<td style="height:41px; width:158px">
+			<p style="text-align:center"><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif">Tipo de reproducci&oacute;n</span></span></p>
+
+			<p style="text-align:center"><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif">&nbsp;(sexual / asexual)</span></span></p>
+			</td>
+			<td style="height:41px; width:177px">
+			<p style="text-align:center"><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif">Se d&aacute; en hongos (unicelulares / multicelulares)</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:111px">
+			<p style="text-align:center"><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif">Gemaci&oacute;n</span></span></p>
+			</td>
+			<td style="width:118px">
+			<p style="text-align:center"><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif">C</span></span></p>
+
+			<p style="text-align:center">&nbsp;</p>
+			</td>
+			<td style="width:158px">
+			<p style="text-align:center"><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif">Asexual</span></span></p>
+			</td>
+			<td style="width:177px">
+			<p style="text-align:center"><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif">Unicelulares</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:111px">
+			<p style="text-align:center"><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif">Esporulaci&oacute;n</span></span></p>
+			</td>
+			<td style="width:118px">
+			<p style="text-align:center"><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif">A</span></span></p>
+
+			<p style="text-align:center">&nbsp;</p>
+			</td>
+			<td style="width:158px">
+			<p style="text-align:center"><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif">Asexual</span></span></p>
+			</td>
+			<td style="width:177px">
+			<p style="text-align:center"><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif">Multicelulares</span></span></p>
+			</td>
+		</tr>
+		<tr>
+			<td style="width:111px">
+			<p style="text-align:center"><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif">Fusi&oacute;n de hifas</span></span></p>
+			</td>
+			<td style="width:118px">
+			<p style="text-align:center"><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif">B</span></span></p>
+
+			<p style="text-align:center">&nbsp;</p>
+			</td>
+			<td style="width:158px">
+			<p style="text-align:center"><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif">Sexual</span></span></p>
+			</td>
+			<td style="width:177px">
+			<p style="text-align:center"><span style="font-size:16px"><span style="font-family:verdana,geneva,sans-serif">Multicelulares</span></span></p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+]]></pantalla2>
+  </practica>
+</engine>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="2" clase="a" aprid="M2a">
+  <plataforma>
+    <grado><![CDATA[1]]></grado>
+    <titulo>¿Qué sabes sobre energía nuclear?</titulo>
+    <volumen><![CDATA[1]]></volumen>
+    <nivel><![CDATA[1]]></nivel>
+    <referencia><![CDATA[mn_3c_19_08]]></referencia>
+    <id_reg><![CDATA[189]]></id_reg>
+    <motor><![CDATA[M2a]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Completa el texto sobre energía nuclear con las siguientes palabras clave.]]></enunciado>
+  <masinfo inicio="0" />
+  <calc><![CDATA[0]]></calc>
+  <sonido />
+  <textoacategoria>
+    <cuestion>
+      <pregunta><![CDATA[La energía nuclear utiliza el [*] como materia prima. Es un metal [*] que libera su energía interna a través de reacciones [*] que generan una gran cantidad de calor. Dicho calor produce el vapor de agua que necesita la central nuclear para poder obtener [*]. El uranio es una fuente de energía no renovable, con el problema añadido de que genera [*] que emiten [*] perjudiciales para los seres vivos y el medio ambiente durante un período de tiempo muy prolongado.]]></pregunta>
+      <respuestas>
+        <respuesta orden="1"><![CDATA[uranio]]></respuesta>
+        <respuesta orden="2"><![CDATA[radiactivo]]></respuesta>
+        <respuesta orden="3"><![CDATA[nucleares]]></respuesta>
+        <respuesta orden="4"><![CDATA[electricidad]]></respuesta>
+        <respuesta orden="5"><![CDATA[residuos]]></respuesta>
+        <respuesta orden="6"><![CDATA[radiaciones]]></respuesta>
+      </respuestas>
+    </cuestion>
+  </textoacategoria>
+  <textofalso cantidad="0" />
+</motor>

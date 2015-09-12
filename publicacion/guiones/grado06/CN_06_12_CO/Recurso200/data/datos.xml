@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<motor tipo="102" clase="ab" aprid="M102ab">
+  <plataforma>
+    <grado>1</grado>
+    <titulo>Identificación de los tipos de energía</titulo>
+    <volumen />
+    <nivel>2</nivel>
+    <referencia />
+    <motor />
+    <lang>es</lang>
+  </plataforma>
+  <calc>0</calc>
+  <enunciado><![CDATA[Realiza la siguiente actividad, al terminarla envíala para verificarla.]]></enunciado>
+  <masinfo inicio="0" />
+  <textoupload />
+  <adjunto><![CDATA[Principal.html]]></adjunto>
+  <url />
+  <amano><![CDATA[0]]></amano>
+</motor>

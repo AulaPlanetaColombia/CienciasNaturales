@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="viewport" id="viewport" content="initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
+		
+		<!--
+		 ************************************************************************
+		 * Visor Mapas Conceptuales
+		 * Versión: 14.12.16.1
+		 * Autores: Javier Garcés i Jesús Gironés (Sinergia)
+		 * Histórico:
+		 *  - 14.12.16.1:
+		 *	· El botón de ocultar/mostrar aparece un poco mas alto
+		 *	  si no se especifica las tag "botonMapaMudo"/"botonMapaConceptual"
+		 *	  en el xml.
+		 *  - 14.11.28.1:
+		 *	· Eliminar efecto borroso de algunos elementos como
+		 *	  por ejemplo textos al hacer zoom
+		 *  - 14.9.9.1:
+		 *	· Fondo transparente del logo y de la botonera
+		 *	· Quitar path relativo de la inclusión de los js y css
+		 *  - 14.7.24.1:
+		 *	· Aplicada funcionalidad aclarada del botón T
+		 *	· Cambiar estados botones audio mapa conceptual
+		 *	· Aplicada nueva estructura de carpetas
+		 *  - 14.7.3.1
+		 ************************************************************************
+		-->
+		
+		<title>Mapa conceptual</title>
+
+		<link rel="stylesheet" href="motor/css/styles.css?v=14.6.16.1" type="text/css" />
+		
+	
+		<!-- versió min -->
+		<script type="text/javascript" src="extlib/jquery/1_11_1/jquery_1_11_1_min.js"></script>
+		<script type="text/javascript" src="extlib/createjs/2013_12_12/easeljs_0_7_1_min.js"></script>
+		<script type="text/javascript" src="extlib/createjs/2013_12_12/preloadjs_0_4_1_min.js"></script>
+		<script type="text/javascript" src="motor/js/pppmcall_min.js?v=14.12.16.1"></script>
+		<!-- -->
+		
+		<script type="text/javascript">
+			// Inicialitzem el diaporama
+			var mapac = new pppMapaConceptual("container", false);
+			mapac.initMapaConceptual(".");
+		</script>
+		
+	</head>
+	<body>
+		<div id="topcontainer" style="width: 100%; height: 100%; border: 0; margin: 0;">
+			<div class="html_mc">
+				<div class="mc_container">
+					<canvas id="container" width="950" height="608" style="border: 1px solid black;"></canvas>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

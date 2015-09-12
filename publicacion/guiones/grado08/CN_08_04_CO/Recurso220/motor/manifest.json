@@ -1,0 +1,61 @@
+{
+
+    "blocks": [
+            { "type": "css", "files": [
+                { "from": "module", "file": "motor/css/normalize.css" },
+                { "from": "module", "file": "motor/css/main.css" },
+
+                { "from": "CDN", "file": "extlib/calculadora/jquery_calculator.css" }
+            ]},
+
+            { "type": "js", "files": [
+                { "from": "CDN", "file": "extlib/jquery/1_11_1/jquery-1_11_1_min.js" },
+                { "from": "CDN", "file": "extlib/jquery/1_11_1/jquery-ui_min.js" },
+				{ "from": "CDN", "file": "extlib/jquery/1_11_1/jquery-touch-punch_min.js" },
+                { "from": "CDN", "file": "extlib/calculadora/jquery_plugin_min.js" },
+                { "from": "CDN", "file": "extlib/calculadora/jquery_calculator_min.js" },
+                { "from": "CDN", "file": "extlib/calculadora/jquery_calculator-es.js" },
+                { "from": "CDN", "file": "extlib/createjs/2013_12_12/createjs_min.js" },
+                { "from": "CDN", "file": "lib/aulaplaneta/1_0/js/APIWrapper.js" },
+                { "from": "CDN", "file": "lib/aulaplaneta/1_0/js/SCORM.js" },
+
+                { "from": "module", "file": "motor/js/utils.js" },
+                { "from": "module", "file": "motor/js/scorm.js" },
+                { "from": "module", "file": "motor/js/richText.js" },
+                { "from": "module", "file": "motor/js/controlsContenedor.js" },
+                { "from": "module", "file": "motor/js/controlsMotor.js" },
+                { "from": "module", "file": "motor/js/contenedor.js" },
+                { "from": "module", "file": "motor/js/datosXML.js" },
+                { "from": "module", "file": "motor/js/motor.js" },
+                { "from": "module", "file": "motor/js/DOMElementCustom.js" },
+                { "from": "module", "file": "motor/js/lang.js" },
+                { "from": "module", "file": "motor/js/main.js" }
+            ]},
+            
+            { "type": "img", "files": [
+                { "from": "module", "file": "motor/images/tancar.png" },
+                { "from": "module", "file": "motor/images/btnAceptar.png" },
+                { "from": "module", "file": "motor/images/btnCancelar.png" },
+                { "from": "module", "file": "motor/images/btnCorregir.png" },
+                { "from": "module", "file": "motor/images/btnReiniciar.png" },
+                { "from": "module", "file": "motor/images/btnRestaurar.png" },
+                { "from": "module", "file": "motor/images/btnSolucio.png" },
+                { "from": "module", "file": "motor/images/btnSeguent.png" },
+                { "from": "module", "file": "motor/images/paginacioIni.png" },
+                { "from": "module", "file": "motor/images/paginacioFi.png" },
+                { "from": "module", "file": "motor/images/paginacio.png" },
+                { "from": "module", "file": "motor/images/btnValidar.png" },
+
+                { "from": "module", "file": "motor/images/calculadora.png" },
+                { "from": "module", "file": "motor/images/mesInfo.png" },
+                { "from": "module", "file": "motor/images/tancar.png" },
+                { "from": "module", "file": "motor/images/planeta.png" },
+                { "from": "module", "file": "motor/images/check_ok.png" },
+                { "from": "module", "file": "motor/images/check_ko.png" },
+                { "from": "module", "file": "motor/images/ico_zoom.png" },
+                { "from": "module", "file": "motor/images/check_base.png" },
+                { "from": "module", "file": "motor/images/btnAudio.png" }
+                
+            ]}
+    ]
+}

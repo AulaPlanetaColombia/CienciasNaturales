@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<engine copy="Editorial Planeta" version="1" aprid="f6">
+  <main layout="2">
+    <title>La energía solar</title>
+    <footer>Selecciona una imagen</footer>
+  </main>
+  <sections>
+    <section i="0" star="false" hasSubsections="false">
+      <menuImage path="mainMenu_0.jpg" border="0">
+        <title><![CDATA[<p><span>Características</span></p>]]></title>
+      </menuImage>
+      <pages>
+        <page i="0" visible="true" color="#E8E0D9">
+          <title>
+          </title>
+          <description><![CDATA[<p><strong><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-weight: bold; font-size: 18px;">Caracter&iacute;sticas</span></span></strong></p>
+
+<ul>
+	<li><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size: 18px;">Energ&iacute;a lum&iacute;nica.</span></span></li>
+</ul>
+
+<ul>
+	<li><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size: 18px;">Energ&iacute;a calor&iacute;fica.</span></span></li>
+</ul>
+
+<ul>
+	<li><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size: 18px;">Proviene del Sol.</span></span></li>
+</ul>
+
+<ul>
+	<li><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size: 18px;">Llega a la Tierra en forma de radiaci&oacute;n solar.</span></span></li>
+</ul>
+
+<ul>
+	<li><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size: 18px;">Es renovable.</span></span></li>
+</ul>
+]]></description>
+          <images>
+            <image path="section_0_1_page1.jpg" border="0" pathbig="section_0_1_page1_big.jpg">
+              <title><![CDATA[]]></title>
+            </image>
+          </images>
+        </page>
+        <page i="0" visible="true" color="#E8E0D9">
+          <title>
+          </title>
+          <description><![CDATA[<p><strong><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size: 18px;">&iquest;Qu&eacute; ventajas y desventajas tiene la energ&iacute;a solar?</span></span></strong></p>
+]]></description>
+          <images>
+            <image path="section_0_1_page2.jpg" border="0" pathbig="section_0_1_page2_big.jpg">
+              <title><![CDATA[]]></title>
+            </image>
+          </images>
+        </page>
+        <page i="0" visible="true" color="#E8E0D9">
+          <title>
+          </title>
+          <description><![CDATA[<p><strong><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-weight: bold; font-size: 18px;">Ventajas</span></span></strong></p>
+
+<ul>
+	<li><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size: 18px;">No contamina.</span></span></li>
+</ul>
+
+<ul>
+	<li><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size: 18px;">Es una fuente de energ&iacute;a inagotable.</span></span></li>
+</ul>
+
+<ul>
+	<li><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size: 18px;">Su mantenimiento es de bajo costo.</span></span></li>
+</ul>
+
+<ul>
+	<li><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size: 18px;">Puede llegar a cualquier zona del mundo.</span></span></li>
+</ul>
+]]></description>
+          <images>
+            <image path="section_0_1_page3.jpg" border="0" pathbig="section_0_1_page3_big.jpg">
+              <title><![CDATA[]]></title>
+            </image>
+          </images>
+        </page>
+        <page i="0" visible="true" color="#E8E0D9">
+          <title>
+          </title>
+          <description><![CDATA[<p><strong><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-weight: bold; font-size: 18px;">Desventajas</span></span></strong></p>
+
+<p></p>
+
+<ul>
+	<li><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size: 18px;">Las horas de Sol cambian seg&uacute;n la zona y el d&iacute;a.</span></span></li>
+</ul>
+
+<p></p>
+
+<ul>
+	<li><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size: 18px;">Las plantas de energ&iacute;a solar necesitan grandes extensiones de terreno.</span></span></li>
+</ul>
+
+<p></p>
+
+<ul>
+	<li><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size: 18px;">Requiere una gran inversi&oacute;n para su implantaci&oacute;n.</span></span></li>
+</ul>
+
+<p></p>
+
+<ul>
+	<li><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size: 18px;">Los sitios con m&aacute;s horas de Sol al d&iacute;a suelen ser desiertos alejados de las necesidades energ&eacute;ticas.</span></span></li>
+</ul>
+]]></description>
+          <images>
+            <image path="section_0_1_page4.jpg" border="0" pathbig="section_0_1_page4_big.jpg">
+              <title><![CDATA[]]></title>
+            </image>
+          </images>
+        </page>
+      </pages>
+    </section>
+    <section i="0" star="false" hasSubsections="false">
+      <menuImage path="mainMenu_1.jpg" border="0">
+        <title><![CDATA[<p><span>Uso para las plantas</span></p>]]></title>
+      </menuImage>
+      <pages>
+        <page i="0" visible="true" color="#FCDDD6">
+          <title>
+          </title>
+          <description><![CDATA[<p><span style="font-family:tahoma,geneva,sans-serif;"><strong><span style="font-size: 18px;">&iquest;Qu&eacute; uso hacen las plantas de la energ&iacute;a solar?</span></strong></span></p>
+
+<p></p>
+
+<p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size: 13.5pt; line-height: 107%;">Las plantas usan la energ&iacute;a lum&iacute;nica que desprende el Sol, en un proceso llamado <em>fotos&iacute;ntesis</em> para producir su propio alimento.</span></span></p>
+]]></description>
+          <images>
+            <image path="section_1_1_page1.jpg" border="0" pathbig="section_1_1_page1_big.jpg">
+              <title><![CDATA[]]></title>
+            </image>
+          </images>
+        </page>
+      </pages>
+    </section>
+    <section i="0" star="false" hasSubsections="false">
+      <menuImage path="mainMenu_2.jpg" border="0">
+        <title><![CDATA[<p><span>Uso para los animales</span></p>]]></title>
+      </menuImage>
+      <pages>
+        <page i="0" visible="true" color="#D5E8F0">
+          <title>
+          </title>
+          <description><![CDATA[<p><span style="font-family:tahoma,geneva,sans-serif;"><strong><span style="font-size: 18px;">&iquest;Para qu&eacute; usan la energ&iacute;a solar los animales?</span></strong></span></p>
+
+<p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:18px;">Los animales usan la energ&iacute;a calor&iacute;fica que desprende el Sol para mantenerse calientes. Los animales de sangre fr&iacute;a se exponen o se resguardan del Sol para regular su temperatura corporal.</span></span></p>
+
+<p><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:18px;">Por otra parte la luz solar marca ritmos biol&oacute;gicos internos que regulan la actividad, el sue&ntilde;o y la alimentaci&oacute;n.</span></span></p>
+]]></description>
+          <images>
+            <image path="section_2_1_page1.jpg" border="0" pathbig="section_2_1_page1_big.jpg">
+              <title><![CDATA[]]></title>
+            </image>
+          </images>
+        </page>
+      </pages>
+    </section>
+    <section i="0" star="false" hasSubsections="false">
+      <menuImage path="mainMenu_3.jpg" border="0">
+        <title><![CDATA[<p><span>Uso para el ser humano</span></p>]]></title>
+      </menuImage>
+      <pages>
+        <page i="0" visible="true" color="#D3E9DF">
+          <title>
+          </title>
+          <description><![CDATA[<p><span style="font-family:tahoma,geneva,sans-serif;"><strong><span style="font-size: 18px;">&iquest;Para qu&eacute; utiliza el ser humano la energ&iacute;a solar?</span></strong></span></p>
+
+<p><big><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:18px;">El hombre recoge la energ&iacute;a solar por medio de placas fotovoltaicas, transform&aacute;ndola en energ&iacute;a el&eacute;ctrica utilizada principalmente a nivel industrial y a menor escala, a nivel dom&eacute;stico.</span></span></big></p>
+
+<p><big><span style="font-family:tahoma,geneva,sans-serif;"><span style="font-size:18px;">De igual manera, la energ&iacute;a solar t&eacute;rmica se recoge mediante los paneles solares para calentar el agua, utilizada principalmente a nivel dom&eacute;stico.</span></span></big></p>
+]]></description>
+          <images>
+            <image path="section_3_1_page1.jpg" border="0" pathbig="section_3_1_page1_big.jpg">
+              <title><![CDATA[]]></title>
+            </image>
+          </images>
+        </page>
+      </pages>
+    </section>
+  </sections>
+</engine>

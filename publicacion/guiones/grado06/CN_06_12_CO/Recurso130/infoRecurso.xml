@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-80AD8BD9E6744B4EB348FE0014006F38</identificador>
+  <loid>CN_06_12_CO_Recurso130</loid>
+  <titulo>Conoce la energía eólica</titulo>
+  <descripcion>Actividad que plantea cuestiones sobre las características de la energía eólica tras el visionado de una animación</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso sin ficha</tiporecurso>
+  <tiempoestimado>10</tiempoestimado>
+  <acciondidactica>Ejercitación</acciondidactica>
+  <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
+  <tipomedia pesado="false" matricula="">Actividad</tipomedia>
+  <conceptos>
+    <concepto>aerogenerador</concepto>
+    <concepto>electricidad</concepto>
+    <concepto>energía alternativa</concepto>
+    <concepto>energía eólica</concepto>
+    <concepto>energía renovable</concepto>
+    <concepto>generador</concepto>
+    <concepto>motor eólico</concepto>
+    <concepto>palas</concepto>
+    <concepto>parque eólico</concepto>
+    <concepto>rotor</concepto>
+    <concepto>turbina</concepto>
+    <concepto>viento</concepto>
+  </conceptos>
+</metadata>

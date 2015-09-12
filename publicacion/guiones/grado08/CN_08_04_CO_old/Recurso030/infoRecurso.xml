@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-278A176B668041B183FBFB62FAF8F651</identificador>
+  <loid>CN_08_04_CO_Recurso030</loid>
+  <titulo>La reproducción asexual en los seres vivos</titulo>
+  <descripcion>Actividad para identificar las características de los diferentes tipos de reproducción asexual.</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso sin ficha</tiporecurso>
+  <tiempoestimado>15</tiempoestimado>
+  <acciondidactica>Ejercitación</acciondidactica>
+  <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
+  <tipomedia pesado="false" matricula="">Actividad</tipomedia>
+  <conceptos>
+    <concepto>Reproducción asexual</concepto>
+    <concepto>bipartición</concepto>
+    <concepto>gemación</concepto>
+    <concepto>esporulación</concepto>
+    <concepto>fragmentación</concepto>
+    <concepto>partenogénesis</concepto>
+    <concepto>
+    </concepto>
+  </conceptos>
+</metadata>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-86EEE5EEFBA84EA08EDD7FFEA561D50D</identificador>
+  <loid>CN_08_04_CO_Recurso080</loid>
+  <titulo>Los tipos de reproducción de los hongos</titulo>
+  <descripcion>Actividad de reconocimiento de los tipos de reproducción de los hongos.
+</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso sin ficha</tiporecurso>
+  <tiempoestimado>15</tiempoestimado>
+  <acciondidactica>Ejercitación</acciondidactica>
+  <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
+  <tipomedia pesado="false" matricula="">Actividad</tipomedia>
+  <conceptos>
+    <concepto>Reproducción</concepto>
+    <concepto>hongos</concepto>
+    <concepto>hifas</concepto>
+    <concepto>moho</concepto>
+    <concepto>gemación</concepto>
+    <concepto>esporas</concepto>
+  </conceptos>
+</metadata>

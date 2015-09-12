@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-1B5210BEEDF84E578D16330345C7F28A</identificador>
+  <loid>CN_06_12_CO_Recurso220</loid>
+  <titulo>Comparación de las fuentes de energía</titulo>
+  <descripcion>Actividad que propone el desarrollo de las destrezas para comparar las diferentes fuentes de energía renovable</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso sin ficha</tiporecurso>
+  <tiempoestimado>60</tiempoestimado>
+  <acciondidactica>Proyecto</acciondidactica>
+  <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
+  <tipomedia pesado="false" matricula="">Actividad</tipomedia>
+  <conceptos>
+    <concepto>agua</concepto>
+    <concepto>calorífica</concepto>
+    <concepto>comparación</concepto>
+    <concepto>comprensión</concepto>
+    <concepto>contaminación</concepto>
+    <concepto>energía</concepto>
+    <concepto>fuente</concepto>
+    <concepto>limpia</concepto>
+    <concepto>lumínica</concepto>
+    <concepto>química</concepto>
+    <concepto>renovable</concepto>
+    <concepto>Sol</concepto>
+    <concepto>térmica</concepto>
+    <concepto>viento</concepto>
+  </conceptos>
+</metadata>

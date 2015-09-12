@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<metadata xmlns="urn:InfoRecurso">
+  <identificador>RES-A53FB4D8B34E407AA9E45A4017605074</identificador>
+  <loid>CN_06_12_CO_Recurso030</loid>
+  <titulo>Características de la energía</titulo>
+  <descripcion>Actividad que consiste en completar un texto que relaciona las características de la energía</descripcion>
+  <relacionado>0</relacionado>
+  <tiporecurso>Recurso sin ficha</tiporecurso>
+  <tiempoestimado>15</tiempoestimado>
+  <acciondidactica>Ejercitación</acciondidactica>
+  <competencia>Competencia en el conocimiento y la interacción con el mundo físico</competencia>
+  <tipomedia pesado="false" matricula="">Actividad</tipomedia>
+  <conceptos>
+    <concepto>energía</concepto>
+    <concepto>conserva</concepto>
+    <concepto>transforma</concepto>
+    <concepto>transfiere</concepto>
+    <concepto>calor</concepto>
+    <concepto>trabajo</concepto>
+    <concepto>degrada.</concepto>
+  </conceptos>
+</metadata>

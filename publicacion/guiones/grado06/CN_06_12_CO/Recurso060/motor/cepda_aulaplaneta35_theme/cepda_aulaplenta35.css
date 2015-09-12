@@ -1,0 +1,156 @@
+﻿/**********************************************************************************
+ * aulaplaneta - Tema aulaPlaneta para el diaporama
+ *
+ * Version 4.12.9.1
+ *
+ *********************************************************************************/
+ 
+/*----------------------------------------------*/
+/* Configuracion general del tema */
+/*----------------------------------------------*/
+.cepda-diaporama.aulaplaneta35 {
+}
+
+/*----------------------------------------------*/
+/* Configuracion watermark */
+/*----------------------------------------------*/
+.cepda-diaporama.aulaplaneta35 .watermark {
+	width: 63px;
+	height: 60px;
+	background: transparent url(aulaplaneta_theme.png) -290px -10px;
+}
+
+/*----------------------------------------------*/
+/* Configuracion general de los <button>s */
+/*----------------------------------------------*/
+.cepda-diaporama.aulaplaneta35 button {
+	margin: 0;
+	width: 35px;
+	height: 35px;
+	text-indent:-9999px;
+	color: transparent;
+	cursor: pointer;
+	border: 0px solid #000;
+	outline: none;
+}
+
+/* cuando se pasa por encima o tienen el foco */
+.cepda-diaporama.aulaplaneta35 button:hover, .cepda-diaporama.aulaplaneta35 button:focus {
+	outline: none;
+}
+/* cuando el boton esta activo */
+.cepda-diaporama.aulaplaneta35 button:active button:enabled {
+	outline: none;
+}
+/* cuando el boton esta desactivado */
+.cepda-diaporama.aulaplaneta35 button:disabled, .cepda-diaporama.aulaplaneta35 button:disabled {
+	cursor: default;
+	outline: none;
+}
+
+/*----------------------------------------------*/
+/* Boton de Home */
+/*----------------------------------------------*/
+/* boton normal black */
+.cepda-diaporama.aulaplaneta35 .cepda-home-button {
+	background: transparent url(aulaplaneta_theme.png) -5px -5px;
+}
+
+/* boton normal white */
+.cepda-diaporama.aulaplaneta35.white .cepda-home-button {
+	background: transparent url(aulaplaneta_theme.png) -5px -45px;
+}
+
+/*----------------------------------------------*/
+/* Boton de Prev */
+/*----------------------------------------------*/
+/* boton normal black */
+.cepda-diaporama.aulaplaneta35 .cepda-prev-button {
+	background: transparent url(aulaplaneta_theme.png) -45px -5px;
+	margin-left: 25px;
+}
+
+/* boton normal white */
+.cepda-diaporama.aulaplaneta35.white .cepda-prev-button {
+	background: transparent url(aulaplaneta_theme.png) -45px -45px;
+	margin-left: 25px;
+}
+
+/*----------------------------------------------*/
+/* Boton de Next */
+/*----------------------------------------------*/
+/* boton normal black */
+.cepda-diaporama.aulaplaneta35 .cepda-next-button {
+	background: transparent url(aulaplaneta_theme.png) -85px -5px;
+	margin-left: 15px;
+}
+
+/* boton normal white */
+.cepda-diaporama.aulaplaneta35.white .cepda-next-button {
+	background: transparent url(aulaplaneta_theme.png) -85px -45px;
+	margin-left: 15px;
+}
+
+/*----------------------------------------------*/
+/* Boton de Play/Pause */
+/*----------------------------------------------*/
+/* boton home en estado normal black */
+.cepda-diaporama.aulaplaneta35 .cepda-play-button {
+	background: transparent url(aulaplaneta_theme.png) -125px -5px;
+	margin-left: 25px;
+}
+
+/* boton play en estado picado black */
+.cepda-diaporama.aulaplaneta35 .cepda-pause-button {
+	background: transparent url(aulaplaneta_theme.png) -165px -5px;
+	margin-left: 25px;
+}
+
+/* boton home en estado normal white */
+.cepda-diaporama.aulaplaneta35.white .cepda-play-button {
+	background: transparent url(aulaplaneta_theme.png) -125px -45px;
+	margin-left: 25px;
+}
+
+/* boton play en estado picado white */
+.cepda-diaporama.aulaplaneta35.white .cepda-pause-button {
+	background: transparent url(aulaplaneta_theme.png) -165px -45px;
+	margin-left: 25px;
+}
+
+/*----------------------------------------------*/
+/* Boton de Mute On/Off */
+/*----------------------------------------------*/
+/* boton home en estado normal black */
+.cepda-diaporama.aulaplaneta35 .cepda-muteoff-button {
+	background: transparent url(aulaplaneta_theme.png) -245px -5px;
+	margin-left: 25px;
+}
+
+/* boton play en estado picado black */
+.cepda-diaporama.aulaplaneta35 .cepda-muteon-button {
+	background: transparent url(aulaplaneta_theme.png) -205px -5px;
+	margin-left: 25px;
+}
+
+/* boton home en estado normal white */
+.cepda-diaporama.aulaplaneta35.white .cepda-muteon-button {
+	background: transparent url(aulaplaneta_theme.png) -245px -45px;
+	margin-left: 25px;
+}
+
+/* boton play en estado picado white */
+.cepda-diaporama.aulaplaneta35.white .cepda-muteoff-button {
+	background: transparent url(aulaplaneta_theme.png) -205px -45px;
+	margin-left: 25px;
+}
+
+
+/* COMO USAR
+	<!-- definir como -->
+	<button class="cepda-play-button">Play</button>
+	<!-- afegir tema --->
+	<button class="cepda-play-button cepda-diaporama.aulaplaneta35">Play</button>
+	<!-- afegir tema blanc --->
+	<button class="cepda-play-button cepda-diaporama.aulaplaneta35 white">Play</button>
+*/
