@@ -1,8 +1,0 @@
-[module]
-id=diaporama
-desc=Visor de diaporamas
-aprid=diaporama
-version=15.7.1.1
-entrypoint=principal.html
-dependencies=principal.dep
-mainfolder=motor
