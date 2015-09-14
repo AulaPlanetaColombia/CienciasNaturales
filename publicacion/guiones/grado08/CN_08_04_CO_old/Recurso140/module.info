@@ -1,9 +1,0 @@
-[module]
-id=f7b
-desc=Motor F7B
-aprid=f7b
-version=14.12.11.1
-folder=motor
-entrypoint=principal.html
-dependencies=principal.dep
-

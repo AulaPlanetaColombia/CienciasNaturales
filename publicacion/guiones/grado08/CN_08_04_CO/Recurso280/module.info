@@ -1,9 +1,0 @@
-[module]
-id=m101a
-desc=Motor M101a
-aprid=m101a
-version=1.0
-folder=motor
-entrypoint=principal.html
-dependencies=
-

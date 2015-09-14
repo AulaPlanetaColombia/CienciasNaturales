@@ -1,9 +1,0 @@
-[module]
-id=m2c
-desc=Motor M2c
-aprid=m2c
-version=1.0
-folder=motor
-entrypoint=principal.html
-dependencies=
-
