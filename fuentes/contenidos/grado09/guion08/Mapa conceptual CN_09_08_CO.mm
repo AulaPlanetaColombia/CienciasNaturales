@@ -8,7 +8,7 @@
 <node CREATED="1439071926601" ID="ID_1743558675" MODIFIED="1439073060532" POSITION="right" TEXT="se relaciona con">
 <icon BUILTIN="idea"/>
 <node CREATED="1439071940741" ID="ID_1283498061" MODIFIED="1439073588897" TEXT="Los centros de origen de las especies"/>
-<node CREATED="1439071969261" ID="ID_556187020" MODIFIED="1439073602022" TEXT="Las zonas de distribuci&#xf3;n de las especies">
+<node CREATED="1439071969261" ID="ID_556187020" MODIFIED="1442250363721" TEXT="Las zonas de distribuci&#xf3;n de las especies">
 <node CREATED="1439072056558" ID="ID_420565537" MODIFIED="1439073077907" TEXT="determinadas por ">
 <icon BUILTIN="idea"/>
 <node CREATED="1439072071948" ID="ID_1960116963" MODIFIED="1439072107565" TEXT="Factores hist&#xf3;ricos">
