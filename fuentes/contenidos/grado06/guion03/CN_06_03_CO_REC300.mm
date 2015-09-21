@@ -65,9 +65,6 @@
 <node CREATED="1425759847827" ID="ID_759463302" MODIFIED="1440773423930" TEXT="unicelulares procariotas">
 <edge COLOR="#009900"/>
 </node>
-<node CREATED="1425759900032" ID="ID_1591528487" MODIFIED="1440773420522" TEXT="pueden vivir en ambientes extremos">
-<edge COLOR="#009900"/>
-</node>
 </node>
 </node>
 <node CREATED="1425759768542" ID="ID_517760529" MODIFIED="1442391759739" TEXT="bacteria">
@@ -77,9 +74,6 @@
 <node CREATED="1425759936438" ID="ID_265998950" MODIFIED="1440773487338" TEXT="unicelulares procariotas">
 <edge COLOR="#009900"/>
 </node>
-<node CREATED="1425759994505" ID="ID_884764638" MODIFIED="1440778043903" TEXT="cosmop&#xf3;litas">
-<edge COLOR="#009900"/>
-</node>
 </node>
 </node>
 <node CREATED="1425759806146" HGAP="-24" ID="ID_1424869651" MODIFIED="1442391755552" TEXT="eucaria" VSHIFT="24">
@@ -87,9 +81,6 @@
 <node CREATED="1440774081634" ID="ID_632199938" MODIFIED="1440774204067" TEXT="son">
 <icon BUILTIN="idea"/>
 <node CREATED="1425760006964" ID="ID_100291380" MODIFIED="1440773895201" TEXT="unicelulares o multicelulares eucariotas">
-<edge COLOR="#009900"/>
-</node>
-<node CREATED="1425759994505" ID="ID_1727897808" MODIFIED="1440778047635" TEXT="cosmop&#xf3;litas">
 <edge COLOR="#009900"/>
 </node>
 </node>
