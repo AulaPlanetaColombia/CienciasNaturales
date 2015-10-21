@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node COLOR="#ff3333" CREATED="1426419359821" ID="ID_1721429089" MODIFIED="1445358506810" STYLE="bubble" TEXT="LA NUTRICION EN LOS SERES VIVOS">
+<node COLOR="#ff3333" CREATED="1426419359821" ID="ID_1721429089" MODIFIED="1445457422727" STYLE="bubble" TEXT="LA NUTRICI&#xd3;N EN LOS SERES VIVOS">
 <edge COLOR="#ff3333"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1445209152185" ID="ID_1246351644" MODIFIED="1445356911649" POSITION="left" TEXT="les permite">
@@ -72,7 +72,7 @@
 <node CREATED="1429565024689" HGAP="25" ID="ID_1736790948" MODIFIED="1445357247888" TEXT="la cual consiste en " VSHIFT="-2">
 <icon BUILTIN="idea"/>
 <node CREATED="1426946527302" HGAP="24" ID="ID_752635519" MODIFIED="1440599775628" TEXT="la obtenci&#xf3;n del alimento a partir de otros organismos" VSHIFT="4">
-<node CREATED="1440601055111" ID="ID_205638441" MODIFIED="1440604194589" TEXT="la cual pueden realizar siendo">
+<node CREATED="1440601055111" ID="ID_205638441" MODIFIED="1445457335320" TEXT="que seg&#xfa;n la forma de alimentarse pueden ser">
 <icon BUILTIN="idea"/>
 <node CREATED="1440601081758" ID="ID_652631933" MODIFIED="1440601172413" TEXT="herb&#xed;voros ">
 <node CREATED="1440601138754" ID="ID_1663785618" MODIFIED="1440601175966" TEXT="los cuales se alimentan de">
