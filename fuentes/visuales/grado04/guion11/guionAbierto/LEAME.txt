@@ -1,5 +1,0 @@
-//********************\\
-||        LÉAME       ||
-\\********************//
-
-En esta carpeta deberá extraer el guión original, tal como se descargó de GRECO. Y es en esta carpeta donde deberá usar el programa Escriba para modificar y ajustar dicho guión. Luego de finalizado el proceso de montaje y edición del contenidos el guión, deberá comprimirse en un ZIP y ubicado en la carpeta publicacion, en la posición correspondiente.
