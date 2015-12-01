@@ -1,12 +1,12 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node COLOR="#ff3333" CREATED="1426419359821" ID="ID_1721429089" MODIFIED="1445457422727" STYLE="bubble" TEXT="LA NUTRICI&#xd3;N EN LOS SERES VIVOS">
+<node COLOR="#ff3333" CREATED="1426419359821" ID="ID_1721429089" MODIFIED="1448658129021" STYLE="bubble" TEXT="La nutrici&#xf3;n de los seres vivos">
 <edge COLOR="#ff3333"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1445209152185" ID="ID_1246351644" MODIFIED="1445356911649" POSITION="left" TEXT="les permite">
 <icon BUILTIN="idea"/>
 <node CREATED="1445209207447" ID="ID_557485146" MODIFIED="1445357212639" TEXT="Obtener energ&#xed;a, reparar estructuras y desempe&#xf1;ar sus funciones vitales">
-<node COLOR="#000000" CREATED="1440594592736" ID="ID_1625119932" MODIFIED="1440595158617" TEXT="para ello requieren obtener">
+<node COLOR="#000000" CREATED="1440594592736" ID="ID_1625119932" MODIFIED="1448655130258" TEXT="para ello requieren">
 <icon BUILTIN="idea"/>
 <node CREATED="1440595171745" ID="ID_1036915159" MODIFIED="1440599920164" TEXT="bioelementos">
 <node CREATED="1440597924527" ID="ID_1885703416" MODIFIED="1447519137406" TEXT="los cuales se dividen en">
@@ -35,7 +35,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1439073033710" ID="ID_422299969" MODIFIED="1445357279822" TEXT="esta la tienen">
+<node CREATED="1439073033710" ID="ID_422299969" MODIFIED="1448658148209" TEXT="propia de">
 <icon BUILTIN="idea"/>
 <node CREATED="1439073049172" ID="ID_1151064907" MODIFIED="1445357284680" TEXT="las plantas"/>
 <node CREATED="1439073056977" ID="ID_1255979556" MODIFIED="1440594394355" TEXT="algunos microorganismos">
@@ -67,7 +67,7 @@
 <node CREATED="1429565024689" HGAP="25" ID="ID_1736790948" MODIFIED="1445357247888" TEXT="la cual consiste en " VSHIFT="-2">
 <icon BUILTIN="idea"/>
 <node CREATED="1426946527302" HGAP="24" ID="ID_752635519" MODIFIED="1440599775628" TEXT="la obtenci&#xf3;n del alimento a partir de otros organismos" VSHIFT="4">
-<node CREATED="1440601055111" ID="ID_205638441" MODIFIED="1447520142291" TEXT="que seg&#xfa;n la forma de alimentarse pueden ser">
+<node CREATED="1440601055111" ID="ID_205638441" MODIFIED="1448655263625" TEXT="y, seg&#xfa;n su dieta, son">
 <icon BUILTIN="idea"/>
 <node CREATED="1440601081758" ID="ID_652631933" MODIFIED="1447519021923" TEXT="herb&#xed;voros"/>
 <node CREATED="1440601111062" ID="ID_1524930237" MODIFIED="1440601204917" TEXT="carn&#xed;voros "/>
@@ -76,7 +76,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1439073070978" ID="ID_1786245460" MODIFIED="1445357307990" TEXT="esta la tienen">
+<node CREATED="1439073070978" ID="ID_1786245460" MODIFIED="1448658152421" TEXT="propia de">
 <icon BUILTIN="idea"/>
 <node CREATED="1439073078307" ID="ID_282423785" MODIFIED="1445357312292" TEXT="los animales"/>
 <node CREATED="1439073101406" ID="ID_1457276782" MODIFIED="1440602792733" TEXT="algunos microorganismos">
