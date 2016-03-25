@@ -1,7 +1,52 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1429478943981" ID="ID_846309099" MODIFIED="1438143910968" TEXT="La clasificaci&#xf3;n biol&#xf3;gica">
-<node CREATED="1438143521626" HGAP="17" ID="ID_290943771" MODIFIED="1438143993320" POSITION="left" TEXT="reconoce" VSHIFT="-43">
+<node CREATED="1438143912439" HGAP="11" ID="ID_1045045344" MODIFIED="1438145636865" POSITION="left" TEXT="usa" VSHIFT="26">
+<icon BUILTIN="idea"/>
+<node CREATED="1438143918025" ID="ID_1811855049" MODIFIED="1438143927620" TEXT="Categor&#xed;as taxon&#xf3;micas">
+<node CREATED="1438143927621" ID="ID_359819203" MODIFIED="1438144259018" TEXT="son">
+<icon BUILTIN="idea"/>
+<node CREATED="1429480705459" ID="ID_1284454368" MODIFIED="1438144162192">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      -Dominio
+    </p>
+    <p>
+      -Reino
+    </p>
+    <p>
+      -Divisi&#243;n
+    </p>
+    <p>
+      -Clase
+    </p>
+    <p>
+      -Orden
+    </p>
+    <p>
+      -Familia
+    </p>
+    <p>
+      -G&#233;nero
+    </p>
+    <p>
+      -Especie
+    </p>
+  </body>
+</html></richcontent>
+<arrowlink DESTINATION="ID_1284454368" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_853659725" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1284454368" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_853659725" SOURCE="ID_1284454368" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<node CREATED="1438144274556" ID="ID_768375005" MODIFIED="1438144465288" TEXT="de las cuales">
+<icon BUILTIN="idea"/>
+<node CREATED="1438144280945" ID="ID_1084772549" MODIFIED="1438144479418" TEXT="La &#xfa;nica categor&#xed;a natural es la especie"/>
+</node>
+</node>
+</node>
+<node CREATED="1438143521626" HGAP="15" ID="ID_290943771" MODIFIED="1443545572172" TEXT="contenidas en">
 <icon BUILTIN="idea"/>
 <node CREATED="1438143527218" ID="ID_1675858033" MODIFIED="1438143576091" TEXT="Tres dominios de la naturaleza">
 <node CREATED="1438143576092" ID="ID_906045730" MODIFIED="1438143641929" TEXT="son">
@@ -43,57 +88,10 @@
       -Animalia (animales)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 </node>
-</node>
-</node>
-</node>
-<node CREATED="1438143912439" HGAP="11" ID="ID_1045045344" MODIFIED="1438145636865" POSITION="left" TEXT="usa" VSHIFT="26">
-<icon BUILTIN="idea"/>
-<node CREATED="1438143918025" ID="ID_1811855049" MODIFIED="1438143927620" TEXT="Categor&#xed;as taxon&#xf3;micas">
-<node CREATED="1438143927621" ID="ID_359819203" MODIFIED="1438144259018" TEXT="son">
-<icon BUILTIN="idea"/>
-<node CREATED="1429480705459" ID="ID_1284454368" MODIFIED="1438144162192">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      -Dominio
-    </p>
-    <p>
-      -Reino
-    </p>
-    <p>
-      -Divisi&#243;n
-    </p>
-    <p>
-      -Clase
-    </p>
-    <p>
-      -Orden
-    </p>
-    <p>
-      -Familia
-    </p>
-    <p>
-      -G&#233;nero
-    </p>
-    <p>
-      -Especie
-    </p>
-  </body>
-</html>
-</richcontent>
-<arrowlink DESTINATION="ID_1284454368" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_853659725" STARTARROW="None" STARTINCLINATION="0;0;"/>
-<linktarget COLOR="#b0b0b0" DESTINATION="ID_1284454368" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_853659725" SOURCE="ID_1284454368" STARTARROW="None" STARTINCLINATION="0;0;"/>
-<node CREATED="1438144274556" ID="ID_768375005" MODIFIED="1438144465288" TEXT="de las cuales">
-<icon BUILTIN="idea"/>
-<node CREATED="1438144280945" ID="ID_1084772549" MODIFIED="1438144479418" TEXT="La &#xfa;nica categor&#xed;a natural es la especie"/>
 </node>
 </node>
 </node>
@@ -104,32 +102,42 @@
 <node CREATED="1438144584152" HGAP="26" ID="ID_589407911" MODIFIED="1438145791734" TEXT="Diversos modelos de clasificaci&#xf3;n" VSHIFT="-67">
 <node CREATED="1438144647869" ID="ID_1759513894" MODIFIED="1438145174862" TEXT="destacando">
 <icon BUILTIN="idea"/>
-<node CREATED="1438144652607" HGAP="25" ID="ID_1818542749" MODIFIED="1438146047394" TEXT="El modelo tradicional de clasificaci&#xf3;n" VSHIFT="-35">
-<node CREATED="1438144694619" HGAP="25" ID="ID_428766109" MODIFIED="1438145773969" TEXT="propuesto por" VSHIFT="-39">
-<icon BUILTIN="idea"/>
-<node CREATED="1438144701055" ID="ID_1266056963" MODIFIED="1438144727977" TEXT="Robert Whittaker">
-<node CREATED="1438144739370" ID="ID_1749193895" MODIFIED="1438145077998" TEXT="planeta">
-<icon BUILTIN="idea"/>
-<node CREATED="1438144841003" ID="ID_239142955" MODIFIED="1438144893107">
+<node CREATED="1438144652607" HGAP="31" ID="ID_1818542749" MODIFIED="1458872969383" VSHIFT="-2">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Cinco reinos naturales:
+      -Modelo tradicional de Whittaker (obsoleto)
+    </p>
+  </body>
+</html>
+</richcontent>
+<arrowlink DESTINATION="ID_1818542749" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_120147946" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1818542749" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_120147946" SOURCE="ID_1818542749" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<node CREATED="1458872970328" ID="ID_1692716219" MODIFIED="1458872994160" TEXT="incluye">
+<icon BUILTIN="idea"/>
+<node CREATED="1458872976904" ID="ID_66109946" MODIFIED="1458873049736">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      - reino M&#243;nera
     </p>
     <p>
-      -M&#243;nera (que incluye a todos los organismos procariotas)
+      - reino Protista
     </p>
     <p>
-      -Plantas
+      - reino Fungi
     </p>
     <p>
-      -Hongos
+      - reino Plantae
     </p>
     <p>
-      -Animales
+      - reino Animalia
     </p>
   </body>
 </html>
@@ -137,37 +145,28 @@
 </node>
 </node>
 </node>
-</node>
-<node CREATED="1438145812728" ID="ID_1933788365" MODIFIED="1438145817024" TEXT="considerado">
+<node CREATED="1458872948040" ID="ID_1048330052" MODIFIED="1458872951234" TEXT="-Modelo moderno de Woese (actualmente vigente)">
+<node CREATED="1458873053578" ID="ID_627807367" MODIFIED="1458873057635" TEXT="incluye">
 <icon BUILTIN="idea"/>
-<node CREATED="1438145818516" ID="ID_1895905152" MODIFIED="1438145865745" TEXT="Un sistema obsoleto"/>
-</node>
-</node>
-<node CREATED="1438144899457" HGAP="21" ID="ID_1083082094" MODIFIED="1438146039292" TEXT="El modelo moderno de clasificaci&#xf3;n" VSHIFT="27">
-<node CREATED="1438144924134" HGAP="34" ID="ID_1587895302" MODIFIED="1438145967879" TEXT="propuesto por" VSHIFT="-30">
-<icon BUILTIN="idea"/>
-<node CREATED="1438144932659" ID="ID_527696216" MODIFIED="1438144978009" TEXT="Carl Woese y colaboradores">
-<node CREATED="1438144978010" ID="ID_1720949818" MODIFIED="1438144986610" TEXT="plantea">
-<icon BUILTIN="idea"/>
-<node CREATED="1438144991405" ID="ID_1779037693" MODIFIED="1438145025926">
+<node CREATED="1458873059475" ID="ID_1740032006" MODIFIED="1458873179866">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Tres dominios de la naturaleza: arqueas, bacterias y eucariotas
+      - dominio Bacteria (reino Eubacteria)
+    </p>
+    <p>
+      - dominio Archaea (reino Archeobacteria)
+    </p>
+    <p>
+      - dominio Eukarya (reinos Protista, Fungi, Plantae y Animalia)
     </p>
   </body>
 </html>
 </richcontent>
 </node>
-</node>
-</node>
-</node>
-<node CREATED="1438145802856" HGAP="36" ID="ID_1705309232" MODIFIED="1438146015804" TEXT="es" VSHIFT="26">
-<icon BUILTIN="idea"/>
-<node CREATED="1438145987904" ID="ID_429551044" MODIFIED="1438146008076" TEXT="El sistema actualmente aceptado"/>
 </node>
 </node>
 </node>
@@ -177,12 +176,7 @@
 <linktarget COLOR="#b0b0b0" DESTINATION="ID_1461755014" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1422766174" SOURCE="ID_1461755014" STARTARROW="None" STARTINCLINATION="0;0;"/>
 <node CREATED="1438145490859" ID="ID_759403284" MODIFIED="1438145665465" TEXT="ajustadas a">
 <icon BUILTIN="idea"/>
-<node CREATED="1438145503985" ID="ID_758801276" MODIFIED="1438145729477" TEXT="El sistema de nomenclatura binomial">
-<node CREATED="1438145523584" ID="ID_71327058" MODIFIED="1438145532406" TEXT="propuesta por">
-<icon BUILTIN="idea"/>
-<node CREATED="1438145543014" ID="ID_1545138219" MODIFIED="1438145559468" TEXT="Carl Von Linneo"/>
-</node>
-</node>
+<node CREATED="1438145503985" ID="ID_758801276" MODIFIED="1438145729477" TEXT="El sistema de nomenclatura binomial"/>
 </node>
 </node>
 </node>
