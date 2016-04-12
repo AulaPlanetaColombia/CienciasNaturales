@@ -52,7 +52,7 @@
 <node CREATED="1454891588717" ID="ID_1620914126" MODIFIED="1454895965305" TEXT="plantas">
 <node CREATED="1454895966531" ID="ID_1924963861" MODIFIED="1454896287795" TEXT="y se realiza por medio de">
 <icon BUILTIN="idea"/>
-<node CREATED="1454891787268" ID="ID_500949175" MODIFIED="1454891816797">
+<node CREATED="1454891787268" ID="ID_500949175" MODIFIED="1460412362313">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -67,8 +67,12 @@
     <p>
       - hid&#225;todos
     </p>
+    <p>
+      - gl&#225;ndulas de sal
+    </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 </node>
 </node>
 </node>
@@ -106,7 +110,7 @@
 <node CREATED="1454896337269" ID="ID_108300180" MODIFIED="1454896419175" TEXT="vertebrados">
 <node CREATED="1454896532817" ID="ID_813440052" MODIFIED="1454896593058" TEXT="y se realiza por medio de">
 <icon BUILTIN="idea"/>
-<node CREATED="1454896539365" ID="ID_525518350" MODIFIED="1454896570413">
+<node CREATED="1454896539365" ID="ID_525518350" MODIFIED="1460412435888">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -121,11 +125,36 @@
     <p>
       - el h&#237;gado
     </p>
+  </body>
+</html>
+</richcontent>
+</node>
+<node CREATED="1460412422336" ID="ID_1618231848" MODIFIED="1460412429710" TEXT="- el sistema urinario">
+<node CREATED="1460412442049" ID="ID_1524984322" MODIFIED="1460412448573" TEXT="compuesto por">
+<icon BUILTIN="idea"/>
+<node CREATED="1460412450461" ID="ID_1541184125" MODIFIED="1460412516501">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
     <p>
-      - el sistema urinario
+      - los ri&#241;ones
+    </p>
+    <p>
+      - los ur&#233;teres
+    </p>
+    <p>
+      - la vejiga
+    </p>
+    <p>
+      - la uretra
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
+</node>
+</node>
 </node>
 </node>
 </node>
