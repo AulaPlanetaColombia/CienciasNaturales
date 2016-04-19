@@ -1,0 +1,18 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<motor tipo="102" clase="ab" aprid="m102ab">
+<plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Competencias: análisis de la distribución geográfica de los tapires</titulo>
+    <volumen><![CDATA[1]]></volumen>
+    <nivel><![CDATA[1]]></nivel>
+    <referencia><![CDATA[EX_PLANTILLA_M102AB]]></referencia>
+    <motor><![CDATA[M102ab]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Realiza la siguiente actividad. Cuando termines, envíala para que pueda validarse.]]></enunciado>
+  <masinfo inicio="0"/>
+  <textoupload/>
+  <adjunto><![CDATA[Principal.html]]></adjunto>
+  <url/>
+  <amano><![CDATA[0]]></amano>
+</motor>

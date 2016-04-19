@@ -1,0 +1,67 @@
+{
+	"blocks" : [
+		{ "type" : "css", "files":  [
+			{ "from" : "module", "file" : "lib/cepdamediaplayer/1_1/css/cepdamediaplayer_base.css" },
+			{ "from" : "module", "file" : "lib/cepdamediaplayer/1_1/cepda_aulaplaneta_theme/cepda_aulaplaneta_small.css" },
+			{ "from" : "module", "file" : "motor/css/style_actividad.css" }
+		] },
+		{ "type" : "js", "files": [
+			{ "from" : "CDN", "file" : "extlib/jquery/1_11_1/jquery_1_11_1_min.js" },
+			{ "from" : "CDN", "file" : "extlib/jquery_form/20130711/jquery_form_min.js" },
+			{ "from" : "CDN", "file" : "extlib/pdfobject/1_2/pdfobject.js" },
+			{ "from" : "CDN", "file" : "extlib/swfobject/2_3/swfobject.js" },
+
+			{ "from" : "CDN", "file" : "motor/js/XAll-min.js" },
+			{ "from" : "CDN", "file" : "motor/js/lang.js" },
+
+			{ "from" : "CDN", "file" : "lib/aulaplaneta/1_0/js/APIWrapper.js" },
+			{ "from" : "CDN", "file" : "lib/aulaplaneta/1_0/js/SCORM.js" },
+
+			{ "from" : "CDN", "file" : "lib/cepdamediaplayer/1_1/js/jquery_ui_1_10_4_custom_min.js" },
+			{ "from" : "CDN", "file" : "lib/cepdamediaplayer/1_1/js/jquery_ui_1_10_4_slider_scale.js" },
+			{ "from" : "CDN", "file" : "lib/cepdamediaplayer/1_1/js/jquery_cepdamediaplayer.js" },
+
+			{ "from" : "CDN", "file" : "motor/js/motor.js" },
+			{ "from" : "CDN", "file" : "motor/js/cepdamediainit.js" }
+		]},
+		{ "type" : "img", "files": [
+			{ "from" : "module", "file" : "motor/images/add_nota_popup.png"},
+			{ "from" : "module", "file" : "motor/images/alerta.png"},
+			{ "from" : "module", "file" : "motor/images/aula-planeta-logo.jpg"},
+			{ "from" : "module", "file" : "motor/images/bigrotation2.gif"},
+			{ "from" : "module", "file" : "motor/images/cerrar-ico.jpg"},
+			{ "from" : "module", "file" : "motor/images/check_radio_sheet.png"},
+			{ "from" : "module", "file" : "motor/images/corregir_bt.jpg"},
+			{ "from" : "module", "file" : "motor/images/corregir_bt.png"},
+			{ "from" : "module", "file" : "motor/images/corregir_bt_des.jpg"},
+			{ "from" : "module", "file" : "motor/images/corregir_bt_hover.jpg"},
+			{ "from" : "module", "file" : "motor/images/corregir_bt_hover.png"},
+			{ "from" : "module", "file" : "motor/images/crear_ejercicio_popup.png"},
+			{ "from" : "module", "file" : "motor/images/desc_ico.png"},
+			{ "from" : "module", "file" : "motor/images/descarga.jpg"},
+			{ "from" : "module", "file" : "motor/images/descargar_alumno_bt_off.png"},
+			{ "from" : "module", "file" : "motor/images/descargar_alumno_bt_on.png"},
+			{ "from" : "module", "file" : "motor/images/descargar_bt.png"},
+			{ "from" : "module", "file" : "motor/images/descargar_bt_off.png"},
+			{ "from" : "module", "file" : "motor/images/descargar_bt_on.png"},
+			{ "from" : "module", "file" : "motor/images/full_bt.png"},
+			{ "from" : "module", "file" : "motor/images/ico_audio.png"},
+			{ "from" : "module", "file" : "motor/images/ico_doc.png"},
+			{ "from" : "module", "file" : "motor/images/ico_other.png"},
+			{ "from" : "module", "file" : "motor/images/ico_pdf.jpg"},
+			{ "from" : "module", "file" : "motor/images/iconos-01.png"},
+			{ "from" : "module", "file" : "motor/images/iconos-03.png"},
+			{ "from" : "module", "file" : "motor/images/iconos-04.png"},
+			{ "from" : "module", "file" : "motor/images/iconos-06.png"},
+			{ "from" : "module", "file" : "motor/images/iconos-07.png"},
+			{ "from" : "module", "file" : "motor/images/pico.png"},
+			{ "from" : "module", "file" : "motor/images/popup-b-cancelar.png"},
+			{ "from" : "module", "file" : "motor/images/popup-bg-button.png"},
+			{ "from" : "module", "file" : "motor/images/subir-proyecto.jpg"},
+			{ "from" : "module", "file" : "motor/images/subir-proyecto.png"},
+			{ "from" : "module", "file" : "motor/images/subir-proyecto_des.jpg"},
+			{ "from" : "module", "file" : "motor/images/subir-proyecto_hover.jpg"},
+			{ "from" : "module", "file" : "motor/images/trabajo_ico.jpg"}
+		]}
+	]
+}
