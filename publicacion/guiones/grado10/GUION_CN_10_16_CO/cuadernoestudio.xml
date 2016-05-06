@@ -1,0 +1,815 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<libro id="CN_10_16_CO">
+<libroTitulo>La termodinámica, la cinética y el equilibrio químico</libroTitulo>
+<seccion1 id="S1_CN_10_16_CO_8A5F24F3DADF4AD5BB96DCDD5A083406">
+<seccion1Titulo>La termodinámica</seccion1Titulo>
+<seccion1Texto>
+<p>La <negrita>termodinámica</negrita> se centra en el estudio de
+los cambios energéticos que ocurren entre el estado inicial y el final
+de los procesos físicos y químicos, que se evidencia en la transferencia,
+generalmente, de calor.</p>
+<seccion2 id="S2_CN_10_16_CO_841AE2114CCF4B4EB0B6724C0CA20082">
+<seccion2Titulo>La energía</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>energía</negrita> en termodinámica se concibe como
+la capacidad que tiene la materia para transformarse o realizar un <negrita
+>trabajo</negrita>. Se representa con la letra <negritacursiva>E</negritacursiva
+>.   </p>
+<p>En un sistema se considera la <negrita>energía interna</negrita
+>, como el aporte de su <negrita>energía cinética</negrita> y su <negrita
+>energía potencial</negrita>. La primera hace referencia al movimiento
+y las colisiones moleculares y la segunda alude a la capacidad de
+realizar un trabajo en función de su posición, y se determina teniendo
+en cuenta las fuerzas de atracción, repulsión e interacciones moleculares.</p>
+<imagen src="CN_10_16_CO_IMG01_small.jpg">
+<p>El combustible que se usa en los automóviles es importante por
+la <negrita>energía</negrita> que produce y no por los productos químicos
+que se generan durante la combustión.</p>
+</imagen>
+<seccion3 id="S3_CN_10_16_CO_CB3EFE0CDC464ABE97EF8766F1FA1CB6">
+<seccion3Titulo>El trabajo y el calor</seccion3Titulo>
+<seccion3Texto>
+<p>El <negrita>trabajo</negrita> y el <negrita>calor</negrita> son
+dos formas de transferencia de energía. Cuando se realiza <negrita
+>trabajo</negrita> se transfiere energía hacia un cuerpo que cambia
+de posición, por ejemplo, cuando se corre una silla se está ejecutando
+trabajo sobre ella para que cambie de posición. Matemáticamente, se
+define que el trabajo (<negritacursiva>W</negritacursiva>) es el producto
+de una fuerza (<negritacursiva>F</negritacursiva>) por una distancia
+(<negritacursiva>d</negritacursiva>), lo cual se expresa así:</p>
+<formula alineacion="centrada" src="CN_10_16_formula01.gif"></formula>
+<destacado><destacadoTitulo>Tipos de trabajo</destacadoTitulo>
+<destacadoTexto>
+<p>En termodinámica se habla de <negrita>trabajo mecánico</negrita
+> y de <negrita>trabajo eléctrico</negrita>. El primero se relaciona,
+por ejemplo, con el levantamiento de una masa mediante una grúa o
+la expansión de un gas, en donde el trabajo realizado es producto
+de la presión del gas opuesta a la presión externa que puede ser la
+atmosférica. El <negrita>trabajo eléctrico</negrita> se ejemplifica
+con el suministro de electrones de una pila hacia un bombillo de una
+linterna.</p>
+</destacadoTexto></destacado>
+<p>El <negrita>calor</negrita> (<negritacursiva>q</negritacursiva
+>) se manifiesta cuando hay transferencia de energía de un cuerpo
+caliente hacia otro con menor energía cinética (frío), lo cual se
+puede dar por conducción, convección o radiación.  </p>
+<p>Tanto el trabajo como el calor utilizan generalmente como unidad
+de medida el Joule (<negrita>J</negrita>).</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_16_CO_Recurso010&amp;IdRecurso=RES-625175ACF6264DD5954AA3F6B07B117F"
+>El intercambio de energía en las reacciones químicas</enlace>
+</profundiza></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CN_10_16_CO_6801E892732E4CA9B09D90F28350267B">
+<seccion2Titulo>Los sistemas</seccion2Titulo>
+<seccion2Texto>
+<p>Un <negrita>sistema termodinámico</negrita> corresponde al espacio
+en donde interactúa la materia objeto de estudio, de la cual se analizan
+las propiedades macroscópicas, como la energía, la presión, la temperatura,
+la composición, el estado de agregación y el volumen. Existen sistemas
+abiertos, cerrados y aislados.   </p>
+<p>Los <negrita>sistemas abiertos</negrita> permiten el intercambio
+directo de energía y materia con el entorno, por ejemplo, el ser humano
+es un sistema abierto con respecto al entorno, pues toma de este alimento,
+agua y oxígeno y le cede gases, desechos y energía. La mayoría de
+los sistemas en la Tierra son de esta índole.  </p>
+<p>Los <negrita>sistemas cerrados</negrita> solo intercambian energía
+con el entorno, como los hornos sellados, que no permitan el escape
+de gases, solo de calor.  </p>
+<p>Los <negrita>sistemas aislados</negrita> no permiten el intercambio
+de energía ni de materia con el entorno, esto es lo que ocurre en
+un termo, que, al estar sellado herméticamente, no intercambia ni
+materia ni energía.</p>
+<imagen src="CN_10_16_CO_IMG02_small.jpg">
+<p>La olla a presión, mientras no escapen los gases, es un ejemplo
+de sistema termodinámico cerrado, debido a que permite la interacción
+energética del entorno con los alimentos en el proceso de cocción,
+pero sin intercambio de materia.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_16_CO_Recurso020&amp;IdRecurso=RES-A8C2BBD15BE44A30802F786BDC7196E9"
+>¿Qué tipo de sistema es?</enlace>
+</practica><seccion3
+id="S3_CN_10_16_CO_8AFD8D5D8D8346B8906962A65588E83B"><?Pub Dtl?>
+<seccion3Titulo>Las variables termodinámicas de un sistema</seccion3Titulo>
+<seccion3Texto>
+<p>Se consideran <negrita>variables termodinámicas</negrita> la masa,
+el volumen, la presión y la temperatura, porque son magnitudes que
+permiten describir el estado de un sistema.</p>
+<imagen src="CN_10_16_CO_IMG03_small.jpg">
+<p>Las variables termodinámicas se relacionan en la ecuación de estado,
+siempre y cuando el sistema se encuentre en equilibrio, es decir,
+cuando las variables que describen el sistema no cambian al transcurrir
+el tiempo.</p>
+</imagen>
+<p>Las variables termodinámicas se clasifican en intensivas y extensivas:</p>
+<listaSinNumerar>
+<listaElemento>Las <negrita>variables intensivas </negrita>son la
+temperatura y la presión, que no dependen de la cantidad de materia
+del sistema.</listaElemento>
+<listaElemento>Las <negrita>variables extensivas</negrita> son la
+masa y el volumen, que son proporcionales al tamaño del sistema.</listaElemento>
+</listaSinNumerar>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_10_16_CO_28475420767D45BBBBB35BFC1B53CFEF"><?Pub Dtl?>
+<seccion3Titulo>Función de estado</seccion3Titulo>
+<seccion3Texto>
+<p>La energía, la presión, el volumen y la temperatura son <negrita
+>funciones de estado</negrita>, pues estas propiedades las determina
+el estado del sistema, sin tener en cuenta el proceso para alcanzar
+dicha condición.</p>
+<imagen src="CN_10_16_CO_IMG04_small.jpg">
+<p>La energía potencial gravitacional que se gana luego de escalar
+un muro es independiente de la trayectoria que los escaladores realicen. </p>
+</imagen>
+<p>Las funciones de estado solo dependen del estado inicial y final
+del sistema.  </p>
+<p>Por <negrita>ejemplo</negrita>, ¿cuál es el <negrita>Δ</negrita
+><negritacursiva>V</negritacursiva> de un sistema si un gas tiene
+un estado inicial de  200 K, 3 atm y 2 L y, luego de un proceso de
+disminución de presión (1 atm) a temperatura constante, el gas aumenta
+su volumen a 6 L?</p>
+<listaNumerada>
+<listaElemento>Escribimos la ecuación teniendo en cuenta que el cambio
+de volumen <negrita>Δ</negrita><negritacursiva>V</negritacursiva> es
+igual al volumen final (<negritacursiva>V<subindice>f</subindice></negritacursiva
+>) menos el volumen inicial (<negritacursiva>V<subindice>i</subindice
+></negritacursiva>), sin importar cómo se efectuó el cambio, así: <formula
+alineacion="centrada" src="CN_10_16_formula02.gif"></formula></listaElemento>
+<listaElemento>Reemplazamos en la ecuación y obtenemos el Δ<cursiva
+>V</cursiva> del gas:<formula alineacion="centrada"
+src="CN_10_16_formula03.gif"></formula></listaElemento>
+</listaNumerada>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CN_10_16_CO_485C226781494DE0B102A05FEA0C446C"><?Pub Dtl?>
+<seccion2Titulo>Primera ley de la termodinámica</seccion2Titulo>
+<seccion2Texto>
+<p>La termodinámica hace uso de generalizaciones para describir el
+comportamiento de los sistemas macroscópicos, las cuales se conocen
+como <negrita>leyes de la termodinámica</negrita>.  </p>
+<p>La primera de ellas es la <negrita>ley de la conservación de la
+energía</negrita>, que establece que la energía no se crea ni se destruye,
+solo se transforma de una forma a otra. Esta ley también concibe que
+la energía puede intercambiarse entre los sistemas y el entorno.</p>
+<imagen src="CN_10_16_CO_IMG05_small.jpg">
+<p>La energía que genera la combustión del petróleo puede transformarse
+en energía eléctrica, luz o calor.</p>
+</imagen>
+<p>La validez de la primera ley termodinámica se demuestra determinando
+el cambio en la energía interna (<negrita>Δ</negrita><negritacursiva
+>E</negritacursiva>), es decir, la suma de energía cinética, atracción,
+repulsión de las partículas del sistema y de otras formas de energía.
+Por ejemplo, la energía interna de los reactantes y productos contenidos
+en un matraz, es la suma de las energías individuales de las sustancias
+que participan en la reacción química.  </p>
+<p>El <negrita>Δ</negrita><negritacursiva>E</negritacursiva> está
+relacionado con el intercambio de calor (<negritacursiva>q</negritacursiva
+>) entre el sistema y sus alrededores y el trabajo (<negritacursiva
+>W</negritacursiva>) realizado por o sobre el sistema. Matemáticamente,
+esta ley se expresa como: </p>
+<formula alineacion="centrada" src="CN_10_16_formula04.gif"></formula>
+<destacado><destacadoTitulo>Los signos de trabajo (<cursiva>W</cursiva
+>) y calor (<cursiva>q</cursiva>)</destacadoTitulo><destacadoTexto>
+<p>Calor (<negritacursiva>q</negritacursiva>) es positivo en los procesos
+endotérmicos de absorción de energía por parte del sistema y negativo
+en los procesos exotérmicos de emisión de energía del sistema hacia
+el entorno. Por su parte, el trabajo (<negritacursiva>W</negritacursiva
+>) es positivo cuando el entorno realiza trabajo sobre el sistema
+y negativo cuando es el sistema el que realiza el trabajo sobre el
+entorno.</p>
+</destacadoTexto></destacado>
+<p>Por <negrita>ejemplo</negrita>, ¿cuál es el cambio de energía cuando
+se comprime un gas en un cilindro, si el trabajo realizado corresponde
+a 300 J y en el proceso se evidencia transferencia de calor de 100
+J del gas hacia a los alrededores?</p>
+<listaNumerada>
+<listaElemento>Identificamos los datos del ejercicio: <p><negritacursiva
+>q</negritacursiva> = –100 J (ubicamos el signo negativo, porque el
+proceso es exotérmico) </p><p><negritacursiva>W</negritacursiva> =
+300 J (es positivo, porque el trabajo lo realiza el entorno sobre
+el sistema)</p></listaElemento>
+<listaElemento>Reemplazamos en la ecuación:<formula
+alineacion="centrada" src="CN_10_16_formula05.gif"></formula><p>El
+cambio de energía de la compresión del gas es de 200 J, es decir,
+que esta es la energía del sistema después de los cambios que experimentó.</p
+></listaElemento>
+</listaNumerada>
+</seccion2Texto></seccion2><seccion2
+id="S2_CN_10_16_CO_4047985532414D74BCFE130E1701B772"><?Pub Dtl?>
+<seccion2Titulo>Entalpía</seccion2Titulo>
+<seccion2Texto>
+<p>Se define la <negrita>entalpía</negrita> (<negritacursiva>H</negritacursiva
+>) de un sistema como un cambio energético o del contenido calorífico
+de las sustancias que participan en una reacción química a presión
+constante. Matemáticamente se expresa como:</p>
+<formula alineacion="centrada" src="CN_10_16_formula06.gif"></formula>
+<p>Donde <negritacursiva>E</negritacursiva> representa la energía
+interna del sistema, <negritacursiva>P</negritacursiva> es la presión
+y <negritacursiva>V</negritacursiva> el volumen. La entalpía se expresa
+en unidades de energía (<negrita>J</negrita>) y depende solo del estado
+inicial y final del proceso, por tanto es una función de estado.</p>
+<seccion3 id="S3_CN_10_16_CO_7C41184743CC4FA0A211B6C56B69D14E">
+<seccion3Titulo>Entalpía de reacción</seccion3Titulo>
+<seccion3Texto>
+<p>La entalpía no puede medirse directamente en una reacción, por
+lo cual se utiliza el calor que se absorbe o se emite, estableciendo
+la diferencia entre las entalpías de formación de los productos y
+las entalpías de los reactantes, así:</p>
+<formula alineacion="centrada" src="CN_10_16_formula07.gif"></formula>
+<p>En las reacciones endotérmicas, la entalpía es positiva, es decir,
+que <negrita>Δ</negrita><negritacursiva>H</negritacursiva> es mayor
+que cero, y en las exotérmicas es negativa, pues el <negrita>Δ</negrita
+><negritacursiva>H</negritacursiva> es menor que cero.</p>
+<imagen src="CN_10_16_CO_IMG06_small.jpg">
+<p>El diagrama de entalpía muestra que en una reacción endotérmica
+se absorbe calor, por ello la entalpía de los productos es mayor que
+la de los reactantes. Caso contrario ocurre en la reacción exotérmica,
+donde la liberación de calor hace que la entalpía de los reactantes
+sea mayor que la de los productos. </p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>En una<negrita> reacción endotérmica</negrita> el sistema absorbe
+energía del entorno y en una <negrita>reacción exotérmica</negrita
+> se transfiere energía del sistema al entorno.</p>
+</recuerdaTexto></recuerda>
+<p>Por <negrita>ejemplo</negrita>, ¿cuál es el <negrita>Δ</negrita
+><negritacursiva>H</negritacursiva> en kJ de la reacción de formación
+de CO<superindice>2</superindice> gaseoso a partir de CO y oxígeno,
+en condiciones normales de presión y temperatura (25 °C y 1 atm)?</p>
+<p>1.	Escribimos la ecuación que representa la reacción de formación
+de CO<subindice>2</subindice>:</p>
+<formula alineacion="centrada" src="CN_10_16_formula08.gif"></formula>
+<p>2.	Consultamos los datos de las entalpía en la siguiente tabla:</p>
+<table border="1" cellpadding="5" cellspacing="0"><caption>Entalpías
+de formación (Δ<cursiva>H<subindice>f</subindice></cursiva>) a 1 atm
+y 25 °C</caption><colgroup><col/><col/></colgroup>
+<tbody>
+<tr>
+<td><negrita>SUSTANCIA</negrita></td>
+<td><negrita>Δ<cursiva>H<subindice>f</subindice></cursiva> en kJ/mol</negrita
+></td>
+</tr>
+<tr>
+<td>CO<subindice>(g)</subindice></td>
+<td>–110,5</td>
+</tr>
+<tr>
+<td>O<subindice>2(g)</subindice></td>
+<td>0</td>
+</tr>
+<tr>
+<td>CO<subindice>2(g)</subindice></td>
+<td>393,5</td>
+</tr>
+</tbody>
+</table>
+<p>3.	Multiplicamos los datos de las <negrita>Δ</negrita><negritacursiva
+>H<subindice>f</subindice></negritacursiva> por el número de moles: </p>
+<p>Δ<cursiva>H<subindice>f</subindice></cursiva>  CO (g) = –110,5
+kJ/mol × 2 moles = –221 k </p>
+<p>Δ<cursiva>H<subindice>f</subindice></cursiva> O<subindice>2</subindice
+> (g) = 0 kJ/mol × 1 mol = 0 kJ  </p>
+<p>Δ<cursiva>H<subindice>f</subindice> </cursiva>CO<subindice>2</subindice
+> (g) = –393,5 kJ/mol × 2 moles = –787 kJ</p>
+<p>4.	Reemplazamos los datos obtenidos en la ecuación de <negrita
+>Δ</negrita><negritacursiva>H</negritacursiva>:</p>
+<formula alineacion="centrada" src="CN_10_16_formula09.gif"></formula>
+<p>El <negrita>Δ</negrita><negritacursiva>H</negritacursiva> de la
+reacción es de –566 kJ, lo cual indica liberación de calor, es decir,
+que la reacción es exotérmica.</p>
+<destacado><destacadoTitulo>Entalpía de formación</destacadoTitulo>
+<destacadoTexto>
+<p>La <negrita>entalpía de formación (<cursiva>Hf</cursiva>)</negrita
+> es la cantidad de calor que se absorbe o emite cuando se forma un
+mol de un compuesto.</p>
+</destacadoTexto></destacado>
+<p>Si quieres consultar otros datos de entalpías de formación puedes
+ingresar a las tablas que ofrece la página del departamento de fisicoquímica
+de la UNAM [<enlace
+destino="http://depa.fquim.unam.mx/amyd/archivero/Garritz-Gasque-Martinez_Apendice4_25118.pdf"
+>VER</enlace>]. </p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_16_CO_Recurso030&amp;IdRecurso=RES-372BB2EB47C0452AADC7D09C6AD1F11B"
+>Halla la entalpía de reacción</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CN_10_16_CO_9817F0AD437E4347903011C8CDC0671C"><?Pub Dtl?>
+<seccion2Titulo>Calorimetría: capacidad calorífica y calor específico</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>calorimetría</negrita> se centra en la medición de
+las transferencias de calor que experimentan las sustancias en las
+reacciones químicas, lo cual depende de la capacidad calorífica y
+del calor específico de las mismas.   </p>
+<p>La <negrita>capacidad calorífica (<cursiva>C</cursiva>) </negrita
+>es una propiedad extensiva, pues hace alusión a la cantidad de calor
+necesario para elevar en 1 °C la temperatura de determinada cantidad
+de sustancia, mientras que el <negrita>calor específico (<cursiva
+>s</cursiva>) </negrita>es una propiedad intensiva que define la cantidad
+de calor que se debe aplicar para elevar en 1 °C la temperatura de
+un gramo de la sustancia.</p>
+<imagen src="CN_10_16_CO_IMG07_small.jpg">
+<p>Experimentalmente, los cambios de calor se miden con ayuda de un
+calorímetro, el cual consiste en un recipiente cerrado dispuesto con
+los instrumentos necesarios para determinar las transferencias energéticas.</p>
+</imagen>
+<p>La ecuación para calcular el cambio de calor de las sustancias
+es:</p>
+<formula alineacion="centrada" src="CN_10_16_formula10.gif"></formula>
+<p>Donde <negritacursiva>q</negritacursiva> representa el calor, <negritacursiva
+>m</negritacursiva> la masa de la sustancia en gramos, <negritacursiva
+>s</negritacursiva> el calor específico en (J/g °C) y <negrita>Δ</negrita
+><negritacursiva>T</negritacursiva>  la variación de la temperatura.
+ </p>
+<p>Por <negrita>ejemplo</negrita>, ¿cuál es el calor que absorbe una
+muestra de 500 g de agua si se calienta desde 10 °C hasta 80 °C, sabiendo
+que el calor específico para el agua es 4,184 J/g °C?</p>
+<listaNumerada>
+<listaElemento>Identificamos los datos del ejercicio: <p><negritacursiva
+>m</negritacursiva> = 500 g </p><p><negritacursiva>s</negritacursiva
+> (agua) = 4,184 J/g °C  </p><p><negrita>Δ</negrita><negritacursiva
+>T</negritacursiva> = (80 °C –10°C) = 70 °C</p></listaElemento>
+<listaElemento>Reemplazamos los datos en la ecuación de calor:</listaElemento>
+</listaNumerada>
+<formula alineacion="centrada" src="CN_10_16_formula11.gif"></formula>
+<p>El agua absorbe 146440 J.  </p>
+<p>Si quieres experimentar con las capacidades caloríficas de diferentes
+sustancias, ingresa al siguiente simulador [VER]. </p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_16_CO_Recurso060&amp;IdRecurso=RES-B74DEE57E71E4BF9953D169553F2593A"
+>Determina la cantidad de calor</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CN_10_16_CO_C6E178CC89D14CF38C2CFDDB61B061AF">
+<seccion2Titulo><?Pub Dtl?>Consolidación</seccion2Titulo>
+<seccion2Texto><?Pub Dtl?>
+<p><?Pub Dtl?>Actividades para consolidar lo que has aprendido en
+esta sección.</p>
+<practica><?Pub Dtl?>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_16_CO_Recurso070&amp;IdRecurso=RES-DD02831D083F4E41BE129C40AAE93899"
+><?Pub Dtl?>Refuerza tu aprendizaje: La termodinámica</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_10_16_CO_C46F4DCFCBB2472091785007E9D2D86B">
+<seccion1Titulo>La cinética</seccion1Titulo>
+<seccion1Texto>
+<p>La <negrita>cinética</negrita> tiene como objeto de estudio la
+velocidad a la que ocurren las reacciones químicas. Por ello es importante
+conocer las leyes que la rigen, los factores que la afectan y la acción
+de los catalizadores. </p>
+<seccion2 id="S2_CN_10_16_CO_218AD7A13E2F4B43B96A0295B335758B"><?Pub Dtl?>
+<seccion2Titulo>La velocidad de las reacciones</seccion2Titulo>
+<seccion2Texto>
+<p> Algunas reacciones químicas ocurren con lentitud, por ejemplo,
+la formación de una capa de óxido sobre un objeto metálico expuesto
+a la intemperie. Otras, sin embargo, suceden rápidamente, como la
+combustión de un papel.</p>
+<imagen src="CN_10_16_CO_IMG08_small.jpg">
+<p>La velocidad a la que transcurre una reacción química depende de
+varios factores. Las reacciones que dan lugar a los fuegos artificiales
+son muy rápidas.</p>
+</imagen>
+<p>La rapidez con que los reactantes se transforman en productos se
+llama <negrita>velocidad de reacción</negrita> y se calcula midiendo
+la concentración del producto formado o la del reactante consumido,
+por unidad de tiempo. Se basa en la ecuación:</p>
+<formula alineacion="centrada" src="CN_10_16_formula12.gif"></formula>
+<p>La velocidad se expresa matemáticamente como: </p>
+<formula alineacion="centrada" src="CN_10_16_formula13.gif"></formula>
+</seccion2Texto></seccion2><seccion2
+id="S2_CN_10_16_CO_FA15ACFBDC3D47A68B98A383B9EA0B5D"><?Pub Dtl?>
+<seccion2Titulo>La teoría de las colisiones</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>teoría de las colisiones</negrita> establece que una
+reacción se da cuando las moléculas de los reactantes chocan con una
+orientación adecuada y con la suficiente energía para transformase
+en productos. Al producirse colisiones, las distancias entre las partículas
+son mínimas y ello hace que se generen rupturas y formen nuevos enlaces.</p>
+<imagen src="CN_10_16_CO_IMG09_small.jpg">
+<p>En las reacciones químicas ocurren muchos choques entre las moléculas
+de los reactantes, pero solo algunos permiten la formación de los
+productos. En la imagen se muestra la forma favorable en que deben
+chocar las moléculas de ozono (O<subindice>3</subindice>) y monóxido
+de nitrógeno (NO) para producir dióxido de nitrógeno (NO<subindice
+>2</subindice>) y oxígeno (O<subindice>2</subindice>).</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CN_10_16_CO_037681EBA0F1491C8FD64E6B6E542D31"><?Pub Dtl?>
+<seccion2Titulo>La energía de activación</seccion2Titulo>
+<seccion2Texto>
+<p>Para que se puedan romper los enlaces de las moléculas de los reactantes
+y se produzca un reordenamiento atómico se requiere de una cantidad
+de energía adicional para alcanzar un estado de transición, a partir
+del cual se realiza la reacción. Esta energía se conoce como <negrita
+>energía de activación</negrita>.   </p>
+<p>Cuando se desea escalar una montaña se requiere de una energía
+corporal específica, así mismo, para que las diferentes reacciones
+se lleven a cabo, es necesario alcanzar la energía de activación,
+y si la energía de los reactantes es menor que la <negrita>energía
+de transición</negrita>, las moléculas chocarán y luego rebotarán
+separándose, sin que ocurra la reacción.</p>
+<imagen src="CN_10_16_CO_IMG10_small.jpg">
+<p>Representación gráfica de la energía de activación en reacciones.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Para que ocurra una <negrita>reacción</negrita> es necesario que
+los reactantes cumplan con tres condiciones: <negrita>colisión</negrita
+> entre moléculas, <negrita>orientación</negrita> adecuada y alcanzar
+la <negrita>energía</negrita> requerida para la reacción.</p>
+</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
+id="S2_CN_10_16_CO_3DCF9D17639F480C9A1D60987A79D237"><?Pub Dtl?>
+<seccion2Titulo>La ley de la velocidad</seccion2Titulo>
+<seccion2Texto>
+<p>La velocidad de una reacción química es directamente proporcional
+a la concentración de los reactantes, lo cual indica que, a mayor
+concentración, mayor será la velocidad. Esta aseveración se expresa
+mediante la <negrita>ecuación de velocidad de reacción</negrita>:</p>
+<formula alineacion="centrada" src="CN_10_16_formula14.gif"></formula>
+<p>La <negrita>ley de la velocidad</negrita>, relaciona la velocidad
+de una reacción con la constante de velocidad y la concentración de
+los reactantes, los cuales se elevan a una potencia, así:</p>
+<formula alineacion="centrada" src="CN_10_16_formula15.gif"></formula>
+<p>Donde <negritacursiva>k</negritacursiva> es la constante de velocidad, <negritacursiva
+>A</negritacursiva> y <negritacursiva>B</negritacursiva> representan
+concentración los reactantes y <negritacursiva>f</negritacursiva> y <negritacursiva
+>g</negritacursiva> son números que especifican la relación de concentración
+molar de los reactantes y la velocidad, y se determinan experimentalmente.</p>
+<destacado><destacadoTitulo>Orden de reacción</destacadoTitulo>
+<destacadoTexto>
+<p>El <negrita>orden de una reacción</negrita> permite comprender
+la dependencia de la reacción con las <negrita>concentraciones molares
+de los reactantes</negrita> las cuales se simbolizan mediante los
+superíndices <negritacursiva>f</negritacursiva> y <negritacursiva
+>g</negritacursiva>. Si el orden de la reacción respecto a un reactante
+es cero, significa que la velocidad es independiente de la concentración
+de este y si se incrementa su valor la dependencia de la reacción
+también lo hará.  </p>
+<p>Al sumar los superíndices se puede obtener el orden global de la
+reacción.</p>
+</destacadoTexto></destacado>
+<p>Por <negrita>ejemplo</negrita>, ¿cuál es la velocidad de la reacción
+de óxido nítrico con hidrógeno, si después de varias pruebas se obtuvo
+como promedio de los valores experimentales [NO] = 0,01 M con orden
+dos, [H<subindice>2</subindice>] = 0,002 M con orden uno y con constante
+de velocidad 2500/M<superindice>2</superindice>·s?</p>
+<p>La ecuación de la reacción es:</p>
+<formula alineacion="centrada" src="CN_10_16_formula16.gif"></formula>
+<p>1.	Reemplazamos en la ecuación de velocidad de reacción:</p>
+<formula alineacion="centrada" src="CN_10_16_formula17.gif"></formula>
+<p>La velocidad es de 0,0005 M/s.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_16_CO_Recurso100&amp;IdRecurso=RES-4486B0C3B20E4C80BE299270F15EF7E2"
+>Determina la velocidad</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CN_10_16_CO_9F63DBAFA8E640F28FD8F7996B1E3937"><?Pub Dtl?>
+<seccion2Titulo>Los factores que afectan la velocidad de reacción</seccion2Titulo>
+<seccion2Texto>
+<p>La velocidad de una reacción puede variar por efecto de la temperatura,
+la concentración, el estado de agregación de los reactivos y la presencia
+de catalizadores.</p>
+<table cellpadding="5" cellspacing="0"><caption>Los factores que afectan
+la velocidad de reacción</caption><colgroup><col/><col/></colgroup>
+<tbody valign="top">
+<tr>
+<td>Temperatura</td>
+<td>A mayor temperatura, mayor velocidad.</td>
+</tr>
+<tr>
+<td>Concentración de los reactivos</td>
+<td>A mayor concentración, mayor velocidad.</td>
+</tr>
+<tr>
+<td>Estado físico de los reactivos</td>
+<td>Las reacciones entre reactivos gaseosos se producen a mayor velocidad
+que entre reactivos sólidos.</td>
+</tr>
+<tr>
+<td>Grado de división</td>
+<td>Cuanto más dividido se halle un reactivo sólido, mayor será también
+la velocidad de reacción.</td>
+</tr>
+<tr>
+<td>Catalizadores</td>
+<td>Los catalizadores positivos aumentan la velocidad, pero los negativos
+o inhibidores la disminuyen.</td>
+</tr>
+</tbody>
+</table>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_16_CO_Recurso110&amp;IdRecurso=RES-C0F0A9FAAEBE4EF49CE12A93832AFA08"
+>La velocidad de las reacciones químicas</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CN_10_16_CO_F433BD5F891C48BAA5D09913D81A0887"><?Pub Dtl?>
+<seccion2Titulo>Catálisis</seccion2Titulo>
+<seccion2Texto>
+<p>El proceso de <negrita>catálisis</negrita> consiste en el uso de
+sustancias llamadas <negrita>catalizadores</negrita> que actúan sin
+consumirse en la reacción, en algunos casos forman productos intermedios,
+pero luego se regeneran.</p>
+<imagen src="CN_10_16_CO_IMG11_small.jpg">
+<p>Los <negrita>catalizadores</negrita> aumentan la <negrita>velocidad
+de la reacción</negrita> química al proporcionar una ruta alterna
+donde la <negrita>energía de activación</negrita> es menor que la
+de la ruta original.</p>
+</imagen>
+<p>Existen catálisis heterogéneas, homogéneas y enzimáticas. En las <negrita
+>catálisis heterogéneas</negrita> los reactantes y el catalizador
+están en fases distintas, donde generalmente el catalizador es un
+sólido y los reactantes son líquidos o gases. La <negrita>catálisis
+homogénea</negrita> usa catalizadores dispersos en la misma fase en
+que están los reactantes, que por lo general es líquida. La <negrita
+>catálisis enzimática</negrita> usa catalizadores biológicos llamados <negrita
+>enzimas</negrita>. </p>
+<p>Para una ficha </p>
+<p>Puedes responder algunas preguntas de catálisis en la página de
+Intef de España [<enlace
+destino="http://recursostic.educacion.es/newton/web/materiales_didacticos/cinetica_quimica/factores.html?5&amp;2"
+>VER</enlace>]. </p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CN_10_16_CO_F433BD5F891C48BAA5D09913D81A9988">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_16_CO_Recurso130&amp;IdRecurso=RES-C34E12DB1E8C4F1DA2321D0C8B6C6628"
+>Refuerza tu aprendizaje: La cinética</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_10_16_CO_32F87701050C462485D4B3083C9DA0E2">
+<seccion1Titulo>El equilibrio químico</seccion1Titulo>
+<seccion1Texto>
+<p>El estado en el cual dos reacciones opuestas (directa e inversa)
+se llevan a cabo simultáneamente y a la misma velocidad se conoce
+como <negrita>equilibrio químico</negrita>.</p>
+<seccion2 id="S2_CN_10_16_CO_C3EEC01A98C1482BB5E0AF9E6D5C40AF"><?Pub Dtl?>
+<seccion2Titulo>Reacciones irreversibles y reversibles</seccion2Titulo>
+<seccion2Texto>
+<p>En las <negrita>reacciones irreversibles</negrita> la energía necesaria
+para romper los enlaces de los productos es mayor a la requerida en
+los reactantes, mientras que en las <negrita>reacciones reversibles</negrita
+>, para este mismo proceso, se requiere de energía similar o menor
+a la empleada en los reactantes, por ello es factible su bidireccionalidad,
+la cual se representa con una doble flecha. </p>
+<recuerda><recuerdaTexto>
+<p>En las <negrita>reacciones irreversibles</negrita> todos los reactantes
+tienden a transformarse en productos y en las <negrita>reversibles</negrita
+> los productos reaccionan entre sí para volver a dar los reactantes,
+de modo que estos nunca se consumen del todo y lo que se obtiene al
+final de la reacción es una mezcla de reactantes y productos.</p>
+</recuerdaTexto></recuerda>
+<p>En las reacciones reversibles se dice que la situación final es
+de <negrita>equilibrio químico</negrita>. En una situación de equilibrio,
+se observa que las concentraciones, tanto de los reactantes como de
+los productos, se mantienen constantes. Sin embargo, desde el punto
+de vista microscópico, las reacciones siguen teniendo lugar, es decir,
+los reactantes se transforman en productos y estos, a su vez, en reactantes,
+pero ambos procesos ocurren a la misma velocidad, por lo que las concentraciones
+de todas las sustancias se mantienen invariables.  </p>
+<p>Una gran parte de los procesos químicos industriales son reversibles,
+es decir, se desarrollan a la vez y en direcciones opuestas, como,
+por ejemplo, la síntesis del amoníaco y del ácido sulfúrico. </p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CN_10_16_CO_7C99DB37A1F74BF0A29A334AA6DBE801"><?Pub Dtl?>
+<seccion2Titulo>El equilibrio químico dinámico</seccion2Titulo>
+<seccion2Texto>
+<p>El <negrita>equilibrio químico</negrita> se caracteriza por ser <negrita
+>dinámico</negrita>, debido a que mantiene estables las velocidades
+de reacción directa e inversa, pues se igualan en magnitud, sin llegar
+a anularse; además, en este estado permanece constante la concentración
+de los reactantes y de los productos. </p>
+<imagen src="CN_10_16_CO_IMG12_small.jpg">
+<p>Al principio, la magnitud de la velocidad de la reacción directa
+(reactantes que se transforman en productos) es mayor que la de la
+reacción inversa (productos que se transforman en reactantes). Con
+el tiempo, ambas velocidades tienden a igualarse, hasta llegar al
+estado de <negrita>equilibrio químico</negrita>.</p><?Pub Caret -2?>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_16_CO_Recurso140&amp;IdRecurso=RES-AD303F4B92B74A9CB0533F27F844DBC8"
+>Las reacciones reversibles y el equilibrio químico</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CN_10_16_CO_45B5CB0E8A7C4C4A8BA1A904ED847C2A"><?Pub Dtl?>
+<seccion2Titulo>La constante de equilibrio</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>constante de equilibrio (<cursiva>K<subindice>c</subindice
+></cursiva>)</negrita> de cualquier sistema relaciona la concentración
+molar de los productos y de los reactantes, elevados a una potencia
+que corresponde a los coeficientes de la ecuación química general.
+Así, para la ecuación:</p>
+<formula alineacion="centrada" src="CN_10_16_formula18.gif"></formula>
+<p>La <negrita>constante de equilibrio</negrita> se expresa como:</p>
+<formula alineacion="centrada" src="CN_10_16_formula19.gif"></formula>
+<p>Las unidades de la constante <negritacursiva>K<subindice>c</subindice
+> </negritacursiva>dependen de la ecuación específica, aunque normalmente
+se prefiere dejarla sin unidades.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CN_10_16_CO_A3EC51B655AA4FB0B10B86F69E150780"><?Pub Dtl?>
+<seccion2Titulo>Los tipos de equilibrio</seccion2Titulo>
+<seccion2Texto>
+<p> Existen dos tipos de equilibrio: el homogéneo y el heterogéneo.
+En el <negrita>equilibrio homogéneo</negrita> todos los reactantes
+y productos se encuentran en un mismo estado, por ejemplo, en la reacción
+entre el hidrógeno (H<subindice>2</subindice>) y el yodo (I<subindice
+>2</subindice>), para dar yoduro de hidrógeno (HI), todos se encuentran
+en estado gaseoso.</p>
+<formula alineacion="centrada" src="CN_10_16_formula20.gif"></formula>
+<p>En el<negrita> equilibrio heterogéneo</negrita> uno o varios de
+reactantes o productos se encuentran en diferentes estados, por ejemplo,
+en la descomposición del carbonato de calcio (CaCO<subindice>3</subindice
+>) el dióxido de carbono (CO<subindice>2</subindice>) se presenta
+en estado gaseoso, así:</p>
+<formula alineacion="centrada" src="CN_10_16_formula21.gif"></formula>
+<p>A diferencia de las sustancias gaseosas, las concentraciones en
+los sólidos y líquidos puros permanecen constantes en el equilibrio
+heterogéneo, por ende, no se incluyen en la expresión de la constante
+de equilibrio. En este caso, no se incluyen las concentraciones del
+carbonato de calcio (CaCO<subindice>3</subindice>) y del óxido de
+calcio (CaO), de modo que la constante <negritacursiva>K<subindice
+>c</subindice></negritacursiva> se expresa así:</p>
+<formula alineacion="centrada" src="CN_10_16_formula22.gif"></formula>
+</seccion2Texto></seccion2><seccion2
+id="S2_CN_10_16_CO_484EEC4A192048C8A7FB9C1CF5A14B62"><?Pub Dtl?>
+<seccion2Titulo>Cálculo de constantes de equilibrio</seccion2Titulo>
+<seccion2Texto>
+<p>El valor de <negritacursiva>K<subindice>c</subindice></negritacursiva
+> para un sistema en equilibrio se calcula reemplazando las concentraciones
+experimentales de productos y reactantes en la expresión de la constante
+de equilibrio.  </p>
+<p>Por <negrita>ejemplo</negrita>, ¿cuál es la <negritacursiva>K<subindice
+>c</subindice></negritacursiva> para la reacción de producción de
+NH<subindice>3</subindice> a partir de N<subindice>2</subindice> y
+H<subindice>2</subindice>, si experimentalmente las concentraciones
+en el equilibrio fueron [NH<subindice>3</subindice>] = 0,014 M, [N<subindice
+>2</subindice>] = 0,20 M y [H<subindice>2</subindice>] = 0,10 M, y
+todos se encuentran en estado gaseoso?</p>
+<p>1.	Escribimos la ecuación balanceada:</p>
+<formula alineacion="centrada" src="CN_10_16_formula23.gif"></formula>
+<p>2.	Reemplazamos las concentraciones en la ecuación de la constante
+de equilibrio:</p>
+<formula alineacion="centrada" src="CN_10_16_formula24.gif"></formula>
+<p>Cada concentración se eleva a una potencia que corresponde al coeficiente
+estequiométrico de la ecuación general, los términos se multiplican
+entre sí y luego se divide el numerador por el denominador.   </p>
+<p>El valor de la constante de equilibrio <negritacursiva>K<subindice
+>c</subindice></negritacursiva> es de 0,98 M<superindice>–2</superindice
+>.</p>
+<destacado><destacadoTitulo>Valor de la <cursiva>K<subindice>c</subindice
+></cursiva></destacadoTitulo><destacadoTexto>
+<p>Valores bajos de <negritacursiva>K<subindice>c</subindice></negritacursiva
+> indican que la reacción se favorece hacia los reactantes y valores
+elevados muestran la reacción favorece los productos.</p>
+</destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
+id="S2_CN_10_16_CO_4B6E695FF00B4FAEAC8FDB87756BD16A"><?Pub Dtl?>
+<seccion2Titulo>Cálculo de concentraciones en el equilibrio</seccion2Titulo>
+<seccion2Texto>
+<p> Para calcular las concentraciones de los reactantes y los productos
+en el equilibrio es necesario hacer uso de la constante <negritacursiva
+>K<subindice>c</subindice></negritacursiva>.  </p>
+<p>Por <negrita>ejemplo</negrita>, ¿cuál es la concentración en equilibrio
+de los reactantes y los productos de la reacción de 0,35 moles de
+CO<subindice>2</subindice> con 0,35 moles de H<subindice>2</subindice
+>, en un recipiente de 1 L para obtener CO y H<subindice>2</subindice
+>O, sabiendo que <cursiva>K<subindice>c</subindice></cursiva> = 0,15?</p>
+<p>1.	Escribimos la ecuación balanceada:</p>
+<formula alineacion="centrada" src="CN_10_16_formula25.gif"></formula>
+<p>2.	Organizamos los valores en una tabla que relacione el estado
+inicial, en equilibrio y final de la reacción, teniendo en cuenta
+que la estequiometría de la ecuación es: 1 mol de CO<subindice>2</subindice
+> reacciona con 1 mol de H<subindice>2</subindice> para producir 1
+mol de CO y 1 mol de H<subindice>2</subindice>O.</p>
+<table cellpadding="5" cellspacing="0"><caption>Información del ejercicio</caption>
+<colgroup><col width="19*"/><col width="19*"/><col width="19*"/><col
+width="21*"/><col width="18*"/></colgroup>
+<tbody>
+<tr>
+<td rowspan="2"> ESTADO </td>
+<td colspan="2">REACTANTES </td>
+<td colspan="2">PRODUCTOS</td>
+</tr>
+<tr>
+<td>CO<subindice>2</subindice></td>
+<td>H<subindice>2</subindice></td>
+<td>CO</td>
+<td>H<subindice>2</subindice>O</td>
+</tr>
+<tr>
+<td>Inicial</td>
+<td>0,35</td>
+<td>0,35</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>Cambio</td>
+<td>– x</td>
+<td>– x</td>
+<td>+ x</td>
+<td>+ x</td>
+</tr>
+<tr>
+<td>Equilibrio</td>
+<td>0,35 – x</td>
+<td>0,35 – x</td>
+<td> x</td>
+<td> x</td>
+</tr>
+</tbody>
+</table>
+<p>3.	Escribimos la ecuación para la constante de equilibrio de la
+reacción: </p>
+<formula alineacion="centrada" src="CN_10_16_formula26.gif"></formula>
+<p>4.	Reemplazamos los valores en el equilibrio relacionados en la
+tabla y la <negritacursiva>K<subindice>c</subindice></negritacursiva
+>:</p>
+<formula alineacion="centrada" src="CN_10_16_formula27.gif"></formula>
+<p>5.	Establecemos una expresión equivalente:</p>
+<formula alineacion="centrada" src="CN_10_16_formula28.gif"></formula>
+<p>6.	Hallamos la raíz cuadrada en ambos lados de la expresión:</p>
+<formula alineacion="centrada" src="CN_10_16_formula29.gif"></formula>
+<p>7.	Despejamos y hallamos el valor de <negritacursiva>x</negritacursiva
+>:</p>
+<formula alineacion="centrada" src="CN_10_16_formula30.gif"></formula>
+<p>8.	Restamos de las concentraciones iniciales de los reactantes
+el valor de <negritacursiva>x</negritacursiva> para obtener concentraciones
+de estos en equilibrio:</p>
+<formula alineacion="centrada" src="CN_10_16_formula31.gif"></formula>
+<formula alineacion="centrada" src="CN_10_16_formula32.gif"></formula>
+<p>En el caso de los productos, el valor de x es la concentración
+de cada uno. Es decir, que las concentraciones en equilibrio obtenidas
+en el ejercicio son:   </p>
+<p>[CO<subindice>2</subindice>] = 0,25 M </p>
+<p>[H<subindice>2</subindice>] = 0,25 M </p>
+<p>[CO] = 0,10 M </p>
+<p>[H<subindice>2</subindice>O] = 0,10 M</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CN_10_16_CO_A152E99757484BAEAE84794B90760723"><?Pub Dtl?>
+<seccion2Titulo>Los factores que afectan el equilibrio</seccion2Titulo>
+<seccion2Texto>
+<p>Los factores que afectan el equilibrio son: la temperatura, la
+concentración de los reactantes y la adición de catalizadores.</p>
+<listaSinNumerar>
+<listaElemento><negrita>Temperatura</negrita>: al aumentar la temperatura,
+las moléculas se mueven más rápido, lo que hace que las colisiones
+entre ellas sean más frecuentes y posean la suficiente energía para
+reaccionar y generar productos. Por esta razón, si se altera la temperatura,
+el equilibrio se desplazara con el fin de contrarrestar el efecto
+de la variación de la temperatura.  <p>Por ello, y de acuerdo con
+el <negrita>principio de Le Chatelier</negrita>, si se aumenta la
+temperatura en una reacción endotérmica la reacción se favorece desplazándose
+hacia los productos. Mientras que si se disminuye la temperatura el
+equilibrio se desplaza para aumentar la concentración de los reactantes.
+En una reacción exotérmica ocurre lo contrario pues el aumento de
+temperatura favorece el equilibrio hacia los reactantes y la disminución
+de la misma lo desplaza hacia los productos.</p></listaElemento>
+<listaElemento><negrita>Concentración de los reactantes</negrita>:
+si aumenta la concentración de los reactantes, hay más colisiones
+y las velocidades de reacción son mayores, y el equilibrio se alcanza
+más rápido.</listaElemento>
+<listaElemento><negrita>Catalizadores</negrita>: al adicionar catalizadores,
+se aceleran las reacciones, pues los reactantes alcanzan más fácil
+la energía de transición para formar productos y el equilibrio se
+logra más fácilmente. </listaElemento>
+</listaSinNumerar>
+<p>Al cambiar las condiciones de <negrita>temperatura</negrita> y <negrita
+>concentración</negrita> o al <negrita>adicionar catalizadores</negrita
+> a las reacciones, se afecta el equilibrio de las mismas, y las velocidades
+de reacción directa e inversa ya no serán las mismas, como establece
+el <negrita>principio de Le Chatelier</negrita>, según el cual, cuando
+se perturba una reacción en equilibrio, este se desplaza en la dirección
+que minimice la perturbación, que generalmente es la opuesta.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CN_10_16_CO_A152E99757484BAEAE84794B90767733">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_16_CO_Recurso220&amp;IdRecurso=RES-9B5012E1430A4B01B4DCF52CE17C53FF"
+>Refuerza tu aprendizaje: El equilibrio químico</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_10_16_CO_5B8DE546262E45B1B4D5BC5AB12B568C"><?Pub Dtl?>
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_16_CO_Recurso230&amp;IdRecurso=RES-A6D66B49E8474752A1C45164BE6812A6"
+>Competencia: comprobación de los factores que afectan la velocidad</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CN_10_16_CO_B1748B0BF592461FA82AEB51C74687C8"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_16_CO_Recurso260&amp;IdRecurso=RES-4676AA83E24141EAB2D0F31C468EBFE4"
+>Mapa Conceptual</enlace></mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_16_CO_Recurso270&amp;IdRecurso=RES-801E02FF9D4C4436BF1F60534FD3789F"
+>Evaluación</enlace></autoevaluate><enlacesreferencia>
+<enlace
+destino="http://e-ducativa.catedu.es/44700165/aula/archivos/repositorio/4750/4847/html/22_entalpa_estndar_de_formacin.html"
+>Los intercambios de energía y entalpías de las reacciones químicas.</enlace>
+<enlace
+destino="http://e-ducativa.catedu.es/44700165/aula/archivos/repositorio/1000/1167/html/3_velocidad_de_las_reacciones_qumicas.html"
+>Simulaciones sobre velocidad de reacción.</enlace>
+</enlacesreferencia></masinformacion></libro>
