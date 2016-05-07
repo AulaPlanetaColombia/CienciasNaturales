@@ -1,965 +1,1125 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
 <libro id="CN_11_09_CO">
-  <libroTitulo>Las disoluciones iónicas</libroTitulo>
-  <seccion1 id="S1_CN_11_09_CO_D26F6454F48A43DCAB7EEDC94ACAA006">
-    <seccion1Titulo>Las teorías ácido-base</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CN_11_09_CO_B40A7683524B4A32934D9CCB09FE1B38">
-        <seccion2Titulo>La teoría de Arrhenius</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_09_CO_img_01_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_09_CO_52254CC65CB74168B89B2137EB0C1C16">
-        <seccion2Titulo>La teoría de Brönsted – Lowry</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_09_CO_img_02_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_09_CO_E282B35D0FEB4B778C6E3704AFB8F04E">
-        <seccion2Titulo>La teoría de Lewis</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_09_CO_img_03_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso010&amp;IdRecurso=RES-4D223675061E4CBDA9A354A1AD79E0A8">Recurso F6-01</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_09_CO_221A8B463B71437682CEE8558CF70B5B">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_09_CO_img_04_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso020&amp;IdRecurso=RES-344F6050E79D4765B915EE8F9D9ECA8B">Recurso M101A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CN_11_09_CO_E736FA8BA0074C81B4164138D54DBBFD">
-    <seccion1Titulo>La autoionización del agua</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CN_11_09_CO_D948DC81D2AA49609ED664C4CDF614A2">
-        <seccion2Titulo>La constante de disociación del agua</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_09_CO_img_05_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_09_CO_97FADE82CB93409499FBE5F572C5A5F2">
-        <seccion2Titulo>La acidez de las disoluciones</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_09_CO_img_06_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_09_CO_img_07_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CN_11_09_CO_BD71FF5ADB4F48D28A4C9EEF582ACF72">
-    <seccion1Titulo>El pH y el pOH</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CN_11_09_CO_97CEAD3180524F4DBA10C15E381A0AE7">
-        <seccion2Titulo>La escala de pH</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_09_CO_img_08_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_09_CO_7A5E3533446044238D93FC65A61CB492">
-        <seccion2Titulo>La determinación del pH</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_09_CO_img_09_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_09_CO_1B246512C20B47CE91FD6B7AB324F769">
-        <seccion2Titulo>Los ácidos y las bases: fuertes y débiles</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CN_11_09_CO_71DF6D149ABF405681B4C76FFC1985E8">
-            <seccion3Titulo>Los ácidos y las bases fuertes</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_09_CO_img_10_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso040&amp;IdRecurso=RES-4A8A57EF17CA46E0BAFCCE3A89AABAA2">Calcula el pH de las disoluciones</enlace>
-              </practica>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_09_CO_img_11_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CN_11_09_CO_6D41130C4AD743DF910D93A1C717CCDC">
-            <seccion3Titulo>Los ácidos y las bases débiles</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_09_CO_img_12_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso060&amp;IdRecurso=RES-ED8779C7EE944940B9B91A96749A18A0">Los ácidos</enlace>
-              </profundiza>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_09_CO_img_13_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso070&amp;IdRecurso=RES-DB14E803EFF545BD8EE90CB09B88E072">Las bases</enlace>
-              </profundiza>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_09_CO_img_14_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso080&amp;IdRecurso=RES-3AC322E88B4A41FBA1D2ACDE83E007AD">Clasifica los ácidos y las bases</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_09_CO_9E4CE94B211847B9B52CF5124C5633F7">
-        <seccion2Titulo>Las disoluciones buffer</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_09_CO_img_15_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_09_CO_img_16_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso090&amp;IdRecurso=RES-A8985BBEBD6D4706BEB60679D9429B44">Recurso M101A-03</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_09_CO_img_17_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso100&amp;IdRecurso=RES-AD63CAD23BBD451EA2B47DD659ABC4EE">Refuerza tu aprendizaje: Los indicadores ácido-base</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CN_11_09_CO_362FCC9E21DF4E1895D102063D29D93E">
-    <seccion1Titulo>Los indicadores ácido-base</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CN_11_09_CO_2CFDB3A42820419391D11ABBD56CAC3D">
-    <seccion1Titulo>Las reacciones de los ácidos y las bases</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CN_11_09_CO_CFB6CC77D63245A59A665678B2D2D6BD">
-        <seccion2Titulo>La reacción de una base con una sal de amonio</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_09_CO_img_18_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_09_CO_F7DAD2D7B395464AB9AE3C67D74D7406">
-        <seccion2Titulo>La reacción de un ácido con un metal</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_09_CO_img_19_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_09_CO_CD64364ED82D40CC928ED93B3BBE2972">
-        <seccion2Titulo>La reacción de un ácido con un carbonato</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_09_CO_img_20_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_09_CO_696576D673A04B2CA87FB8293B5237E2">
-        <seccion2Titulo>La neutralización</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_09_CO_img_21_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso110&amp;IdRecurso=RES-8B9164D00E0B415A9AD79693C6ED9641">Las sales neutras</enlace>
-          </profundiza>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_09_CO_5CB66F8F233D460DADF5447436000AFF">
-        <seccion2Titulo>La valoración ácido-base</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_09_CO_img_22_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso120&amp;IdRecurso=RES-29CB5A49F1D740B8AED55736FABA2520">Las reacciones de neutralización</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_09_CO_img_23_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso130&amp;IdRecurso=RES-8922FEF2BBC24F77AA98946AD35D7A2B">Conoce el material necesario para realizar una volumetría</enlace>
-          </practica>
-          <seccion3 id="S3_CN_11_09_CO_10F9C2E249364015AF4001D3196CA569">
-            <seccion3Titulo>La concentración de la disolución valorada</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_09_CO_img_24_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_09_CO_00D17567F0574227875B3395749B22BF">
-        <seccion2Titulo>Las curvas de valoración</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CN_11_09_CO_94D83FFFC1D941A3A67D7376EDA4B33F">
-            <seccion3Titulo>La curva de valoración ácido fuerte-base fuerte</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_09_CO_img_25_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CN_11_09_CO_0E346722A79A4FC5B884A8D5905E3418">
-            <seccion3Titulo>La curva de valoración base fuerte-ácido fuerte</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_09_CO_img_26_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CN_11_09_CO_03D1CDE5288D4C7583213D9E7F0D4418">
-            <seccion3Titulo>La curva de valoración ácido débil-base fuerte</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_09_CO_img_27_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_09_CO_img_28_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso140&amp;IdRecurso=RES-619573266F354A2290DAC6F0AA0F43AD">Recurso M101A-04</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_09_CO_img_31_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso170&amp;IdRecurso=RES-635D99623BC04D2C8EA294EEC3980D18">Refuerza tu aprendizaje: Los ácidos y las bases en la vida diaria</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CN_11_09_CO_0F24B2099F6B4998B42067E37C3AC315">
-    <seccion1Titulo>Los ácidos y las bases en la vida diaria</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_09_CO_img_29_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso150&amp;IdRecurso=RES-D70F23EEFF5748A6A3D76989E7744173">Conoce los ácidos más comunes y sus usos</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_09_CO_img_30_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso160&amp;IdRecurso=RES-8AD8DE183DEC418B8248525F02D5E39E">Descubre las bases más comunes y sus usos</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CN_11_09_CO_A6E6D4F9F1DB44149E16CD54E6B6ADBA">
-    <seccion1Titulo>La electroquímica</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CN_11_09_CO_D206C9C601274ED58D5482F82AF3E624">
-        <seccion2Titulo>Los electrolitos</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_09_CO_img_32_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso180&amp;IdRecurso=RES-1A13AECDF93B4FA3930D3689B55B136F">Aprende qué son los electrólitos y los no electrólitos</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_09_CO_E262682678C6408C9D7FBCCF10DA39EB">
-        <seccion2Titulo>Las reacciones óxido-reducción</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_09_CO_img_33_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_09_CO_D6BAE8DC37C442868BB16D40BFBC691C">
-        <seccion2Titulo>Las celdas electroquímicas</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_09_CO_img_34_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_09_CO_2DF8B9491FF8403C94E2DFCC197D946D">
-        <seccion2Titulo>El potencial estándar de reducción</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_09_CO_img_35_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_09_CO_7711C8E0538E4E8490810E3D7BD65CA1">
-        <seccion2Titulo>La fuerza electromotriz de una celda</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_09_CO_img_36_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_09_CO_B538BE8D11C54A2C94B467BEDF37E40A">
-        <seccion2Titulo>Aplicaciones de la celdas electroquímicas en la vida diaria</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CN_11_09_CO_3E4592346352436C934C6E2D667ABF9F">
-            <seccion3Titulo>La batería de plomo</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_09_CO_img_37_small.jpg">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_09_CO_img_40_small.jpg">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso210&amp;IdRecurso=RES-4BA0E2101BA8496B8682CF9097A2AAD5">Recurso M101A-05</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_09_CO_img_38_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_09_CO_img_39_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso200&amp;IdRecurso=RES-27B64108E7EE40AC88D8F9F81F61F14F">Recurso F12-01</enlace>
-      </profundiza>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CN_11_09_CO_80F0785AD10944E3BB914FE93AC7AAC8">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_09_CO_img_41_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso220&amp;IdRecurso=RES-303C1A93FE3948F88EC1D2E297604D0B">Competencias: preparación de un indicador ácido-base</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_09_CO_img_42_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso230&amp;IdRecurso=RES-28D8D5E7C3F04067BD97A549E08C4F81">Competencias: cantidad de hidrogenocarbonato en un antiácido</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_09_CO_img_43_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso240&amp;IdRecurso=RES-75957A33CA1D4790949C96E1584931C1">Recurso M102AB-01</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_09_CO_img_44_small.jpg">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso250&amp;IdRecurso=RES-8FFA696491824F72AB163EDDF24F9425">Distingue entre ácidos y bases</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CN_11_09_CO_19DE24812C7F45EB828C1044DC46B457">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso270&amp;IdRecurso=RES-0AA5AED8BCC0435D984F603F7CC6C537">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso280&amp;IdRecurso=RES-52E835719A934C31804F59627FCD65A4">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>Las disoluciones iónicas</libroTitulo>
+<seccion1 id="S1_CN_11_09_CO_D26F6454F48A43DCAB7EEDC94ACAA006">
+<seccion1Titulo>Las teorías ácido-base</seccion1Titulo>
+<seccion1Texto>
+<p>Los ácidos y las bases son dos grupos de sustancias químicas que
+están presentes en muchos productos de uso cotidiano. Por ejemplo,
+las naranjas, los tomates y el vinagre contienen <negrita>ácidos</negrita
+>, mientras que algunos de los ingredientes de los jabones y la crema
+dental son <negrita>bases</negrita>.</p>
+<imagen src="CN_11_09_CO_IMG01_small.jpg">
+<p>La crema dental para la limpieza de los dientes tiene componentes
+de <negrita>carácter básico</negrita> que ayudan a neutralizar los
+ácidos que dejan los residuos de los alimentos.</p>
+</imagen>
+<p>Un <negrita>ácido</negrita> es una sustancia química que al disolverse
+en el agua genera iones hidrógeno H<superindice>+</superindice>. Se
+caracterizan, entre otras cosas, por tener un sabor agrio, ser corrosivos
+al entrar en contacto con la piel, ser punzantes al tacto y por perder
+sus propiedades al reaccionar con las bases.</p>
+<p>Una <negrita>base</negrita> es un compuesto químico que libera
+iones hidroxilo (OH<superindice>-</superindice>) en una disolución
+acuosa. Las bases tienen un sabor amargo; son corrosivas en contacto
+con la piel; son jabonosas al tacto y pierden sus propiedades al reaccionar
+con los ácidos.</p>
+<recuerda><recuerdaTexto>
+<p><negrita>¡Atención!</negrita></p>
+<p>Las <negrita>sustancias corrosivas</negrita> producen fuertes irritaciones
+e incluso quemaduras graves cuando entran en contacto con la piel.</p>
+</recuerdaTexto></recuerda>
+<table border="1"><caption>Las propiedades de los ácidos y las bases</caption>
+<colgroup><col/><col/><col/></colgroup>
+<tbody>
+<tr>
+<td>PROPIEDAD</td>
+<td>ÁCIDOS</td>
+<td>BASES</td>
+</tr>
+<tr>
+<td><negrita>Sabor</negrita></td>
+<td>Agrio</td>
+<td>Amargo</td>
+</tr>
+<tr>
+<td><negrita>Tacto</negrita></td>
+<td>Punzante</td>
+<td>Jabonoso</td>
+</tr>
+<tr>
+<td><negrita>Conducción de la corriente eléctrica</negrita></td>
+<td>Sí, disueltos en agua</td>
+<td>Sí, disueltas en agua</td>
+</tr>
+<tr>
+<td><negrita>Acción sobre la piel</negrita></td>
+<td>Son corrosivas</td>
+<td>Son corrosivas</td>
+</tr>
+<tr>
+<td><negrita>Acción sobre los colorantes vegetales</negrita></td>
+<td>Los hacen cambiar de color</td>
+<td>Los hacen cambiar de color</td>
+</tr>
+<tr>
+<td><negrita>Acción sobre algunos metales</negrita></td>
+<td>Los corroen</td>
+<td>Los corroen</td>
+</tr>
+<tr>
+<td><negrita>Acción sobre otros ácidos/bases</negrita></td>
+<td>Pierden sus propiedades</td>
+<td>Pierden sus propiedades</td>
+</tr>
+<tr>
+<td><negrita>Acción sobre otras sustancias</negrita></td>
+<td>Las disuelven</td>
+<td>En algunos casos hacen precipitar compuestos insolubles</td>
+</tr>
+</tbody>
+</table>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso010&amp;IdRecurso=RES-4D223675061E4CBDA9A354A1AD79E0A8"
+>Los modelos ácido-base</enlace>
+</profundiza><seccion2
+id="S2_CN_11_09_CO_B40A7683524B4A32934D9CCB09FE1B38">
+<seccion2Titulo>La teoría de Arrhenius</seccion2Titulo>
+<seccion2Texto>
+<p>El primero en proponer una teoría sobre los ácidos y las bases
+fue el químico sueco Svante <negrita>Arrhenius</negrita>. Él planteó
+que un <negrita>ácido</negrita> era una sustancia que libera iones
+hidrógeno H<superindice>+</superindice> en disolución acuosa. En cambio,
+una <negrita>base</negrita> es un compuesto que libera iones hidroxilo
+OH<superindice>-</superindice> en disolución acuosa.</p>
+<formula alineacion="centrada" src="CN_11_09_formula01.gif"></formula>
+<p>Base de Arrhenius</p>
+<formula alineacion="centrada" src="CN_11_09_formula02.gif"></formula>
+</seccion2Texto></seccion2><seccion2
+id="S2_CN_11_09_CO_52254CC65CB74168B89B2137EB0C1C16">
+<seccion2Titulo>La teoría de Brönsted-Lowry</seccion2Titulo>
+<seccion2Texto>
+<p>En la década de 1920 surge una teoría que plantea definiciones
+más generales sobre los ácidos y las bases. Dicha teoría, fue planteada
+por el químico danés J. N. <negrita>Brönsted</negrita> y el químico
+inglés Thomas <negrita>Lowry</negrita>, la cual determina que un <negrita
+>ácido</negrita> es una sustancia que dona o cede protones (iones
+hidrógeno H<superindice>+</superindice>), y una <negrita>base</negrita
+> es el compuesto capaz de recibir o aceptar dichos protones.</p>
+<p>Según esta teoría, todos los ácidos poseen una <negrita>base conjugada</negrita
+> (cuando ceden protones) y todas las bases poseen un <negrita>ácido
+conjugado</negrita> (cuando aceptan protones). Por esto, en la reacción
+entre el ácido nitroso (HNO<subindice>2</subindice>) y el agua (H<subindice
+>2</subindice>O), el ácido pierde un protón y se genera la base conjugada.
+El agua, que se comporta como base, acepta el protón y se produce
+el ácido conjugado.</p>
+<formula alineacion="centrada" src="CN_11_09_formula03.gif"></formula>
+<p>Y, en la reacción entre el amoniaco (NH<subindice>3</subindice
+>) y el ácido fluorhídrico (HF), el amoniaco acepta el protón que
+pierde el ácido fluorhídrico y se producen los respectivos ácido y
+base conjugados</p>
+<formula alineacion="centrada" src="CN_11_09_formula04.gif"></formula>
+<destacado><destacadoTitulo>El ion H<superindice>+</superindice> y
+el ion H<subindice>3</subindice>O<superindice>+</superindice></destacadoTitulo>
+<destacadoTexto>
+<p>En las disoluciones acuosas, cuando se disocia un ácido, se produce
+el <negrita>ion H<superindice>+</superindice></negrita> (protón).
+Este ion interactúa con los pares electrónicos libres sobre el oxígeno
+de las moléculas de agua, y forma <negrita>iones hidronio</negrita
+> (H<subindice>3</subindice>O<superindice>+</superindice>).  En algunas
+ecuaciones químicas se utiliza los símbolos <negrita>H<superindice
+>+</superindice></negrita> o <negrita>H<subindice>3</subindice>O<superindice
+>+</superindice></negrita>, expresiones que representan lo mismo.</p>
+</destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_09_CO_E282B35D0FEB4B778C6E3704AFB8F04E">
+<seccion2Titulo>La teoría de Lewis</seccion2Titulo>
+<seccion2Texto>
+<p>Esta teoría, formulada por Gilbert <negrita>Lewis</negrita>, plantea
+la aceptación o donación de un par de electrones durante una reacción
+química. De acuerdo con Lewis, un <negrita>ácido</negrita> es una
+sustancia capaz de recibir un par de electrones para formar un enlace
+covalente y una <negrita>base</negrita> es un compuesto capaz de donar
+un par de electrones para formar un enlace covalente.</p>
+<p>El amoniaco (NH<subindice>3</subindice>) es una base de Lewis,
+en donde el nitrógeno (N) tiene un par de electrones libres con los
+cuales puede formar un enlace covalente con el protón (H<superindice
+>+</superindice>) proveniente del agua.</p>
+<formula alineacion="centrada" src="CN_11_09_formula05.gif"></formula>
+</seccion2Texto></seccion2><seccion2
+id="S2_CN_11_09_CO_221A8B463B71437682CEE8558CF70B5B">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso020&amp;IdRecurso=RES-344F6050E79D4765B915EE8F9D9ECA8B"
+>Refuerza tu aprendizaje: Las teorías ácido-base</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_11_09_CO_E736FA8BA0074C81B4164138D54DBBFD">
+<seccion1Titulo>La autoionización del agua</seccion1Titulo>
+<seccion1Texto>
+<p>Se entiende por <negrita>autoionización del agua</negrita> la reacción
+química en la que una molécula de agua actúa como <negrita>ácido</negrita
+> para transferir un protón a otra molécula de agua que funciona como <negrita
+>base</negrita>. Esta transferencia da lugar a la formación de un
+ion hidronio (H<subindice>3</subindice>O<superindice>+</superindice
+>) y un ion hidroxilo (OH<superindice>-</superindice>). Dicha reacción
+se expresa así:</p>
+<formula alineacion="centrada" src="CN_11_09_formula06.gif"></formula>
+<p>En el proceso de autoionización del agua son pocas las moléculas
+que se ionizan, por ello se considera al agua una sustancia mala conductora
+de la electricidad.</p>
+<recuerda><recuerdaTexto>
+<p>Un <negrita>ion</negrita> es un átomo o grupo de átomos con carga
+eléctrica positiva (catión) o negativa (anión).</p>
+<p>La <negrita>disociación iónica</negrita> es el proceso por el cual
+una sustancia disuelta en agua se separa en los iones que la forman.</p>
+<p>Por <negrita>ejemplo</negrita>:</p>
+<p>NaOH → Na<superindice>+</superindice> + OH<superindice>-</superindice
+></p>
+</recuerdaTexto></recuerda><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso290&amp;IdRecurso=RES-1CCC85D48B754097BFDDB23DB39C8FAF"
+>La autodisociación del agua</enlace>
+</profundiza><seccion2
+id="S2_CN_11_09_CO_D948DC81D2AA49609ED664C4CDF614A2">
+<seccion2Titulo>La constante de disociación del agua</seccion2Titulo>
+<seccion2Texto>
+<p>La<negrita> constante de disociación del agua</negrita>, también
+conocida como constante del <negrita>producto iónico del agua</negrita
+>, es una relación matemática que expresa el producto iónico del agua,
+que resulta de multiplicar la concentración de iones hidronio [H<subindice
+>3</subindice>O<superindice>+</superindice>] por la concentración
+de iones hidroxilo [OH<superindice>-</superindice>] a una temperatura
+de 25 °C. Esta constante es específica para la autoionización del
+agua, se representa como <negritacursiva>K<subindice>w</subindice
+></negritacursiva> y se expresa de la siguiente manera:</p>
+<p><cursiva>K<subindice>w</subindice></cursiva> = [H<subindice>3</subindice
+>O<superindice>+</superindice>] [OH<superindice>-</superindice>] =
+1,0 × 10 <superindice>-14</superindice></p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CN_11_09_CO_97FADE82CB93409499FBE5F572C5A5F2">
+<seccion2Titulo>La acidez de las disoluciones</seccion2Titulo>
+<seccion2Texto>
+<p>Cuando un ácido se disuelve en agua, se disocia formando iones
+hidronio (H<subindice>3</subindice>O<superindice>+</superindice>)
+en un número mucho mayor al de los iones hidroxilo (OH<superindice
+>‒</superindice>) aportados por las pocas moléculas de agua ionizadas.</p>
+<p>Cuando una base se disuelve en agua, se disocia formando iones
+hidroxilo (OH<superindice>‒</superindice>) en un número mucho mayor
+al de los iones (H<subindice>3</subindice>O<superindice>+</superindice
+>) aportados por las pocas moléculas de agua ionizadas.</p>
+<destacado><destacadoTitulo>El efecto de los hidronio y los hidroxilo</destacadoTitulo>
+<destacadoTexto>
+<p>Cuando se disuelve un ácido o una base en agua, la concentración
+de <negrita>iones hidronio</negrita> (H<subindice>3</subindice>O<superindice
+>+</superindice>) o <negrita>iones hidroxilo</negrita> (OH<superindice
+>-</superindice>) provenientes de estas sustancias respectivamente,
+genera una perturbación en el equilibrio de <negrita>autoionización</negrita
+> del agua, por ello este se desplaza hacia la izquierda, por lo tanto
+la concentración de iones hidronio e hidroxilo provenientes de la
+autoionización del agua disminuye.</p>
+</destacadoTexto></destacado>
+<table border="1"><caption>Disoluciones de acuerdo con la concentración
+de iones hidronio e hidroxilo</caption><colgroup><col/><col/></colgroup>
+<tbody>
+<tr valign="middle">
+<td align="center">DISOLUCIÓN</td>
+<td align="center">CONCENTRACIONES DE IONES<br/>HIDRONIO E HIDROXILO</td>
+</tr>
+<tr>
+<td align="center">Neutra</td>
+<td align="center">[H<subindice>3</subindice>O<superindice>+</superindice
+>] = [OH<superindice>‒</superindice>]</td>
+</tr>
+<tr>
+<td align="center">Ácida</td>
+<td align="center">[H<subindice>3</subindice>O<superindice>+</superindice
+>] > [OH<superindice>‒</superindice>]</td>
+</tr>
+<tr>
+<td align="center">Básica</td>
+<td align="center">[H<subindice>3</subindice>O<superindice>+</superindice
+>] &lt; [OH<superindice>‒</superindice>]</td>
+</tr>
+</tbody>
+</table>
+<p>Se puede expresar la acidez o la basicidad de una sustancia siempre
+y cuando se conozca la concentración de uno de los iones.</p>
+<p>Por <negrita>ejemplo</negrita>: una disolución a 25 ºC tiene una
+concentración de iones hidronio de 1,2 × 10 <superindice>-4</superindice
+> M. ¿Qué tipo de disolución es?</p>
+<listaNumerada>
+<listaElemento>Escribimos la ecuación de la disociación del agua:<formula
+alineacion="centrada" src="CN_11_09_formula07.gif"></formula></listaElemento>
+<listaElemento>Reemplazamos la concentración conocida de ion hidronio:<formula
+alineacion="centrada" src="CN_11_09_formula08.gif"></formula></listaElemento>
+<listaElemento>Despejamos la variable desconocida que corresponde,
+en este caso, a la concentración de ion hidroxilo:<formula
+alineacion="centrada" src="CN_11_09_formula09.gif"></formula></listaElemento>
+<listaElemento>Hallamos el valor de la concentración de ion hidroxilo:<formula
+alineacion="centrada" src="CN_11_09_formula10.gif"></formula></listaElemento>
+</listaNumerada>
+<p>La disolución es ácida porque la concentración de iones hidronio
+(H<subindice>3</subindice>O<superindice>+</superindice>) es mayor
+que la concentración de iones hidroxilo (OH<superindice>‒</superindice
+>).</p>
+<destacado><destacadoTitulo>Concentración de iones en el agua</destacadoTitulo>
+<destacadoTexto>
+<p>Como el agua es neutra, la concentración de <negrita>iones hidronio</negrita
+> [H<subindice>3</subindice>O<superindice>+</superindice>] es igual
+que la concentración de <negrita>iones hidroxilo</negrita> [OH<superindice
+>-</superindice>].</p>
+<p>[H3O+] [OH-] = 1,0 × 10 <superindice>-14</superindice></p>
+<p>[x] [x] = 1,0 × 10 <superindice>-14</superindice></p>
+<p>[x]<superindice>2</superindice> = 1,0 × 10 <superindice>-14</superindice
+></p>
+<p>[x] = 1,0 × 10 <superindice>-7</superindice></p>
+<p>[H<subindice>3</subindice>O<superindice>+</superindice>] = 1,0
+× 10 <superindice>-7</superindice>          [OH<superindice>-</superindice
+>] = 1,0 × 10 <superindice>-7</superindice></p>
+</destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_09_CO_97CEAD3180524F4DBA10C15E381A2AV9">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso030&amp;IdRecurso=RES-93BFC57F0293488CA38C6B7BC1E02BA2"
+>Refuerza tu aprendizaje: La autoionización del agua</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_11_09_CO_BD71FF5ADB4F48D28A4C9EEF582ACF72">
+<seccion1Titulo>El pH y el pOH</seccion1Titulo>
+<seccion1Texto>
+<p>Para saber qué tan fuerte es una disolución de un ácido, hay que
+conocer la concentración de iones hidronio (H<subindice>3</subindice
+>O<superindice>+</superindice>) en la disolución. Lo mismo se aplica
+para las bases respecto a la concentración de iones hidroxilo (OH<superindice
+>‒</superindice>).</p>
+<p>Los valores de las concentraciones de estos iones generalmente
+son muy pequeños (del orden de 10<superindice>‒1</superindice> a 10<superindice
+>‒14</superindice>), por lo que resulta incómodo hacer cálculos con
+estas cifras. Para facilitarlos, se definió el <negrita>pH</negrita
+> o potencial de hidrógeno.</p>
+<p>El <negrita>pH</negrita> se relaciona con la concentración molar
+de iones hidronio (H<subindice>3</subindice>O<superindice>+</superindice
+>) presentes en una disolución acuosa ácida o básica y se define de
+la siguiente manera:</p>
+<p>pH = -log [H<subindice>3</subindice>O<superindice>+</superindice
+>]</p>
+<p>Donde [H<subindice>3</subindice>O<superindice>+</superindice>]
+es la concentración de iones H<subindice>3</subindice>O<superindice
+>+</superindice> en moles por litro (mol/L).</p>
+<p>De modo semejante, para las disoluciones básicas, el <negrita>pOH</negrita
+> se expresa como:</p>
+<p>pOH = -log [OH<superindice>‒</superindice>]</p>
+<p>El pH y el pOH están relacionados por la fórmula:</p>
+<p>pH + pOH = 14</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso300&amp;IdRecurso=RES-76BBC79345704592B7CFAE9230459D0F"
+>La medida de la acidez</enlace>
+</profundiza><seccion2
+id="S2_CN_11_09_CO_97CEAD3180524F4DBA10C15E381A0AE7">
+<seccion2Titulo>La escala de pH</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>escala de pH</negrita> es una recta numérica que va
+del 0 al 14 y sirve para expresar la acidez de una sustancia. La escala
+está dividida en 14 unidades. El pH de cualquier disolución acuosa
+ácida o básica estará siempre comprendido entre estos dos valores
+extremos y pueden ser decimales, por ejemplo el pH del limón oscila
+entre 2,2 y 2,4.</p>
+<imagen src="CN_11_09_CO_IMG02_small.jpg">
+<p>En la escala de pH: la acidez aumenta a medida que disminuye el
+pH (de 6 a 0) y la basicidad aumenta a medida que aumenta el pH (de
+7 a 14).</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CN_11_09_CO_7A5E3533446044238D93FC65A61CB492">
+<seccion2Titulo>La determinación del pH</seccion2Titulo>
+<seccion2Texto>
+<p>En el laboratorio, el pH se puede determinar utilizando el papel
+indicador de pH o un aparato llamado pH-metro (peachímetro).</p>
+<p>El <negrita>papel indicador de pH</negrita> es una tira de papel
+impregnada con una disolución de uno o varios compuestos indicadores
+que cambian de color según la <negrita>concentración de iones hidronio</negrita
+> y por tanto del pH. El papel indicador presenta diferentes colores
+al ponerse en contacto con una disolución y cuando cubre toda la escala
+de pH. Sirve para conocer de forma rápida y aproximada la fuerza de
+una disolución ácida o básica.</p>
+<imagen src="CN_11_09_CO_IMG03_small.jpg">
+<p>Papel indicador de pH. Al poner en contacto un extremo de la tira
+con la disolución que se desea analizar, el papel adquiere un determinado
+color que se compara con el patrón en la escala.</p>
+</imagen>
+<p>El procedimiento es el siguiente: se coloca una gota de la disolución
+sobre un trocito de papel indicador de pH y se compara el color que
+presenta el papel con los colores de la escala de referencia, que
+tienen asignado un valor de pH.</p><?Pub Caret 57?>
+<imagen ampliable="no" src="CN_11_09_CO_IMG04_small.jpg">
+<p>El gráfico muestra el <negrita>pH</negrita> de distintas disoluciones
+de uso cotidiano y los colores que adquiere el papel indicador de
+pH con cada una de ellas.</p>
+</imagen>
+<p>El <negrita>pH-metro</negrita> es un aparato que sirve para realizar
+una medición más precisa que la obtenida con un papel indicador pH
+y permite leer directamente el pH en una pantalla. Para su funcionamiento
+correcto, es necesario calibrarlo con una sustancia de pH conocido,
+denominada <negrita>disolución patrón</negrita>.</p>
+<imagen src="CN_11_09_CO_IMG05_small.jpg">
+<p>En un <negrita>pH-metro</negrita> la muestra de la cual se quiere
+medir el pH está dentro del vaso de precipitados. El electrodo se
+introduce en el líquido y el valor de pH se lee en la pantalla.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CN_11_09_CO_1B246512C20B47CE91FD6B7AB324F769">
+<seccion2Titulo>Los ácidos y las bases: fuertes y débiles</seccion2Titulo>
+<seccion2Texto>
+<p>La fuerza de los ácidos y de las bases depende de su capacidad
+para disociarse en iones cuando se hallan disueltos en agua. No todos
+los ácidos y las bases tienen la misma capacidad de disociarse y liberar
+o aceptar iones hidronio. La fracción de las moléculas que se ionizan
+en un medio acuoso depende de la naturaleza de la sustancia.</p>
+<seccion3 id="S3_CN_11_09_CO_71DF6D149ABF405681B4C76FFC1985E8">
+<seccion3Titulo>Los ácidos y las bases fuertes</seccion3Titulo>
+<seccion3Texto>
+<p>Los ácidos y las bases fuertes se disocian completamente en iones
+en una disolución acuosa. Un ejemplo de ácido fuerte es el <negrita
+>ácido clorhídrico</negrita> (HCl) y una base fuerte es el <negrita
+>hidróxido de potasio</negrita> (KOH).</p>
+<formula alineacion="centrada" src="CN_11_09_formula11.gif"></formula>
+<imagen src="CN_11_09_CO_IMG06_small.jpg">
+<p>Esquema de la disociación de un ácido fuerte en agua (no se representan
+las moléculas de agua).</p>
+</imagen>
+<p>En la disociación de un <negrita>ácido fuerte</negrita> en agua,
+la concentración de iones (H<subindice>3</subindice>O<superindice
+>+</superindice>) es aportada en muy alta proporción por el ácido,
+mientras que en la disociación acuosa de una <negrita>base fuerte</negrita
+>, la concentración de (OH<superindice>-</superindice>) es aportada
+en muy alta proporción por la base. Este hecho permite calcular el
+pH de una manera sencilla teniendo en cuenta estas concentraciones.</p>
+<p>Por <negrita>ejemplo</negrita>: ¿Cuál es el pH de una disolución
+0,03M de HCl?</p>
+<listaNumerada>
+<listaElemento>Planteamos la ecuación de la disociación de la sustancia<formula
+alineacion="centrada" src="CN_11_09_formula12.gif"></formula></listaElemento>
+<listaElemento>El enunciado nos indica que la disolución es 0,03 M
+de HCl. El HCl es un ácido fuerte, por lo tanto se disocia completamente.
+En la disolución acuosa habrá una concentración 0,03 M de iones (H<subindice
+>3</subindice>O<superindice>+</superindice>) y 0,03 M de iones Cl<superindice
+>-</superindice></listaElemento>
+<listaElemento>Escribimos la expresión para calcular el pH:<br/>pH
+= -log [H<subindice>3</subindice>O<superindice>+</superindice>]</listaElemento>
+<listaElemento>Reemplazamos el valor de la concentración de iones
+H<subindice>3</subindice>O<superindice>+</superindice>:<br/>pH = -log
+[0,03]</listaElemento>
+<listaElemento>Hallamos el valor del pH:<br/>pH = 1,52</listaElemento>
+</listaNumerada>
+<destacado><destacadoTitulo>Determinación de concentraciones de iones
+H<subindice>3</subindice>O<superindice>+</superindice> a partir del
+pH</destacadoTitulo><destacadoTexto>
+<p>Cuando se necesite determinar la concentración de iones H<subindice
+>3</subindice>O<superindice>+</superindice>, teniendo en cuenta el
+pH, se debe utilizar la siguiente ecuación:</p>
+<p>[H<subindice>3</subindice>O<superindice>+</superindice>] = 10<superindice
+>-pH</superindice></p>
+<p>Por <negrita>ejemplo</negrita>: ¿Cuál es la concentración de H<subindice
+>3</subindice>O<superindice>+</superindice> de una disolución cuyo
+pH es 9,6?</p>
+<p>[H<subindice>3</subindice>O<superindice>+</superindice>] = 10<superindice
+>-9,6</superindice></p>
+<p>[H<subindice>3</subindice>O<superindice>+</superindice>] = 2,5
+× 10<superindice>-10</superindice></p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso040&amp;IdRecurso=RES-4A8A57EF17CA46E0BAFCCE3A89AABAA2"
+>Calcula el pH de las disoluciones</enlace>
+</practica><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso050&amp;IdRecurso=RES-1D0236729FAF40CCB18F146D185DCAD2"
+>Realiza los cálculos de las disoluciones</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_CN_11_09_CO_6D41130C4AD743DF910D93A1C717CCDC">
+<seccion3Titulo>Los ácidos y las bases débiles</seccion3Titulo>
+<seccion3Texto>
+<p>Los ácidos y las bases se disocian parcialmente en una disolución
+acuosa. Un ejemplo de ácido débil es el ácido fluorhídrico (HF) y
+uno de base débil es el amoniaco (NH<subindice>3</subindice>).</p>
+<formula alineacion="centrada" src="CN_11_09_formula13.gif"></formula>
+<p>En la disociación de ácidos y bases débiles se establece un equilibrio
+químico que denotamos por una doble flecha. En estos casos, la sustancia
+no se disocia completamente. Así, en una disolución acuosa de ácido
+fluorhídrico habrá iones fluoruro (F<superindice>-</superindice>),
+iones hidronio (H<subindice>3</subindice>O<superindice>+</superindice
+>) y moléculas de HF. En el caso de la disolución de amoniaco coexistirán
+iones amonio (NH<subindice>4</subindice><superindice>+</superindice
+>), iones hidroxilo (OH<superindice>-</superindice>) y moléculas de
+amoniaco (NH<subindice>3</subindice>).</p>
+<imagen src="CN_11_09_CO_IMG07_small.jpg">
+<p>Esquema de la disociación de un ácido débil en agua (no se representan
+las moléculas de agua).</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso060&amp;IdRecurso=RES-ED8779C7EE944940B9B91A96749A18A0"
+>Los ácidos</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso070&amp;IdRecurso=RES-DB14E803EFF545BD8EE90CB09B88E072"
+>Las bases</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso080&amp;IdRecurso=RES-3AC322E88B4A41FBA1D2ACDE83E007AD"
+>Clasifica los ácidos y las bases</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CN_11_09_CO_9E4CE94B211847B9B52CF5124C5633F7">
+<seccion2Titulo>Las disoluciones buffer</seccion2Titulo>
+<seccion2Texto>
+<p>Una <negrita>disolución buffer</negrita>, también conocido como
+tampón químico o disolución reguladora, es una mezcla que contiene
+concentraciones de un par conjugado ácido-base. Su principal propiedad
+consiste en que permite mantener el pH dentro de límites reducidos
+cuando se añaden cantidades pequeñas de ácido o de base. Estas disoluciones
+tienen gran importancia en procesos químicos, industriales, biológicos,
+fisiológicos, entre otros.</p>
+<p>Existen dos tipos de <negrita>disoluciones buffer</negrita>:</p>
+<listaSinNumerar>
+<listaElemento>Ácido débil y la sal de su base conjugada, por ejemplo
+ácido acético y acetato de sodio</listaElemento>
+<listaElemento>Base débil y la sal de su ácido conjugado, por ejemplo
+amoniaco y cloruro de amonio</listaElemento>
+</listaSinNumerar>
+<imagen src="CN_11_09_CO_IMG08_small.jpg">
+<p>El rango de pH normal en la sangre humana va de 7,35 a 7,45. Un
+aumento de pH que supere a 7,8 o una disminución de pH hasta 6,8 produce
+la muerte. En la sangre el principal mecanismo amortiguador es el
+sistema ácido carbónico-bicarbonato.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CN_11_09_CO_9E4CE94B211847B9B52CF5124C5614G8">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso090&amp;IdRecurso=RES-A8985BBEBD6D4706BEB60679D9429B44"
+>Refuerza tu aprendizaje: El pH y el pOH</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_11_09_CO_362FCC9E21DF4E1895D102063D29D93E">
+<seccion1Titulo>Los indicadores ácido-base</seccion1Titulo>
+<seccion1Texto>
+<p>Para averiguar con rapidez si una disolución es ácida o básica
+se utilizan los <negrita>indicadores</negrita>. Estas sustancias tienen
+la propiedad de cambiar de color cuando la acidez o basicidad de una
+disolución sobrepasa un determinado valor. Basta con añadir dos o
+tres gotas de indicador a la disolución y observar qué color adquiere
+el líquido.</p>
+<p>La variación del color que presenta un indicador se denomina <negrita
+>viraje</negrita>. Los indicadores no viran a un pH determinado, por
+ello se manejan intervalos de viraje, los cuales son específicos para
+cada indicador, por ejemplo el naranja de metilo vira en medio ácido
+a un intervalo de pH de 3,1 a 4,4.</p>
+<p>Hay muchos indicadores ácido-base; dos de los más usados en el
+laboratorio de química son la <negrita>fenolftaleína</negrita> y el <negrita
+>tornasol</negrita>.</p>
+<table border="1"><caption>Algunos indicadores más comunes</caption>
+<colgroup><col/><col/><col/></colgroup>
+<tbody>
+<tr>
+<td>INDICADOR</td>
+<td>INTERVALOS DE VIRAJE DE pH</td>
+<td>CAMBIO DE COLOR</td>
+</tr>
+<tr>
+<td>Rojo de metilo</td>
+<td>4,2 a 6,3</td>
+<td>De rojo a amarillo</td>
+</tr>
+<tr>
+<td>Fenolftaleína</td>
+<td>8,3 a 10</td>
+<td>De incoloro a rosado</td>
+</tr>
+<tr>
+<td>Naranja de metilo</td>
+<td>3,1 a 4,4</td>
+<td>De naranja a amarillo</td>
+</tr>
+<tr>
+<td>Azul de bromotimol</td>
+<td>6,0 a 7,6</td>
+<td>De amarillo a azul</td>
+</tr>
+</tbody>
+</table>
+<p>Los indicadores permiten reconocer la presencia de un ácido o de
+una base en disolución pero no dan una idea de su fuerza.</p>
+<destacado><destacadoTitulo>El viraje de los indicadores</destacadoTitulo>
+<destacadoTexto>
+<p>En algunas ocasiones se dice que los indicadores presentan una
+coloración en medio ácido y otra en medio básico, pero no se puede
+generalizar, pues hay algunos indicadores que tienen viraje solo en
+pH ácido o en pH básico. Por ejemplo el intervalo de viraje del rojo
+de metilo es de 1,2 a 2,8, es decir a un pH inferior a 1,2 su coloración
+es rojo, en el intervalo 1,2 a 2,8 cambia poco a poco de color hasta
+amarillo, por encima de pH 2,8 la disolución es completamente amarilla.</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso310&amp;IdRecurso=RES-3B5E058C0BF54AF1B9C6A5E109E6F8A7"
+>Las sustancias indicadoras ácido-base</enlace>
+</profundiza><seccion2
+id="S2_CN_11_09_CO_CFB6CC77D63245A59A665678B2D2A59E">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso100&amp;IdRecurso=RES-AD63CAD23BBD451EA2B47DD659ABC4EE"
+>Refuerza tu aprendizaje: Los indicadores ácido-base</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_11_09_CO_2CFDB3A42820419391D11ABBD56CAC3D">
+<seccion1Titulo>Las reacciones de los ácidos y las bases</seccion1Titulo>
+<seccion1Texto>
+<p>Los ácidos y las bases pueden reaccionar entre sí o con otras sustancias.
+Entre las reacciones más importantes, se pueden citar las siguientes:</p>
+<seccion2 id="S2_CN_11_09_CO_CFB6CC77D63245A59A665678B2D2D6BD">
+<seccion2Titulo>La reacción de una base con una sal de amonio</seccion2Titulo>
+<seccion2Texto>
+<p>El metal de la base (en este caso, sodio) desplaza al <negrita
+>ion amonio</negrita> (NH<subindice>4</subindice><superindice>+</superindice
+>) de la sal y este forma <negrita>amoniaco</negrita> (NH<subindice
+>3</subindice>) gaseoso.</p>
+<imagen src="CN_11_09_CO_IMG09_small.jpg">
+<p>Cuando el hidróxido de sodio reacciona con el cloruro de amonio,
+desplaza al ion amonio de este último compuesto y se produce cloruro
+de sodio, amoniaco y agua.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CN_11_09_CO_F7DAD2D7B395464AB9AE3C67D74D7406">
+<seccion2Titulo>La reacción de un ácido con un metal</seccion2Titulo>
+<seccion2Texto>
+<p>Los metales, como el zinc o el hierro, se oxidan, mientras que
+el hidrógeno del ácido se reduce y se desprende como gas.</p>
+<imagen src="CN_11_09_CO_IMG10_small.jpg">
+<p>Cuando el ácido sulfúrico reacciona con zinc se obtiene sulfato
+de zinc e hidrógeno. Se trata de una reacción redox en la que el zinc
+se oxida y el hidrógeno del ácido se reduce.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>En una <negrita>reacción redox</negrita>, un elemento se oxida
+(cede electrones), mientras que otro se reduce (acepta electrones).
+El cambio en el estado de oxidación indica el número de electrones
+intercambiado.</p>
+</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_09_CO_CD64364ED82D40CC928ED93B3BBE2972">
+<seccion2Titulo>La reacción de un ácido con un carbonato</seccion2Titulo>
+<seccion2Texto>
+<p>El carbonato de calcio (componente principal del mármol) es atacado
+por los ácidos y produce efervescencia debido al desprendimiento de
+dióxido de carbono gaseoso.</p>
+<imagen src="CN_11_09_CO_IMG11_small.jpg">
+<p>El ácido sulfúrico reacciona con el carbonato de calcio y se producen
+sulfato de calcio, agua y dióxido de carbono; este último se desprende
+como gas, por ello se observa una efervescencia.</p>
+</imagen>
+<p>El ácido sulfúrico es uno de los componentes de la lluvia ácida,
+por lo que esta reacción afecta severamente al mármol de los edificios
+y monumentos.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CN_11_09_CO_696576D673A04B2CA87FB8293B5237E2">
+<seccion2Titulo>La neutralización</seccion2Titulo>
+<seccion2Texto>
+<p>La neutralización es la reacción entre un ácido y una base para
+dar una sal y agua como productos.</p>
+<p>Una <negrita>sal</negrita> es un compuesto cristalino formado por
+el ion positivo de la base y el ion negativo del ácido. Si todos los
+hidrógenos del ácido son sustituidos por el metal de la base, la sal
+resultante será neutra; en caso contrario, se obtendrá una sal ácida.</p>
+<imagen src="CN_11_09_CO_IMG12_small.jpg">
+<p>La neutralización del ácido clorhídrico con hidróxido de sodio
+produce cloruro de sodio y agua.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso110&amp;IdRecurso=RES-8B9164D00E0B415A9AD79693C6ED9641"
+>Las sales neutras</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_09_CO_5CB66F8F233D460DADF5447436000AFF">
+<seccion2Titulo>La valoración ácido-base</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>valoración ácido-base</negrita> permite determinar
+la concentración desconocida de una disolución ácida o básica. El
+procedimiento consiste en adicionar de manera controlada volúmenes
+de una sustancia de concentración conocida que puede ser una base
+o un ácido. En el proceso de la valoración se produce una reacción
+de neutralización, que se sigue por el cambio de color del indicador
+utilizado.</p>
+<p>El punto en el cual han reaccionado cantidades equivalentes de
+ácido y de la base es denominado punto de equivalencia o <negrita
+>punto de neutralización</negrita>.</p>
+<p>A nivel experimental se puede establecer el punto final y de equivalencia
+mediante el uso de indicadores o de pH-metro.</p>
+<imagen ampliable="no" src="CN_11_09_CO_IMG13_small.jpg">
+<p>Para realizar una valoración ácido-base se necesitan los siguientes
+instrumentos: bureta y matraz Erlenmeyer.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>En la <negrita>bureta</negrita> se adiciona la disolución de concentración
+conocida y en el <negrita>matraz Erlenmeyer</negrita> se debe encontrar
+la disolución con concentración desconocida, a la cual se le adiciona
+el indicador ácido-base. </p>
+</recuerdaTexto></recuerda><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso120&amp;IdRecurso=RES-29CB5A49F1D740B8AED55736FABA2520"
+>La valoración ácido-base</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso130&amp;IdRecurso=RES-8922FEF2BBC24F77AA98946AD35D7A2B"
+>Conoce el material necesario para realizar una valoración</enlace>
+</practica><seccion3
+id="S3_CN_11_09_CO_10F9C2E249364015AF4001D3196CA569">
+<seccion3Titulo>La concentración de la disolución valorada</seccion3Titulo>
+<seccion3Texto>
+<p>Si se conocen los volúmenes involucrados en la valoración ácido-base
+y la concentración de la <negrita>disolución valorante</negrita>,
+se puede calcular la concentración de la disolución de concentración
+desconocida o valorada. Para hallar la concentración desconocida se
+utiliza la siguiente ecuación de valoración:</p>
+<p><cursiva>V<subindice>B</subindice> × N<subindice>B</subindice> =
+V<subindice>A</subindice> × N<subindice>A</subindice></cursiva></p>
+<p>Donde:</p>
+<p><cursiva>V<subindice>B</subindice></cursiva> = volumen de la base</p>
+<p><cursiva>N<subindice>B</subindice></cursiva> = Normalidad de la
+base</p>
+<p><cursiva>V<subindice>A</subindice></cursiva> = volumen del ácido</p>
+<p><cursiva>N<subindice>A</subindice></cursiva> = Normalidad del ácido</p>
+<destacado><destacadoTitulo>Conversión de molaridad a normalidad</destacadoTitulo>
+<destacadoTexto>
+<p>La ecuación <negritacursiva>V<subindice>B</subindice> × N<subindice
+>B</subindice> = V<subindice>A</subindice> × N<subindice>A</subindice
+></negritacursiva> solo funciona trabajando la concentración en normalidad
+(<cursiva>N</cursiva>). Sin embargo en la actualidad se utiliza más
+la concentración en molaridad (<cursiva>M</cursiva>). Una forma rápida
+de realizar conversiones de molaridad a normalidad es multiplicando
+la <negrita>concentración molar</negrita> por el número de <negrita
+>iones</negrita> (H<superindice>+</superindice>) o <negrita>hidroxilos</negrita
+> (OH<superindice>-</superindice>) que presenta la sustancia. Por
+ejemplo la concentración en normalidad de una disolución de <negrita
+>H<subindice>2</subindice>SO<subindice>4</subindice></negrita> 0,05 <cursiva
+>M</cursiva> es 0,1 <cursiva>N</cursiva>.</p>
+</destacadoTexto></destacado><recuerda><recuerdaTexto>
+<p>La <negritacursiva>normalidad</negritacursiva> (<negritacursiva
+>N</negritacursiva>) es una forma de expresar la concentración de
+las disoluciones. Se define como el número de equivalentes de soluto
+disueltos en 1 L de disolución, y su unidad es equivalentes/L.</p>
+</recuerdaTexto></recuerda>
+<p>Por <negrita>ejemplo</negrita>: en una valoración de 25 ml de HCl
+se utilizaron 55 ml de NaOH 0,22 <cursiva>N</cursiva> para alcanzar
+la neutralización ¿Cuál es la concentración (<cursiva>N</cursiva>)
+del HCl?</p>
+<listaNumerada>
+<listaElemento>Escribimos la ecuación de valoración:<formula
+alineacion="centrada" src="CN_11_09_formula14.gif"></formula></listaElemento>
+<listaElemento>Identificamos la información que suministra el enunciado:<br
+/><cursiva>V<subindice>B</subindice></cursiva> = 55 ml<br/><cursiva
+>N<subindice>B</subindice></cursiva> = 0,22 N<br/><cursiva>V<subindice
+>A</subindice></cursiva> = 25 ml<br/><cursiva>N<subindice>A</subindice
+></cursiva> = ? N</listaElemento>
+<listaElemento>Reemplazamos en la fórmula la información conocida:<formula
+alineacion="centrada" src="CN_11_09_formula15.gif"></formula></listaElemento>
+<listaElemento>Despejamos la incógnita:<formula alineacion="centrada"
+src="CN_11_09_formula16.gif"></formula></listaElemento>
+<listaElemento>Hallamos el valor de la incógnita:<formula
+alineacion="centrada" src="CN_11_09_formula17.gif"></formula></listaElemento>
+</listaNumerada>
+<p>La concentración del HCl es 0,48 <cursiva>N</cursiva>.</p>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_09_CO_00D17567F0574227875B3395749B22BF">
+<seccion2Titulo>Las curvas de valoración</seccion2Titulo>
+<seccion2Texto>
+<p>Las <negrita>curvas de valoración</negrita> son una representación
+gráfica del volumen adicionado de la disolución valorante (disolución
+con concentración conocida) y la variación del pH de la disolución
+donde se encuentra la muestra a ser valorada (disolución con concentración
+desconocida).</p>
+<seccion3 id="S3_CN_11_09_CO_94D83FFFC1D941A3A67D7376EDA4B33F">
+<seccion3Titulo>La curva de valoración ácido fuerte-base fuerte</seccion3Titulo>
+<seccion3Texto>
+<p>Cuando se realiza una valoración de una disolución de un ácido
+fuerte (HCl) con una disolución de base fuerte (NaOH), la típica curva
+de valoración es como la que se representa en el siguiente gráfico:</p>
+<imagen src="CN_11_09_CO_IMG14_small.jpg">
+<p>Curva de valoración de una disolución de HCl con una disolución
+de NaOH. En el eje horizontal se representa el volumen adicionado
+de disolución de NaOH y en el eje vertical la variación del pH.</p>
+</imagen>
+<p>La curva de <negrita>valoración de ácido fuerte</negrita> con base
+fuerte se inicia con un pH ácido. A medida que se le añade NaOH al
+HCl el pH varía lentamente, por disminución de la concentración del
+ácido. El punto de equivalencia se alcanza en pH = 7; en ese punto
+han reaccionado igual cantidad de moles de H<subindice>3</subindice
+>O<superindice>+</superindice> y OH<superindice>-</superindice> y
+ha sucedido una neutralización. Si se sigue adicionando NaOH habrá
+exceso de esa sustancia y por lo tanto la disolución será básica.</p>
+<p>El indicador más adecuado para utilizar en este tipo de valoración
+es el azul de bromotimol porque su viraje de color está muy cercano
+al punto de equivalencia  pH = 7.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_09_CO_0E346722A79A4FC5B884A8D5905E3418">
+<seccion3Titulo>La curva de valoración base fuerte-ácido fuerte</seccion3Titulo>
+<seccion3Texto>
+<p>En el proceso de <negrita>valoración de una base fuerte</negrita
+> (NaOH) con ácido fuerte (HCl) se obtiene un gráfico como el siguiente:</p>
+<imagen src="CN_11_09_CO_IMG15_small.jpg">
+<p>Curva de valoración de una disolución NaOH con una disolución de
+HCl.</p>
+</imagen>
+<p>La curva de valoración de una base fuerte como el NaOH inicia con
+un pH básico. A medida que se le añade disolución de HCl va disminuyendo
+el pH, ya que parcialmente sucede una neutralización. El punto de
+equivalencia se presenta en pH = 7, donde la disolución se considera
+neutra, al producirse NaCl. Si se sigue adicionando HCl, la disolución
+se transforma en ácida porque hay exceso de iones H<subindice>3</subindice
+>O<superindice>+</superindice> provenientes del ácido.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_09_CO_03D1CDE5288D4C7583213D9E7F0D4418">
+<seccion3Titulo>La curva de valoración ácido débil-base fuerte</seccion3Titulo>
+<seccion3Texto>
+<p>En la valoración de un ácido débil (ácido acético, HC<subindice
+>2</subindice>H<subindice>3</subindice>O<subindice>2</subindice>)
+con una base fuerte (NaOH) se obtiene una curva de valoración como
+la siguiente:</p>
+<imagen src="CN_11_09_CO_IMG16_small.jpg">
+<p>Curva de valoración de una disolución de HC<subindice>2</subindice
+>H<subindice>3</subindice>O<subindice>2</subindice> con NaOH.</p>
+</imagen>
+<p>La curva de valoración del HC<subindice>2</subindice>H<subindice
+>3</subindice>O<subindice>2</subindice> (ácido acético) inicia en
+un pH ácido mayor que 1, debido a que es un ácido débil. A medida
+que se añade NaOH aumenta el pH, el punto de equivalencia se alcanza
+en un pH > 7, por lo tanto la disolución será básica, debido a que
+el anión acetato (C<subindice>2</subindice>H<subindice>3</subindice
+>O<subindice>2</subindice><superindice>-</superindice>) de la sal
+(NaC<subindice>2</subindice>H<subindice>3</subindice>O<subindice>2</subindice
+>) que se produce se comporta como una base débil. Al seguir añadiendo
+más NaOH, la disolución será más básica debido al exceso de iones
+OH<superindice>-</superindice>.</p>
+<p>El indicador más adecuado para este tipo de valoración es la fenolftaleína,
+porque su viraje de color es a un pH > 7.</p>
+<destacado><destacadoTitulo>Valoración ácido débil-base fuerte y formación
+de buffer</destacadoTitulo><destacadoTexto>
+<p>En el trazo inicial de la curva de valoración de ácido acético
+con hidróxido de sodio, se evidencia que el cambio de pH con respecto
+a la adición de disolución valorante se mantiene dentro de un rango,
+esto se explica porque se forma un sistema de disolución buffer ácido
+acético-acetato, lo que genera que se mantenga dentro de límites reducidos
+el pH cuando se adiciona volúmenes de base fuerte.</p>
+</destacadoTexto></destacado></seccion3Texto></seccion3></seccion2Texto>
+</seccion2><seccion2
+id="S2_CN_11_09_CO_D206C9C601274ED58D5482F82AF3E716">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso140&amp;IdRecurso=RES-619573266F354A2290DAC6F0AA0F43AD"
+>Refuerza tu aprendizaje: Las reacciones de los ácidos y las bases</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_11_09_CO_0F24B2099F6B4998B42067E37C3AC315">
+<seccion1Titulo>Los ácidos y las bases en la vida diaria</seccion1Titulo>
+<seccion1Texto>
+<p>Algunas disoluciones ácidas que se utilizan a diario son el vinagre
+(contiene ácido acético), el té (tiene ácido tánico), el limón (posee
+ácido cítrico) y la leche (contiene ácido láctico).</p>
+<imagen src="CN_11_09_CO_IMG17_small.jpg">
+<p>Ejemplos de productos que contienen <negrita>ácidos</negrita>:
+cítricos, vinagre y leche.</p>
+</imagen>
+<p>Algunas disoluciones básicas de uso cotidiano son los productos
+utilizados para limpiar cañerías (que llevan hidróxido de sodio),
+algunos artículos de limpieza (contienen amoníaco) o los antiácidos
+para aliviar la acidez de estómago (elaborados con hidróxido de magnesio).</p>
+<imagen src="CN_11_09_CO_IMG18_small.jpg">
+<p>Ejemplos de productos que contienen <negrita>bases</negrita>: jabones,
+productos de limpieza y antiácidos.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso320&amp;IdRecurso=RES-D70F23EEFF5748A6A3D76989E7741245"
+>El uso de los ácidos y bases</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso150&amp;IdRecurso=RES-D70F23EEFF5748A6A3D76989E7744173"
+>Conoce los ácidos más comunes y sus usos</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso160&amp;IdRecurso=RES-8AD8DE183DEC418B8248525F02D5E39E"
+>Descubre las bases más comunes y sus usos</enlace>
+</practica><seccion2
+id="S2_CN_11_09_CO_D206C9C601274ED58D5482F82AF3A834">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso170&amp;IdRecurso=RES-635D99623BC04D2C8EA294EEC3980D18"
+>Refuerza tu aprendizaje: Los ácidos y las bases en la vida diaria</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_11_09_CO_A6E6D4F9F1DB44149E16CD54E6B6ADBA">
+<seccion1Titulo>La electroquímica</seccion1Titulo>
+<seccion1Texto>
+<p>La <negrita>electroquímica</negrita> es una rama de la química
+que tiene por objeto de estudio la relación entre las reacciones químicas
+y la energía eléctrica. Tiene gran aplicación en la metalurgia y en
+la fabricación de dispositivos para acumular energía eléctrica.</p>
+<seccion2 id="S2_CN_11_09_CO_D206C9C601274ED58D5482F82AF3E624">
+<seccion2Titulo>Los electrolitos</seccion2Titulo>
+<seccion2Texto>
+<p>Un <negrita>electrólito</negrita> o electrolito es cualquier sustancia
+que libera iones cuando se halla en disolución acuosa. Las disoluciones
+que contienen electrolitos pueden conducir la electricidad.</p>
+<p>Un <negrita>no electrólito</negrita> (como el azúcar) es una sustancia
+que no se ioniza cuando está disuelta en agua.</p>
+<imagen src="CN_11_09_CO_IMG19_small.jpg">
+<p>El azúcar se disuelve en agua pero las moléculas no se disocian
+en iones, por lo tanto no se comporta como un electrolito.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CN_11_09_CO_E262682678C6408C9D7FBCCF10DA39EB">
+<seccion2Titulo>Las reacciones óxido-reducción</seccion2Titulo>
+<seccion2Texto>
+<p>En todo proceso electroquímico se producen <negrita>reacciones
+de óxido-reducción</negrita> o <negrita>redox</negrita>. Este tipo
+de reacción implica la transferencia de electrones entre unas sustancias
+que los pierden (se oxidan) y otras que los ganan (se reducen).</p>
+<p>Por <negrita>ejemplo</negrita>:</p>
+<formula alineacion="centrada" src="CN_11_09_formula18.gif"></formula>
+<p>Los números ubicados en la parte superior del símbolo de cada elemento
+son los estados de oxidación. Con relación a ellos podemos establecer
+lo siguiente:</p>
+<listaSinNumerar>
+<listaElemento>El zinc (Zn) cambia de estado de oxidación de 0 a +2,
+es decir que pierde electrones, por lo tanto se oxida y es agente
+reductor.</listaElemento>
+<listaElemento>La plata (Ag) cambia de estado de oxidación de +1 a
+0, lo que indica que gana electrones, por lo tanto se reduce y es
+agente oxidante.</listaElemento>
+</listaSinNumerar>
+<recuerda><recuerdaTexto>
+<listaSinNumerar>
+<listaElemento><negrita>El agente oxidante</negrita> es el elemento
+o compuesto que gana electrones.</listaElemento>
+<listaElemento><negrita>El agente reductor</negrita> es el elemento
+o compuesto que pierde electrones.</listaElemento>
+</listaSinNumerar>
+</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_09_CO_D6BAE8DC37C442868BB16D40BFBC691C">
+<seccion2Titulo>Las celdas galvánicas</seccion2Titulo>
+<seccion2Texto>
+<p>Las <negrita>celdas galvánicas</negrita> son unos dispositivos
+que se utilizan para obtener energía eléctrica a partir de reacciones
+óxido-reducción espontáneas.</p>
+<p>Un ejemplo de celda galvánica es la celda de <negrita>Daniell</negrita
+>, la cual utiliza un ánodo de zinc (Zn) sumergido en una disolución
+de sulfato de zinc (ZnSO<subindice>4</subindice>) y un cátodo de cobre
+(Cu) sumergido en una disolución de sulfato de cobre II (CuSO4). Cada
+conjunto de disolución con su respectivo electrodo se conoce como
+una <negrita>semicelda</negrita>, en donde se produce una media reacción,
+ya sea de oxidación o de reducción.</p>
+<p>Así, en la semicelda donde se encuentra el electrodo de Zn (ánodo)
+se produce la oxidación y en la semicelda con el electrodo de Cu (cátodo)
+se produce la reducción.</p>
+<p>Las medias reacciones son:</p>
+<formula alineacion="centrada" src="CN_11_09_formula19.gif"></formula>
+<p>Los electrones que pierde el electrodo de Zn viajan a través de
+un alambre conductor hasta el electrodo de Cu, donde sucede la reducción.</p>
+<p>Un requisito para que la celda funcione es que las dos semiceldas
+estén conectadas por un puente salino, el cual contiene una disolución
+de un electrolito inerte (KCl), cuyos iones no reaccionan con los
+demás iones presentes en las disoluciones de las semiceldas. El propósito
+del puente salino es permitir la migración de iones, de tal manera
+que permanezcan eléctricamente neutras las disoluciones. A medida
+que se producen las semirreacciones de oxidación en el ánodo y de
+reducción en el cátodo, los iones del puente salino ingresan a las
+semiceldas para equilibrar las cargas.</p>
+<imagen src="CN_11_09_CO_IMG20_small.jpg">
+<p>La celda Daniell, fue creada en 1836 por el químico británico John
+Frederic Daniell.</p>
+</imagen>
+<destacado><destacadoTitulo>Celdas galvánicas o voltaicas</destacadoTitulo>
+<destacadoTexto>
+<p>Las celdas <negrita>galvánicas</negrita> o <negrita>voltaicas</negrita
+> se denominaron así en honor a los primeros científicos que desarrollaron
+este tipo de celdas, Luigi <negrita>Galvani</negrita> y Allesandro <negrita
+>Volta</negrita>.</p>
+</destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_09_CO_2DF8B9491FF8403C94E2DFCC197D946D">
+<seccion2Titulo>El potencial estándar de reducción</seccion2Titulo>
+<seccion2Texto>
+<p>El potencial de una <negrita>celda galvánica</negrita> se obtiene
+por la diferencia entre los dos potenciales de los electrodos (ánodo
+y cátodo). Se ha convenido que el potencial de un electrodo determinado
+debe ser el asociado con la reacción de reducción en condiciones estándar:</p>
+<p>Potencial estándar de reducción se representa como E°<subindice
+>reducción</subindice>;  donde, el <negrita>superíndice</negrita> °
+significa que se consideran condiciones estándar.</p>
+<formula alineacion="centrada" src="CN_11_09_formula20.gif"></formula>
+<recuerda><recuerdaTexto>
+<p>Las <negrita>condiciones estándar</negrita> son:</p>
+<p>Concentraciones en disolución de reactivos y productos: <negrita
+>1M</negrita></p>
+<p>Temperatura: <negrita>25 °C</negrita></p>
+<p>Presión (gases): <negrita>1 atm</negrita></p>
+</recuerdaTexto></recuerda>
+<p>Los <negrita>valores de los potenciales estándar de reducción</negrita
+> brindan información acerca de la facilidad de oxidación y reducción
+que tienen las especies químicas. De esta manera entre mayor sea el
+valor del potencial negativo de una especie, es fácilmente oxidable
+y buen agente reductor. Así mismo, entre mayor sea el valor positivo
+del potencial de reducción es buen agente oxidante y se reduce fácilmente.
+Por ejemplo el potencial de reducción del níquel (Ni<superindice>2+</superindice
+> <subindice>(ac)</subindice> + 2e- → Ni<subindice>(s)</subindice
+>) es de -0,28 V y el del sodio (Na<superindice>+</superindice><subindice
+>(ac)</subindice> + e<superindice>-</superindice> → Na<subindice>(s)</subindice
+>) es – 2,71 V, lo que indica que el sodio se oxida más fácilmente
+en comparación al níquel.</p>
+<destacado><destacadoTitulo>La escala de potencial de reducción</destacadoTitulo>
+<destacadoTexto>
+<p>La escala de potencial de reducción tiene como base la reducción
+del hidrógeno, los valores de potencial de reducción de especies que
+se encuentran por encima del hidrógeno (valores positivos) son buenos <negrita
+>agentes oxidantes</negrita>; de manera contraria, las especies que
+presentan valores que se encuentra por debajo (valores negativos)
+son buenos <negrita>agentes reductores</negrita>.</p>
+</destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_09_CO_7711C8E0538E4E8490810E3D7BD65CA1">
+<seccion2Titulo>La fuerza electromotriz de una celda</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>fuerza electromotriz</negrita> (<negrita>fem</negrita
+>) o potencial de celda es una medida de la fuerza que impulsa a los
+electrones a través del circuito. Para que se genere esta fuerza es
+necesario que haya una diferencia de potencial entre los electrodos.
+Para el caso de las celdas galvánicas, la diferencia de potencial
+permite que los electrones fluyan del ánodo (carga negativa) al cátodo
+(carga positiva) en un circuito. La fem de una celda se mide en voltios
+(V).</p>
+<p>La <negrita>fem</negrita> de una celda depende del tipo de electrodos
+que se utilicen, las concentraciones de las disoluciones y la temperatura.</p>
+<p>Para hallar la <negrita>fem estándar</negrita> de una celda galvánica
+se debe utilizar la siguiente ecuación:</p>
+<p>E°<subindice>celda</subindice> = E°<subindice>oxi</subindice> +
+E°<subindice>red</subindice></p>
+<p>Donde:</p>
+<p>E°<subindice>celda</subindice> = fem estándar de la celda</p>
+<p>E°<subindice>oxi</subindice> = potencial de oxidación</p>
+<p>E°<subindice>red</subindice> = potencial de reducción</p>
+<p>Así, la fem estándar de la celda de Daniell es:</p>
+<p>E°<subindice>celda</subindice> = 0,76 V + 0,34 V</p>
+<p>E°<subindice>celda</subindice> = 1,10 V</p>
+<p>Observa que el valor del potencial de oxidación es el inverso aditivo
+del valor de potencial de reducción. Revisa la tabla de Potenciales
+de reducción de algunas sustancias a 25°C.</p>
+<recuerda><recuerdaTexto>
+<p>El símbolo del potencial varía de acuerdo con las semirreaciones
+(oxidación-reducción) que ocurren en cada semicelda.</p>
+</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_09_CO_B538BE8D11C54A2C94B467BEDF37E40A">
+<seccion2Titulo>Aplicaciones de la celdas galvánicas en la vida diaria</seccion2Titulo>
+<seccion2Texto>
+<p>Las celdas galvánicas producen energía eléctrica a partir de reacciones
+químicas de tipo óxido-reducción. Este fundamento se aplica en la
+elaboración de las pilas comerciales.</p>
+<seccion3 id="S3_CN_11_09_CO_3E4592346352436C934C6E2D667ABF9F">
+<seccion3Titulo>La batería de plomo</seccion3Titulo>
+<seccion3Texto>
+<p>Las baterías de plomo se utilizan en los automóviles. Constan de
+seis <negrita>celdas galvánicas</negrita> ubicadas en serie. El ánodo
+es de plomo (Pb) y el cátodo es de dióxido de plomo (PbO<subindice
+>2</subindice>), los cuales están sumergidos en una disolución de
+ácido sulfúrico (H<subindice>2</subindice>SO<subindice>4</subindice
+>). El potencial de la batería es de 12 V.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_09_CO_3E4592346352436C934C6E2D667AAA8G">
+<seccion3Titulo>La pila seca</seccion3Titulo>
+<seccion3Texto>
+<p>La <negrita>pila seca</negrita> es una celda que carece de fluido
+electrolítico, en cambio presenta una pasta húmeda que contiene cloruro
+de amonio (NH<subindice>4</subindice>Cl), cloruro de zinc (ZnCl<subindice
+>2</subindice>) y agua. El ánodo es una carcasa de zinc. El cátodo
+es una barra de carbono recubierta de dióxido de manganeso (MnO<subindice
+>2</subindice>). La pila seca se utiliza en juguetes, linternas, radios
+portátiles etc.</p>
+<imagen src="CN_11_09_CO_IMG21_small.jpg">
+<p>Las pilas secas tienen una vida útil limitada debido a que el ánodo
+de zinc se deteriora por tener contacto con NH<subindice>4</subindice
+>Cl que tiene carácter ácido.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_09_CO_3E4592346352436C934C6E2D667ABB7C">
+<seccion3Titulo>La pila alcalina</seccion3Titulo>
+<seccion3Texto>
+<p>Al igual que en la pila seca, el ánodo es de zinc (polvo) que está
+en contacto con una disolución de hidróxido de potasio (KOH). El cátodo
+es de MnO<subindice>2</subindice>. La carcasa de la batería está fabricada
+en acero para evitar derrame del KOH.</p>
+<imagen ampliable="no" src="CN_11_09_CO_IMG22_small.jpg">
+<p>Se llaman pilas alcalinas porque su fluido electrolítico es el
+KOH, que es una base o álcali.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso200&amp;IdRecurso=RES-27B64108E7EE40AC88D8F9F81F61F14F"
+>La electrólisis</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso180&amp;IdRecurso=RES-1A13AECDF93B4FA3930D3689B55B136F"
+>Aprende qué son los electrólitos y los no electrólitos</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso190&amp;IdRecurso=RES-092ACAD7D0A54C578C504C30D697190E"
+>Resuelve el crucigrama sobre la celdas electroquímicas</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso250&amp;IdRecurso=RES-8FFA696491824F72AB163EDDF24F9425"
+>Distingue entre ácidos y bases</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CN_11_09_CO_B538BE8D11C54A2C94B467BEDF37C63B">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso210&amp;IdRecurso=RES-4BA0E2101BA8496B8682CF9097A2AAD5"
+>Refuerza tu aprendizaje: La electroquímica</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_11_09_CO_80F0785AD10944E3BB914FE93AC7AAC8">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso230&amp;IdRecurso=RES-28D8D5E7C3F04067BD97A549E08C4F81"
+>Competencias: cantidad de hidrogenocarbonato en un antiácido</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso240&amp;IdRecurso=RES-75957A33CA1D4790949C96E1584931C1"
+>Proyecto: análisis de un producto de cuidado personal</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CN_11_09_CO_19DE24812C7F45EB828C1044DC46B457"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso270&amp;IdRecurso=RES-0AA5AED8BCC0435D984F603F7CC6C537"
+>Mapa conceptual del tema Las disoluciones iónicas</enlace>
+</mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso280&amp;IdRecurso=RES-52E835719A934C31804F59627FCD65A4"
+>Evalúa tus conocimientos sobre el tema Las disoluciones iónicas</enlace>
+</autoevaluate><enlacesreferencia>
+<enlace
+destino="http://recursos.cnice.mec.es/quimica/ulloa1/tercero/tema4/oa5/index.html"
+>Ácidos y bases.</enlace>
+<enlace
+destino="http://www.hiru.com/quimica/formulacion-de-compuestos-inorganicos-ternarios"
+>Formulación de los ácidos y las bases.</enlace>
+<enlace
+destino="http://www.gobiernodecanarias.org/educacion/3/Usrn/lentiscal/1-cdquimica-tic/Q2/ReaccionesRedox.htm"
+>Reacciones redox y pilas.</enlace>
+</enlacesreferencia></masinformacion></libro>
