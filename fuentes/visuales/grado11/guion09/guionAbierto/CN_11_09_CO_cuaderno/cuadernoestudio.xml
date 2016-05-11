@@ -12,11 +12,11 @@ están presentes en muchos productos de uso cotidiano. Por ejemplo,
 las naranjas, los tomates y el vinagre contienen <negrita>ácidos</negrita
 >, mientras que algunos de los ingredientes de los jabones y la crema
 dental son <negrita>bases</negrita>.</p>
-<imagen src="CN_11_09_CO_IMG01_small.jpg">
+<imagen src="CN_11_09_CO_img_01_small.jpg">
 <p>La crema dental para la limpieza de los dientes tiene componentes
 de <negrita>carácter básico</negrita> que ayudan a neutralizar los
 ácidos que dejan los residuos de los alimentos.</p>
-</imagen>
+</imagen><?Pub Caret -1?>
 <p>Un <negrita>ácido</negrita> es una sustancia química que al disolverse
 en el agua genera iones hidrógeno H<superindice>+</superindice>. Se
 caracterizan, entre otras cosas, por tener un sabor agrio, ser corrosivos
@@ -96,9 +96,11 @@ que un <negrita>ácido</negrita> era una sustancia que libera iones
 hidrógeno H<superindice>+</superindice> en disolución acuosa. En cambio,
 una <negrita>base</negrita> es un compuesto que libera iones hidroxilo
 OH<superindice>-</superindice> en disolución acuosa.</p>
-<formula alineacion="centrada" src="CN_11_09_formula01.gif"></formula>
+<formula alineacion="centrada" src="CN_11_09_CO_formula01.gif">
+</formula>
 <p>Base de Arrhenius</p>
-<formula alineacion="centrada" src="CN_11_09_formula02.gif"></formula>
+<formula alineacion="centrada" src="CN_11_09_CO_formula02.gif">
+</formula>
 </seccion2Texto></seccion2><seccion2
 id="S2_CN_11_09_CO_52254CC65CB74168B89B2137EB0C1C16">
 <seccion2Titulo>La teoría de Brönsted-Lowry</seccion2Titulo>
@@ -117,12 +119,14 @@ entre el ácido nitroso (HNO<subindice>2</subindice>) y el agua (H<subindice
 >2</subindice>O), el ácido pierde un protón y se genera la base conjugada.
 El agua, que se comporta como base, acepta el protón y se produce
 el ácido conjugado.</p>
-<formula alineacion="centrada" src="CN_11_09_formula03.gif"></formula>
+<formula alineacion="centrada" src="CN_11_09_CO_formula03.gif">
+</formula>
 <p>Y, en la reacción entre el amoniaco (NH<subindice>3</subindice
 >) y el ácido fluorhídrico (HF), el amoniaco acepta el protón que
 pierde el ácido fluorhídrico y se producen los respectivos ácido y
 base conjugados</p>
-<formula alineacion="centrada" src="CN_11_09_formula04.gif"></formula>
+<formula alineacion="centrada" src="CN_11_09_CO_formula04.gif">
+</formula>
 <destacado><destacadoTitulo>El ion H<superindice>+</superindice> y
 el ion H<subindice>3</subindice>O<superindice>+</superindice></destacadoTitulo>
 <destacadoTexto>
@@ -148,7 +152,8 @@ un par de electrones para formar un enlace covalente.</p>
 en donde el nitrógeno (N) tiene un par de electrones libres con los
 cuales puede formar un enlace covalente con el protón (H<superindice
 >+</superindice>) proveniente del agua.</p>
-<formula alineacion="centrada" src="CN_11_09_formula05.gif"></formula>
+<formula alineacion="centrada" src="CN_11_09_CO_formula05.gif">
+</formula>
 </seccion2Texto></seccion2><seccion2
 id="S2_CN_11_09_CO_221A8B463B71437682CEE8558CF70B5B">
 <seccion2Titulo>Consolidación</seccion2Titulo>
@@ -169,7 +174,8 @@ química en la que una molécula de agua actúa como <negrita>ácido</negrita
 ion hidronio (H<subindice>3</subindice>O<superindice>+</superindice
 >) y un ion hidroxilo (OH<superindice>-</superindice>). Dicha reacción
 se expresa así:</p>
-<formula alineacion="centrada" src="CN_11_09_formula06.gif"></formula>
+<formula alineacion="centrada" src="CN_11_09_CO_formula06.gif">
+</formula>
 <p>En el proceso de autoionización del agua son pocas las moléculas
 que se ionizan, por ello se considera al agua una sustancia mala conductora
 de la electricidad.</p>
@@ -208,9 +214,9 @@ id="S2_CN_11_09_CO_97FADE82CB93409499FBE5F572C5A5F2">
 <p>Cuando un ácido se disuelve en agua, se disocia formando iones
 hidronio (H<subindice>3</subindice>O<superindice>+</superindice>)
 en un número mucho mayor al de los iones hidroxilo (OH<superindice
->‒</superindice>) aportados por las pocas moléculas de agua ionizadas.</p>
+>-</superindice>) aportados por las pocas moléculas de agua ionizadas.</p>
 <p>Cuando una base se disuelve en agua, se disocia formando iones
-hidroxilo (OH<superindice>‒</superindice>) en un número mucho mayor
+hidroxilo (OH<superindice>-</superindice>) en un número mucho mayor
 al de los iones (H<subindice>3</subindice>O<superindice>+</superindice
 >) aportados por las pocas moléculas de agua ionizadas.</p>
 <destacado><destacadoTitulo>El efecto de los hidronio y los hidroxilo</destacadoTitulo>
@@ -234,17 +240,17 @@ de iones hidronio e hidroxilo</caption><colgroup><col/><col/></colgroup>
 <tr>
 <td align="center">Neutra</td>
 <td align="center">[H<subindice>3</subindice>O<superindice>+</superindice
->] = [OH<superindice>‒</superindice>]</td>
+>] = [OH<superindice>-</superindice>]</td>
 </tr>
 <tr>
 <td align="center">Ácida</td>
 <td align="center">[H<subindice>3</subindice>O<superindice>+</superindice
->] > [OH<superindice>‒</superindice>]</td>
+>] > [OH<superindice>-</superindice>]</td>
 </tr>
 <tr>
 <td align="center">Básica</td>
 <td align="center">[H<subindice>3</subindice>O<superindice>+</superindice
->] &lt; [OH<superindice>‒</superindice>]</td>
+>] &lt; [OH<superindice>-</superindice>]</td>
 </tr>
 </tbody>
 </table>
@@ -255,18 +261,18 @@ concentración de iones hidronio de 1,2 × 10 <superindice>-4</superindice
 > M. ¿Qué tipo de disolución es?</p>
 <listaNumerada>
 <listaElemento>Escribimos la ecuación de la disociación del agua:<formula
-alineacion="centrada" src="CN_11_09_formula07.gif"></formula></listaElemento>
+alineacion="centrada" src="CN_11_09_CO_formula07.gif"></formula></listaElemento>
 <listaElemento>Reemplazamos la concentración conocida de ion hidronio:<formula
-alineacion="centrada" src="CN_11_09_formula08.gif"></formula></listaElemento>
+alineacion="centrada" src="CN_11_09_CO_formula08.gif"></formula></listaElemento>
 <listaElemento>Despejamos la variable desconocida que corresponde,
 en este caso, a la concentración de ion hidroxilo:<formula
-alineacion="centrada" src="CN_11_09_formula09.gif"></formula></listaElemento>
+alineacion="centrada" src="CN_11_09_CO_formula09.gif"></formula></listaElemento>
 <listaElemento>Hallamos el valor de la concentración de ion hidroxilo:<formula
-alineacion="centrada" src="CN_11_09_formula10.gif"></formula></listaElemento>
+alineacion="centrada" src="CN_11_09_CO_formula10.gif"></formula></listaElemento>
 </listaNumerada>
 <p>La disolución es ácida porque la concentración de iones hidronio
 (H<subindice>3</subindice>O<superindice>+</superindice>) es mayor
-que la concentración de iones hidroxilo (OH<superindice>‒</superindice
+que la concentración de iones hidroxilo (OH<superindice>-</superindice
 >).</p>
 <destacado><destacadoTitulo>Concentración de iones en el agua</destacadoTitulo>
 <destacadoTexto>
@@ -274,7 +280,8 @@ que la concentración de iones hidroxilo (OH<superindice>‒</superindice
 > [H<subindice>3</subindice>O<superindice>+</superindice>] es igual
 que la concentración de <negrita>iones hidroxilo</negrita> [OH<superindice
 >-</superindice>].</p>
-<p>[H3O+] [OH-] = 1,0 × 10 <superindice>-14</superindice></p>
+<p>[H<subindice>3</subindice>O<superindice>+</superindice>] [OH<superindice
+>-</superindice>] = 1,0 × 10 <superindice>-14</superindice></p>
 <p>[x] [x] = 1,0 × 10 <superindice>-14</superindice></p>
 <p>[x]<superindice>2</superindice> = 1,0 × 10 <superindice>-14</superindice
 ></p>
@@ -299,10 +306,10 @@ destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso030&amp;IdRecurso=RES-93BFC5
 conocer la concentración de iones hidronio (H<subindice>3</subindice
 >O<superindice>+</superindice>) en la disolución. Lo mismo se aplica
 para las bases respecto a la concentración de iones hidroxilo (OH<superindice
->‒</superindice>).</p>
+>-</superindice>).</p>
 <p>Los valores de las concentraciones de estos iones generalmente
-son muy pequeños (del orden de 10<superindice>‒1</superindice> a 10<superindice
->‒14</superindice>), por lo que resulta incómodo hacer cálculos con
+son muy pequeños (del orden de 10<superindice>-1</superindice> a 10<superindice
+>-14</superindice>), por lo que resulta incómodo hacer cálculos con
 estas cifras. Para facilitarlos, se definió el <negrita>pH</negrita
 > o potencial de hidrógeno.</p>
 <p>El <negrita>pH</negrita> se relaciona con la concentración molar
@@ -316,7 +323,7 @@ es la concentración de iones H<subindice>3</subindice>O<superindice
 >+</superindice> en moles por litro (mol/L).</p>
 <p>De modo semejante, para las disoluciones básicas, el <negrita>pOH</negrita
 > se expresa como:</p>
-<p>pOH = -log [OH<superindice>‒</superindice>]</p>
+<p>pOH = -log [OH<superindice>-</superindice>]</p>
 <p>El pH y el pOH están relacionados por la fórmula:</p>
 <p>pH + pOH = 14</p>
 <profundiza>
@@ -333,7 +340,7 @@ está dividida en 14 unidades. El pH de cualquier disolución acuosa
 ácida o básica estará siempre comprendido entre estos dos valores
 extremos y pueden ser decimales, por ejemplo el pH del limón oscila
 entre 2,2 y 2,4.</p>
-<imagen src="CN_11_09_CO_IMG02_small.jpg">
+<imagen src="CN_11_09_CO_img_02_small.jpg">
 <p>En la escala de pH: la acidez aumenta a medida que disminuye el
 pH (de 6 a 0) y la basicidad aumenta a medida que aumenta el pH (de
 7 a 14).</p>
@@ -351,7 +358,7 @@ que cambian de color según la <negrita>concentración de iones hidronio</negrit
 al ponerse en contacto con una disolución y cuando cubre toda la escala
 de pH. Sirve para conocer de forma rápida y aproximada la fuerza de
 una disolución ácida o básica.</p>
-<imagen src="CN_11_09_CO_IMG03_small.jpg">
+<imagen src="CN_11_09_CO_img_03_small.jpg">
 <p>Papel indicador de pH. Al poner en contacto un extremo de la tira
 con la disolución que se desea analizar, el papel adquiere un determinado
 color que se compara con el patrón en la escala.</p>
@@ -360,7 +367,7 @@ color que se compara con el patrón en la escala.</p>
 sobre un trocito de papel indicador de pH y se compara el color que
 presenta el papel con los colores de la escala de referencia, que
 tienen asignado un valor de pH.</p>
-<imagen ampliable="no" src="CN_11_09_CO_IMG04_small.jpg">
+<imagen ampliable="no" src="CN_11_09_CO_img_04_small.jpg">
 <p>El gráfico muestra el <negrita>pH</negrita> de distintas disoluciones
 de uso cotidiano y los colores que adquiere el papel indicador de
 pH con cada una de ellas.</p>
@@ -370,7 +377,7 @@ una medición más precisa que la obtenida con un papel indicador pH
 y permite leer directamente el pH en una pantalla. Para su funcionamiento
 correcto, es necesario calibrarlo con una sustancia de pH conocido,
 denominada <negrita>disolución patrón</negrita>.</p>
-<imagen src="CN_11_09_CO_IMG05_small.jpg">
+<imagen src="CN_11_09_CO_img_05_small.jpg">
 <p>En un <negrita>pH-metro</negrita> la muestra de la cual se quiere
 medir el pH está dentro del vaso de precipitados. El electrodo se
 introduce en el líquido y el valor de pH se lee en la pantalla.</p>
@@ -391,8 +398,9 @@ en un medio acuoso depende de la naturaleza de la sustancia.</p>
 en una disolución acuosa. Un ejemplo de ácido fuerte es el <negrita
 >ácido clorhídrico</negrita> (HCl) y una base fuerte es el <negrita
 >hidróxido de potasio</negrita> (KOH).</p>
-<formula alineacion="centrada" src="CN_11_09_formula11.gif"></formula>
-<imagen src="CN_11_09_CO_IMG06_small.jpg">
+<formula alineacion="centrada" src="CN_11_09_CO_formula11.gif">
+</formula>
+<imagen src="CN_11_09_CO_img_06_small.jpg">
 <p>Esquema de la disociación de un ácido fuerte en agua (no se representan
 las moléculas de agua).</p>
 </imagen>
@@ -407,7 +415,7 @@ pH de una manera sencilla teniendo en cuenta estas concentraciones.</p>
 0,03M de HCl?</p>
 <listaNumerada>
 <listaElemento>Planteamos la ecuación de la disociación de la sustancia<formula
-alineacion="centrada" src="CN_11_09_formula12.gif"></formula></listaElemento>
+alineacion="centrada" src="CN_11_09_CO_formula12.gif"></formula></listaElemento>
 <listaElemento>El enunciado nos indica que la disolución es 0,03 M
 de HCl. El HCl es un ácido fuerte, por lo tanto se disocia completamente.
 En la disolución acuosa habrá una concentración 0,03 M de iones (H<subindice
@@ -450,7 +458,8 @@ id="S3_CN_11_09_CO_6D41130C4AD743DF910D93A1C717CCDC">
 <p>Los ácidos y las bases se disocian parcialmente en una disolución
 acuosa. Un ejemplo de ácido débil es el ácido fluorhídrico (HF) y
 uno de base débil es el amoniaco (NH<subindice>3</subindice>).</p>
-<formula alineacion="centrada" src="CN_11_09_formula13.gif"></formula>
+<formula alineacion="centrada" src="CN_11_09_CO_formula13.gif">
+</formula>
 <p>En la disociación de ácidos y bases débiles se establece un equilibrio
 químico que denotamos por una doble flecha. En estos casos, la sustancia
 no se disocia completamente. Así, en una disolución acuosa de ácido
@@ -460,7 +469,7 @@ iones hidronio (H<subindice>3</subindice>O<superindice>+</superindice
 iones amonio (NH<subindice>4</subindice><superindice>+</superindice
 >), iones hidroxilo (OH<superindice>-</superindice>) y moléculas de
 amoniaco (NH<subindice>3</subindice>).</p>
-<imagen src="CN_11_09_CO_IMG07_small.jpg">
+<imagen src="CN_11_09_CO_img_07_small.jpg">
 <p>Esquema de la disociación de un ácido débil en agua (no se representan
 las moléculas de agua).</p>
 </imagen>
@@ -493,7 +502,7 @@ fisiológicos, entre otros.</p>
 <listaElemento>Base débil y la sal de su ácido conjugado, por ejemplo
 amoniaco y cloruro de amonio</listaElemento>
 </listaSinNumerar>
-<imagen src="CN_11_09_CO_IMG08_small.jpg">
+<imagen src="CN_11_09_CO_img_08_small.jpg">
 <p>El rango de pH normal en la sangre humana va de 7,35 a 7,45. Un
 aumento de pH que supere a 7,8 o una disminución de pH hasta 6,8 produce
 la muerte. En la sangre el principal mecanismo amortiguador es el
@@ -593,7 +602,7 @@ Entre las reacciones más importantes, se pueden citar las siguientes:</p>
 >ion amonio</negrita> (NH<subindice>4</subindice><superindice>+</superindice
 >) de la sal y este forma <negrita>amoniaco</negrita> (NH<subindice
 >3</subindice>) gaseoso.</p>
-<imagen src="CN_11_09_CO_IMG09_small.jpg">
+<imagen src="CN_11_09_CO_img_09_small.jpg">
 <p>Cuando el hidróxido de sodio reacciona con el cloruro de amonio,
 desplaza al ion amonio de este último compuesto y se produce cloruro
 de sodio, amoniaco y agua.</p>
@@ -604,7 +613,7 @@ id="S2_CN_11_09_CO_F7DAD2D7B395464AB9AE3C67D74D7406">
 <seccion2Texto>
 <p>Los metales, como el zinc o el hierro, se oxidan, mientras que
 el hidrógeno del ácido se reduce y se desprende como gas.</p>
-<imagen src="CN_11_09_CO_IMG10_small.jpg">
+<imagen src="CN_11_09_CO_img_10_small.jpg">
 <p>Cuando el ácido sulfúrico reacciona con zinc se obtiene sulfato
 de zinc e hidrógeno. Se trata de una reacción redox en la que el zinc
 se oxida y el hidrógeno del ácido se reduce.</p>
@@ -621,7 +630,7 @@ id="S2_CN_11_09_CO_CD64364ED82D40CC928ED93B3BBE2972">
 <p>El carbonato de calcio (componente principal del mármol) es atacado
 por los ácidos y produce efervescencia debido al desprendimiento de
 dióxido de carbono gaseoso.</p>
-<imagen src="CN_11_09_CO_IMG11_small.jpg">
+<imagen src="CN_11_09_CO_img_11_small.jpg">
 <p>El ácido sulfúrico reacciona con el carbonato de calcio y se producen
 sulfato de calcio, agua y dióxido de carbono; este último se desprende
 como gas, por ello se observa una efervescencia.</p>
@@ -639,7 +648,7 @@ dar una sal y agua como productos.</p>
 el ion positivo de la base y el ion negativo del ácido. Si todos los
 hidrógenos del ácido son sustituidos por el metal de la base, la sal
 resultante será neutra; en caso contrario, se obtendrá una sal ácida.</p>
-<imagen src="CN_11_09_CO_IMG12_small.jpg">
+<imagen src="CN_11_09_CO_img_12_small.jpg">
 <p>La neutralización del ácido clorhídrico con hidróxido de sodio
 produce cloruro de sodio y agua.</p>
 </imagen>
@@ -649,7 +658,7 @@ destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso110&amp;IdRecurso=RES-8B9164
 >Las sales neutras</enlace>
 </profundiza></seccion2Texto></seccion2><seccion2
 id="S2_CN_11_09_CO_5CB66F8F233D460DADF5447436000AFF">
-<seccion2Titulo>La valoración ácido-base</seccion2Titulo><?Pub Caret -3?>
+<seccion2Titulo>La valoración ácido-base</seccion2Titulo>
 <seccion2Texto>
 <p>La <negrita>valoración ácido-base</negrita> permite determinar
 la concentración desconocida de una disolución ácida o básica. El
@@ -663,7 +672,7 @@ utilizado.</p>
 >punto de neutralización</negrita>.</p>
 <p>A nivel experimental se puede establecer el punto final y de equivalencia
 mediante el uso de indicadores o de pH-metro.</p>
-<imagen ampliable="no" src="CN_11_09_CO_IMG13_small.jpg">
+<imagen ampliable="no" src="CN_11_09_CO_img_13_small.jpg">
 <p>Para realizar una valoración ácido-base se necesitan los siguientes
 instrumentos: bureta y matraz Erlenmeyer.</p>
 </imagen>
@@ -723,18 +732,18 @@ la neutralización ¿Cuál es la concentración (<cursiva>N</cursiva>)
 del HCl?</p>
 <listaNumerada>
 <listaElemento>Escribimos la ecuación de valoración:<formula
-alineacion="centrada" src="CN_11_09_formula14.gif"></formula></listaElemento>
+alineacion="centrada" src="CN_11_09_CO_formula14.gif"></formula></listaElemento>
 <listaElemento>Identificamos la información que suministra el enunciado:<br
 /><cursiva>V<subindice>B</subindice></cursiva> = 55 ml<br/><cursiva
 >N<subindice>B</subindice></cursiva> = 0,22 N<br/><cursiva>V<subindice
 >A</subindice></cursiva> = 25 ml<br/><cursiva>N<subindice>A</subindice
 ></cursiva> = ? N</listaElemento>
 <listaElemento>Reemplazamos en la fórmula la información conocida:<formula
-alineacion="centrada" src="CN_11_09_formula15.gif"></formula></listaElemento>
+alineacion="centrada" src="CN_11_09_CO_formula15.gif"></formula></listaElemento>
 <listaElemento>Despejamos la incógnita:<formula alineacion="centrada"
-src="CN_11_09_formula16.gif"></formula></listaElemento>
+src="CN_11_09_CO_formula16.gif"></formula></listaElemento>
 <listaElemento>Hallamos el valor de la incógnita:<formula
-alineacion="centrada" src="CN_11_09_formula17.gif"></formula></listaElemento>
+alineacion="centrada" src="CN_11_09_CO_formula17.gif"></formula></listaElemento>
 </listaNumerada>
 <p>La concentración del HCl es 0,48 <cursiva>N</cursiva>.</p>
 </seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
@@ -752,7 +761,7 @@ desconocida).</p>
 <p>Cuando se realiza una valoración de una disolución de un ácido
 fuerte (HCl) con una disolución de base fuerte (NaOH), la típica curva
 de valoración es como la que se representa en el siguiente gráfico:</p>
-<imagen src="CN_11_09_CO_IMG14_small.jpg">
+<imagen src="CN_11_09_CO_img_14_small.jpg">
 <p>Curva de valoración de una disolución de HCl con una disolución
 de NaOH. En el eje horizontal se representa el volumen adicionado
 de disolución de NaOH y en el eje vertical la variación del pH.</p>
@@ -774,7 +783,7 @@ id="S3_CN_11_09_CO_0E346722A79A4FC5B884A8D5905E3418">
 <seccion3Texto>
 <p>En el proceso de <negrita>valoración de una base fuerte</negrita
 > (NaOH) con ácido fuerte (HCl) se obtiene un gráfico como el siguiente:</p>
-<imagen src="CN_11_09_CO_IMG15_small.jpg">
+<imagen src="CN_11_09_CO_img_15_small.jpg">
 <p>Curva de valoración de una disolución NaOH con una disolución de
 HCl.</p>
 </imagen>
@@ -793,7 +802,7 @@ id="S3_CN_11_09_CO_03D1CDE5288D4C7583213D9E7F0D4418">
 >2</subindice>H<subindice>3</subindice>O<subindice>2</subindice>)
 con una base fuerte (NaOH) se obtiene una curva de valoración como
 la siguiente:</p>
-<imagen src="CN_11_09_CO_IMG16_small.jpg">
+<imagen src="CN_11_09_CO_img_16_small.jpg">
 <p>Curva de valoración de una disolución de HC<subindice>2</subindice
 >H<subindice>3</subindice>O<subindice>2</subindice> con NaOH.</p>
 </imagen>
@@ -835,7 +844,7 @@ destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso140&amp;IdRecurso=RES-619573
 <p>Algunas disoluciones ácidas que se utilizan a diario son el vinagre
 (contiene ácido acético), el té (tiene ácido tánico), el limón (posee
 ácido cítrico) y la leche (contiene ácido láctico).</p>
-<imagen src="CN_11_09_CO_IMG17_small.jpg">
+<imagen src="CN_11_09_CO_img_17_small.jpg">
 <p>Ejemplos de productos que contienen <negrita>ácidos</negrita>:
 cítricos, vinagre y leche.</p>
 </imagen>
@@ -843,7 +852,7 @@ cítricos, vinagre y leche.</p>
 utilizados para limpiar cañerías (que llevan hidróxido de sodio),
 algunos artículos de limpieza (contienen amoníaco) o los antiácidos
 para aliviar la acidez de estómago (elaborados con hidróxido de magnesio).</p>
-<imagen src="CN_11_09_CO_IMG18_small.jpg">
+<imagen src="CN_11_09_CO_img_18_small.jpg">
 <p>Ejemplos de productos que contienen <negrita>bases</negrita>: jabones,
 productos de limpieza y antiácidos.</p>
 </imagen>
@@ -883,7 +892,7 @@ que libera iones cuando se halla en disolución acuosa. Las disoluciones
 que contienen electrolitos pueden conducir la electricidad.</p>
 <p>Un <negrita>no electrólito</negrita> (como el azúcar) es una sustancia
 que no se ioniza cuando está disuelta en agua.</p>
-<imagen src="CN_11_09_CO_IMG19_small.jpg">
+<imagen src="CN_11_09_CO_img_19_small.jpg">
 <p>El azúcar se disuelve en agua pero las moléculas no se disocian
 en iones, por lo tanto no se comporta como un electrolito.</p>
 </imagen>
@@ -896,7 +905,8 @@ de óxido-reducción</negrita> o <negrita>redox</negrita>. Este tipo
 de reacción implica la transferencia de electrones entre unas sustancias
 que los pierden (se oxidan) y otras que los ganan (se reducen).</p>
 <p>Por <negrita>ejemplo</negrita>:</p>
-<formula alineacion="centrada" src="CN_11_09_formula18.gif"></formula>
+<formula alineacion="centrada" src="CN_11_09_CO_formula18.gif">
+</formula>
 <p>Los números ubicados en la parte superior del símbolo de cada elemento
 son los estados de oxidación. Con relación a ellos podemos establecer
 lo siguiente:</p>
@@ -925,15 +935,16 @@ que se utilizan para obtener energía eléctrica a partir de reacciones
 <p>Un ejemplo de celda galvánica es la celda de <negrita>Daniell</negrita
 >, la cual utiliza un ánodo de zinc (Zn) sumergido en una disolución
 de sulfato de zinc (ZnSO<subindice>4</subindice>) y un cátodo de cobre
-(Cu) sumergido en una disolución de sulfato de cobre II (CuSO4). Cada
-conjunto de disolución con su respectivo electrodo se conoce como
-una <negrita>semicelda</negrita>, en donde se produce una media reacción,
-ya sea de oxidación o de reducción.</p>
+(Cu) sumergido en una disolución de sulfato de cobre II (CuSO<subindice
+>4</subindice>). Cada conjunto de disolución con su respectivo electrodo
+se conoce como una <negrita>semicelda</negrita>, en donde se produce
+una media reacción, ya sea de oxidación o de reducción.</p>
 <p>Así, en la semicelda donde se encuentra el electrodo de Zn (ánodo)
 se produce la oxidación y en la semicelda con el electrodo de Cu (cátodo)
 se produce la reducción.</p>
 <p>Las medias reacciones son:</p>
-<formula alineacion="centrada" src="CN_11_09_formula19.gif"></formula>
+<formula alineacion="centrada" src="CN_11_09_CO_formula19.gif">
+</formula>
 <p>Los electrones que pierde el electrodo de Zn viajan a través de
 un alambre conductor hasta el electrodo de Cu, donde sucede la reducción.</p>
 <p>Un requisito para que la celda funcione es que las dos semiceldas
@@ -945,7 +956,7 @@ que permanezcan eléctricamente neutras las disoluciones. A medida
 que se producen las semirreacciones de oxidación en el ánodo y de
 reducción en el cátodo, los iones del puente salino ingresan a las
 semiceldas para equilibrar las cargas.</p>
-<imagen src="CN_11_09_CO_IMG20_small.jpg">
+<imagen src="CN_11_09_CO_img_20_small.jpg">
 <p>La celda Daniell, fue creada en 1836 por el químico británico John
 Frederic Daniell.</p>
 </imagen>
@@ -966,7 +977,8 @@ debe ser el asociado con la reacción de reducción en condiciones estándar:</p
 <p>Potencial estándar de reducción se representa como E°<subindice
 >reducción</subindice>;  donde, el <negrita>superíndice</negrita> °
 significa que se consideran condiciones estándar.</p>
-<formula alineacion="centrada" src="CN_11_09_formula20.gif"></formula>
+<formula alineacion="centrada" src="CN_11_09_CO_formula20.gif">
+</formula>
 <recuerda><recuerdaTexto>
 <p>Las <negrita>condiciones estándar</negrita> son:</p>
 <p>Concentraciones en disolución de reactivos y productos: <negrita
@@ -1052,7 +1064,7 @@ de amonio (NH<subindice>4</subindice>Cl), cloruro de zinc (ZnCl<subindice
 es una barra de carbono recubierta de dióxido de manganeso (MnO<subindice
 >2</subindice>). La pila seca se utiliza en juguetes, linternas, radios
 portátiles etc.</p>
-<imagen src="CN_11_09_CO_IMG21_small.jpg">
+<imagen src="CN_11_09_CO_img_21_small.jpg">
 <p>Las pilas secas tienen una vida útil limitada debido a que el ánodo
 de zinc se deteriora por tener contacto con NH<subindice>4</subindice
 >Cl que tiene carácter ácido.</p>
@@ -1065,7 +1077,7 @@ id="S3_CN_11_09_CO_3E4592346352436C934C6E2D667ABB7C">
 en contacto con una disolución de hidróxido de potasio (KOH). El cátodo
 es de MnO<subindice>2</subindice>. La carcasa de la batería está fabricada
 en acero para evitar derrame del KOH.</p>
-<imagen ampliable="no" src="CN_11_09_CO_IMG22_small.jpg">
+<imagen ampliable="no" src="CN_11_09_CO_img_22_small.jpg">
 <p>Se llaman pilas alcalinas porque su fluido electrolítico es el
 KOH, que es una base o álcali.</p>
 </imagen>
