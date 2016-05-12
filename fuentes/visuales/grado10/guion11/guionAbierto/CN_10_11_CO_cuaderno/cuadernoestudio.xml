@@ -2,136 +2,205 @@
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
 <!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CN_10_11_CO">
 <libroTitulo>El enlace químico y la nomenclatura de compuestos inorgánicos</libroTitulo>
 <seccion1 id="S1_CN_10_11_CO_1AC7813424114D9CB059DC36D114516E">
 <seccion1Titulo>La regla del octeto</seccion1Titulo>
 <seccion1Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CN_10_11_CO_img_01_small.png">
-<p>Aquí escribiré el pie de foto</p>
+<p>Los átomos, al igual que todos los elementos de la naturaleza,
+tienden a organizarse para buscar la máxima estabilidad energética.
+Esta se obtiene en la mayoría de los casos cuando el átomo completa
+su última capa (<negrita>capa de valencia</negrita>) con ocho electrones
+al perder, ganar o compartir electrones. Esta regularidad se denomina <negrita
+>regla del octeto</negrita>.</p>
+<imagen src="CN_10_11_CO_img01_small.jpg">
+<p>Los gases nobles, excepto el helio, debido a su estructura estable
+de ocho electrones, sirvieron como fuente de inspiración en 1956 a
+Walther Kossel y Gilbert N. Lewis para proponer la regla del octeto
+como criterio de explicación de la formación de enlaces.</p>
 </imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><profundiza>
+<destacado><destacadoTitulo>Excepciones a la regla del octeto</destacadoTitulo>
+<destacadoTexto>
+<p>Los <negrita>elementos del primer período</negrita>, como el hidrógeno
+y el helio, solo necesitan dos electrones para satisfacer la capa
+de valencia. Algunos no metales, como el fósforo, forman compuestos
+estables, en los que en su nivel más externo tienen más de ocho electrones,
+y por ello se dice que presentan <negrita>octeto expandido</negrita
+>.</p>
+</destacadoTexto></destacado><recuerda><recuerdaTexto>
+<p>La <negrita>regla del octeto</negrita> indica que los átomos se
+enlazan para completar con ocho electrones la capa de valencia, lo
+cual les permite mayor estabilidad.</p>
+</recuerdaTexto></recuerda><profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso010&amp;IdRecurso=RES-70502889FE0D4FD69E694B65781A64CB"
->Diaporama F1-01</enlace>
-</profundiza>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CN_10_11_CO_img_02_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><practica>
+>Los electrones de valencia y la regla del octeto</enlace>
+</profundiza><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso020&amp;IdRecurso=RES-9AA191FDC83F49CF9E765812934EC4CF"
->Recurso M9C-01</enlace>
+>Identifica los electrones de valencia</enlace>
 </practica><seccion2
 id="S2_CN_10_11_CO_A56DAA27A521400EAF2A93C3096E9669">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CN_10_11_CO_img_03_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><practica>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso030&amp;IdRecurso=RES-325F50AC474B4318A59174F69FF533D3"
->Recurso M101A-01</enlace>
-</practica>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CN_10_11_CO_img_05_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso050&amp;IdRecurso=RES-69FDCFCBBD2147D49B250D674E1AF3D4"
->Recurso M101A-02</enlace>
+>Refuerza tu aprendizaje: La regla del octeto</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CN_10_11_CO_6C9B2A1E3B944EE89CDFD4F63694BAB6">
 <seccion1Titulo>Las estructuras de Lewis</seccion1Titulo>
 <seccion1Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CN_10_11_CO_img_04_small.png">
-<p>Aquí escribiré el pie de foto</p>
+<p>Para representar los electrones externos de los átomos y los enlaces
+que estos generan en búsqueda de la estabilidad energética, Lewis
+estableció <negrita>fórmulas</negrita> o <negrita>estructuras electrónicas</negrita
+> a partir de puntos, cruces o círculos ubicados alrededor de los
+elementos. Las estructuras propuestas por Lewis también son llamadas <negrita
+>estructuras del punto-electrón</negrita>. Para ello, es necesario
+conocer sus configuraciones electrónicas a fin de identificar los
+electrones del último nivel.</p>
+<p>Para dibujar un esquema de Lewis se procede de la siguiente manera:</p>
+<listaNumerada>
+<listaElemento>Se elige el átomo del compuesto que presenta mayor
+número de electrones en su último nivel de energía y se coloca en
+el centro. A su alrededor se dibujan los electrones con cruces o puntos,
+agrupados por pares.</listaElemento>
+<listaElemento>Se repite el procedimiento con el resto de los átomos,
+situándolos alrededor del primero.</listaElemento>
+</listaNumerada>
+<imagen src="CN_10_11_CO_img02_small.jpg">
+<p><negrita>Esquema de Lewis del amoníaco</negrita>. El átomo de nitrógeno
+tiene cinco electrones en el último nivel, comparte tres con cada
+uno de los átomos de hidrógeno (<negrita>pares enlazantes</negrita
+>) y le queda un par libre (<negrita>no enlazante</negrita>).</p>
 </imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><profundiza>
+<destacado><destacadoTitulo>¿Enlazantes o libres?</destacadoTitulo>
+<destacadoTexto>
+<p>Cada par de electrones (uno de cada átomo) que forma un enlace
+se llama <negrita>par enlazante</negrita>. Los pares de electrones
+que quedan libres se conocen como <negrita>pares no enlazantes</negrita
+> o <negrita>pares libres</negrita>.</p>
+</destacadoTexto></destacado><recuerda><recuerdaTexto>
+<p>Los electrones que se encuentran en la capa de valencia son los
+que intervienen en un enlace. Si la capa está llena con ocho electrones,
+no hay posibilidad de unión.</p>
+</recuerdaTexto></recuerda><profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso040&amp;IdRecurso=RES-C4677356CB6D4623A2D8D98CBE00B0B5"
->Diaporama F1-02</enlace>
-</profundiza></seccion1Texto></seccion1><seccion1
-id="S1_CN_10_11_CO_4455C14475D643DEB3B3AB53218E8CEB">
+>Los diagramas de Lewis</enlace>
+</profundiza><seccion2
+id="S2_CN_10_11_CO_A56DAA27A521400EAF2A93C3096E1770">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso050&amp;IdRecurso=RES-69FDCFCBBD2147D49B250D674E1AF3D4"
+>Refuerza tu aprendizaje: Las estructuras de Lewis</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_10_11_CO_4455C14475D643DEB3B3AB53218E8CEB">
 <seccion1Titulo>El enlace químico</seccion1Titulo>
 <seccion1Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CN_10_11_CO_img_06_small.png">
-<p>Aquí escribiré el pie de foto</p>
+<p>Se considera <negrita>enlace químico</negrita> a la unión que se
+establece entre distintos átomos, debido a las fuerzas de atracción
+que hay entre estos.</p>
+<imagen src="CN_10_11_CO_img03_small.jpg">
+<p>Un enlace se representa gráficamente a través de una línea entre
+los elementos enlazados. Cada línea representa dos electrones compartidos. </p>
 </imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
+<p>Para explicar las relaciones que se generan entre los átomos cuando
+forman enlaces y el origen de los mismos, la teoría del enlace químico
+propuso tres modelos: el <negrita>iónico</negrita>, el <negrita>covalente</negrita
+> y el <negrita>metálico</negrita>.</p>
+<destacado><destacadoTitulo>Modelos de enlace químico</destacadoTitulo>
+<destacadoTexto>
+<p>Los modelos de enlaces <negrita>iónico</negrita>, <negrita>covalente</negrita
+> y <negrita>metálico</negrita> son representaciones del enlace entre
+los átomos, teniendo en cuenta la diferencia de <negrita>electronegatividad</negrita
+> y la tendencia a formar el <negrita>octeto</negrita>.</p>
 </destacadoTexto></destacado><profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso060&amp;IdRecurso=RES-52A0D1E58D5A46DDACC15728A72D3B63"
->Recurso F6-01</enlace>
+>Los modelos de enlace químico</enlace>
 </profundiza><seccion2
 id="S2_CN_10_11_CO_93B5F75BEB1C45319C3D213CE79F8C87">
 <seccion2Titulo>El enlace con carácter iónico</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CN_10_11_CO_img_07_small.png">
-<p>Aquí escribiré el pie de foto</p>
+<p>Este tipo de enlace se produce por transferencia de electrones
+de un átomo a otro, de manera que las configuraciones electrónicas
+resultantes son más estables que las iniciales. El átomo que <negrita
+>cede</negrita> electrones se transforma en un <negrita>catión</negrita
+> y el que los <negrita>gana</negrita> en un <negrita>anión</negrita
+>. Los iones de cargas eléctricas opuestas se mantienen unidos por
+fuerzas de atracción electrostática. Las sustancias iónicas no forman
+verdaderas moléculas, sino agregados de iones que se ordenan en el
+espacio formando redes cristalinas.</p>
+<imagen src="CN_10_11_CO_img04_small.jpg">
+<p>Esquema de la red cristalina de un compuesto iónico. Las esferas
+verdes representan los aniones y las de color naranja los cationes.</p>
 </imagen>
+<p>El <negrita>enlace iónico</negrita> se da entre elementos ubicados
+en los extremos opuestos de la tabla periódica, por ejemplo, entre
+los <negrita>metales</negrita> de los grupos 1 y 2, y los <negrita
+>no metales</negrita> de los grupos 16 y 17. La diferencia de <negrita
+>electronegatividad</negrita> entre dos átomos que forman un enlace
+iónico suele ser mayor o igual a 1,7.</p>
+<p>Son ejemplos de sustancias con enlace iónico el bromuro de zinc
+(ZnBr<subindice>2</subindice>) y el sulfuro de cobre (II) (CuS) y,
+en general, las sales binarias, formadas por un metal y un no metal.</p>
 <recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
+<p>La <negrita>electronegatividad</negrita> mide la tendencia de un
+elemento a atraer electrones del enlace cuando se combina con otro.
+Cuanto mayor es la electronegatividad, mayor será también su capacidad
+para atraerlos. En la tabla periódica, la electronegatividad <negrita
+>aumenta de izquierda a derecha</negrita> a lo largo de los períodos <negrita
+>y de abajo hacia arriba</negrita> dentro de cada grupo.</p>
+</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
 id="S2_CN_10_11_CO_F82A00620FBD41E3A9B46A71E8773E55">
 <seccion2Titulo>El enlace con carácter covalente</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
+<p>Se forma un <negrita>enlace covalente</negrita> cuando dos átomos <negrita
+>comparten</negrita> uno o más pares de electrones, de modo que el
+par compartido se localiza entre ambos y los dos adquieren una configuración
+electrónica más estable. Por ejemplo, dos átomos de cloro comparten
+un electrón de su último nivel para formar una molécula de cloro,
+así logran tener ocho electrones cada uno (7 propios y 1 compartido).
+Dos átomos pueden compartir dos, cuatro o seis electrones, lo que
+da lugar a un enlace covalente <negrita>simple</negrita>, <negrita
+>doble</negrita> o <negrita>triple</negrita>, respectivamente.</p>
+<p>El enlace covalente se produce entre elementos de electronegatividad
+similar y, en general, cuando la diferencia es menor que 1,7. Este
+tipo de enlace es más frecuente entre dos no metales, por ejemplo,
+entre el oxígeno y un no metal, como el azufre o el nitrógeno.</p>
+<p>Cuando la diferencia de electronegatividad es cercana a 1,7, los
+electrones compartidos se localizan cerca del átomo más electronegativo,
+lo que da origen a un enlace <negrita>covalente polar</negrita>. Por
+ejemplo, las uniones entre el átomo de oxígeno y cada átomo de hidrógeno
+en la molécula de agua son de este tipo, ya que el oxígeno es más
+electronegativo y los pares enlazantes se hallan más próximos a él.</p>
+<p>El enlace <negrita>covalente apolar</negrita> sucede cuando la
+diferencia de electronegatividades es cercana o igual a cero, por
+ejemplo, esto ocurre en el enlace entre los dos átomos de oxígeno
+(O<subindice>2</subindice>).</p>
+<imagen src="CN_10_11_CO_img05_small.jpg">
+<p>Distribución geométrica de la carga eléctrica en la molécula de
+agua. La diferencia de electronegatividad entre el oxígeno y el hidrógeno
+hace que los pares de electrones de los enlaces estén más cerca del
+átomo de oxígeno. La molécula presenta una densidad de carga negativa
+en la zona del oxígeno y positiva en la del hidrógeno.</p><?Pub Caret 56?>
+</imagen>
+<imagen src="CN_10_11_CO_img_06_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<imagen src="CN_10_11_CO_img_07_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
 <imagen src="CN_10_11_CO_img_08_small.png">
 <p>Aquí escribiré el pie de foto</p>
 </imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><practica>
+<practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso070&amp;IdRecurso=RES-E6EFCC0CA88A4EA2A92F8CD63BC33B9F"
 >Recurso M10A-01</enlace>
@@ -144,12 +213,7 @@ id="S2_CN_10_11_CO_6D9915D95E724F48A4BD1A10DBEF1E5E">
 <imagen src="CN_10_11_CO_img_09_small.png">
 <p>Aquí escribiré el pie de foto</p>
 </imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><practica>
+<practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso080&amp;IdRecurso=RES-507B88810D7A4D6CAE9AAC48F3329631"
 >Recurso M10A-02</enlace>
@@ -158,32 +222,15 @@ destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso080&amp;IdRecurso=RES-507B88
 <imagen src="CN_10_11_CO_img_10_small.png">
 <p>Aquí escribiré el pie de foto</p>
 </imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado>
 <p>Aquí va un PÁRRAFO</p>
 <imagen src="CN_10_11_CO_img_11_small.png">
 <p>Aquí escribiré el pie de foto</p>
 </imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado>
 <p>Aquí va un PÁRRAFO</p>
 <imagen src="CN_10_11_CO_img_12_small.png">
 <p>Aquí escribiré el pie de foto</p>
 </imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><practica>
+<practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso110&amp;IdRecurso=RES-B5D6E38316D344C0B63926468F5DE28F"
 >Recurso M101A-03</enlace>
@@ -200,12 +247,7 @@ destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso110&amp;IdRecurso=RES-B5D6E3
 <imagen src="CN_10_11_CO_img_13_small.png">
 <p>Aquí escribiré el pie de foto</p>
 </imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
+</seccion2Texto></seccion2><seccion2
 id="S2_CN_10_11_CO_523EED0279EA4371B1D6A5279E1DB9BA">
 <seccion2Titulo>Las fuerzas de dispersión de London</seccion2Titulo>
 <seccion2Texto>
@@ -214,12 +256,7 @@ id="S2_CN_10_11_CO_523EED0279EA4371B1D6A5279E1DB9BA">
 <imagen src="CN_10_11_CO_img_14_small.png">
 <p>Aquí escribiré el pie de foto</p>
 </imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
+</seccion2Texto></seccion2><seccion2
 id="S2_CN_10_11_CO_A0CDF6DCF4AB4E60A9D1DD562EF6E678">
 <seccion2Titulo>Los puentes de hidrógeno</seccion2Titulo>
 <seccion2Texto>
@@ -228,12 +265,7 @@ id="S2_CN_10_11_CO_A0CDF6DCF4AB4E60A9D1DD562EF6E678">
 <imagen src="CN_10_11_CO_img_15_small.png">
 <p>Aquí escribiré el pie de foto</p>
 </imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
+</seccion2Texto></seccion2><seccion2
 id="S2_CN_10_11_CO_377912C291F24B549DEC481118BCC1E0">
 <seccion2Titulo>Las fuerzas ion-dipolo</seccion2Titulo>
 <seccion2Texto>
@@ -242,12 +274,7 @@ id="S2_CN_10_11_CO_377912C291F24B549DEC481118BCC1E0">
 <imagen src="CN_10_11_CO_img_16_small.png">
 <p>Aquí escribiré el pie de foto</p>
 </imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><profundiza>
+<profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso120&amp;IdRecurso=RES-BE30074D7ED3477EBC0F688781D11460"
 >Recurso F7B-01</enlace>
@@ -256,26 +283,13 @@ destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso120&amp;IdRecurso=RES-BE3007
 <imagen src="CN_10_11_CO_img_17_small.png">
 <p>Aquí escribiré el pie de foto</p>
 </imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><practica>
+<practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso130&amp;IdRecurso=RES-C750FB2F10244545A75E3E0E5D981D9F"
 >Recurso M2A-01</enlace>
 </practica>
 <p>Aquí va un PÁRRAFO</p>
-<imagen src="CN_10_11_CO_img_18_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><practica>
+<practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso140&amp;IdRecurso=RES-2DB2C08DC004460D99C14D99A3575DF9"
 >Recurso M101A-04</enlace>
@@ -285,15 +299,7 @@ destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso140&amp;IdRecurso=RES-2DB2C0
 <seccion1Texto>
 <p>Aquí escribiré el párrafo de la sección</p>
 <p>Aquí va un PÁRRAFO</p>
-<imagen src="CN_10_11_CO_img_19_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><profundiza>
+<profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso150&amp;IdRecurso=RES-B8FC484F287249A4934BEC6A5FBE417F"
 >Recurso F6-02</enlace>
@@ -307,29 +313,13 @@ id="S2_CN_10_11_CO_68EA1542521047BFB6D9491AF81B9D52">
 <seccion3Texto>
 <p>Aquí escribiré el párrafo de la sección</p>
 <p>Aquí va un PÁRRAFO</p>
-<imagen src="CN_10_11_CO_img_20_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><practica>
+<practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso160&amp;IdRecurso=RES-9B06DDEA96FC48538D619838AFB75D94"
 >Recurso M1A-01</enlace>
 </practica>
 <p>Aquí va un PÁRRAFO</p>
-<imagen src="CN_10_11_CO_img_21_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><practica>
+<practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso170&amp;IdRecurso=RES-D1B5D0AA41EA447AAB96A737A00BFFEB"
 >Recurso M101A-05</enlace>
@@ -340,15 +330,7 @@ id="S1_CN_10_11_CO_4662ACA2045C49DAA1DC9AE0090D509E">
 <seccion1Texto>
 <p>Aquí escribiré el párrafo de la sección</p>
 <p>Aquí va un PÁRRAFO</p>
-<imagen src="CN_10_11_CO_img_22_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><profundiza>
+<profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso180&amp;IdRecurso=RES-9CDE6BCB985142D2A148F4E7D2968469"
 >Recurso F6-03</enlace>
@@ -358,15 +340,7 @@ id="S2_CN_10_11_CO_64622213A8FD40009889F27E8B39D911">
 <seccion2Texto>
 <p>Aquí escribiré el párrafo de la sección</p>
 <p>Aquí va un PÁRRAFO</p>
-<imagen src="CN_10_11_CO_img_23_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><practica>
+<practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso190&amp;IdRecurso=RES-518AC80119AD490ABC220E1716DBEA40"
 >Recurso M1D-02</enlace>
@@ -376,43 +350,19 @@ id="S2_CN_10_11_CO_ADFD22C0D0A4409D927B42EBEA9B56B6">
 <seccion2Texto>
 <p>Aquí escribiré el párrafo de la sección</p>
 <p>Aquí va un PÁRRAFO</p>
-<imagen src="CN_10_11_CO_img_24_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><practica>
+<practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso160&amp;IdRecurso=RES-9B06DDEA96FC48538D619838AFB75D94"
 >Recurso M1A-01</enlace>
 </practica>
 <p>Aquí va un PÁRRAFO</p>
-<imagen src="CN_10_11_CO_img_25_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
+</seccion2Texto></seccion2><seccion2
 id="S2_CN_10_11_CO_DC7340479B744F55B9D1678D92E3A0D6">
 <seccion2Titulo>La nomenclatura de los óxidos</seccion2Titulo>
 <seccion2Texto>
 <p>Aquí escribiré el párrafo de la sección</p>
 <p>Aquí va un PÁRRAFO</p>
-<imagen src="CN_10_11_CO_img_26_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><practica>
+<practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso220&amp;IdRecurso=RES-19742DCA5267495E9E45473F38D5AF4D"
 >Recurso M10A-03</enlace>
@@ -422,15 +372,7 @@ id="S2_CN_10_11_CO_D3A08640C48C4216A2B401E309F12ABB">
 <seccion2Texto>
 <p>Aquí escribiré el párrafo de la sección</p>
 <p>Aquí va un PÁRRAFO</p>
-<imagen src="CN_10_11_CO_img_27_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><practica>
+<practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso020&amp;IdRecurso=RES-9AA191FDC83F49CF9E765812934EC4CF"
 >Recurso M9C-01</enlace>
@@ -440,15 +382,7 @@ id="S2_CN_10_11_CO_1936871882B24ED68CF7A2F4510BEFDE">
 <seccion2Texto>
 <p>Aquí escribiré el párrafo de la sección</p>
 <p>Aquí va un PÁRRAFO</p>
-<imagen src="CN_10_11_CO_img_28_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><practica>
+<practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso240&amp;IdRecurso=RES-D38C05ABB62346848F54BD11C70DF9E0"
 >Recurso M1B-01</enlace>
@@ -458,15 +392,7 @@ id="S2_CN_10_11_CO_0A4487A0C1854B589845D92A7D5C075A">
 <seccion2Texto>
 <p>Aquí escribiré el párrafo de la sección</p>
 <p>Aquí va un PÁRRAFO</p>
-<imagen src="CN_10_11_CO_img_29_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><practica>
+<practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso250&amp;IdRecurso=RES-9063D38BD6AC446E8D36D04232BA08A9"
 >Recurso M9B-01</enlace>
@@ -476,25 +402,8 @@ id="S2_CN_10_11_CO_063001C5C96842639C33EF87E44A9373">
 <seccion2Texto>
 <p>Aquí escribiré el párrafo de la sección</p>
 <p>Aquí va un PÁRRAFO</p>
-<imagen src="CN_10_11_CO_img_30_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado>
 <p>Aquí va un PÁRRAFO</p>
-<imagen src="CN_10_11_CO_img_31_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><practica>
+<practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso260&amp;IdRecurso=RES-C0DA3E9BA8C149869D49627924A7AEF0"
 >Recurso M101A-06</enlace>
@@ -504,29 +413,13 @@ destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso260&amp;IdRecurso=RES-C0DA3E
 <seccion1Texto>
 <p>Aquí escribiré el párrafo de la sección</p>
 <p>Aquí va un PÁRRAFO</p>
-<imagen src="CN_10_11_CO_img_32_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><practica>
+<practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso270&amp;IdRecurso=RES-375311F7C28E4AB1B9A766716942B3B9"
 >Competencias: reconocimiento de los enlaces químicos</enlace>
 </practica>
 <p>Aquí va un PÁRRAFO</p>
-<imagen src="CN_10_11_CO_img_33_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<recuerda><recuerdaTexto>
-<p>Aquí va un RECUERDA</p>
-</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
-título de un DESTACADO</destacadoTitulo><destacadoTexto>
-<p>Aquí va el texto de un DESTACADO</p>
-</destacadoTexto></destacado><practica>
+<practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso280&amp;IdRecurso=RES-27369240EBFD495B9EE0C9D6D3BBE7AD"
 >Recurso M102AB-01</enlace>
