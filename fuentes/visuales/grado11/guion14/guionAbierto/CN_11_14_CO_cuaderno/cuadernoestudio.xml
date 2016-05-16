@@ -1,0 +1,1541 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<libro id="CN_11_14_CO">
+  <libroTitulo>Las reacciones químicas de los compuestos orgánicos</libroTitulo>
+  <seccion1 id="S1_CN_11_14_CO_1CE4854F80524F7495C4465A288E2E57">
+    <seccion1Titulo>Los mecanismos de ruptura y de reacción</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <seccion2 id="S2_CN_11_14_CO_7174F27A43964B56B471000E6ECD18DD">
+        <seccion2Titulo>Los mecanismos de ruptura</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CN_11_14_CO_img_01_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso010&amp;IdRecurso=RES-4AE0F5F5FF414A89A4F29FD7FC8AE012">Diaporama F1-01</enlace>
+          </profundiza>
+          <seccion3 id="S3_CN_11_14_CO_92C5D82561A14F0790EBE31EB2522681">
+            <seccion3Titulo>La ruptura homolítica</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_02_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+            </seccion3Texto>
+          </seccion3>
+          <seccion3 id="S3_CN_11_14_CO_07BC3FC69C244B1AB39D8301087A3703">
+            <seccion3Titulo>La ruptura heterolítica</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_03_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+            </seccion3Texto>
+          </seccion3>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CN_11_14_CO_D4E86044662A404AAE5715E30D720D6E">
+        <seccion2Titulo>Los tipos de reactivos</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <seccion3 id="S3_CN_11_14_CO_7197D3812F744DD187B223532B3C7999">
+            <seccion3Titulo>Nucleófilos</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_04_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+            </seccion3Texto>
+          </seccion3>
+          <seccion3 id="S3_CN_11_14_CO_6D0B92BABCBE4726A92B1B11DFC0ED8E">
+            <seccion3Titulo>Electrófilos</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_05_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <practica>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso020&amp;IdRecurso=RES-2341FEDCE4954D1AAC8550E38A9B4FCC">Recurso M3A-01</enlace>
+              </practica>
+            </seccion3Texto>
+          </seccion3>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CN_11_14_CO_70BEF48BA1CE4577BA44A6C39874B99B">
+        <seccion2Titulo>Consolidación</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CN_11_14_CO_img_06_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso030&amp;IdRecurso=RES-15B61B27772641808481A8D3219FD32A">Recurso M101A-01</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CN_11_14_CO_9ECA9F42682441ACBDFE48F0201EA015">
+    <seccion1Titulo>Las clases de reacciones orgánicas</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CN_11_14_CO_img_07_small.png">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <profundiza>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso040&amp;IdRecurso=RES-CC6BAE8A11614C46906E0B6FBE479CA1">Recurso F6-01</enlace>
+      </profundiza>
+      <seccion2 id="S2_CN_11_14_CO_5289DD8903C547F288730F672E1B1AC5">
+        <seccion2Titulo>Reacciones de sustitución</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CN_11_14_CO_img_08_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CN_11_14_CO_9E90A0FDAC184ADEA051C94807109E63">
+        <seccion2Titulo>Reacciones de adición</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CN_11_14_CO_img_09_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CN_11_14_CO_35F36B5B8A1A4E42B3E94C928875D175">
+        <seccion2Titulo>Reacciones de eliminación</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CN_11_14_CO_img_10_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CN_11_14_CO_64B14B2EFE2B44FF896CBC332E0A658F">
+        <seccion2Titulo>Reacciones de transposición</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CN_11_14_CO_img_11_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso050&amp;IdRecurso=RES-8A7CE10271D046128DCE1F61CE8DBC14">Recurso M9C-01</enlace>
+          </practica>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CN_11_14_CO_img_12_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso060&amp;IdRecurso=RES-9700E447217046948AC48EDA4BE0E6AF">Recurso M101A-02</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CN_11_14_CO_130D4C3F464344A7970C2F912BD1AF12">
+    <seccion1Titulo>Los métodos de obtención y propiedades químicas de los hidrocarburos</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CN_11_14_CO_img_13_small.png">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <profundiza>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso070&amp;IdRecurso=RES-36CC77494D464FA1BECB039A68FE0E4C">Recurso F7-01</enlace>
+      </profundiza>
+      <seccion2 id="S2_CN_11_14_CO_A38115C0367F4363ABFE9BA393EE3269">
+        <seccion2Titulo>Los métodos de obtención y las propiedades químicas de los alcanos</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <seccion3 id="S3_CN_11_14_CO_31AE400F4B0B4A20BEA758AF50EB545E">
+            <seccion3Titulo>La hidrogenación de alquenos y alquinos</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_14_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+            </seccion3Texto>
+          </seccion3>
+          <seccion3 id="S3_CN_11_14_CO_5C9DC336F75346CF9BB2471FD3CF99BA">
+            <seccion3Titulo>La síntesis de Wurtz</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_15_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+            </seccion3Texto>
+          </seccion3>
+          <seccion3 id="S3_CN_11_14_CO_D85B60E43A074FFAA8F43A10877D642C">
+            <seccion3Titulo>La combustión</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_16_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+            </seccion3Texto>
+          </seccion3>
+          <seccion3 id="S3_CN_11_14_CO_5473B2E125474FCABA12665095A20AF0">
+            <seccion3Titulo>La halogenación</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_17_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <practica>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso080&amp;IdRecurso=RES-37F98979B4C64CBDA4B36A167131EEBC">Recurso M6A-01</enlace>
+              </practica>
+            </seccion3Texto>
+          </seccion3>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CN_11_14_CO_9AA6D56A098F4888939377047A71CAD9">
+        <seccion2Titulo>Los métodos de obtención y las propiedades químicas de los alquenos</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <seccion3 id="S3_CN_11_14_CO_3959DDE537474BB38368063A1DDEC779">
+            <seccion3Titulo>La deshidrogenación de alcanos</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_18_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+            </seccion3Texto>
+          </seccion3>
+          <seccion3 id="S3_CN_11_14_CO_B96A80E3B3C44A819BC076D8B22F0429">
+            <seccion3Titulo>La deshidratación de alcoholes</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_19_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_20_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+            </seccion3Texto>
+          </seccion3>
+          <seccion3 id="S3_CN_11_14_CO_E8C85A2826EA4C4BA9E608B0832E52A2">
+            <seccion3Titulo>La hidratación</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_21_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <practica>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso090&amp;IdRecurso=RES-599FDF021A2D46DC8F649A83CCE9C7B3">Recurso M7A-01</enlace>
+              </practica>
+            </seccion3Texto>
+          </seccion3>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CN_11_14_CO_7E968F50306A4FE6888DD9A25341641C">
+        <seccion2Titulo>Los métodos de obtención y las propiedades químicas de los alquinos</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <seccion3 id="S3_CN_11_14_CO_DD1241C337A24CAC8679E3627C8A94DB">
+            <seccion3Titulo>La deshidrogenación de dihalogenuros de alquilo</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_22_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+            </seccion3Texto>
+          </seccion3>
+          <seccion3 id="S3_CN_11_14_CO_ACAE4D8091CE406CB19EB7A81C875CAB">
+            <seccion3Titulo>La alquilación de acetiluros de sodio</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_23_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_24_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_25_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <practica>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso100&amp;IdRecurso=RES-B56F6CC3C48D47BEBF241D96E5DA37FE">Recurso M9C-02</enlace>
+              </practica>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_26_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+            </seccion3Texto>
+          </seccion3>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CN_11_14_CO_930EBB57BFA64F9F96AC118C8375E6FB">
+        <seccion2Titulo>Las propiedades químicas del benceno</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <seccion3 id="S3_CN_11_14_CO_FFE0959601FF4E318E0A80F586F64183">
+            <seccion3Titulo>La nitración</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_27_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+            </seccion3Texto>
+          </seccion3>
+          <seccion3 id="S3_CN_11_14_CO_F3B9DE5AFE3847599677930EB17AADE6">
+            <seccion3Titulo>La alquilación de Friedel-Crafts</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_28_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+            </seccion3Texto>
+          </seccion3>
+          <seccion3 id="S3_CN_11_14_CO_922C8364BC9F4E70B9008357B98423C0">
+            <seccion3Titulo>La sulfonación</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_29_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <profundiza>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso110&amp;IdRecurso=RES-F466B24E850548F7BB107D731B184A8D">Recurso F13B-01</enlace>
+              </profundiza>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_30_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+            </seccion3Texto>
+          </seccion3>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CN_11_14_CO_img_31_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso130&amp;IdRecurso=RES-6ACF319A0926457694F0948CE6F7A8C4">Recurso M101A-03</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CN_11_14_CO_3A7C8581B1F44843BF4B2F7142DFD491">
+    <seccion1Titulo>Los métodos de obtención y propiedades químicas de las funciones oxigenadas</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <seccion2 id="S2_CN_11_14_CO_A1B09EB435904FF08B748EC78FFFAAC8">
+        <seccion2Titulo>Los métodos de obtención y las propiedades químicas de los alcoholes</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CN_11_14_CO_img_32_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso140&amp;IdRecurso=RES-0ED975748C994620B29FBA12C9E0851C">Recurso F7-02</enlace>
+          </profundiza>
+          <seccion3 id="S3_CN_11_14_CO_8BD12FA69E70498592E2D35AD3FC8AE5">
+            <seccion3Titulo>A partir de halogenuros de alquilo y base fuerte</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_33_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+            </seccion3Texto>
+          </seccion3>
+          <seccion3 id="S3_CN_11_14_CO_13610BA9A25B45CC8BAFE65FDAE6C747">
+            <seccion3Titulo>La esterificación</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_34_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+            </seccion3Texto>
+          </seccion3>
+          <seccion3 id="S3_CN_11_14_CO_C7E6CE7E4CA44226AE0D2B7DB7CD8D03">
+            <seccion3Titulo>La oxidación</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_35_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <practica>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso150&amp;IdRecurso=RES-F5F0815E0BD2437D9C374C0988B661DB">Recurso M9C-03</enlace>
+              </practica>
+            </seccion3Texto>
+          </seccion3>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CN_11_14_CO_2A1A847A7ADF49AFA17570F8D663A114">
+        <seccion2Titulo>Los métodos de obtención y las propiedades químicas de los éteres</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <seccion3 id="S3_CN_11_14_CO_1C1875FC7BDC4188BE11583BCFA71BF8">
+            <seccion3Titulo>La síntesis de Williamson</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_36_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_37_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+            </seccion3Texto>
+          </seccion3>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CN_11_14_CO_D2E980240AFD42B1839339D39A045430">
+        <seccion2Titulo>Los métodos de obtención y las propiedades químicas de los aldehídos</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <seccion3 id="S3_CN_11_14_CO_FFEF510D0E254A4C9446F64168108856">
+            <seccion3Titulo>La oxidación parcial de alcoholes primarios</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_38_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_39_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+            </seccion3Texto>
+          </seccion3>
+          <seccion3 id="S3_CN_11_14_CO_AD3EFCFECE2F4F2080EE35B076C37F1F">
+            <seccion3Titulo>La reducción</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_40_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <practica>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso160&amp;IdRecurso=RES-D42A31536DE1498F9542BF95A3EB8C71">Recurso M6A-02</enlace>
+              </practica>
+            </seccion3Texto>
+          </seccion3>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CN_11_14_CO_2FA22883F4E9447989C302D6CD91F9CA">
+        <seccion2Titulo>Los métodos de obtención de y las propiedades químicas de las cetonas</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <seccion3 id="S3_CN_11_14_CO_534D67502EF447238D41A62C9A376CF2">
+            <seccion3Titulo>La oxidación parcial de alcoholes secundarios</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_41_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_42_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_43_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <profundiza>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso170&amp;IdRecurso=RES-2AC52A1D81454AF7A8757B8E1E6D5394">Recurso F13B-02</enlace>
+              </profundiza>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_44_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <practica>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso180&amp;IdRecurso=RES-5AD2011D5264485B8CF74C952855DD01">Recurso M5A-01</enlace>
+              </practica>
+            </seccion3Texto>
+          </seccion3>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CN_11_14_CO_0EAED793348B4DC2B03C926344588144">
+        <seccion2Titulo>Los métodos de obtención de y las propiedades químicas de los ácidos carboxílicos</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <seccion3 id="S3_CN_11_14_CO_6C1DD198712B438385CB9A669291F508">
+            <seccion3Titulo>La hidrólisis de nitrilos</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_45_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+            </seccion3Texto>
+          </seccion3>
+          <seccion3 id="S3_CN_11_14_CO_1C73EA223A114F188DD7FAB3FA0421D3">
+            <seccion3Titulo>La amidación</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_46_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <practica>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso190&amp;IdRecurso=RES-847D5DDE0F3040D8B5047019EF7DB7DB">Recurso M9C-04</enlace>
+              </practica>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_47_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_50_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_51_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+            </seccion3Texto>
+          </seccion3>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CN_11_14_CO_img_48_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso210&amp;IdRecurso=RES-989F8CC13E704BB1BFB71D01C7213C71">Recurso M101A-04</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CN_11_14_CO_076F5AE6CB7547D38779AC9A874846DF">
+    <seccion1Titulo>Los métodos de obtención y las propiedades químicas de los derivados de ácidos carboxílicos</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <seccion2 id="S2_CN_11_14_CO_1BE177A30DAC4276A6095758D5A39CF5">
+        <seccion2Titulo>Los métodos de obtención de y las propiedades químicas de los ésteres</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CN_11_14_CO_img_49_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso220&amp;IdRecurso=RES-74FB125574204EA893C435EF9F45C1B8">Recurso F7-03</enlace>
+          </profundiza>
+          <seccion3 id="S3_CN_11_14_CO_09DF9C003CA141E1888FB0C2AEBF5B16">
+            <seccion3Titulo>La amonólisis</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_52_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <practica>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso230&amp;IdRecurso=RES-B5ECEAED5AAC46C19D11CC75D45AF5F9">Recurso M9B-01</enlace>
+              </practica>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_53_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+            </seccion3Texto>
+          </seccion3>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CN_11_14_CO_945C78DB31FE429484DD881D2379F05B">
+        <seccion2Titulo>Los métodos de obtención y las propiedades químicas de los anhídridos de ácido</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <seccion3 id="S3_CN_11_14_CO_945F7B7904FF480D8088E24671B5FD8E">
+            <seccion3Titulo>La deshidratación de ácidos dicarboxílicos</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_54_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+            </seccion3Texto>
+          </seccion3>
+          <seccion3 id="S3_CN_11_14_CO_0CB2C6ECD0DB4AEF8CCCF9D947A15995">
+            <seccion3Titulo>La hidrólisis</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_55_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_56_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+            </seccion3Texto>
+          </seccion3>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CN_11_14_CO_4F85B60BD1AC4D43B2BEC9A7CAD00499">
+        <seccion2Titulo>Los métodos de obtención y las propiedades químicas de las amidas</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <seccion3 id="S3_CN_11_14_CO_00FD319B132B4B6BAFE4546EC54CDF62">
+            <seccion3Titulo>La amonólisis de haluros de ácido</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_57_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_58_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_59_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <practica>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso250&amp;IdRecurso=RES-30C440D6EF1942DB85480571C68FF2AE">Recurso M6A-03</enlace>
+              </practica>
+            </seccion3Texto>
+          </seccion3>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CN_11_14_CO_03AAA3FC6E7A49EE86EFF96C6911669C">
+        <seccion2Titulo>Los métodos de obtención y las propiedades químicas de los haluros de ácido</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <seccion3 id="S3_CN_11_14_CO_FF03A5708079487D92503F21480BFAB7">
+            <seccion3Titulo>Tratamiento de ácidos con cloruro de tionilo (SOCl2)</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_60_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_61_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <practica>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso260&amp;IdRecurso=RES-0A79DF8E09794DF0B3A4A5057ABA0122">Recurso M5A-02</enlace>
+              </practica>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_62_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+            </seccion3Texto>
+          </seccion3>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CN_11_14_CO_img_63_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso280&amp;IdRecurso=RES-4EE35577A5F1480CB02411F59CC07A16">Recurso M101A-05</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CN_11_14_CO_DF5571ED9FC0402ABED922565F35020D">
+    <seccion1Titulo>Los métodos de obtención y las propiedades químicas de las funciones nitrogenadas</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <seccion2 id="S2_CN_11_14_CO_5A8A26006AD940279D13E811072E77F2">
+        <seccion2Titulo>Los métodos de obtención y las propiedades químicas de las aminas</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CN_11_14_CO_img_64_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <profundiza>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso290&amp;IdRecurso=RES-9A120239FDF44F35B1E4F023C5545E6E">Recurso F7B-01</enlace>
+          </profundiza>
+          <seccion3 id="S3_CN_11_14_CO_8DACF2FDA8804B4FB02F32B0EBA38F6A">
+            <seccion3Titulo>A partir de halogenuros de alquilo</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_65_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+            </seccion3Texto>
+          </seccion3>
+          <seccion3 id="S3_CN_11_14_CO_5EFB69A9B8FA4B24B5898306C2EF7EBA">
+            <seccion3Titulo>Degradación de Hofmann</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_66_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+            </seccion3Texto>
+          </seccion3>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CN_11_14_CO_6B010887A38A4BB3B7179B77EF141169">
+        <seccion2Titulo>Los métodos de obtención de y las propiedades químicas de los nitrilos</seccion2Titulo>
+        <seccion2Texto>
+          <p>Aquí escribiré el párrafo de la sección</p>
+          <seccion3 id="S3_CN_11_14_CO_D2CB2529A98A459581C3506744C4F4C5">
+            <seccion3Titulo>Tratamiento de amida primaria con cloruro de tionilo (SOCl2)</seccion3Titulo>
+            <seccion3Texto>
+              <p>Aquí escribiré el párrafo de la sección</p>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_67_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <p>Aquí va un PÁRRAFO</p>
+              <imagen src="CN_11_14_CO_img_68_small.png">
+                <p>Aquí escribiré el pie de foto</p>
+              </imagen>
+              <recuerda>
+                <recuerdaTexto>
+                  <p>Aquí va un RECUERDA</p>
+                </recuerdaTexto>
+              </recuerda>
+              <destacado>
+                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+                <destacadoTexto>
+                  <p>Aquí va el texto de un DESTACADO</p>
+                </destacadoTexto>
+              </destacado>
+              <practica>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso300&amp;IdRecurso=RES-F307FC0EDA254798A53263FB38D5EC21">Recurso M9B-02</enlace>
+              </practica>
+            </seccion3Texto>
+          </seccion3>
+          <p>Aquí va un PÁRRAFO</p>
+          <imagen src="CN_11_14_CO_img_69_small.png">
+            <p>Aquí escribiré el pie de foto</p>
+          </imagen>
+          <recuerda>
+            <recuerdaTexto>
+              <p>Aquí va un RECUERDA</p>
+            </recuerdaTexto>
+          </recuerda>
+          <destacado>
+            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+            <destacadoTexto>
+              <p>Aquí va el texto de un DESTACADO</p>
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso310&amp;IdRecurso=RES-D4E9620824714349845B63D3D0C947C9">Recurso M101A-06</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CN_11_14_CO_56DAF1E1DCB94853A2C4346C988593CD">
+    <seccion1Titulo>Competencias</seccion1Titulo>
+    <seccion1Texto>
+      <p>Aquí escribiré el párrafo de la sección</p>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CN_11_14_CO_img_70_small.png">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso320&amp;IdRecurso=RES-F2D884232B3948519BE1B4CB1582BC54">Recurso M102AB-01</enlace>
+      </practica>
+      <p>Aquí va un PÁRRAFO</p>
+      <imagen src="CN_11_14_CO_img_71_small.png">
+        <p>Aquí escribiré el pie de foto</p>
+      </imagen>
+      <recuerda>
+        <recuerdaTexto>
+          <p>Aquí va un RECUERDA</p>
+        </recuerdaTexto>
+      </recuerda>
+      <destacado>
+        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
+        <destacadoTexto>
+          <p>Aquí va el texto de un DESTACADO</p>
+        </destacadoTexto>
+      </destacado>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso330&amp;IdRecurso=RES-E9BA0BD601AF4E5396E01A747321CA28">Recurso M102AB-02</enlace>
+      </practica>
+    </seccion1Texto>
+  </seccion1>
+  <masinformacion id="MI_CN_11_14_CO_E58CD687D7CD4F75B1897301D20F8B83">
+    <mapaconceptual>
+      <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso350&amp;IdRecurso=RES-337D8113E808489E82287D2DD6B67659">Mapa Conceptual</enlace>
+    </mapaconceptual>
+    <autoevaluate>
+      <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso360&amp;IdRecurso=RES-64B920DC6F2045FE9100A8286E411C97">Evaluación</enlace>
+    </autoevaluate>
+    <enlacesreferencia>
+      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+    </enlacesreferencia>
+  </masinformacion>
+</libro>

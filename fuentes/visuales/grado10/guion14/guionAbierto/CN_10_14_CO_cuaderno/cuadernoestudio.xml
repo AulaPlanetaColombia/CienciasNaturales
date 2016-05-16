@@ -1,863 +1,829 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CN_10_14_CO">
-  <libroTitulo>Los sólidos y los gases</libroTitulo>
-  <seccion1 id="S1_CN_10_14_CO_5EA1EB4FCB704E159D17D125CFDB8DFE">
-    <seccion1Titulo>Los sólidos</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_10_14_CO_img_01_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso010&amp;IdRecurso=RES-3DC923DB1CC94DC58FF0FDE09122FE98">Diaporama F1-01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CN_10_14_CO_C77CBD05AF774E99AE53119FACCE6F96">
-        <seccion2Titulo>Las propiedades de los sólidos</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_10_14_CO_img_02_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_10_14_CO_DFAA73A760B945BEAF79C67B36631C2A">
-        <seccion2Titulo>Las clases de sólidos</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_10_14_CO_img_03_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_10_14_CO_67511413611B46C8BD52801A6317A355">
-        <seccion2Titulo>Los sistemas cristalinos</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_10_14_CO_img_04_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_10_14_CO_71A1316249394AFF83F3668975CB5369">
-        <seccion2Titulo>Los tipos de cristales</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_10_14_CO_img_05_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_10_14_CO_img_06_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso030&amp;IdRecurso=RES-475E7635A2DE4B9FBD9CA04E602EAA4F">Recurso M1B-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_10_14_CO_5C11A1FA8222497CA53DD8FDA742C0E0">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_10_14_CO_img_07_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso040&amp;IdRecurso=RES-3A9CCAD534C245DE8A617B3CD1B4E95F">Recurso M101A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CN_10_14_CO_629CA4F81F5C4CAFA532C9E9822097EB">
-    <seccion1Titulo>Los gases</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_10_14_CO_img_08_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso050&amp;IdRecurso=RES-C35589CA01B44203ADA0F3AA91CD2C9B">Recurso F6-01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CN_10_14_CO_B545ADE9512B4234B0A3C1911D9B4021">
-        <seccion2Titulo>Las propiedades de los gases</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_10_14_CO_img_09_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_10_14_CO_9CDC920C04C2444DA9BC1AEF49E675BE">
-        <seccion2Titulo>La teoría cinética-molecular de los gases</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_10_14_CO_img_10_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso060&amp;IdRecurso=RES-4EC4874023EB472F8E27ACF76B989E42">Recurso M2A-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_10_14_CO_img_11_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso070&amp;IdRecurso=RES-3B0D1DE23D7345D38780C79F1229E86A">Recurso M101A-02</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CN_10_14_CO_EEA50AEDEF7E4D2995AE344EA0834A3D">
-    <seccion1Titulo>Las leyes de los gases</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_10_14_CO_img_12_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso080&amp;IdRecurso=RES-1A1E9FA8A90D4226B8C8A57E3071CE8C">Recurso F7-01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CN_10_14_CO_F9B9FE2E84AD4477B0EBF54AF3D95901">
-        <seccion2Titulo>La ley de Boyle-Mariotte</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_10_14_CO_img_13_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_10_14_CO_E4ECAF0DD4C644AAADF55974D09A966B">
-        <seccion2Titulo>La ley de Charles</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_10_14_CO_img_14_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_10_14_CO_99313E63203140B4A9DC5F54145DEAA0">
-        <seccion2Titulo>La ley de Gay–Lussac</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_10_14_CO_img_15_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_10_14_CO_580B049570C6435287CE4F6B6CF1AD0F">
-        <seccion2Titulo>La ley combinada de los gases</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_10_14_CO_img_16_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_10_14_CO_FEC6CC588B30400C9E7B61CF1C326286">
-        <seccion2Titulo>La ley de Avogadro</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CN_10_14_CO_D6F4D8CBBC0C4116A2C1CC050533FED3">
-            <seccion3Titulo>El volumen molar</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_10_14_CO_img_17_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_10_14_CO_A70C4EFAFA5A4B21BB0356EFADE82CCD">
-        <seccion2Titulo>La ley de Dalton</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_10_14_CO_img_18_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_10_14_CO_img_19_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso090&amp;IdRecurso=RES-419D6CB45D0F4443B2D091777D8FAA8D">Recurso M4A-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_10_14_CO_img_20_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso100&amp;IdRecurso=RES-A5E9E567FC044ACE8D2D77BE49003415">Recurso M5A-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_10_14_CO_img_21_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_10_14_CO_img_22_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso120&amp;IdRecurso=RES-D94917DCF77D41AAAAF941F0433D3D6E">Recurso M101A-03</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CN_10_14_CO_A57F4506D8054E15A2D552C7781E1411">
-    <seccion1Titulo>La ley de los gases ideales</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_10_14_CO_img_23_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso130&amp;IdRecurso=RES-6C90B1FCE4B24BF5B5369612C7A97B14">Diaporama F1-02</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_10_14_CO_img_24_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso140&amp;IdRecurso=RES-5F9E4BCD184849798F50963DA73C5D1E">Recurso M4A-03</enlace>
-      </practica>
-      <seccion2 id="S2_CN_10_14_CO_9670C47CD5014A4EB3D4DEC8EE6E915E">
-        <seccion2Titulo>Relación entre masa molar y densidad de un gas</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_10_14_CO_img_25_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso150&amp;IdRecurso=RES-2A3DB9F2DB064B3480D1B14DDFC283EC">Recurso M5A-02</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_10_14_CO_img_26_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_10_14_CO_img_27_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso170&amp;IdRecurso=RES-5654650817B840FD8011575D9E7C232F">Recurso M101A-04</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CN_10_14_CO_65A59B88A2144F6C86894ED6F43FB2DB">
-    <seccion1Titulo>La estequiometría de gases</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_10_14_CO_img_28_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso180&amp;IdRecurso=RES-8BA74A122FBE4BA098074EC5F8548CC0">Recurso F6B-01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CN_10_14_CO_B62B8F63D4CA4D029CA343EB2113ADD8">
-        <seccion2Titulo>Cálculos en masa</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_10_14_CO_img_29_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_10_14_CO_ABD72D041AD349CD9341A60514071A40">
-        <seccion2Titulo>Cálculos en moles</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_10_14_CO_img_30_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_10_14_CO_B495C5F34131449BB579F5E376F07820">
-        <seccion2Titulo>Cálculos en volumen</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_10_14_CO_img_31_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso190&amp;IdRecurso=RES-FFA16AC364EF44EEAD6EB1061FD954D1">Recurso M5A-03</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_10_14_CO_img_32_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_10_14_CO_img_33_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso210&amp;IdRecurso=RES-6D1793BA2F0D4BB7BB5CB40738D3A185">Recurso M101A-05</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CN_10_14_CO_8D90AF2E9BE64BAC9F1106CC1B521575">
-    <seccion1Titulo>La ley de Graham y los gases reales</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_10_14_CO_img_34_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso220&amp;IdRecurso=RES-D188789EC4214712ABAA567D0C6CCF2D">Recurso F6-02</enlace>
-      </profundiza>
-      <seccion2 id="S2_CN_10_14_CO_52037FB279AD463AB0BDEC52B84C3E77">
-        <seccion2Titulo>La ley de la difusión de Graham</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_10_14_CO_img_35_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_10_14_CO_87B9BA4CB32144EBA0C2C43E06A74EB9">
-        <seccion2Titulo>Los gases reales</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_10_14_CO_img_36_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_10_14_CO_img_37_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso230&amp;IdRecurso=RES-AB7095E4A81D417DA158A1EDC6C91ACB">Recurso M101A-06</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CN_10_14_CO_A51A8993492C487CB18E15FE3ADDC5DB">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_10_14_CO_img_38_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso240&amp;IdRecurso=RES-635BE73EC74547B8A0D6C69E4332920C">Recurso M102AB-01</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_10_14_CO_img_39_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso250&amp;IdRecurso=RES-1DF55425180F4D4480969D033D49F564">Recurso M102AB-02</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_10_14_CO_img_40_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso260&amp;IdRecurso=RES-D2779C34AB0C4FAC94A2E2AB99E8CED3">Recurso M102AB-03</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_10_14_CO_img_41_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso270&amp;IdRecurso=RES-7F581487EE464809A522CBE18D3E9B29">Recurso M102AB-04</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CN_10_14_CO_D58A005D28B44587B2666CD756447C2C">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso290&amp;IdRecurso=RES-E809313E316342B9BBA7C3E15031BA97">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso300&amp;IdRecurso=RES-751DF63A5D41435580DE59AF2851DA19">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>Los sólidos y los gases</libroTitulo>
+<seccion1 id="S1_CN_10_14_CO_5EA1EB4FCB704E159D17D125CFDB8DFE">
+<seccion1Titulo>Los sólidos</seccion1Titulo>
+<seccion1Texto>
+<p>Las partículas en los <negrita>sólidos</negrita> se encuentran
+con poca libertad de movimiento, debido a la gran fuerza de atracción
+que hay entre ellas, que solo les permite presentar movimiento de
+vibración u oscilación.</p>
+<imagen src="CN_10_14_CO_IMG01_small.jpg">
+<p>Las moléculas del agua en estado sólido se encuentran organizadas,
+comparadas con su estado en los líquidos y en los gases.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso010&amp;IdRecurso=RES-3DC923DB1CC94DC58FF0FDE09122FE98"
+>El estado sólido de la materia</enlace>
+</profundiza><seccion2
+id="S2_CN_10_14_CO_C77CBD05AF774E99AE53119FACCE6F96">
+<seccion2Titulo>Las propiedades de los sólidos</seccion2Titulo>
+<seccion2Texto>
+<p>Las <negrita>propiedades de los sólidos</negrita> están determinadas
+por el tipo de fuerzas que mantienen unidas a las partículas que los
+conforman, lo cual les garantiza:</p>
+<listaSinNumerar>
+<listaElemento>El <negrita>ordenamiento</negrita> de sus partículas.</listaElemento>
+<listaElemento>Mantener la <negrita>forma</negrita> y el <negrita
+>volumen</negrita> constante.</listaElemento>
+<listaElemento>Ser <negrita>incompresibles</negrita>, pues, por más
+intensas que sean las fuerzas que se apliquen sobre ellos, prácticamente
+no varían su volumen.</listaElemento>
+<listaElemento>No <negrita>difundirse</negrita> entre sí.</listaElemento>
+<listaElemento>Poseer <negrita>dureza</negrita> debido a su estructura
+compacta (por ejemplo todas las piedras preciosas son de alta dureza).</listaElemento>
+<listaElemento>La resistencia a fracturarse o a deteriorarse, propiedad
+conocida como <negrita>tenacidad</negrita>.</listaElemento>
+</listaSinNumerar>
+<imagen src="CN_10_14_CO_IMG02_small.jpg">
+<p>Los puentes colgantes están construidos enteramente de acero (aleación
+de hierro y carbono) debido a la alta tenacidad de este material sólido.
+Un ejemplo es el Golden Gate, a la entrada de la bahía de San Francisco
+(California, Estados Unidos).</p>
+</imagen>
+<listaSinNumerar>
+<listaElemento>Poseer <negrita>conductividad eléctrica</negrita>,
+específicamente en los sólidos que presentan enlaces metálicos.</listaElemento>
+<listaElemento>Poseer <negrita>conductividad térmica</negrita>, lo
+cual aumenta el movimiento de las partículas del sólido.</listaElemento>
+<listaElemento>Tener <negrita>elasticidad</negrita>, es decir, recuperar
+la forma después de haber sido deformados, esto se evidencia en materiales
+como las bandas elásticas.</listaElemento>
+<listaElemento>Tener <negrita>flexibilidad</negrita>, capacidad de
+deformarse constantemente sin romperse.</listaElemento>
+</listaSinNumerar>
+<imagen src="CN_10_14_CO_IMG03_small.jpg">
+<p>El caucho es un material muy <negrita>elástico</negrita>.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CN_10_14_CO_DFAA73A760B945BEAF79C67B36631C2A">
+<seccion2Titulo>Las clases de sólidos</seccion2Titulo>
+<seccion2Texto>
+<p>Los <negrita>sólidos</negrita> se clasifican de acuerdo con su
+estructura de cristalización (ordenamiento de átomos, moléculas o
+iones) en <negrita>cristalinos</negrita> y en <negrita>amorfos</negrita
+>.</p>
+<p>Los <negrita>sólidos cristalinos</negrita> presentan las partículas
+ordenadas en posiciones específicas, que se repiten periódicamente
+en tres dimensiones, por ello, con un trozo del sólido conoceremos
+la estructura completa del material. Cuando los sólidos cristalinos
+se fracturan, lo hacen tendiendo a conservar su estructura.</p>
+<imagen src="CN_10_14_CO_IMG04_small.jpg">
+<p>El azúcar, la sal y el hielo son ejemplos de sólidos cristalinos.</p>
+</imagen>
+<p>Los <negrita>sólidos amorfos</negrita> carecen de un ordenamiento
+tridimensional definido y repetido, pues su formación es muy rápida
+y sus partículas no tienen tiempo de alinearse.</p>
+<imagen src="CN_10_14_CO_IMG05_small.jpg">
+<p>El vidrio, uno de los materiales más usados en la vida cotidiana,
+es considerado un sólido amorfo, del cual se pudo establecer, con
+técnicas de difracción de rayos X, que carece de un ordenamiento periódico
+regular.</p>
+</imagen>
+<destacado><destacadoTitulo>Otra clasificación de los sólidos</destacadoTitulo>
+<destacadoTexto>
+<p>Según el tipo de enlace que presenten, los sólidos se clasifican
+en <negrita>metálicos</negrita> y <negrita>no metálicos</negrita>.
+Los primeros presentan <negrita>enlaces metálicos</negrita> y los
+segundos, <negrita>enlaces covalentes</negrita> o <negrita>iónicos</negrita
+>.</p>
+</destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
+id="S2_CN_10_14_CO_67511413611B46C8BD52801A6317A355">
+<seccion2Titulo>Los sistemas cristalinos</seccion2Titulo>
+<seccion2Texto>
+<p>Los <negrita>cristales</negrita> son sólidos que presentan formas
+geométricas definidas, debido al orden estricto y regular en que se
+ubican las unidades que los conforman. En la formación de un cristal
+es importante la manera como se acomodan las <negrita>celdas unitarias</negrita
+> en la <negrita>red cristalina</negrita>.</p>
+<imagen src="CN_10_14_CO_IMG06_small.jpg">
+<p>La celda unitaria es la unidad básica y estructural repetida en
+un sólido cristalino. Se representa con un poliedro que se ubica en
+una red cristalina hasta completar la estructura. En cada intersección
+se ubica un punto, llamado punto reticular, que representa la ubicación
+de las partículas en el cristal.</p>
+</imagen>
+<p>Existen siete posibilidades de acomodación de las <negrita>celdas
+unitarias</negrita> en las estructuras de los sólidos cristalinos,
+las cuales se conocen como <negrita>sistemas cristalinos</negrita
+>.</p>
+<imagen src="CN_10_14_CO_IMG07_small.jpg">
+<p>En los sistemas cristalinos, el ángulo <negritacursiva>α</negritacursiva
+> está definido por las aristas <negritacursiva>b</negritacursiva
+> y <negritacursiva>c</negritacursiva>, el <negrita>ángulo</negrita
+><negritacursiva> β</negritacursiva> por las aristas <negritacursiva
+>a</negritacursiva> y <negritacursiva>c</negritacursiva>, y el ángulo <negritacursiva
+>γ</negritacursiva> por las aristas <negritacursiva>a</negritacursiva
+> y <negritacursiva>b</negritacursiva>.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CN_10_14_CO_71A1316249394AFF83F3668975CB5369">
+<seccion2Titulo>Los tipos de cristales</seccion2Titulo>
+<seccion2Texto>
+<p>Existen cuatro <negrita>tipos de cristales</negrita>: iónicos,
+covalentes, moleculares y metálicos.</p>
+<listaSinNumerar>
+<listaElemento>Los <negrita>cristales iónicos</negrita> están formados
+por cationes y aniones, que pueden diferir o no en tamaño, por ejemplo,
+el cristal del cloruro de sodio (sal de cocina) es iónico, pues presenta
+los iones Na<superindice>+</superindice> y Cl<superindice>-</superindice
+> unidos por interacciones electrostáticas. Los cristales iónicos
+no son buenos conductores, pero si se les eleva su temperatura aumenta
+su conductividad eléctrica.</listaElemento>
+</listaSinNumerar>
+<recuerda><recuerdaTexto>
+<p>Los <negrita>cationes</negrita> están cargados positivamente y
+los <negrita>aniones</negrita> presentan carga negativa.</p>
+</recuerdaTexto></recuerda>
+<listaSinNumerar>
+<listaElemento>Los <negrita>cristales covalentes</negrita> tienen
+los átomos unidos a través de enlaces de tipo covalente, por ende,
+no son conductores eléctricos ni térmicos, pues no presentan electrones
+libres que transfieran la energía de un punto a otro. </listaElemento>
+</listaSinNumerar>
+<imagen src="CN_10_14_CO_IMG08_small.jpg">
+<p>Los enlaces covalentes en el diamante contribuyen a su dureza particular.</p>
+</imagen>
+<listaSinNumerar>
+<listaElemento>Los <negrita>cristales moleculares</negrita> presentan
+en el punto reticular moléculas unidas por las fuerzas de Van der
+Waals o por puentes de hidrógeno, estas fuerzas de atracción son más
+débiles que en los cristales iónicos o en los covalentes, lo que los
+hace ser más quebradizos y deformables, además que no conducen electricidad
+ni calor. Por ejemplo, el dióxido de azufre (SO<subindice>2</subindice
+>) es un cristal molecular en el que predomina la fuerza de atracción
+dipolo-dipolo.</listaElemento>
+<listaElemento>Los <negrita>cristales metálicos</negrita> tienen en
+cada punto reticular un átomo del mismo metal, lo que los hace más
+densos. Debido a que presentan los electrones del enlace metálico
+deslocalizados en toda la estructura, son buenos conductores térmicos
+y eléctricos. </listaElemento>
+</listaSinNumerar>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso020&amp;IdRecurso=RES-7A2CA7AAA0854C68A6BAC648D6061D06"
+>La cristalización</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso030&amp;IdRecurso=RES-475E7635A2DE4B9FBD9CA04E602EAA4F"
+>Identifica los tipos de cristales</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CN_10_14_CO_5C11A1FA8222497CA53DD8FDA742C0E0">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso040&amp;IdRecurso=RES-3A9CCAD534C245DE8A617B3CD1B4E95F"
+>Refuerza tu aprendizaje: Los sólidos</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_10_14_CO_629CA4F81F5C4CAFA532C9E9822097EB">
+<seccion1Titulo>Los gases</seccion1Titulo>
+<seccion1Texto>
+<p>La atmósfera está compuesta por gran cantidad de <negrita>gases</negrita
+>, como el oxígeno, el cual permite llevar a cabo procesos vitales
+para el ser humano, los animales y las plantas. Reconocer las propiedades
+y el comportamiento de los gases es relevante para tomar posición
+sobre aspectos relacionados con el ambiente y la salud.</p>
+<seccion2 id="S2_CN_10_14_CO_B545ADE9512B4234B0A3C1911D9B4021">
+<seccion2Titulo>Las propiedades de los gases</seccion2Titulo>
+<seccion2Texto>
+<p>Los <negrita>gases</negrita> tienen <negrita>propiedades</negrita
+> diferentes a las de los otros estados de la materia, pues en ellos
+las partículas están muy separadas, y las fuerzas de atracción son
+tan débiles que pueden moverse libremente. Los gases no tienen forma
+ni volumen definidos, pues adoptan el volumen del recipiente donde
+se almacenen. Además, pueden difundirse fácilmente gracias a que sus
+partículas son muy pequeñas y su densidad es baja. Se consideran los
+más compresibles de los estados de agregación.</p>
+<imagen src="CN_10_14_CO_IMG09_small.jpg">
+<p>El gas que contiene en su interior el globo aerostático adopta
+la forma del globo y, al tener menor densidad que el aire, se presenta
+un empuje hacia arriba.</p>
+</imagen>
+<p>En los gases la <negrita>energía cinética</negrita> es alta, lo
+que hace que la presión ejercida por las partículas sea apreciable
+debido a los choques constantes que se efectúan, que aumentan al subir
+la temperatura. Esto también les permite expandirse a gran velocidad.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CN_10_14_CO_9CDC920C04C2444DA9BC1AEF49E675BE">
+<seccion2Titulo>La teoría cinética-molecular de los gases</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>teoría cinética-molecular</negrita> es un modelo que
+relaciona magnitudes termodinámicas con propiedades microscópicas
+de los gases.</p>
+<destacado><destacadoTitulo>Magnitudes termodinámicas</destacadoTitulo>
+<destacadoTexto>
+<p>Las <negrita>magnitudes termodinámicas</negrita> que se relacionan
+al describir un sistema son: la presión (atm, mm de Hg, Torr, Pascal),
+el volumen (L), la masa (g o moles) y la temperatura (K).</p>
+</destacadoTexto></destacado>
+<p>Este modelo explica el comportamiento y características de los
+gases, considerando que:</p>
+<listaSinNumerar>
+<listaElemento>Los gases están formados por <negrita>pequeñas partículas
+en movimiento</negrita> continuo, aleatorio y de trayectoria recta,
+que chocan entre sí y con las paredes del recipiente que las contiene,
+lo que genera presión.</listaElemento>
+<listaElemento>Las <negrita>fuerzas de atracción son muy débiles</negrita
+>, por ello las partículas se encuentran separadas.</listaElemento>
+<listaElemento>El <negrita>volumen</negrita> que ocupan las moléculas
+de un gas es pequeño, si se lo compara con el volumen que ocupa el
+gas en su totalidad, pues la mayor parte es vacío.</listaElemento>
+<listaElemento>La <negrita>energía cinética</negrita> de las moléculas
+del gas aumenta al aumentar la temperatura.</listaElemento>
+<listaElemento>Al aumentar la cantidad de un gas en un sistema aumenta
+la presión, pues se incrementan los choques de las partículas contra
+las paredes del recipiente que lo contienen.</listaElemento>
+</listaSinNumerar>
+<imagen src="CN_10_14_CO_IMG10_small.jpg">
+<p>La teoría cinética-molecular permite explicar por qué las moléculas
+de gases azufrados como el sulfuro de hidrógeno (H<subindice>2</subindice
+>S), producto de la descomposición bacteriana del azufre en las aguas
+termales se movilizan rápidamente en varias direcciones, comportamiento
+que permite que se perciba, el olor a huevo podrido.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso060&amp;IdRecurso=RES-4EC4874023EB472F8E27ACF76B989E42"
+>¿Qué sabes de la teoría cinética-molecular de los gases?</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CN_10_14_CO_F9B9FE2E84AD4477B0EBF54AF3D96012">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso070&amp;IdRecurso=RES-3B0D1DE23D7345D38780C79F1229E86A"
+>Refuerza tu aprendizaje: Los gases</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_10_14_CO_EEA50AEDEF7E4D2995AE344EA0834A3D">
+<seccion1Titulo>Las leyes de los gases</seccion1Titulo>
+<seccion1Texto>
+<p>Las <negrita>leyes de los gases</negrita> son producto de siglos
+de trabajo experimental con gases en diferentes condiciones de presión,
+temperatura y volumen. Dentro de ellas, se conocen la ley de <negrita
+>Boyle-Mariotte</negrita>, la ley de <negrita>Charles</negrita>, la <negrita
+>ley combinada de los gases</negrita>, la ley de <negrita>Avogadro</negrita
+>, la ley de <negrita>Gay-Lussac</negrita> y la ley de <negrita>Dalton</negrita
+>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso080&amp;IdRecurso=RES-1A1E9FA8A90D4226B8C8A57E3071CE8C"
+>El comportamiento de los gases</enlace>
+</profundiza><seccion2
+id="S2_CN_10_14_CO_F9B9FE2E84AD4477B0EBF54AF3D95901">
+<seccion2Titulo>La ley de Boyle-Mariotte</seccion2Titulo>
+<seccion2Texto>
+<p>En el siglo XVII, el científico <negrita>Robert Boyle</negrita
+> analizó la relación entre la presión (<negritacursiva>P</negritacursiva
+>) y el volumen (<negritacursiva>V</negritacursiva>) de un gas en
+un sistema cerrado, cuando la temperatura (<negritacursiva>T</negritacursiva
+>) se mantiene constante.</p>
+<imagen src="CN_10_14_CO_IMG11_small.jpg">
+<p>Boyle evidenció que a temperatura constante, al aumentar la presión,
+el volumen disminuye, lo cual permite decir que la presión y el volumen
+son inversamente proporcionales.</p>
+</imagen>
+<p>La ley de Boyle se expresa matemáticamente:</p>
+<formula alineacion="centrada" src="CN_10_14_formula01.gif"></formula>
+<p>Donde <negrita>α</negrita> representa la proporcionalidad. Si se
+cambia el volumen o la presión en una muestra de gas sin que haya
+cambio en la temperatura ni en la cantidad de gas, los nuevos datos
+darán el mismo producto que los iniciales, por ello se puede igualar <cursiva
+>PV</cursiva> inicial y <cursiva>PV</cursiva> final, así:</p>
+<formula alineacion="centrada" src="CN_10_14_formula02.gif"></formula>
+<p>Por <negrita>ejemplo</negrita>, ¿cuál es la presión final de 80
+L gas helio, si inicialmente se tenía una muestra de 30 L a 4, 5 atm
+de presión? La temperatura y la cantidad de sustancia permanecen constantes.</p>
+<listaNumerada>
+<listaElemento>Organizamos los datos del ejercicio:<br/><negritacursiva
+>P</negritacursiva><subindice><negrita>1</negrita></subindice> = 4,5
+atm<br/><negritacursiva>P</negritacursiva><subindice><negrita>2</negrita
+></subindice> = ?<br/><negritacursiva>V</negritacursiva><subindice
+><negrita>1</negrita></subindice> = 30 L<br/><negritacursiva>V</negritacursiva
+><subindice><negrita>2</negrita></subindice> = 80 L</listaElemento>
+<listaElemento>Reemplazamos los datos en la ecuación que representa
+la ley de <negrita>Boyle-Mariotte</negrita>:<br/><formula
+alineacion="centrada" src="CN_10_14_formula03.gif"></formula></listaElemento>
+<listaElemento>Despejamos la incógnita, que en este caso es <negritacursiva
+>P</negritacursiva><subindice><negrita>2</negrita></subindice>, y
+realizamos las operaciones matemáticas:<br/><formula
+alineacion="centrada" src="CN_10_14_formula04.gif"></formula></listaElemento>
+</listaNumerada>
+<p>De esta manera tenemos que la presión final que experimenta el
+gas es de 1,69 atmósferas.</p>
+<destacado><destacadoTitulo>¿Por qué se llama ley de Boyle-Mariotte?</destacadoTitulo>
+<destacadoTexto>
+<p>La ley lleva los apellidos de estos dos científicos. Aunque <negrita
+>Robeth Boyle</negrita> publicó sus trabajos en 1662, <negrita>Edme
+Mariott</negrita> llegó a la misma conclusión sobre los gases, pero
+él lo publicó hasta 1676.</p>
+</destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
+id="S2_CN_10_14_CO_E4ECAF0DD4C644AAADF55974D09A966B">
+<seccion2Titulo>La ley de Charles</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>ley de Jack Charles</negrita> establece que la relación
+entre la temperatura y el volumen, cuando la presión y la masa son
+constantes, es directamente proporcional, es decir, que al aumentar
+la temperatura el volumen también lo hace.</p>
+<imagen src="CN_10_14_CO_IMG12_small.jpg">
+<p>Comportamiento de la ley de Charles.</p>
+</imagen>
+<p>Para las condiciones iniciales y finales, se puede escribir la
+ecuación:</p>
+<formula alineacion="centrada" src="CN_10_14_formula05.gif"></formula>
+<p>Si reescribimos la ecuación, obtenemos:</p>
+<formula alineacion="centrada" src="CN_10_14_formula06.gif"></formula>
+<destacado><destacadoTitulo>Unidad de temperatura</destacadoTitulo>
+<destacadoTexto>
+<p>En el trabajo de las leyes de los gases la unidad de temperatura
+que se utiliza es el <negrita>Kelvin</negrita> (K).</p>
+</destacadoTexto></destacado>
+<p>Por <negrita>ejemplo</negrita>, si en un recipiente hay 0,5 L de
+aire a una temperatura de 274 K, ¿cuál será el volumen que ocupa el
+aire cuando la temperatura aumenta a 310 K?</p>
+<listaNumerada>
+<listaElemento>Organizamos los datos del ejercicio:<br/><negritacursiva
+>T</negritacursiva><subindice><negrita>1</negrita></subindice> = 274
+K<br/><negritacursiva>T</negritacursiva><subindice><negrita>2</negrita
+></subindice> = 310 K<br/><negritacursiva>V</negritacursiva><subindice
+><negrita>1</negrita></subindice> = 0,5 L<br/><negritacursiva>V</negritacursiva
+><subindice><negrita>2</negrita></subindice> = ?</listaElemento>
+<listaElemento>Reemplazamos los datos en la ecuación que representa
+la ley de Charles, puesto que en la situación descrita la presión
+y la cantidad de gas permanecen constantes:<br/><formula
+alineacion="centrada" src="CN_10_14_formula07.gif"></formula></listaElemento>
+<listaElemento>Despejamos la incógnita, que en este caso es <negritacursiva
+>V</negritacursiva><subindice><negrita>2</negrita></subindice>, y
+realizamos las operaciones matemáticas correspondientes:<br/><formula
+alineacion="centrada" src="CN_10_14_formula08.gif"></formula></listaElemento>
+</listaNumerada>
+<p>El volumen que ocupa el aire a 310 K es 0,57 litros.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CN_10_14_CO_99313E63203140B4A9DC5F54145DEAA0">
+<seccion2Titulo>La ley de Gay–Lussac</seccion2Titulo>
+<seccion2Texto>
+<p>Si se analiza un sistema en donde el volumen y la cantidad de gas
+permanecen constantes, se obtiene la relación de la presión y la temperatura,
+conocida como la <negrita>ley de Gay-Lussac</negrita>.</p>
+<imagen src="CN_10_14_CO_IMG13_small.jpg">
+<p>Al aumentar la <negrita>temperatura</negrita>, también la <negrita
+>presión</negrita> lo hace, es decir son directamente proporcionales.</p>
+</imagen>
+<p>La relación entre presión y temperatura se expresa matemáticamente
+así:</p>
+<formula alineacion="centrada" src="CN_10_14_formula09.gif"></formula>
+<p>Si la reescribimos, obtenemos:</p>
+<formula alineacion="centrada" src="CN_10_14_formula10.gif"></formula>
+<p>Por <negrita>ejemplo</negrita>, si un aerosol tiene una presión
+de 2 atm a una temperatura de 298 K, ¿cuál será la presión, si se
+aumenta la temperatura a 573 K?</p>
+<listaNumerada>
+<listaElemento>Organizamos los datos del ejercicio:<br/><negritacursiva
+>T</negritacursiva><subindice><negrita>1</negrita></subindice> = 298
+K<br/><negritacursiva>T</negritacursiva><subindice><negrita>2</negrita
+></subindice> = 573 K<br/><negritacursiva>P</negritacursiva><subindice
+><negrita>1</negrita></subindice> = 2 atm<br/><negritacursiva>P</negritacursiva
+><subindice><negrita>2</negrita></subindice> = ?</listaElemento>
+<listaElemento>Reemplazamos los datos en la ecuación que representa
+la ley de <negrita>Gay-Lussac</negrita>:<br/><formula
+alineacion="centrada" src="CN_10_14_formula11.gif"></formula></listaElemento>
+<listaElemento>Despejamos la incógnita, que en este caso es <negritacursiva
+>P</negritacursiva><subindice><negrita>2</negrita></subindice>, y
+realizamos las operaciones matemáticas correspondientes:<br/><formula
+alineacion="centrada" src="CN_10_14_formula12.gif"></formula></listaElemento>
+</listaNumerada>
+<p>Al aumentar la temperatura del aerosol, este experimenta una presión
+de 3,85 atm.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CN_10_14_CO_580B049570C6435287CE4F6B6CF1AD0F">
+<seccion2Titulo>La ley combinada de los gases</seccion2Titulo>
+<seccion2Texto>
+<p>Al combinar las ecuaciones de las tres leyes (de Boyle-Mariotte,
+de Charles y de Gay-Lussac), donde la cantidad de gas permanece constante,
+se obtiene la <negrita>ley combinada de los gases</negrita>, que enuncia
+que para una cierta cantidad de gas el producto de la presión por
+el volumen, dividido por la temperatura, es un valor constante, lo
+cual se expresa así:</p>
+<formula alineacion="centrada" src="CN_10_14_formula13.gif"></formula>
+<p>Al ser una proporcionalidad constante, se puede expresar como:</p>
+<formula alineacion="centrada" src="CN_10_14_formula14.gif"></formula>
+<p>Por <negrita>ejemplo</negrita>, si un globo se llena con 1,5 L
+de helio a una temperatura de 298 K y una presión de 0,8 atm, ¿cuál
+es la presión del gas en el globo cuando la temperatura es de 238
+K y el volumen es de 3,4 L?</p>
+<listaNumerada>
+<listaElemento>Organizamos los datos del ejercicio:<br/><negritacursiva
+>T</negritacursiva><subindice><negrita>1</negrita></subindice> = 298
+K <br/><negritacursiva>T</negritacursiva><subindice><negrita>2</negrita
+></subindice> = 238 K <br/><negritacursiva>V</negritacursiva><subindice
+><negrita>1</negrita></subindice> = 1,5 L <br/><negritacursiva>V</negritacursiva
+><subindice><negrita>2</negrita></subindice> = 3,4 L<br/><negritacursiva
+>P</negritacursiva><subindice><negrita>1</negrita></subindice> = 0,8
+atm<br/><negritacursiva>P</negritacursiva><subindice><negrita>2</negrita
+></subindice> = ?</listaElemento>
+<listaElemento>Reemplazamos los datos en la ecuación que representa
+la ley combinada de los gases:<br/><formula alineacion="centrada"
+src="CN_10_14_formula15.gif"></formula></listaElemento>
+<listaElemento>Despejamos la incógnita, que en este caso es <negritacursiva
+>P</negritacursiva><subindice><negrita>2</negrita></subindice>, y
+realizamos las operaciones matemáticas correspondientes:<br/><formula
+alineacion="centrada" src="CN_10_14_formula16.gif"></formula></listaElemento>
+</listaNumerada>
+<p>La presión final es de 0,28 atmósferas.</p>
+<recuerda><recuerdaTexto>
+<p>En las <negrita>leyes de los gases</negrita> propuestas por Boyle-Mariotte,
+Charles y Gay-Lussac siempre permanece constante la cantidad de gas.</p>
+</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
+id="S2_CN_10_14_CO_FEC6CC588B30400C9E7B61CF1C326286">
+<seccion2Titulo>La ley de Avogadro</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>ley de Avogadro</negrita> analiza el comportamiento
+de los gases cuando hay cambio en la <negrita>cantidad de masa</negrita
+> (moles), estableciendo que el volumen de un gas es directamente
+proporcional al número de moles, cuando se mantienen constantes la
+presión y la temperatura, lo cual se enuncia matemáticamente así:</p>
+<formula alineacion="centrada" src="CN_10_14_formula17.gif"></formula>
+<p>En donde <negritacursiva>n</negritacursiva> representa la cantidad
+del gas en moles.</p>
+<p>Por ejemplo, si un recipiente cerrado con capacidad de 2 L se llena
+con 2 moles de un gas, ¿cuál será el nuevo volumen, si se adicionan
+3 moles más para un total de 5 moles del gas?</p>
+<listaNumerada>
+<listaElemento>Organizamos los datos del ejercicio:<br/><negritacursiva
+>n</negritacursiva><subindice><negrita>1</negrita></subindice> = 2
+moles<br/><negritacursiva>n</negritacursiva><subindice><negrita>2</negrita
+></subindice> = 5 moles<br/><negritacursiva>V</negritacursiva><subindice
+><negrita>1</negrita></subindice> = 2 L<br/><negritacursiva>V</negritacursiva
+><subindice><negrita>2</negrita></subindice> = ?</listaElemento>
+<listaElemento>Reemplazamos los datos en la ecuación que representa
+la ley de <negrita>Avogadro</negrita>:<br/><formula
+alineacion="centrada" src="CN_10_14_formula18.gif"></formula></listaElemento>
+<listaElemento>Despejamos la incógnita, que en este caso es <negritacursiva
+>V</negritacursiva><subindice><negrita>2</negrita></subindice>, y
+realizamos las operaciones matemáticas correspondientes:<br/><formula
+alineacion="centrada" src="CN_10_14_formula19.gif"></formula></listaElemento>
+</listaNumerada>
+<p>El gas se expande a un volumen de 5 L.</p>
+<seccion3 id="S3_CN_10_14_CO_D6F4D8CBBC0C4116A2C1CC050533FED3">
+<seccion3Titulo>El volumen molar</seccion3Titulo>
+<seccion3Texto>
+<p>A partir de la <negrita>ley de Avogadro</negrita> se puede decir
+que dos gases que contengan el mismo número de moles, en <negrita
+>condiciones estándar (TPE)</negrita> de temperatura (273 K) y presión
+(1 atm), ocupan el mismo volumen. Así, un mol de cualquier gas a TPE
+ocupa un volumen de 22,4 litros. Este valor se conoce como <negrita
+>volumen molar</negrita>.</p>
+<imagen src="CN_10_14_CO_IMG14_small.jpg">
+<p>Un mol de cualquier gas a TPE tienen un volumen molar de 22,4 L.</p>
+</imagen>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CN_10_14_CO_A70C4EFAFA5A4B21BB0356EFADE82CCD">
+<seccion2Titulo>La ley de Dalton</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>ley de las presiones parciales</negrita> o <negrita
+>ley de Dalton</negrita> establece que la presión total de una mezcla
+de gases se obtiene sumando las presiones individuales de los gases
+que conforman la mezcla.</p>
+<formula alineacion="centrada" src="CN_10_14_formula20.gif"></formula>
+<p>Por <negrita>ejemplo</negrita>, ¿cuál es la presión total de una
+mezcla que contiene: nitrógeno (N<subindice>2</subindice>) a una presión
+de 3 atm, dióxido de carbono (CO<subindice>2</subindice>) a 5 atm
+e hidrógeno (H<subindice>2</subindice>) a 1 atm?</p>
+<listaNumerada>
+<listaElemento>Sumamos las presiones de los gases que conforman la
+mezcla:<br/><formula alineacion="centrada" src="CN_10_14_formula21.gif">
+</formula></listaElemento>
+</listaNumerada>
+<p>La presión total de la mezcla de gases es de 9 atmósferas.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso090&amp;IdRecurso=RES-419D6CB45D0F4443B2D091777D8FAA8D"
+>Aplica las leyes de los gases</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CN_10_14_CO_A70C4EFAFA5A4B21BB0356EFADE81AAE">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso120&amp;IdRecurso=RES-D94917DCF77D41AAAAF941F0433D3D6E"
+>Refuerza tu aprendizaje: Las leyes de los gases</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_10_14_CO_A57F4506D8054E15A2D552C7781E1411">
+<seccion1Titulo>La ley de los gases ideales</seccion1Titulo>
+<seccion1Texto>
+<p>Un <negrita>gas ideal</negrita> es un gas hipotético a unas condiciones
+dadas en el que las moléculas no se atraen ni repelen mutuamente.
+Si se relacionan las cuatro propiedades termodinámicas (<negritacursiva
+>P</negritacursiva>, <negritacursiva>T</negritacursiva>, <negritacursiva
+>V</negritacursiva> y <negritacursiva>n</negritacursiva>), se obtiene
+una expresión matemática llamada <negrita>ley de los gases ideales</negrita
+>.</p>
+<formula alineacion="centrada" src="CN_10_14_formula22.gif"></formula>
+<p>Donde la <negrita>presión</negrita> se da en atmósferas (atm),
+el <negrita>volumen</negrita> en litros (L), la <negrita>cantidad
+de gas</negrita> en moles (n), la <negrita>temperatura</negrita> en
+Kelvin (K) y la <negrita>constante <cursiva>R</cursiva></negrita> equivale
+a:</p>
+<formula alineacion="centrada" src="CN_10_14_formula23.gif"></formula>
+<destacado><destacadoTitulo>Gas real</destacadoTitulo><destacadoTexto>
+<p>Un <negrita>gas</negrita> se considera <negrita>real</negrita> cuando
+presenta interacciones entre sus partículas, situación que se manifiesta
+a presiones elevadas y bajas temperaturas, un <negrita>gas real</negrita
+> no sigue la <negrita>ecuación de estado</negrita> de los gases ideales.</p>
+</destacadoTexto></destacado>
+<p>Por <negrita>ejemplo</negrita>, ¿cuántos moles de gas cloro (Cl<subindice
+>2</subindice>) hay en un tanque de 10 L, si el gas tiene una presión
+de 1,2 atm a una temperatura de 25 °C (298 K)?</p>
+<listaNumerada>
+<listaElemento>Organizamos los datos del ejercicio:<br/><negritacursiva
+>P</negritacursiva> = 1,2 atm<br/><negritacursiva>V</negritacursiva
+> = 10 L<br/><negritacursiva>n</negritacursiva> = ?<br/><negritacursiva
+>R</negritacursiva> = 0,082 atm·L/mol·K<br/><negritacursiva>T</negritacursiva
+> = 298 K</listaElemento>
+<listaElemento>Reemplazamos los datos en la ecuación de los gases
+ideales:<br/><formula alineacion="centrada" src="CN_10_14_formula24.gif">
+</formula></listaElemento>
+<listaElemento>Despejamos la incógnita, que en este caso es <negritacursiva
+>n</negritacursiva>, y realizamos los respectivos cálculos:<br/><formula
+alineacion="centrada" src="CN_10_14_formula25.gif"></formula></listaElemento>
+</listaNumerada>
+<p>En el tanque se encuentran 0,49 moles de cloro (Cl<subindice>2</subindice
+>).</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso130&amp;IdRecurso=RES-6C90B1FCE4B24BF5B5369612C7A97B14"
+>La ecuación global de los gases ideales</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso140&amp;IdRecurso=RES-5F9E4BCD184849798F50963DA73C5D1E"
+>Aplica la ecuación de los gases ideales</enlace>
+</practica><seccion2
+id="S2_CN_10_14_CO_9670C47CD5014A4EB3D4DEC8EE6E915E">
+<seccion2Titulo>Relación entre masa molar y densidad de un gas</seccion2Titulo>
+<seccion2Texto>
+<p>A partir de la <negrita>ecuación de estado</negrita> se puede conocer
+la <negrita>densidad</negrita> de un gas y, con esta, saber la <negrita
+>masa molar</negrita> del mismo.</p>
+<recuerda><recuerdaTexto>
+<p>La <negrita>masa molar</negrita> corresponde a la masa de un mol
+de sustancia y se determina sumando las masas molares de los átomos
+que la componen.</p>
+</recuerdaTexto></recuerda>
+<p>Para calcular la densidad se reescribe la ecuación de los gases
+ideales, así:</p>
+<formula alineacion="centrada" src="CN_10_14_formula26.gif"></formula>
+<p>Donde <cursiva>P</cursiva> es la presión, <cursiva>M</cursiva> es
+la masa molar, <cursiva>R</cursiva> la constante de los gases, que
+equivale a 0,082 atm·L/mol·K, y T es la temperatura.</p>
+<p>Por <negrita>ejemplo</negrita>, ¿cuál es la densidad de un gas
+amarillo verdoso que contiene cloro y oxígeno, sabiendo que su masa
+molar es de 67,9 g/mol a 309 K y 3 atm?</p>
+<listaNumerada>
+<listaElemento>Organizamos los datos del ejercicio:<br/><negritacursiva
+>P</negritacursiva> = 3 atm<br/><negritacursiva>M</negritacursiva
+> = 67,9 g/mol<br/><negritacursiva>T</negritacursiva> = 309 K<br/><negritacursiva
+>R</negritacursiva> = 0,082 atm·L/mol·K</listaElemento>
+<listaElemento>Reemplazamos los datos en la ecuación y hacemos los
+cálculos respectivos:<br/><formula alineacion="centrada"
+src="CN_10_14_formula27.gif"></formula></listaElemento>
+</listaNumerada>
+<p>La densidad del compuesto es de 8,04 g/L. Si lo que se quiere determinar
+es la masa molar, es pertinente reemplazar en la ecuación el valor
+de la densidad.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CN_10_14_CO_9670C47CD5014A4EB3D4DEC8EE6E237A">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso170&amp;IdRecurso=RES-5654650817B840FD8011575D9E7C232F"
+>Refuerza tu aprendizaje: La ley de los gases ideales</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_10_14_CO_65A59B88A2144F6C86894ED6F43FB2DB">
+<seccion1Titulo>La estequiometría de gases</seccion1Titulo>
+<seccion1Texto>
+<p>En los <negrita>gases</negrita> se usa la <negrita>estequiometría</negrita
+> para dar cuenta de las relaciones entre cantidades de masa y volumen.
+Para realizar estos cálculos es necesario aplicar las leyes de los
+gases.</p>
+<recuerda><recuerdaTexto>
+<p>La <negrita>estequiometría</negrita> permite calcular las cantidades
+de sustancias que reaccionan o se producen, a partir de unos datos
+iniciales y de los expresados en la ecuación química que representa
+la reacción.</p>
+</recuerdaTexto></recuerda><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso180&amp;IdRecurso=RES-8BA74A122FBE4BA098074EC5F8548CC0"
+>Los cálculos con gases</enlace>
+</profundiza><seccion2
+id="S2_CN_10_14_CO_B62B8F63D4CA4D029CA343EB2113ADD8">
+<seccion2Titulo>Cálculos en masa</seccion2Titulo>
+<seccion2Texto>
+<p>Cuando se requiere determinar la <negrita>relación en gramos</negrita
+>, se usa la ley de los gases ideales: <cursiva>PV</cursiva> = <cursiva
+>nRT</cursiva>.</p>
+<p>Por <negrita>ejemplo</negrita>, ¿cuántos gramos de carbonato de
+litio (Li<subindice>2</subindice>CO<subindice>3</subindice>) se forman
+cuando reaccionan 3 L de CO<subindice>2</subindice> con LiOH, a 1
+atm de presión y 312 K de temperatura?</p>
+<listaNumerada>
+<listaElemento>Escribimos la ecuación balanceada que representa la
+reacción:<br/><formula alineacion="centrada"
+src="CN_10_14_formula28.gif"></formula></listaElemento>
+<listaElemento>Calculamos el número de moles de CO<subindice>2</subindice
+> consumido en la reacción, para esto utilizamos la ecuación de los
+gases ideales:<br/><formula alineacion="centrada"
+src="CN_10_14_formula29.gif"></formula></listaElemento>
+<listaElemento>Despejamos la incógnita, que en este caso es <cursiva
+>n</cursiva>, y realizamos los cálculos respectivos:<br/><formula
+alineacion="centrada" src="CN_10_14_formula30.gif"></formula></listaElemento>
+<listaElemento>Analizamos la ecuación química, cuando reacciona 1
+mol de CO<subindice>2</subindice>, se produce 1 mol de Li<subindice
+>2</subindice>CO<subindice>3</subindice>, así que cuando reaccionen
+0,12 moles de CO<subindice>2</subindice> se producirán 0,12 moles
+de Li<subindice>2</subindice>CO<subindice>3</subindice>.</listaElemento>
+<listaElemento>Determinamos mediante un factor de conversión, la masa
+de Li<subindice>2</subindice>CO<subindice>3</subindice> producido,
+sabiendo que la masa molar es de 73,8 g/mol:<br/><formula
+alineacion="centrada" src="CN_10_14_formula31.gif"></formula></listaElemento>
+</listaNumerada>
+<p>Cuando reaccionan 3 L de CO<subindice>2</subindice> a 1 atm y 312
+K se producen 8,86 g de Li<subindice>2</subindice>CO<subindice>3</subindice
+>.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CN_10_14_CO_ABD72D041AD349CD9341A60514071A40">
+<seccion2Titulo>Cálculos en moles</seccion2Titulo>
+<seccion2Texto>
+<p>Para realizar <negrita>cálculos en moles</negrita> es necesario
+aplicar la ecuación de los gases ideales <cursiva>PV</cursiva> = <cursiva
+>nRT</cursiva>.</p>
+<p>Por <negrita>ejemplo</negrita>, en la reacción entre el zinc (Zn)
+y el ácido clorhídrico (HCl) se produce cloruro de zinc (ZnCl<subindice
+>2</subindice>) e hidrógeno (H<subindice>2</subindice>), ¿cuántos
+moles de Zn se requieren para producir 5 L de H2 a 298 K y 1,5 atm?</p>
+<listaNumerada>
+<listaElemento>Escribimos la ecuación balanceada que representa la
+reacción:<br/><formula alineacion="centrada"
+src="CN_10_14_formula32.gif"></formula></listaElemento>
+<listaElemento>Calculamos el número de moles de H<subindice>2</subindice
+> que hay en 5 L del gas a 298 K y 1,5 atm, para esto utilizamos la
+ecuación de los gases ideales:<br/><formula alineacion="centrada"
+src="CN_10_14_formula33.gif"></formula></listaElemento>
+<listaElemento>Despejamos la incógnita, que en este caso es <cursiva
+>n</cursiva>, y realizamos los cálculos respectivos:<br/><formula
+alineacion="centrada" src="CN_10_14_formula34.gif"></formula></listaElemento>
+<listaElemento>Analizamos la ecuación química, para producir 1 mol
+de H<subindice>2</subindice>, se requiere 1 mol de Zn. Cuando se producen
+0,31 moles de H<subindice>2</subindice> han reaccionado 0,31 moles
+de Zn.</listaElemento>
+</listaNumerada>
+</seccion2Texto></seccion2><seccion2
+id="S2_CN_10_14_CO_B495C5F34131449BB579F5E376F07820">
+<seccion2Titulo>Cálculos en volumen</seccion2Titulo>
+<seccion2Texto>
+<p>Los <negrita>cálculos en volumen</negrita> se pueden realizar usando
+el volumen molar o la ley de los gases ideales.</p>
+<recuerda><recuerdaTexto>
+<p>El volumen molar de un mol de sustancia en estado gaseoso, en condiciones
+estándar de temperatura y presión (273 K y 1 atm), equivale a 22,4
+litros.</p>
+</recuerdaTexto></recuerda>
+<p>Por <negrita>ejemplo</negrita>, ¿cuál es el volumen de gas amoniaco
+obtenido en condiciones normales de temperatura y presión, cuando
+reaccionan 5 moles de nitrógeno con la cantidad suficiente de hidrógeno?</p>
+<listaNumerada>
+<listaElemento>Escribimos la ecuación balanceada que representa la
+reacción:<br/><formula alineacion="centrada"
+src="CN_10_14_formula35.gif"></formula></listaElemento>
+<listaElemento>Usamos el factor de conversión para calcular el número
+de moles de amoniaco obtenidos:<br/><formula alineacion="centrada"
+src="CN_10_14_formula36.gif"></formula></listaElemento>
+<listaElemento>Calculamos el volumen de amoníaco obtenido utilizando
+el volumen molar:<br/><formula alineacion="centrada"
+src="CN_10_14_formula37.gif"></formula></listaElemento>
+</listaNumerada>
+<p>Cuando reaccionan 5 moles de N<subindice>2</subindice> en condiciones
+normales, se obtienen 224 L de NH<subindice>3</subindice>.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso190&amp;IdRecurso=RES-FFA16AC364EF44EEAD6EB1061FD954D1"
+>Realiza cálculos estequiométricos</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CN_10_14_CO_52037FB279AD463AB0BDEC52B84C1C88">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso210&amp;IdRecurso=RES-6D1793BA2F0D4BB7BB5CB40738D3A185"
+>Refuerza tu aprendizaje: La estequiometría de gases</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_10_14_CO_8D90AF2E9BE64BAC9F1106CC1B521575">
+<seccion1Titulo>La ley de Graham y los gases reales</seccion1Titulo>
+<seccion1Texto>
+<p>Thomas Graham estudió la difusión de los gases, es decir, la capacidad
+de dispersión que tienen las moléculas de un gas, que es conocida
+hoy como <negrita>ley de Graham</negrita>. Teniendo en cuenta los
+aportes del químico británico, actualmente se sabe que muchos de los
+gases se desvían del comportamiento ideal, es decir, se comportan
+como <negrita>gases reales</negrita>.</p>
+<recuerda><recuerdaTexto>
+<p>En los <negrita>gases ideales</negrita> las partículas se mueven
+aleatoriamente, sin atraerse ni repelerse mutuamente.</p>
+</recuerdaTexto></recuerda><seccion2
+id="S2_CN_10_14_CO_52037FB279AD463AB0BDEC52B84C3E77">
+<seccion2Titulo>La ley de la difusión de Graham</seccion2Titulo>
+<seccion2Texto>
+<p>Los gases se difunden de acuerdo con sus propiedades cinéticas,
+es decir, según el movimiento continuo y al azar de las moléculas
+que los conforman. La difusión siempre procede desde la región de
+mayor concentración y va a la de menor concentración. Este proceso
+lleva tiempo en completarse, pese a las altas velocidades de desplazamiento.
+Por ello se dice que la <negrita>difusión</negrita> es un proceso
+gradual donde el gas más ligero o menos denso se difunde a través
+de cierto espacio más rápidamente que un gas pesado o más denso.</p>
+<p>Después de varias determinaciones, Graham estableció que la velocidad
+de un gas es inversamente proporcional a la raíz cuadrada de su densidad
+o masa molar, aseveración conocida como <negrita>ley de difusión de
+Graham</negrita>. Matemáticamente esta se expresa mediante las siguientes
+ecuaciones, donde <negritacursiva>v</negritacursiva> es velocidad, <negritacursiva
+>d</negritacursiva> densidad y <negritacursiva>M</negritacursiva> masa
+molar.</p>
+<formula alineacion="centrada" src="CN_10_14_formula38.gif"></formula>
+<formula alineacion="centrada" src="CN_10_14_formula39.gif"></formula>
+<imagen src="CN_10_14_CO_IMG15_small.jpg">
+<p>Las moléculas de un insecticida en aerosol experimentan numerosas
+colisiones al difundirse en el aire. La difusión se da desde la salida
+del recipiente hacia el aire.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CN_10_14_CO_87B9BA4CB32144EBA0C2C43E06A74EB9">
+<seccion2Titulo>Los gases reales</seccion2Titulo>
+<seccion2Texto>
+<p>Los <negrita>gases reales</negrita> no pueden ser descritos con
+las leyes de los gases ideales, pues experimentan cambios de fase
+o estado e interacciones de atracción y repulsión que son significativas
+y, por tanto, no se pueden despreciar, como supone el comportamiento
+ideal. A presiones elevadas aumenta la densidad de los gases, pues
+las partículas se encuentran muy cerca, lo cual afecta el movimiento,
+y si disminuye la temperatura, la energía cinética también lo hace,
+lo que impide que las moléculas rompan la atracción mutua.</p>
+<p>Para estudiar los gases reales es necesario tener en cuenta las <negrita
+>fuerzas intermoleculares</negrita> y los <negrita>volúmenes moleculares</negrita
+> y con ello modificar la ecuación del gas ideal. La ecuación que
+relaciona <negritacursiva>P</negritacursiva>, <negritacursiva>T</negritacursiva
+>, <negritacursiva>V</negritacursiva> y <negritacursiva>n</negritacursiva
+> para un gas real se denomina <negrita>ecuación de Van der Waals</negrita
+>:</p>
+<formula alineacion="centrada" src="CN_10_14_formula40.gif"></formula>
+<p>En la ecuación los valores de <negritacursiva>a</negritacursiva
+> y <negritacursiva>b</negritacursiva> son específicos para cada gas: <negritacursiva
+>a</negritacursiva> representa la atracción de las moléculas del gas
+y <negritacursiva>b</negritacursiva> la correlación del tamaño molecular.</p>
+</seccion2Texto></seccion2><seccion2
+id="S2_CN_10_14_CO_87B9BA4CB32144EBA0C2C43E06A71DC0">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p><?Pub
+Caret 16?>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso230&amp;IdRecurso=RES-AB7095E4A81D417DA158A1EDC6C91ACB"
+>Refuerza tu aprendizaje: La ley de Graham y los gases reales</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_10_14_CO_A51A8993492C487CB18E15FE3ADDC5DB">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso260&amp;IdRecurso=RES-D2779C34AB0C4FAC94A2E2AB99E8CED3"
+>Competencia: comprobación de la ley de Charles</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CN_10_14_CO_D58A005D28B44587B2666CD756447C2C"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso290&amp;IdRecurso=RES-E809313E316342B9BBA7C3E15031BA97"
+>Mapa conceptual del tema Los sólidos y los gases</enlace>
+</mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso300&amp;IdRecurso=RES-751DF63A5D41435580DE59AF2851DA19"
+>Evalúa tus conocimientos sobre el tema Los sólidos y los gases</enlace>
+</autoevaluate><enlacesreferencia>
+<enlace
+destino="http://e-ducativa.catedu.es/44700165/aula/archivos/repositorio/4750/4910/html/1_slidos_cristalinos_tipos_de_cristales.html"
+>Los sólidos.</enlace>
+<enlace
+destino="http://www.educaplus.org/play-339-Ejercicios-ecuaci%C3%B3n-de-los-gases.html"
+>Ejercicios de las leyes de los gases.</enlace>
+<enlace destino="http://es.webqc.org/gaslaws.php">Ejercicios con las
+leyes de los gases usando la calculadora que ofrece el portal de química
+de España.</enlace>
+</enlacesreferencia></masinformacion></libro>
