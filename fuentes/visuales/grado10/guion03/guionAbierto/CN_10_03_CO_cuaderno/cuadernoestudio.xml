@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<libro id="CN_10_03_CO">
+<libroTitulo>Movimiento en dos dimensiones</libroTitulo><?Pub Caret -1?>
+<seccion1 id="S1_CN_10_03_CO_1FD4E3420B6C415188B5804C3602F53F">
+<seccion1Titulo>Componentes de un vector</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CN_10_03_CO_img_01_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso010&amp;IdRecurso=RES-483E58EBF5BE4B0AABD907E12F34D3FD"
+>Recurso F4-01</enlace>
+</practica><seccion2
+id="S2_CN_10_03_CO_C68A8E8DB58A46E2B4FD18864773A21C">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CN_10_03_CO_img_02_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso020&amp;IdRecurso=RES-AC8D5278B58B4449AB9415B0109B5F56"
+>Recurso M3A-01</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CN_10_03_CO_img_03_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso030&amp;IdRecurso=RES-0034ECB007C64DC8976535BA0AC3EA60"
+>Recurso M101A-01</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CN_10_03_CO_img_06_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso060&amp;IdRecurso=RES-219398102CB0495A9CCB85849685AAB0"
+>Recurso M12D-01</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CN_10_03_CO_img_07_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CN_10_03_CO_img_10_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso100&amp;IdRecurso=RES-03EC42C997E04720BB75A9623FB13EA3"
+>Recurso M101A-03</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_10_03_CO_5FA5060DD03A438DA1798F86A69B025F">
+<seccion1Titulo>Movimiento parabólico</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CN_10_03_CO_img_04_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso040&amp;IdRecurso=RES-859DC9BBC64C41A58314162B9AE5A8EF"
+>El movimiento parabólico (proyectiles)</enlace>
+</profundiza>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CN_10_03_CO_img_05_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso050&amp;IdRecurso=RES-98660A1887C54D8B8295DA999D860CF9"
+>¿Qué sabes sobre el movimiento parabólico?</enlace>
+</practica></seccion1Texto></seccion1><seccion1
+id="S1_CN_10_03_CO_76A602EDD58F422BA2E938AB1F659230">
+<seccion1Titulo>Movimiento circular</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CN_10_03_CO_img_08_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso080&amp;IdRecurso=RES-F791F4C7FB70464D9565186B5C5D89EC"
+>Recurso F12-01</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CN_10_03_CO_img_09_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso090&amp;IdRecurso=RES-0F1250EACC444E9C8F97472F2ED8F04D"
+>Recurso M9B-01</enlace>
+</practica><seccion2
+id="S2_CN_10_03_CO_7E6966B08466418BB4F062DFAF2F58D9">
+<seccion2Titulo>Movimiento circular uniforme</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CN_10_03_CO_img_11_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso110&amp;IdRecurso=RES-FCE3C0E415604B5E892190DC7A749359"
+>Recurso F12-02</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CN_10_03_CO_img_12_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso120&amp;IdRecurso=RES-CA4949BDD9724835B851E0F10685351C"
+>Entiende el movimiento circular uniforme</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CN_10_03_CO_img_13_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso130&amp;IdRecurso=RES-D2AFE1A4F80344D586D51877EE0591A0"
+>Recurso F12-03</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CN_10_03_CO_8FCF419218784277A1F0D8D0C6B4B6D8">
+<seccion2Titulo>Movimiento circular uniformemente acelerado</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CN_10_03_CO_img_14_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso140&amp;IdRecurso=RES-1A0A3E8986A5426EACE78ED3E1BAE1CD"
+>Resuelve problemas sobre el movimiento circular</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CN_10_03_CO_img_16_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso160&amp;IdRecurso=RES-99C3B0279F344518BEB4C6D534745BA7"
+>Recurso M4A-01</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CN_10_03_CO_img_17_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso170&amp;IdRecurso=RES-0BF5777619EC46D6945178A1C544044B"
+>Refuerza tu aprendizaje: El movimiento circular</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_10_03_CO_825FC9558BB9424A84A71B4316F02CF3">
+<seccion1Titulo>Fin de tema</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CN_10_03_CO_img_15_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado></seccion1Texto></seccion1><seccion1
+id="S1_CN_10_03_CO_3B7E2C175D1F43F9BCE4080E8371BF0E">
+<seccion1Titulo>Movimiento planetario</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<seccion2 id="S2_CN_10_03_CO_E93BA4CA51634F9CBE959FD5B961B089">
+<seccion2Titulo>Modelos del universo</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<seccion3 id="S3_CN_10_03_CO_81405D72DE6248F7BA50EE3A9E4FA7B4">
+<seccion3Titulo>Modelo de Ptolomeo</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CN_10_03_CO_img_18_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso180&amp;IdRecurso=RES-A6153E8437CA40ACB3CC7D5EED40CAD8"
+>Conoce el modelo de Ptolomeo sobre el universo</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_CN_10_03_CO_3529C536382C40D38B9153FC5A4911E9">
+<seccion3Titulo>Modelo de Copérnico</seccion3Titulo>
+<seccion3Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CN_10_03_CO_img_19_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso190&amp;IdRecurso=RES-426C7EC9E5194FA7847FF5278318B63A"
+>Aprende sobre el modelo de Copérnico</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+</seccion1Texto></seccion1><seccion1
+id="S1_CN_10_03_CO_0554613485D54416A6A5BA30F614FA0F">
+<seccion1Titulo>Leyes de Kepler</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CN_10_03_CO_img_20_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso200&amp;IdRecurso=RES-C7776ADAA05E41EB95691B90CDF34B34"
+>Investiga sobre las leyes de Kepler</enlace>
+</practica><seccion2
+id="S2_CN_10_03_CO_9DD56413728142A6ADB09C2D2CC7959A">
+<seccion2Titulo>Tercera ley de Kepler</seccion2Titulo>
+<seccion2Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CN_10_03_CO_img_21_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso210&amp;IdRecurso=RES-1F25E2073B97402594C45187720E5DB9"
+>Los satélites naturales y artificiales</enlace>
+</profundiza>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CN_10_03_CO_img_22_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso220&amp;IdRecurso=RES-3DBC5ED626784CD792AB9A507BD85280"
+>Refuerza tu aprendizaje: Las leyes de Kepler</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_10_03_CO_14930EAABAAF437F85BF55651B2670DF">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Aquí escribiré el párrafo de la sección</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CN_10_03_CO_img_23_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso230&amp;IdRecurso=RES-D33443DB0D8745D39FEE583D5863D168"
+>Recurso F13B-01</enlace>
+</practica>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CN_10_03_CO_img_24_small.png">
+<p>Aquí escribiré el pie de foto</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Aquí va un RECUERDA</p>
+</recuerdaTexto></recuerda><destacado><destacadoTitulo>Aquí va el
+título de un DESTACADO</destacadoTitulo><destacadoTexto>
+<p>Aquí va el texto de un DESTACADO</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso090&amp;IdRecurso=RES-0F1250EACC444E9C8F97472F2ED8F04D"
+>Recurso M9B-01</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CN_10_03_CO_B47BEF2F10E14172BDDC0F3766A68050"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso260&amp;IdRecurso=RES-A186FECF5DB84955A46F62A48E6D538D"
+>Mapa Conceptual</enlace></mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso270&amp;IdRecurso=RES-BB8E2DEC57AC4F98AB5B9108F5B47AEB"
+>Evaluación</enlace></autoevaluate><enlacesreferencia>
+<enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+</enlacesreferencia></masinformacion></libro>
