@@ -106,7 +106,7 @@ destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso050&amp;IdRecurso=RES-69FDCF
 <p>Se considera <negrita>enlace químico</negrita> a la unión que se
 establece entre distintos átomos, debido a las fuerzas de atracción
 que hay entre estos.</p>
-<imagen src="CN_10_11_CO_img03_small.jpg">
+<imagen ampliable="no" src="CN_10_11_CO_img03_small.jpg">
 <p>Un enlace se representa gráficamente a través de una línea entre
 los elementos enlazados. Cada línea representa dos electrones compartidos. </p>
 </imagen>
@@ -137,7 +137,7 @@ resultantes son más estables que las iniciales. El átomo que <negrita
 fuerzas de atracción electrostática. Las sustancias iónicas no forman
 verdaderas moléculas, sino agregados de iones que se ordenan en el
 espacio formando redes cristalinas.</p>
-<imagen src="CN_10_11_CO_img04_small.jpg">
+<imagen ampliable="no" src="CN_10_11_CO_img04_small.jpg">
 <p>Esquema de la red cristalina de un compuesto iónico. Las esferas
 verdes representan los aniones y las de color naranja los cationes.</p>
 </imagen>
@@ -189,220 +189,577 @@ ejemplo, esto ocurre en el enlace entre los dos átomos de oxígeno
 agua. La diferencia de electronegatividad entre el oxígeno y el hidrógeno
 hace que los pares de electrones de los enlaces estén más cerca del
 átomo de oxígeno. La molécula presenta una densidad de carga negativa
-en la zona del oxígeno y positiva en la del hidrógeno.</p><?Pub Caret 56?>
-</imagen>
-<imagen src="CN_10_11_CO_img_06_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<imagen src="CN_10_11_CO_img_07_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<imagen src="CN_10_11_CO_img_08_small.png">
-<p>Aquí escribiré el pie de foto</p>
+en la zona del oxígeno y positiva en la del hidrógeno.</p>
 </imagen>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso070&amp;IdRecurso=RES-E6EFCC0CA88A4EA2A92F8CD63BC33B9F"
->Recurso M10A-01</enlace>
+>Identifica los compuestos polares y apolares</enlace>
 </practica></seccion2Texto></seccion2><seccion2
 id="S2_CN_10_11_CO_6D9915D95E724F48A4BD1A10DBEF1E5E">
 <seccion2Titulo>El enlace metálico</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CN_10_11_CO_img_09_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<practica>
+<p>Los átomos de los metales tienen pocos electrones en su último
+nivel de energía y, por ello, escasa tendencia a atraer otros. Para
+cumplir la regla del octeto, comparten los electrones entre muchos
+átomos, de modo que estos forman una nube alrededor de los núcleos.
+Los electrones no pertenecen a ningún átomo en particular y tienen
+una gran movilidad, mientras que los núcleos se acomodan formando
+una red tridimensional compacta, conocida como <negrita>enlace metálico</negrita
+>. Este tipo de enlace ocurre en materiales como el cobre o el hierro.</p>
+<recuerda><recuerdaTexto>
+<p>Si la <negrita>diferencia de electronegatividades</negrita> entre
+dos átomos es igual o mayor a <negrita>1,7</negrita>, se considera
+que el <negrita>enlace</negrita> es de carácter <negrita>iónico</negrita
+>, de lo contrario, es covalente.</p>
+</recuerdaTexto></recuerda><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso080&amp;IdRecurso=RES-507B88810D7A4D6CAE9AAC48F3329631"
->Recurso M10A-02</enlace>
-</practica>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CN_10_11_CO_img_10_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CN_10_11_CO_img_11_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CN_10_11_CO_img_12_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
+>Identifica los compuestos iónicos y covalentes</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CN_10_11_CO_ED4DDCB7B4964B3CB35187FB77760E4D">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso110&amp;IdRecurso=RES-B5D6E38316D344C0B63926468F5DE28F"
->Recurso M101A-03</enlace>
+>Refuerza tu aprendizaje: El enlace químico</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CN_10_11_CO_4C3DEC9EF1A44D759055FEA7C75D53E4">
 <seccion1Titulo>Las fuerzas intermoleculares</seccion1Titulo>
 <seccion1Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<seccion2 id="S2_CN_10_11_CO_ED4DDCB7B4964B3CB35187FB77769D3C">
+<p>Las <negrita>fuerzas intermoleculares</negrita> son interacciones
+electrostáticas (atracciones y repulsiones entre cargas eléctricas)
+que se producen entre las moléculas o iones. En las moléculas neutras
+actúan las fuerzas de <negrita>Van der Waals</negrita>, entre ellas:
+las <negrita>fuerzas dipolo-dipolo</negrita>, las <negrita>fuerzas
+de dispersión de London</negrita> y los <negrita>puentes de hidrógeno</negrita
+>. Entre las moléculas y los iones se presentan las fuerzas <negrita
+>ion-dipolo</negrita>.</p>
+<p>Las <negrita>fuerzas intermoleculares</negrita> son mucho más débiles
+que las intramoleculares y son las interacciones que hay que vencer
+para producir un cambio físico en las sustancias. Influyen, por ejemplo,
+en <negrita>propiedades físicas</negrita> como el estado de agregación,
+el punto de fusión y de ebullición, la solubilidad, etc.</p>
+<destacado><destacadoTitulo>Fuerzas intramoleculares</destacadoTitulo>
+<destacadoTexto>
+<p>Las <negrita>fuerzas intramoleculares</negrita>, a las que llamamos <negrita
+>enlaces químicos</negrita>, son las que se producen en el interior
+de una molécula, donde los átomos se unen mediante enlaces de tipo
+iónico, covalente o metálico. Estas son las interacciones que se deben
+vencer para que se produzca un cambio químico.</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso120&amp;IdRecurso=RES-BE30074D7ED3477EBC0F688781D11460"
+>Las fuerzas intermoleculares e ion-dipolo</enlace>
+</profundiza><seccion2
+id="S2_CN_10_11_CO_ED4DDCB7B4964B3CB35187FB77769D3C">
 <seccion2Titulo>Las fuerzas dipolo-dipolo</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CN_10_11_CO_img_13_small.png">
-<p>Aquí escribiré el pie de foto</p>
+<p>Las <negrita>fuerzas dipolo-dipolo</negrita> se presentan entre
+las moléculas poliatómicas que tienen momentos dipolares, por ejemplo,
+entre el NH<subindice>3</subindice> y el NF<subindice>3</subindice
+>. En la primera el desplazamiento electrónico es hacia el nitrógeno,
+pues este es más electronegativo que el hidrógeno, y en la segunda
+se da hacia el flúor, debido a su tendencia electronegativa. A partir
+de los dipolos se establece una atracción entre el N de la molécula
+NH<subindice>3</subindice> (parcialmente negativo) y el N de la molécula
+NF<subindice>3</subindice> (parcialmente positivo). </p>
+<imagen src="CN_10_11_CO_img06_small.jpg">
+<p>La imagen representa los <negrita>dipolos</negrita> y las <negrita
+>atracciones electrostáticas</negrita> entre las moléculas de NH<subindice
+>3</subindice> y NF<subindice>3</subindice>.</p>
 </imagen>
+<destacado><destacadoTitulo>Polaridad de las moléculas</destacadoTitulo>
+<destacadoTexto>
+<p>Una molécula <negrita>polar</negrita> es eléctricamente neutra,
+pero sus cargas presentan una distribución <negrita>asimétrica</negrita
+>, de modo que tiene un extremo con carga parcial negativa y otro
+con carga parcial positiva. Esto se debe a la presencia de enlaces
+covalentes polares entre los átomos que la componen.</p>
+<p>La <negrita>polaridad</negrita> de una molécula también depende
+de su estructura geométrica, y puede ocurrir que no resulte polar,
+aunque los enlaces entre sus átomos sí lo sean. Esto se debe a que
+la molécula es simétrica y la distribución de las cargas se compensa,
+como ocurre en el dióxido de carbono.</p>
+</destacadoTexto></destacado>
+<p>Al aumentar el número de dipolos, las moléculas mejoran la disposición
+geométrica, lo que incrementa la fuerza ejercida y la atracción entre
+estas.</p>
 </seccion2Texto></seccion2><seccion2
 id="S2_CN_10_11_CO_523EED0279EA4371B1D6A5279E1DB9BA">
 <seccion2Titulo>Las fuerzas de dispersión de London</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CN_10_11_CO_img_14_small.png">
-<p>Aquí escribiré el pie de foto</p>
+<p>En una molécula no polar puede darse puntualmente una deformación
+de la nube electrónica y formarse un <negrita>dipolo instantáneo</negrita
+>. Este dipolo puede inducir otro dipolo en una molécula que esté
+próxima y generar un <negrita>dipolo inducido</negrita>, con lo que
+se establece entre estos dos dipolos una fuerza de atracción débil.
+Esto sucede, por ejemplo, entre los átomos de los gases nobles.</p>
+<p>Estas fuerzas se denominan también <negrita>fuerzas de dispersión
+de London</negrita>, ya que fue el físico estadounidense Fritz <negrita
+>London</negrita>, en 1930, el primero que ofreció una explicación
+de los dipolos instantáneos.</p>
+<imagen ampliable="no" src="CN_10_11_CO_img07_small.jpg">
+<p>Representación del dipolo instantáneo en una molécula apolar por
+la distribución desigual de los electrones y la posterior inducción
+del dipolo a una molécula vecina.</p><?Pub Caret -2?>
 </imagen>
 </seccion2Texto></seccion2><seccion2
 id="S2_CN_10_11_CO_A0CDF6DCF4AB4E60A9D1DD562EF6E678">
 <seccion2Titulo>Los puentes de hidrógeno</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CN_10_11_CO_img_15_small.png">
-<p>Aquí escribiré el pie de foto</p>
+<p>Se llama <negrita>puentes de hidrógeno</negrita> a un tipo especial
+de unión generado por la atracción intermolecular que se produce entre
+un átomo de hidrógeno y un par de electrones libres de otro átomo,
+como el oxígeno, flúor y nitrógeno.</p>
+<p>Uno de los ejemplos más conocidos es el de las moléculas de agua,
+en las que los enlaces de hidrógeno se producen entre los pares electrónicos
+libres del oxígeno de una molécula y el hidrógeno de otra molécula
+vecina.</p>
+<p>Muchas de las propiedades físicas del agua se deben a la existencia
+de los enlaces de hidrógeno entre sus moléculas. Cada molécula de
+agua puede formar 4 enlaces de hidrógeno con sus vecinas. Para que
+el agua líquida pase a vapor, es necesario vencer estas fuerzas intermoleculares,
+lo que explica su elevado punto de ebullición.</p>
+<imagen src="CN_10_11_CO_img08_small.jpg">
+<p>La polaridad de la molécula de agua determina la existencia de
+fuerzas intermoleculares que, en los estados líquido y sólido, se
+traducen en la aparición de enlaces débiles, denominados enlaces por
+puente de hidrógeno, entre pares de electrones libres del oxígeno
+de una molécula y el hidrógeno de otra.</p>
 </imagen>
 </seccion2Texto></seccion2><seccion2
 id="S2_CN_10_11_CO_377912C291F24B549DEC481118BCC1E0">
 <seccion2Titulo>Las fuerzas ion-dipolo</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CN_10_11_CO_img_16_small.png">
-<p>Aquí escribiré el pie de foto</p>
-</imagen>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso120&amp;IdRecurso=RES-BE30074D7ED3477EBC0F688781D11460"
->Recurso F7B-01</enlace>
-</profundiza>
-<p>Aquí va un PÁRRAFO</p>
-<imagen src="CN_10_11_CO_img_17_small.png">
-<p>Aquí escribiré el pie de foto</p>
+<p>Cuando hay atracción entre un ion (catión o anión) y una molécula
+polar, se dice que están actuando las <negrita>fuerzas ion-dipolo</negrita
+>. La incidencia de las interacciones entre estas entidades químicas
+depende de la carga y del tamaño del ion, de los dipolos y del tamaño
+de la molécula. No obstante, se puede decir que los cationes experimentan
+mayor intensidad en la interacción con los dipolos que los aniones,
+debido a la concentración de la carga.</p>
+<imagen src="CN_10_11_CO_img09_small.jpg">
+<p>Un ejemplo de fuerzas ion-dipolo ocurre en la disolución de sal
+de cocina (NaCl) en agua, donde el catión sodio Na<superindice>+</superindice
+> y el anión cloruro Cl<superindice>-</superindice> se rodean por
+las moléculas de agua, las cuales presentan dipolo.</p>
 </imagen>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso130&amp;IdRecurso=RES-C750FB2F10244545A75E3E0E5D981D9F"
->Recurso M2A-01</enlace>
-</practica>
-<p>Aquí va un PÁRRAFO</p>
+>Identifica el tipo de fuerza intermolecular</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CN_10_11_CO_377912C291F24B549DEC481118BCA5A1">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso140&amp;IdRecurso=RES-2DB2C08DC004460D99C14D99A3575DF9"
->Recurso M101A-04</enlace>
+>Refuerza tu aprendizaje: Las fuerzas intermoleculares</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CN_10_11_CO_CA831C47968E4E73A1FD76552E0B02E1">
 <seccion1Titulo>La geometría molecular</seccion1Titulo>
 <seccion1Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
+<p>La disposición espacial que adoptan los átomos en una molécula
+se describe por la <negrita>geometría molecular</negrita>, que incide
+en gran medida en el comportamiento y en las propiedades físicas y
+químicas de las sustancias.</p>
+<p>Las distancias y ángulos entre átomos se deben determinar de forma
+experimental, aunque es posible predecirlos conociendo el número de
+electrones que rodean al átomo central a través de las estructuras
+de Lewis y usando el modelo de repulsión de pares electrónicos de
+la capa de valencia (RPECV).</p>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso150&amp;IdRecurso=RES-B8FC484F287249A4934BEC6A5FBE417F"
->Recurso F6-02</enlace>
+>La representación tridimensional de las moléculas</enlace>
 </profundiza><seccion2
 id="S2_CN_10_11_CO_68EA1542521047BFB6D9491AF81B9D52">
 <seccion2Titulo>El modelo RPECV</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
+<p>El modelo de repulsión de pares electrónicos de la capa de valencia
+(<negrita>RPECV</negrita>) asume que los pares de electrones de la
+capa externa se repelen de tal forma que se mantienen lo más alejados
+posible unos de otros, similar al efecto que ocurre cuando se acercan
+dos imanes por el mismo polo, donde las líneas de campo magnéticas
+se comprimen hasta el punto máximo en el cual se expanden, lo que
+impide el contacto entre los imanes. Por ende, la disposición y forma
+que toman las moléculas dependerá del número de pares electrónicos,
+los cuales se acomodan de manera que experimenten la mínima repulsión
+posible.</p>
+<p>Para aplicar el modelo <negrita>RPECV</negrita> se debe tener en
+cuenta que:</p>
+<listaSinNumerar>
+<listaElemento>En los dobles y triples enlaces, cada uno se toma como
+un par electrónico.</listaElemento>
+<listaElemento>Si una misma molécula tiene dos o más estructuras de
+resonancia, a cualquiera de ellas se le aplica.</listaElemento>
+</listaSinNumerar>
+<destacado><destacadoTitulo>Estructuras de resonancia</destacadoTitulo>
+<destacadoTexto>
+<p>Las diferentes posibilidades de estructuras de Lewis que tiene
+una molécula se conocen como <negrita>estructuras de resonancia</negrita
+>.</p>
+</destacadoTexto></destacado>
+<imagen src="CN_10_11_CO_img10_small.jpg">
+<p>Cuatro reglas básicas que se deben aplicar para predecir la geometría
+molecular de cualquier sustancia.</p>
+</imagen>
 <seccion3 id="S3_CN_10_11_CO_E4D220D1ADE841039A81D398D793A44A">
 <seccion3Titulo>Formas que presentan las moléculas</seccion3Titulo>
 <seccion3Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<practica>
+<p>Las <negrita>geometrías moleculares</negrita> se determinan calculando
+el número total de pares electrónicos enlazados y libres del átomo
+central de la molécula. Las geometrías más comunes son lineal, angular,
+trigonal, tetraédrica y piramidal.</p>
+<table border="1"><caption>Geometrías moleculares básicas</caption>
+<colgroup><col/><col/><col/><col/></colgroup>
+<tbody>
+<tr>
+<td align="center">GEOMETRÍA MOLECULAR</td>
+<td align="center">NÚMERO DE PARES ELECTRÓNICOS ENLAZADOS</td>
+<td align="center">NÚMERO DE PARES ELECTRÓNICOS LIBRES</td>
+<td align="center">EJEMPLO</td>
+</tr>
+<tr>
+<td>Lineal</td>
+<td>2</td>
+<td>0</td>
+<td>BeCl<subindice>2</subindice></td>
+</tr>
+<tr>
+<td>Angular</td>
+<td>3</td>
+<td>1</td>
+<td>SO<subindice>2</subindice></td>
+</tr>
+<tr>
+<td>Trigonal</td>
+<td>3</td>
+<td>0</td>
+<td>BF<subindice>3</subindice></td>
+</tr>
+<tr>
+<td>Tetraédrica</td>
+<td>4</td>
+<td>0</td>
+<td>CH<subindice>4</subindice></td>
+</tr>
+<tr>
+<td>Piramidal</td>
+<td>3</td>
+<td>1</td>
+<td>NH<subindice>3</subindice></td>
+</tr>
+</tbody>
+</table>
+<recuerda><recuerdaTexto>
+<p>Para predecir teóricamente la geometría de una molécula se debe
+aplicar las estructuras de Lewis y el modelo de RPECV.</p>
+</recuerdaTexto></recuerda><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso160&amp;IdRecurso=RES-9B06DDEA96FC48538D619838AFB75D94"
->Recurso M1A-01</enlace>
-</practica>
-<p>Aquí va un PÁRRAFO</p>
+>Identifica la geometría de las moléculas</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CN_10_11_CO_68EA1542521047BFB6D9491AF81B3F84">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso170&amp;IdRecurso=RES-D1B5D0AA41EA447AAB96A737A00BFFEB"
->Recurso M101A-05</enlace>
-</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
-</seccion1Texto></seccion1><seccion1
-id="S1_CN_10_11_CO_4662ACA2045C49DAA1DC9AE0090D509E">
+>Refuerza tu aprendizaje: La geometría molecular</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_10_11_CO_4662ACA2045C49DAA1DC9AE0090D509E">
 <seccion1Titulo>La nomenclatura de compuestos inorgánicos</seccion1Titulo>
 <seccion1Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
+<p>Así como los seres humanos nos identificamos a través de un nombre
+y un apellido, esto les sucede a los compuestos inorgánicos, pero
+en ellos la <negrita>nomenclatura</negrita> no solo permite reconocerlos
+sino también determinar su fórmula química.</p>
+<p>Existen tres formas estandarizadas de nombrar los compuestos:</p>
+<listaNumerada>
+<listaElemento>Sistemática o <negrita>IUPAC</negrita> (propuesta por
+la Unión Internacional de Química Pura y Aplicada).</listaElemento>
+<listaElemento>Stock.</listaElemento>
+<listaElemento>Tradicional.</listaElemento>
+</listaNumerada>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso180&amp;IdRecurso=RES-9CDE6BCB985142D2A148F4E7D2968469"
->Recurso F6-03</enlace>
+>Las funciones y la nomenclatura inorgánica</enlace>
 </profundiza><seccion2
 id="S2_CN_10_11_CO_64622213A8FD40009889F27E8B39D911">
 <seccion2Titulo>El número de oxidación</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<practica>
+<p>El número que representa la carga eléctrica que presentaría un
+átomo en una molécula o en un compuesto de carácter iónico, si se
+transfirieran completamente los electrones en el enlace, se denomina <negrita
+>número de oxidación</negrita> o <negrita>estado de oxidación</negrita
+>.</p>
+<p>El <negrita>estado de oxidación</negrita> se asigna teniendo en
+cuenta que:</p>
+<listaSinNumerar>
+<listaElemento>En los elementos libres, como el H<subindice>2</subindice
+>, O<subindice>2</subindice>, Cl<subindice>2</subindice>, Fe, entre
+otros, equivale a cero (0).</listaElemento>
+<listaElemento>Para los iones monoatómicos (de un solo átomo), coincide
+con su carga, por ejemplo K<superindice>+1</superindice> y F<superindice
+>-1</superindice>.</listaElemento>
+<listaElemento>En la mayoría de los compuestos el oxígeno presenta
+-2 como estado de oxidación, excepto en los peróxidos, donde es -1.</listaElemento>
+<listaElemento>El número de oxidación del hidrogeno es +1, excepto
+cuando forma hidruros, donde es -1.</listaElemento>
+<listaElemento>El flúor es el único halógeno que solo tiene -1 como
+número de oxidación para todos sus compuestos, los demás presentan
+este estado (-1) cuando están como iones halogenuros y diversas cargas
+positivas al combinarse con el oxígeno.</listaElemento>
+<listaElemento>La suma de los números de oxidación de un compuesto
+neutro debe ser cero (0).</listaElemento>
+<listaElemento>La suma de los estados de oxidación de un ion debe
+ser igual a la carga del ion.</listaElemento>
+</listaSinNumerar>
+<imagen src="CN_10_11_CO_img11_small.jpg">
+<p>El número de oxidación se ubica en la parte derecha superior del
+símbolo de los elementos como evidencia de la cantidad de electrones
+transferidos. Cuando el compuesto presenta tres átomos, el estado
+de oxidación del átomo central se determina a través de una operación
+algebraica, como se muestra en la imagen. </p>
+</imagen>
+<destacado><destacadoTitulo>Estado de oxidación de los gases nobles</destacadoTitulo>
+<destacadoTexto>
+<p>Los gases nobles, al presentar su octeto completo, no se combinan
+con ningún elemento, por ello el <negrita>estado de oxidación</negrita
+> es igual a cero.</p>
+</destacadoTexto></destacado><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso190&amp;IdRecurso=RES-518AC80119AD490ABC220E1716DBEA40"
->Recurso M1D-02</enlace>
+>Determina el número de oxidación</enlace>
 </practica></seccion2Texto></seccion2><seccion2
 id="S2_CN_10_11_CO_ADFD22C0D0A4409D927B42EBEA9B56B6">
 <seccion2Titulo>Las funciones y grupos funcionales inorgánicos</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
+<p>Los <negrita>compuestos inorgánicos</negrita> se agrupan en <negrita
+>familias</negrita> o <negrita>funciones químicas</negrita> teniendo
+en cuenta el comportamiento y la presencia de ciertos átomos, los
+cuales representan la parte activa del compuesto y les dan propiedades
+similares. Las agrupaciones de átomos representativos de cada función
+química se consideran <negrita>grupos funcionales</negrita>.</p>
+<table border="1"><caption>Compuestos inorgánicos</caption><colgroup>
+<col/><col/></colgroup>
+<tbody>
+<tr>
+<td>FUNCIÓN QUÍMICA</td>
+<td>GRUPO FUNCIONAL</td>
+</tr>
+<tr>
+<td>Óxido </td>
+<td>O<superindice>–2</superindice></td>
+</tr>
+<tr>
+<td>Hidróxido</td>
+<td>(OH)<superindice>–1</superindice></td>
+</tr>
+<tr>
+<td>Ácido</td>
+<td>H<superindice>+1</superindice></td>
+</tr>
+<tr>
+<td>Sales</td>
+<td>Iones</td>
+</tr>
+<tr>
+<td>Hidruros</td>
+<td>H<superindice>–1</superindice></td>
+</tr>
+</tbody>
+</table>
 <practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso160&amp;IdRecurso=RES-9B06DDEA96FC48538D619838AFB75D94"
->Recurso M1A-01</enlace>
-</practica>
-<p>Aquí va un PÁRRAFO</p>
-</seccion2Texto></seccion2><seccion2
+destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso200&amp;IdRecurso=RES-C473D3F9BDF84A8384DBAF58466BBA61"
+>Reconoce la función química</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso210&amp;IdRecurso=RES-C22782FB4F924C3BAC6710143F40B96E"
+>Identifica la función química inorgánica</enlace>
+</practica></seccion2Texto></seccion2><seccion2
 id="S2_CN_10_11_CO_DC7340479B744F55B9D1678D92E3A0D6">
 <seccion2Titulo>La nomenclatura de los óxidos</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
+<p>Los <negrita>óxidos</negrita> se forman por la reacción de los
+elementos con el oxígeno. Si el elemento es un metal, el óxido formado
+es de carácter <negrita>básico</negrita>, y si el que reacciona es
+un elemento no metálico, el óxido es de carácter ácido. Para nombrar
+los óxidos se tiene en cuenta el estado de oxidación del elemento
+que acompaña al oxígeno.</p>
+<table border="1"><caption>Normas para nombrar óxidos</caption>
+<colgroup><col/><col/><col/><col/></colgroup>
+<tbody>
+<tr>
+<td align="center">NOMENCLATURA</td>
+<td align="center" colspan="2">DESCRIPCIÓN</td>
+<td align="center">EJEMPLO</td>
+</tr>
+<tr>
+<td>Sistemática</td>
+<td>Prefijos<br/>1: mono-<br/>2: di-<br/>3: tri-<br/>4: tetra-<br
+/>etc.</td>
+<td>Se utiliza el prefijo según el número de átomos de oxígeno, seguido
+de la palabra “óxido”, la preposición “de” y el elemento.</td>
+<td>CO<subindice>2</subindice><br/><br/>Dióxido de carbono </td>
+</tr>
+<tr>
+<td>Stock</td>
+<td colspan="2">Se escribe la palabra “óxido” seguida de la proposición
+“de”, el nombre del elemento y, entre paréntesis, el estado de oxidación
+en números romanos.</td>
+<td>CO<subindice>2</subindice><br/><br/>Óxido de carbono (IV)</td>
+</tr>
+</tbody>
+</table>
+<imagen src="CN_10_11_CO_img12_small.jpg">
+<p>En la nomenclatura tradicional se tiene en cuenta los estados de
+oxidación que presentan los elementos. Cuando solo tienen uno, se
+nombran como óxidos del elemento u óxidos del elemento terminado en
+“ico”. Así, para el NaO, queda: óxido de sodio u óxido sódico. Si
+presentan entre dos y cuatro estados de oxidación, se utilizan los
+sufijos “ico” y “oso” y los prefijos “hipo” y “per” para diferenciar
+los estados mínimo y máximo, respectivamente.</p>
+</imagen>
+<p>Por <negrita>ejemplo</negrita>, para nombrar el Cl<subindice>2</subindice
+>O<subindice>7</subindice> de acuerdo con la nomenclatura tradicional,
+se realiza lo siguiente:</p>
+<listaNumerada>
+<listaElemento>Se determina el estado de oxidación del Cl, que en
+este caso es +7.</listaElemento>
+<listaElemento>Se compara el estado de oxidación del compuesto con
+los que reporta el Cl en la tabla periódica. Al realizar esto encontramos
+que presenta cuatro estados de oxidación: Cl +1,+3,+5,+7, y que en
+el Cl<subindice>2</subindice>O<subindice>7</subindice> se encuentra
+con el máximo.</listaElemento>
+<listaElemento>Se usan los datos de la ilustración para nombrarlo.
+Así se observa que se debe ubicar la palabra óxido seguida del nombre
+del elemento, el cual tiene como prefijo <negrita>per-</negrita> y
+como sufijo <negrita>-ico</negrita>. Así, el nombre del compuesto
+es óxido perclórico.</listaElemento>
+</listaNumerada>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso220&amp;IdRecurso=RES-19742DCA5267495E9E45473F38D5AF4D"
->Recurso M10A-03</enlace>
+>Practica la nomenclatura de los óxidos</enlace>
 </practica></seccion2Texto></seccion2><seccion2
 id="S2_CN_10_11_CO_D3A08640C48C4216A2B401E309F12ABB">
 <seccion2Titulo>La nomenclatura de los hidróxidos</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
+<p>Los <negrita>hidróxidos</negrita> también se conocen como <negrita
+>bases</negrita>, debido a que el grupo hidroxilo (OH)<superindice
+>–1</superindice> les imprime un carácter básico a estas sustancias.
+Los hidróxidos se producen por la reacción de un óxido metálico al
+entrar en contacto con el agua.</p>
+<p>La nomenclatura de las bases sigue los mismos principios que la
+de los óxidos, pero cambiando la palabra óxido por hidróxido. Por
+ejemplo, el Fe(OH)<subindice>3</subindice> se puede nombrar así:</p>
+<listaSinNumerar>
+<listaElemento><negrita>Sistemática:</negrita> Trihidróxido de hierro.</listaElemento>
+<listaElemento><negrita>Stock:</negrita> Hidróxido de hierro (III).</listaElemento>
+<listaElemento><negrita>Tradicional:</negrita> Hidróxido férrico.</listaElemento>
+</listaSinNumerar>
+<imagen src="CN_10_11_CO_img13_small.jpg">
+<p>El hidróxido de aluminio, componente de la Milanta, presenta propiedades
+antiácidas, por lo que se usa en el tratamiento de gastritis y de
+úlceras producidas por el exceso de jugo gástrico.</p>
+</imagen>
 <practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso020&amp;IdRecurso=RES-9AA191FDC83F49CF9E765812934EC4CF"
->Recurso M9C-01</enlace>
+destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso230&amp;IdRecurso=RES-3E613D254E3549BD9E46CE086CAD0CA4"
+>Nombra los hidróxidos</enlace>
 </practica></seccion2Texto></seccion2><seccion2
 id="S2_CN_10_11_CO_1936871882B24ED68CF7A2F4510BEFDE">
 <seccion2Titulo>La nomenclatura de los ácidos</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
+<p>Los <negrita>ácidos</negrita> se clasifican en <negrita>oxácidos</negrita
+>, formados por la reacción de un óxido ácido y el agua, e <negrita
+>hidrácidos</negrita>, generados a partir de la combinación del hidrógeno
+con los halógenos (con estado de oxidación -1) o con el azufre, el
+telurio y el selenio (con estado de oxidación de -2).</p>
 <p>Aquí va un PÁRRAFO</p>
-<practica>
+<imagen src="CN_10_11_CO_img14_small.jpg">
+<p>El ácido bórico es un compuesto que generalmente se usa como insecticida,
+especialmente para eliminar cucarachas. En cantidades pequeñas, actúa
+como antiséptico contra bacterias y hongos causantes del mal olor
+en los pies.</p>
+</imagen>
+<p>Para nombrar los <negrita>oxácidos</negrita> se utiliza la nomenclatura
+tradicional, según las pautas de los óxidos, pero cambiando la palabra
+“óxido” por “ácido”. Por ejemplo, en el H<subindice>3</subindice>PO<subindice
+>4</subindice>, el fósforo tiene estado de oxidación +5 y en la tabla
+periódica reporta 3 estados de oxidación positivos: +3, +4 y +5; por
+ende, el nombre que le corresponde al estar con el número máximo de
+oxidación es ácido fosfórico.</p>
+<p>Por su parte, los <negrita>hidrácidos</negrita> en solución acuosa
+se nombran anteponiendo la palabra “ácido” seguida del nombre del
+elemento terminado en “hídrico”. Así el HCl se nombra como ácido clorhídrico.</p>
+<destacado><destacadoTitulo>Otros nombres de los hidrácidos</destacadoTitulo>
+<destacadoTexto>
+<p>Cuando los hidrácidos se encuentran en estado gaseoso se escribe
+el anión terminado en “uro”, seguido de las palabras “de hidrógeno”;
+por ejemplo, el HCl gaseoso se llama cloruro de hidrógeno.</p>
+</destacadoTexto></destacado><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso240&amp;IdRecurso=RES-D38C05ABB62346848F54BD11C70DF9E0"
->Recurso M1B-01</enlace>
+>Practica la nomenclatura de los ácidos</enlace>
 </practica></seccion2Texto></seccion2><seccion2
 id="S2_CN_10_11_CO_0A4487A0C1854B589845D92A7D5C075A">
 <seccion2Titulo>La nomenclatura de las sales</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
+<p>Cuando se combina un <negrita>hidróxido</negrita> con un <negrita
+>ácido</negrita>, el resultado es una <negrita>sal</negrita>, y como
+producto secundario se obtiene agua. En la nomenclatura de las sales
+se nombra primero el anión que proviene del ácido y luego el catión
+que se origina del hidróxido.</p>
+<imagen src="CN_10_11_CO_img15_small.jpg">
+<p>En las oxisales, producto de la combinación de un oxácido y un
+hidróxido, se cambian las terminaciones del ácido, así: “oso” por
+“ito” e “ico” por “ato”.</p>
+</imagen>
+<imagen src="CN_10_11_CO_img16_small.jpg">
+<p>En las sales haloideas, derivadas de un hidrácido, se cambia la
+terminación “hídrico” del ácido por “uro”.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Los cationes son iones con carga positiva y los aniones son iones
+con carga negativa.</p>
+</recuerdaTexto></recuerda>
+<p>En cuanto a la nomenclatura de las <negrita>sales ácidas</negrita
+> y <negrita>básicas</negrita>, se inicia con el anión, seguido de
+la palabra “ácido” o “básico”, según corresponda, y luego se incluye
+la preposición “de” y el nombre del catión. Por ejemplo, NaHCO<subindice
+>3</subindice> se llama carbonato ácido de sodio y Zn (OH)F se conoce
+como <cursiva>fluoruro básico de zinc</cursiva>, que también se puede
+llamar <cursiva>hidroxifluoruro de zinc</cursiva>.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso250&amp;IdRecurso=RES-9063D38BD6AC446E8D36D04232BA08A9"
->Recurso M9B-01</enlace>
+>Nombra las sales</enlace>
 </practica></seccion2Texto></seccion2><seccion2
 id="S2_CN_10_11_CO_063001C5C96842639C33EF87E44A9373">
 <seccion2Titulo>La nomenclatura de los hidruros</seccion2Titulo>
 <seccion2Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
-<p>Aquí va un PÁRRAFO</p>
+<p>Los <negrita>hidruros</negrita> se forman cuando los metales alcalinos
+(grupo 1) y alcalinotérreos (grupo 2) reaccionan con el hidrógeno.
+Para nombrarlos se inicia con la palabra “hidruro”, luego “de” y finalmente
+el nombre del metal. Por ejemplo, el NaH se llama <cursiva>hidruro
+de sodio</cursiva>.</p>
+<recuerda><recuerdaTexto>
+<p>En los hidruros el estado de oxidación del hidrógeno es -1.</p>
+</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
+id="S2_CN_10_11_CO_063001C5C96842639C33EF87E44A0584">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso260&amp;IdRecurso=RES-C0DA3E9BA8C149869D49627924A7AEF0"
@@ -411,24 +768,28 @@ destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso260&amp;IdRecurso=RES-C0DA3E
 <seccion1 id="S1_CN_10_11_CO_555203C5DAE347358F5D2B0589FB02F8">
 <seccion1Titulo>Competencias</seccion1Titulo>
 <seccion1Texto>
-<p>Aquí escribiré el párrafo de la sección</p>
-<p>Aquí va un PÁRRAFO</p>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso270&amp;IdRecurso=RES-375311F7C28E4AB1B9A766716942B3B9"
 >Competencias: reconocimiento de los enlaces químicos</enlace>
-</practica>
-<p>Aquí va un PÁRRAFO</p>
-<practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso280&amp;IdRecurso=RES-27369240EBFD495B9EE0C9D6D3BBE7AD"
->Recurso M102AB-01</enlace>
+>Competencias: obtención de funciones químicas inorgánicas</enlace>
 </practica></seccion1Texto></seccion1><masinformacion
 id="MI_CN_10_11_CO_FE12390845274A4EB3DD157A48F1570B"><mapaconceptual>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso300&amp;IdRecurso=RES-89107D5FB17C4FC5881130CBF6860C68"
->Mapa Conceptual</enlace></mapaconceptual><autoevaluate><enlace
+>Mapa conceptual del tema El enlace químico y la nomenclatura de compuestos
+inorgánicos</enlace></mapaconceptual><autoevaluate><enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_11_CO_Recurso310&amp;IdRecurso=RES-4704CCFFD64B42D29C063C380B1E94EC"
->Evaluación</enlace></autoevaluate><enlacesreferencia>
-<enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
+>Evalúa tus conocimientos sobre el tema El enlace químico y la nomenclatura
+de compuestos inorgánicos</enlace></autoevaluate><enlacesreferencia>
+<enlace destino="http://www.oei.org.co/fpciencia/art08.htm">Estructuras
+de Lewis, regla del octeto y enlaces químicos.</enlace>
+<enlace
+destino="http://www3.uah.es/edejesus/interactivos/indice_VSEPR.htm"
+>Modelo de RPECV.</enlace>
+<enlace destino="http://www.eis.uva.es/~qgintro/nomen/nomen.html"
+>Nomenclatura de compuestos inorgánicos.</enlace>
 </enlacesreferencia></masinformacion></libro>
