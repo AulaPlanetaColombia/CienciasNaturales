@@ -1,1541 +1,1187 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CN_11_14_CO">
-  <libroTitulo>Las reacciones químicas de los compuestos orgánicos</libroTitulo>
-  <seccion1 id="S1_CN_11_14_CO_1CE4854F80524F7495C4465A288E2E57">
-    <seccion1Titulo>Los mecanismos de ruptura y de reacción</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CN_11_14_CO_7174F27A43964B56B471000E6ECD18DD">
-        <seccion2Titulo>Los mecanismos de ruptura</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_14_CO_img_01_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso010&amp;IdRecurso=RES-4AE0F5F5FF414A89A4F29FD7FC8AE012">Diaporama F1-01</enlace>
-          </profundiza>
-          <seccion3 id="S3_CN_11_14_CO_92C5D82561A14F0790EBE31EB2522681">
-            <seccion3Titulo>La ruptura homolítica</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_02_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CN_11_14_CO_07BC3FC69C244B1AB39D8301087A3703">
-            <seccion3Titulo>La ruptura heterolítica</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_03_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_14_CO_D4E86044662A404AAE5715E30D720D6E">
-        <seccion2Titulo>Los tipos de reactivos</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CN_11_14_CO_7197D3812F744DD187B223532B3C7999">
-            <seccion3Titulo>Nucleófilos</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_04_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CN_11_14_CO_6D0B92BABCBE4726A92B1B11DFC0ED8E">
-            <seccion3Titulo>Electrófilos</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_05_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso020&amp;IdRecurso=RES-2341FEDCE4954D1AAC8550E38A9B4FCC">Recurso M3A-01</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_14_CO_70BEF48BA1CE4577BA44A6C39874B99B">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_14_CO_img_06_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso030&amp;IdRecurso=RES-15B61B27772641808481A8D3219FD32A">Recurso M101A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CN_11_14_CO_9ECA9F42682441ACBDFE48F0201EA015">
-    <seccion1Titulo>Las clases de reacciones orgánicas</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_14_CO_img_07_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso040&amp;IdRecurso=RES-CC6BAE8A11614C46906E0B6FBE479CA1">Recurso F6-01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CN_11_14_CO_5289DD8903C547F288730F672E1B1AC5">
-        <seccion2Titulo>Reacciones de sustitución</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_14_CO_img_08_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_14_CO_9E90A0FDAC184ADEA051C94807109E63">
-        <seccion2Titulo>Reacciones de adición</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_14_CO_img_09_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_14_CO_35F36B5B8A1A4E42B3E94C928875D175">
-        <seccion2Titulo>Reacciones de eliminación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_14_CO_img_10_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_14_CO_64B14B2EFE2B44FF896CBC332E0A658F">
-        <seccion2Titulo>Reacciones de transposición</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_14_CO_img_11_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso050&amp;IdRecurso=RES-8A7CE10271D046128DCE1F61CE8DBC14">Recurso M9C-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_14_CO_img_12_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso060&amp;IdRecurso=RES-9700E447217046948AC48EDA4BE0E6AF">Recurso M101A-02</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CN_11_14_CO_130D4C3F464344A7970C2F912BD1AF12">
-    <seccion1Titulo>Los métodos de obtención y propiedades químicas de los hidrocarburos</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_14_CO_img_13_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso070&amp;IdRecurso=RES-36CC77494D464FA1BECB039A68FE0E4C">Recurso F7-01</enlace>
-      </profundiza>
-      <seccion2 id="S2_CN_11_14_CO_A38115C0367F4363ABFE9BA393EE3269">
-        <seccion2Titulo>Los métodos de obtención y las propiedades químicas de los alcanos</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CN_11_14_CO_31AE400F4B0B4A20BEA758AF50EB545E">
-            <seccion3Titulo>La hidrogenación de alquenos y alquinos</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_14_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CN_11_14_CO_5C9DC336F75346CF9BB2471FD3CF99BA">
-            <seccion3Titulo>La síntesis de Wurtz</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_15_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CN_11_14_CO_D85B60E43A074FFAA8F43A10877D642C">
-            <seccion3Titulo>La combustión</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_16_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CN_11_14_CO_5473B2E125474FCABA12665095A20AF0">
-            <seccion3Titulo>La halogenación</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_17_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso080&amp;IdRecurso=RES-37F98979B4C64CBDA4B36A167131EEBC">Recurso M6A-01</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_14_CO_9AA6D56A098F4888939377047A71CAD9">
-        <seccion2Titulo>Los métodos de obtención y las propiedades químicas de los alquenos</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CN_11_14_CO_3959DDE537474BB38368063A1DDEC779">
-            <seccion3Titulo>La deshidrogenación de alcanos</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_18_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CN_11_14_CO_B96A80E3B3C44A819BC076D8B22F0429">
-            <seccion3Titulo>La deshidratación de alcoholes</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_19_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_20_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CN_11_14_CO_E8C85A2826EA4C4BA9E608B0832E52A2">
-            <seccion3Titulo>La hidratación</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_21_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso090&amp;IdRecurso=RES-599FDF021A2D46DC8F649A83CCE9C7B3">Recurso M7A-01</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_14_CO_7E968F50306A4FE6888DD9A25341641C">
-        <seccion2Titulo>Los métodos de obtención y las propiedades químicas de los alquinos</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CN_11_14_CO_DD1241C337A24CAC8679E3627C8A94DB">
-            <seccion3Titulo>La deshidrogenación de dihalogenuros de alquilo</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_22_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CN_11_14_CO_ACAE4D8091CE406CB19EB7A81C875CAB">
-            <seccion3Titulo>La alquilación de acetiluros de sodio</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_23_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_24_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_25_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso100&amp;IdRecurso=RES-B56F6CC3C48D47BEBF241D96E5DA37FE">Recurso M9C-02</enlace>
-              </practica>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_26_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_14_CO_930EBB57BFA64F9F96AC118C8375E6FB">
-        <seccion2Titulo>Las propiedades químicas del benceno</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CN_11_14_CO_FFE0959601FF4E318E0A80F586F64183">
-            <seccion3Titulo>La nitración</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_27_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CN_11_14_CO_F3B9DE5AFE3847599677930EB17AADE6">
-            <seccion3Titulo>La alquilación de Friedel-Crafts</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_28_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CN_11_14_CO_922C8364BC9F4E70B9008357B98423C0">
-            <seccion3Titulo>La sulfonación</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_29_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso110&amp;IdRecurso=RES-F466B24E850548F7BB107D731B184A8D">Recurso F13B-01</enlace>
-              </profundiza>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_30_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_14_CO_img_31_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso130&amp;IdRecurso=RES-6ACF319A0926457694F0948CE6F7A8C4">Recurso M101A-03</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CN_11_14_CO_3A7C8581B1F44843BF4B2F7142DFD491">
-    <seccion1Titulo>Los métodos de obtención y propiedades químicas de las funciones oxigenadas</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CN_11_14_CO_A1B09EB435904FF08B748EC78FFFAAC8">
-        <seccion2Titulo>Los métodos de obtención y las propiedades químicas de los alcoholes</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_14_CO_img_32_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso140&amp;IdRecurso=RES-0ED975748C994620B29FBA12C9E0851C">Recurso F7-02</enlace>
-          </profundiza>
-          <seccion3 id="S3_CN_11_14_CO_8BD12FA69E70498592E2D35AD3FC8AE5">
-            <seccion3Titulo>A partir de halogenuros de alquilo y base fuerte</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_33_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CN_11_14_CO_13610BA9A25B45CC8BAFE65FDAE6C747">
-            <seccion3Titulo>La esterificación</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_34_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CN_11_14_CO_C7E6CE7E4CA44226AE0D2B7DB7CD8D03">
-            <seccion3Titulo>La oxidación</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_35_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso150&amp;IdRecurso=RES-F5F0815E0BD2437D9C374C0988B661DB">Recurso M9C-03</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_14_CO_2A1A847A7ADF49AFA17570F8D663A114">
-        <seccion2Titulo>Los métodos de obtención y las propiedades químicas de los éteres</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CN_11_14_CO_1C1875FC7BDC4188BE11583BCFA71BF8">
-            <seccion3Titulo>La síntesis de Williamson</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_36_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_37_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_14_CO_D2E980240AFD42B1839339D39A045430">
-        <seccion2Titulo>Los métodos de obtención y las propiedades químicas de los aldehídos</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CN_11_14_CO_FFEF510D0E254A4C9446F64168108856">
-            <seccion3Titulo>La oxidación parcial de alcoholes primarios</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_38_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_39_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CN_11_14_CO_AD3EFCFECE2F4F2080EE35B076C37F1F">
-            <seccion3Titulo>La reducción</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_40_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso160&amp;IdRecurso=RES-D42A31536DE1498F9542BF95A3EB8C71">Recurso M6A-02</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_14_CO_2FA22883F4E9447989C302D6CD91F9CA">
-        <seccion2Titulo>Los métodos de obtención de y las propiedades químicas de las cetonas</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CN_11_14_CO_534D67502EF447238D41A62C9A376CF2">
-            <seccion3Titulo>La oxidación parcial de alcoholes secundarios</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_41_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_42_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_43_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso170&amp;IdRecurso=RES-2AC52A1D81454AF7A8757B8E1E6D5394">Recurso F13B-02</enlace>
-              </profundiza>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_44_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso180&amp;IdRecurso=RES-5AD2011D5264485B8CF74C952855DD01">Recurso M5A-01</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_14_CO_0EAED793348B4DC2B03C926344588144">
-        <seccion2Titulo>Los métodos de obtención de y las propiedades químicas de los ácidos carboxílicos</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CN_11_14_CO_6C1DD198712B438385CB9A669291F508">
-            <seccion3Titulo>La hidrólisis de nitrilos</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_45_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CN_11_14_CO_1C73EA223A114F188DD7FAB3FA0421D3">
-            <seccion3Titulo>La amidación</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_46_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso190&amp;IdRecurso=RES-847D5DDE0F3040D8B5047019EF7DB7DB">Recurso M9C-04</enlace>
-              </practica>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_47_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_50_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_51_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_14_CO_img_48_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso210&amp;IdRecurso=RES-989F8CC13E704BB1BFB71D01C7213C71">Recurso M101A-04</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CN_11_14_CO_076F5AE6CB7547D38779AC9A874846DF">
-    <seccion1Titulo>Los métodos de obtención y las propiedades químicas de los derivados de ácidos carboxílicos</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CN_11_14_CO_1BE177A30DAC4276A6095758D5A39CF5">
-        <seccion2Titulo>Los métodos de obtención de y las propiedades químicas de los ésteres</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_14_CO_img_49_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso220&amp;IdRecurso=RES-74FB125574204EA893C435EF9F45C1B8">Recurso F7-03</enlace>
-          </profundiza>
-          <seccion3 id="S3_CN_11_14_CO_09DF9C003CA141E1888FB0C2AEBF5B16">
-            <seccion3Titulo>La amonólisis</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_52_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso230&amp;IdRecurso=RES-B5ECEAED5AAC46C19D11CC75D45AF5F9">Recurso M9B-01</enlace>
-              </practica>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_53_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_14_CO_945C78DB31FE429484DD881D2379F05B">
-        <seccion2Titulo>Los métodos de obtención y las propiedades químicas de los anhídridos de ácido</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CN_11_14_CO_945F7B7904FF480D8088E24671B5FD8E">
-            <seccion3Titulo>La deshidratación de ácidos dicarboxílicos</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_54_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CN_11_14_CO_0CB2C6ECD0DB4AEF8CCCF9D947A15995">
-            <seccion3Titulo>La hidrólisis</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_55_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_56_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_14_CO_4F85B60BD1AC4D43B2BEC9A7CAD00499">
-        <seccion2Titulo>Los métodos de obtención y las propiedades químicas de las amidas</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CN_11_14_CO_00FD319B132B4B6BAFE4546EC54CDF62">
-            <seccion3Titulo>La amonólisis de haluros de ácido</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_57_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_58_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_59_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso250&amp;IdRecurso=RES-30C440D6EF1942DB85480571C68FF2AE">Recurso M6A-03</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_14_CO_03AAA3FC6E7A49EE86EFF96C6911669C">
-        <seccion2Titulo>Los métodos de obtención y las propiedades químicas de los haluros de ácido</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CN_11_14_CO_FF03A5708079487D92503F21480BFAB7">
-            <seccion3Titulo>Tratamiento de ácidos con cloruro de tionilo (SOCl2)</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_60_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_61_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso260&amp;IdRecurso=RES-0A79DF8E09794DF0B3A4A5057ABA0122">Recurso M5A-02</enlace>
-              </practica>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_62_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_14_CO_img_63_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso280&amp;IdRecurso=RES-4EE35577A5F1480CB02411F59CC07A16">Recurso M101A-05</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CN_11_14_CO_DF5571ED9FC0402ABED922565F35020D">
-    <seccion1Titulo>Los métodos de obtención y las propiedades químicas de las funciones nitrogenadas</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CN_11_14_CO_5A8A26006AD940279D13E811072E77F2">
-        <seccion2Titulo>Los métodos de obtención y las propiedades químicas de las aminas</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_14_CO_img_64_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso290&amp;IdRecurso=RES-9A120239FDF44F35B1E4F023C5545E6E">Recurso F7B-01</enlace>
-          </profundiza>
-          <seccion3 id="S3_CN_11_14_CO_8DACF2FDA8804B4FB02F32B0EBA38F6A">
-            <seccion3Titulo>A partir de halogenuros de alquilo</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_65_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CN_11_14_CO_5EFB69A9B8FA4B24B5898306C2EF7EBA">
-            <seccion3Titulo>Degradación de Hofmann</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_66_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_14_CO_6B010887A38A4BB3B7179B77EF141169">
-        <seccion2Titulo>Los métodos de obtención de y las propiedades químicas de los nitrilos</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CN_11_14_CO_D2CB2529A98A459581C3506744C4F4C5">
-            <seccion3Titulo>Tratamiento de amida primaria con cloruro de tionilo (SOCl2)</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_67_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_14_CO_img_68_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso300&amp;IdRecurso=RES-F307FC0EDA254798A53263FB38D5EC21">Recurso M9B-02</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_14_CO_img_69_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso310&amp;IdRecurso=RES-D4E9620824714349845B63D3D0C947C9">Recurso M101A-06</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CN_11_14_CO_56DAF1E1DCB94853A2C4346C988593CD">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_14_CO_img_70_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso320&amp;IdRecurso=RES-F2D884232B3948519BE1B4CB1582BC54">Recurso M102AB-01</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_14_CO_img_71_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso330&amp;IdRecurso=RES-E9BA0BD601AF4E5396E01A747321CA28">Recurso M102AB-02</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CN_11_14_CO_E58CD687D7CD4F75B1897301D20F8B83">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso350&amp;IdRecurso=RES-337D8113E808489E82287D2DD6B67659">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso360&amp;IdRecurso=RES-64B920DC6F2045FE9100A8286E411C97">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>Las reacciones químicas de los compuestos orgánicos</libroTitulo>
+<seccion1 id="S1_CN_11_14_CO_1CE4854F80524F7495C4465A288E2E57">
+<seccion1Titulo>Los mecanismos de ruptura y de reacción</seccion1Titulo>
+<seccion1Texto>
+<p>Para que ocurra una reacción química es necesario que los enlaces
+químicos que conforman las moléculas se fraccionen a través de los <negrita
+>mecanismos de ruptura</negrita>. Así se forman partículas intermediarias,
+que se transforman en compuestos estables mediante una serie de pasos,
+denominados <negrita>mecanismos de reacción</negrita>.</p>
+<imagen src="CN_11_14_CO_IMG01_small.jpg">
+<p>Cuando se produce una reacción química, los enlaces de los reactantes
+se rompen para posibilitar la formación de nuevos compuestos con características
+diferentes, denominados productos. Algunas de estas reacciones van
+acompañadas de emisión de luz o calor.</p>
+</imagen>
+<seccion2 id="S2_CN_11_14_CO_7174F27A43964B56B471000E6ECD18DD">
+<seccion2Titulo>Los mecanismos de ruptura</seccion2Titulo>
+<seccion2Texto>
+<p>Los <negrita>mecanismos de ruptura</negrita> son las formas como
+los enlaces químicos que conforman las moléculas se rompen para formar
+partículas intermedias, las cuales pueden tener carga eléctrica (iones)
+o no. Al romperse los enlaces químicos, los electrones que conforman
+dicho enlace se reparten.</p>
+<recuerda><recuerdaTexto>
+<p>Un <negrita>ion</negrita> es una especie química producto de la
+ganancia o pérdida de electrones. Los <negrita>aniones</negrita> tienen
+carga negativa y los <negrita>cationes</negrita> tienen carga positiva.</p>
+</recuerdaTexto></recuerda><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso010&amp;IdRecurso=RES-4AE0F5F5FF414A89A4F29FD7FC8AE012"
+>La ruptura de enlaces y los tipos de reactantes</enlace>
+</profundiza><seccion3
+id="S3_CN_11_14_CO_92C5D82561A14F0790EBE31EB2522681">
+<seccion3Titulo>La ruptura homolítica</seccion3Titulo>
+<seccion3Texto>
+<p>Una <negrita>ruptura homolítica</negrita> se da cuando, al romperse
+el enlace entre dos átomos de una molécula, cada uno de ellos se queda
+con un electrón del par implicado en el enlace. De esta forma, las
+dos especies resultantes, llamadas <negrita>radicales libres</negrita
+>, son eléctricamente neutras. Generalmente, este tipo de rupturas
+se produce entre elementos que poseen <negrita>electronegatividades</negrita
+> similares.</p>
+<imagen src="CN_11_14_CO_IMG02_small.jpg">
+<p>Como producto de la ruptura homolítica, se forman radicales libres
+que son partículas neutras.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_14_CO_07BC3FC69C244B1AB39D8301087A3703">
+<seccion3Titulo>La ruptura heterolítica</seccion3Titulo>
+<seccion3Texto>
+<p>Cuando se rompe un enlace entre dos átomos de una molécula y el
+más electronegativo de ambos se queda con el par de electrones, se
+presenta una <negrita>ruptura heterolítica</negrita>. En este caso,
+se forman dos nuevas partículas, una de las cuales se queda con el
+par de electrones enlazantes y genera así una especie con un exceso
+de electrones con carga negativa, denominada <negrita>anión</negrita
+>, y una especie con deficiencia de electrones con carga positiva,
+llamada <negrita>catión</negrita>.</p>
+<imagen src="CN_11_14_CO_IMG03_small.jpg">
+<p>En la ruptura heterolítica se forman dos nuevas especies, cada
+una con carga eléctrica producto de la pérdida o ganancia de electrones.</p>
+</imagen>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_14_CO_D4E86044662A404AAE5715E30D720D6E">
+<seccion2Titulo>Los tipos de reactivos</seccion2Titulo>
+<seccion2Texto>
+<p>Al final de la ruptura heterolítica del enlace en una molécula
+se forman dos partículas diferentes, una de ellas con un exceso de
+electrones, lo cual hace que esta especie posea carga negativa (anión).
+Esta partícula también se conoce como <negrita>nucleófilo</negrita
+> o <negrita>agente nucleofílico</negrita>. Por otro lado, la especie
+que perdió el par electrónico enlazante tiene una carga positiva (catión)
+y recibe el nombre de <negrita>electrófilo</negrita> o <negrita>agente
+electrofílico</negrita>.</p>
+<seccion3 id="S3_CN_11_14_CO_7197D3812F744DD187B223532B3C7999">
+<seccion3Titulo>Nucleófilos</seccion3Titulo>
+<seccion3Texto>
+<p>La especie que, como producto de la ruptura heterolítica, tenga
+un exceso de electrones se considera un <negrita>nucleófilo</negrita
+>, término que, en su etimología, hace referencia a su “gusto” o atracción
+por las especies cargadas de forma positiva.</p>
+<imagen src="CN_11_14_CO_IMG04_small.jpg">
+<p>El electrón en exceso en el cloro le confiere una carga negativa.</p>
+</imagen>
+<p>Algunas otras especies neutras que tengan pares de electrones libres
+también son consideradas <negrita>nucleófilos</negrita>, como el agua,
+los alcoholes primarios y las aminas primarias, entre otras.</p>
+<p>Se puede definir un nucleófilo también como una base de Lewis.
+En una reacción química, los agentes nucleofílicos reaccionan con
+los agentes electrofílicos y les ceden un par de electrones.</p>
+<imagen src="CN_11_14_CO_IMG05_small.jpg">
+<p>Algunos agentes nucleófilos con carga y neutros.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_14_CO_6D0B92BABCBE4726A92B1B11DFC0ED8E">
+<seccion3Titulo>Electrófilos</seccion3Titulo>
+<seccion3Texto>
+<p>La especie resultante de la ruptura heterolítica que queda sin
+el par de electrones enlazantes se denomina <negrita>electrófilo</negrita
+>. El término electrófilo hace referencia a su atracción por los electrones.</p>
+<p>Los electrófilos también pueden ser especies neutras en las cuales
+algunos de los átomos que la conforman tienen <negrita>orbitales libres</negrita
+>, los cuales son capaces de aceptar un par de electrones. Por ejemplo,
+en el tricloruro de aluminio (AlCl<subindice>3</subindice>) el átomo
+de aluminio posee orbitales libres que le permiten aceptar un par
+de electrones para formar un enlace.</p>
+<p>También se puede considerar como electrófilo la especie neutra
+que, al tener un átomo muy electronegativo, genere polarización en
+la molécula de modo que uno de los átomos quede “parcialmente desprotegido”
+de sus electrones, por ejemplo, en el clorometano (CH<subindice>3</subindice
+>Cl) el carbono queda con una carga parcialmente positiva debido a
+la alta electronegatividad del cloro, que atrae los electrones.</p>
+<imagen src="CN_11_14_CO_IMG06_small.jpg">
+<p>Algunos electrófilos con carga y neutros.</p>
+</imagen>
+<p>Un electrófilo es un ácido de Lewis. Los agentes electrofílicos
+participan en reacciones con agentes nucleofílicos recibiendo el aporte
+de un par de electrones.</p>
+<destacado><destacadoTitulo>Ácidos y bases de Lewis</destacadoTitulo>
+<destacadoTexto>
+<p>Gilbert N. Lewis, en 1923, desarrolló una definición más amplia
+para los ácidos y las bases. Para él, un <negrita>ácido</negrita> es
+una especie que es capaz de aceptar un par de electrones y una <negrita
+>base</negrita> es una sustancia que es capaz de ceder un par de electrones.
+Una <negrita>reacción ácido-base</negrita>, vista de esa manera, es
+una simple transferencia de un par de electrones de una especie a
+otra.</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso020&amp;IdRecurso=RES-2341FEDCE4954D1AAC8550E38A9B4FCC"
+>Reconoce los mecanismos de ruptura y el tipo de reactante</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CN_11_14_CO_70BEF48BA1CE4577BA44A6C39874B99B">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso030&amp;IdRecurso=RES-15B61B27772641808481A8D3219FD32A"
+>Refuerza tu aprendizaje: Los mecanismos de ruptura y de reacción</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_11_14_CO_9ECA9F42682441ACBDFE48F0201EA015">
+<seccion1Titulo>Las clases de reacciones orgánicas</seccion1Titulo>
+<seccion1Texto>
+<p>La gran mayoría de las reacciones en química orgánica se pueden
+agrupar en cuatro clases: sustitución, adición, eliminación y trasposición,
+aunque también se pueden mencionar otras, como polimerización, combustión
+y oxidación-reducción.</p>
+<imagen src="CN_11_14_CO_IMG07_small.jpg">
+<p>Las reacciones químicas se llevan a cabo en una secuencia de pasos
+definidos, los cuales se conocen como mecanismos de reacción.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso040&amp;IdRecurso=RES-CC6BAE8A11614C46906E0B6FBE479CA1"
+>Los tipos de reacciones orgánicas</enlace>
+</profundiza><seccion2
+id="S2_CN_11_14_CO_5289DD8903C547F288730F672E1B1AC5">
+<seccion2Titulo>Reacciones de sustitución</seccion2Titulo>
+<seccion2Texto>
+<p>Las <negrita>reacciones de sustitución</negrita> agrupan todas
+las reacciones en donde un átomo o grupo de átomos son reemplazados
+por otros en una molécula. Las reacciones de sustitución pueden ser <negrita
+>nucleofílicas</negrita> o <negrita>electrofílicas</negrita>, dependiendo
+de la forma en que los reactantes que van a realizar la sustitución
+entren a la molécula.</p>
+<imagen src="CN_11_14_CO_IMG08_small.jpg">
+<p>Un ejemplo de una reacción de sustitución es la halogenación de
+los alcanos en presencia de luz ultravioleta. En la obtención del
+clorometano, un átomo de hidrógeno del metano es remplazado por un
+átomo de cloro.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CN_11_14_CO_9E90A0FDAC184ADEA051C94807109E63">
+<seccion2Titulo>Reacciones de adición</seccion2Titulo>
+<seccion2Texto>
+<p>Bajo el nombre de <negrita>reacciones de adición</negrita> se agrupan
+todas las reacciones en donde dos especies se suman a otra que tenga
+algún tipo de insaturación.</p>
+<imagen src="CN_11_14_CO_IMG09_small.jpg">
+<p>En las reacciones de adición hay rompimiento del enlace pi (<negrita
+>π</negrita>) y formación de nuevos enlaces. La hidrogenación de los
+alquenos en presencia de catalizadores como platino, paladio o níquel
+es un ejemplo típico de una reacción de adición.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Los <negrita>compuestos insaturados</negrita> son aquellos que
+presentan al menos un doble o triple enlace entre dos átomos de carbono.
+Ejemplos de ello son los alquenos y los alquinos. Por otro lado, los
+compuestos saturados son aquellos en los que todos los enlaces entre
+átomos de carbono son sencillos, como en los alcanos. Pueden también
+existir insaturaciones entre átomos de carbono y nitrógeno (nitrilos)
+o carbono y oxígeno (cetonas).</p>
+</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_14_CO_35F36B5B8A1A4E42B3E94C928875D175">
+<seccion2Titulo>Reacciones de eliminación</seccion2Titulo>
+<seccion2Texto>
+<p>En las <negrita>reacciones de eliminación</negrita> se pierden
+átomos o grupos de átomos de una molécula, con la consecuente formación
+de un doble o triple enlace, o la ciclación de la molécula, es decir,
+con la formación de un anillo.</p>
+<p>Aquí va un PÁRRAFO</p>
+<imagen src="CN_11_14_CO_IMG10_small.jpg">
+<p>La deshidratación de alcoholes es un ejemplo de una reacción de
+eliminación.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CN_11_14_CO_64B14B2EFE2B44FF896CBC332E0A658F">
+<seccion2Titulo>Reacciones de transposición</seccion2Titulo>
+<seccion2Texto>
+<p>Muchas veces las moléculas no son activas en determinada forma
+estructural y deben entonces reacomodar sus átomos, de modo que se
+genera una nueva estructura que tiene la misma cantidad de átomos,
+pero con diferente arreglo espacial (es decir, un <negrita>isómero</negrita
+>). Es lo que se conoce como <negrita>trasposición</negrita>.</p>
+<imagen src="CN_11_14_CO_IMG11_small.jpg">
+<p>En las reacciones de transposición se reordenan los átomos de una
+molécula y se forma una estructura distinta, pero con la misma cantidad
+de átomos. El n-butano se transforma en isobutano mediante el uso
+de catalizadores.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso050&amp;IdRecurso=RES-8A7CE10271D046128DCE1F61CE8DBC14"
+>¿Qué tipo de reacción es?</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_14_CO_64B14B2EFE2B44FF896CBC332E0A569D">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso060&amp;IdRecurso=RES-9700E447217046948AC48EDA4BE0E6AF"
+>Refuerza tu aprendizaje: Las clases de reacciones orgánicas</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_11_14_CO_130D4C3F464344A7970C2F912BD1AF12">
+<seccion1Titulo>Los métodos de obtención y propiedades químicas de
+los hidrocarburos</seccion1Titulo>
+<seccion1Texto>
+<p>Los hidrocarburos pueden presentar diferentes tipos de reacciones.
+Por ejemplo, los alquenos son más propensos a las reacciones de adición
+y los alcanos a las reacciones de sustitución y de trasposición.</p>
+<destacado><destacadoTitulo>Los métodos de obtención y las reacciones
+químicas</destacadoTitulo><destacadoTexto>
+<p>Los métodos de obtención se refieren a las distintas maneras como
+se sintetizan o producen los compuestos. Las reacciones químicas se
+enfatizan en el comportamiento de un compuesto con otras sustancias
+químicas.</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso070&amp;IdRecurso=RES-36CC77494D464FA1BECB039A68FE0E4C"
+>Síntesis y propiedades químicas de hidrocarburos</enlace>
+</profundiza><seccion2
+id="S2_CN_11_14_CO_A38115C0367F4363ABFE9BA393EE3269">
+<seccion2Titulo>Los métodos de obtención y las propiedades de los
+alcanos</seccion2Titulo>
+<seccion2Texto>
+<p>Los alcanos son muy poco reactivos con otras sustancias. Las reacciones
+químicas se ven limitadas a unas pocas, debido a su baja afinidad,
+por ello a veces se denominan <negrita>parafinas</negrita> (poco afines).
+Los métodos de obtención son diversos y se pueden obtener a partir
+de otros compuestos o sintetizar a partir de otros alcanos menores,
+para poder alargar la cadena.</p>
+<seccion3 id="S3_CN_11_14_CO_31AE400F4B0B4A20BEA758AF50EB545E">
+<seccion3Titulo>La hidrogenación de alquenos y alquinos</seccion3Titulo>
+<seccion3Texto>
+<p>Se puede obtener alcanos a partir de la hidrogenación de compuestos
+insaturados, como los alquenos y alquinos, a partir de reacciones
+adición de hidrógeno, denominadas <negrita>hidrogenación catalítica</negrita
+>. En el caso de los alquinos, se deben adicionar dos moles de hidrógeno
+para saturarlo completamente.</p>
+<imagen src="CN_11_14_CO_IMG12_small.jpg">
+<p>En la hidrogenación de alquenos, se emplea el platino en forma
+de óxido de platino (IV), llamado también <negrita>catalizador de
+Adams</negrita>.</p>
+</imagen>
+<imagen src="CN_11_14_CO_IMG13_small.jpg">
+<p>En la hidrogenación de alquinos para obtener alcanos, los catalizadores
+más usados son platino, paladio y rodio.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_14_CO_5C9DC336F75346CF9BB2471FD3CF99BA">
+<seccion3Titulo>La síntesis de Wurtz</seccion3Titulo>
+<seccion3Texto>
+<p>La síntesis de <negrita>alcanos simétricos</negrita> a partir de
+un halogenuro de alquilo fue diseñada en 1885 por el químico francés
+Adolfo <negrita>Wurtz</negrita>. Él descubrió que, al reaccionar sodio
+metálico con un halogenuro de alquilo, se formaba la sal sódica del
+respetivo halogenuro y un alcano.</p>
+<imagen src="CN_11_14_CO_IMG14_small.jpg">
+<p>Al reaccionar el bromometano con sodio metálico, se produce etano
+más bromuro de sodio. Observa que en la síntesis de Wurtz siempre
+reaccionan dos moles del halogenuro de alquilo con dos moles de sodio
+metálico para obtener un mol de alcano-simétrico y un mol de sal.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Los halogenuros de alquilo son alcanos que presentan uno o más
+átomos de halógeno que sustituyen a hidrógenos.</p>
+</recuerdaTexto></recuerda></seccion3Texto></seccion3><seccion3
+id="S3_CN_11_14_CO_D85B60E43A074FFAA8F43A10877D642C">
+<seccion3Titulo>La combustión</seccion3Titulo>
+<seccion3Texto>
+<p>En la combustión de los alcanos, estos se combinan con el oxígeno
+del aíre para formar CO<subindice>2</subindice> (<negrita>combustión
+completa</negrita>) o CO (<negrita>combustión incompleta</negrita
+>), agua y energía.</p>
+<imagen src="CN_11_14_CO_IMG15_small.jpg">
+<p>En la combustión completa del metano se liberan 890 kJ de calor
+(energía) por cada mol de metano.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Una <negrita>reacción exotérmica</negrita> es aquella en la cual,
+al reaccionar entre sí los reactantes para generar los productos,
+hay <negrita>liberación de energía</negrita>, ya sea en forma de luz
+o de calor. Por el contrario, una <negrita>reacción endotérmica</negrita
+> es aquella en donde los reactantes <negrita>absorben energía</negrita
+> para formar los productos.</p>
+</recuerdaTexto></recuerda></seccion3Texto></seccion3><seccion3
+id="S3_CN_11_14_CO_5473B2E125474FCABA12665095A20AF0">
+<seccion3Titulo>La halogenación</seccion3Titulo>
+<seccion3Texto>
+<p>La halogenación es una reacción de <negrita>sustitución</negrita
+>. Un átomo de un halógeno, producto de la ruptura homolítica de una
+molécula diatómica (<negrita>X<subindice>2</subindice></negrita>),
+sustituye a un átomo de hidrógeno del alcano. El átomo de hidrógeno
+saliente, junto con el átomo que ha quedado del halógeno, forma una
+molécula de un ácido hidrácido. Esta reacción debe llevarse a cabo
+en presencia de luz ultravioleta o calor.</p>
+<imagen src="CN_11_14_CO_IMG16_small.jpg">
+<p>En la halogenación es posible la sustitución de cualquiera de los
+hidrógenos. Sin embargo, hay un orden preferencial de sustitución,
+dependiendo del tipo de carbono que contengan los hidrógenos, así
+se tiene: terciario > secundario > primario. Por esta razón, en el
+ejemplo se produjo mayor porcentaje del halogenuro de alquilo secundario.</p>
+</imagen>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_14_CO_9AA6D56A098F4888939377047A71CAD9">
+<seccion2Titulo>Los métodos de obtención y las propiedades químicas
+de los alquenos</seccion2Titulo>
+<seccion2Texto>
+<p>En general, las reacciones de los alquenos son de dos tipos: de <negrita
+>adición</negrita> y de <negrita>eliminación</negrita>. Dependiendo
+del reactante, las de adición pueden ser de <negrita>hidrogenación</negrita
+> (adición de hidrógeno) o de <negrita>hidratación</negrita> (adición
+de agua), y las reacciones de eliminación pueden ser de <negrita>deshidratación</negrita
+> (eliminación de agua) o de <negrita>deshidrogenación</negrita> (eliminación
+de hidrógeno).</p>
+<seccion3 id="S3_CN_11_14_CO_3959DDE537474BB38368063A1DDEC779">
+<seccion3Titulo>La deshidrogenación de alcanos</seccion3Titulo>
+<seccion3Texto>
+<p>Esta es una reacción de eliminación. Se lleva a cabo a altas temperaturas
+(800 °C aproximadamente). Por ejemplo, en el etano y el propano, para
+producir eteno y propeno, respectivamente. En los alcanos superiores,
+la reacción se lleva a cabo a 500 °C.</p>
+<imagen src="CN_11_14_CO_IMG17_small.jpg">
+<p>La deshidrogenación es un proceso endotérmico que consume altas
+cantidades de energía.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_14_CO_B96A80E3B3C44A819BC076D8B22F0429">
+<seccion3Titulo>La deshidratación de alcoholes</seccion3Titulo>
+<seccion3Texto>
+<p>La obtención de alquenos por deshidratación depende del tipo de
+alcohol. En el caso de los alcoholes primarios, se deben calentar
+a temperaturas elevadas en presencia de ácido sulfúrico. En los alcoholes
+secundarios y terciarios, la deshidratación ocurre en presencia de
+ácido sulfúrico, pero a temperaturas menores que en los alcoholes
+primarios.</p>
+<imagen src="CN_11_14_CO_IMG18_small.jpg">
+<p>En la deshidratación de alcoholes se debe emplear un catalizador
+ácido, como el H<subindice>2</subindice>SO<subindice>4</subindice
+> o el H<subindice>3</subindice>PO<subindice>4</subindice>.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Los alcoholes se clasifican como primarios, secundarios y terciarios.
+Esta clasificación se hace teniendo en cuenta el tipo de carbono que
+se encuentra unido el grupo hidroxilo (-OH), por ejemplo, en un alcohol
+primario este grupo está unido a un carbono primario.</p>
+</recuerdaTexto></recuerda></seccion3Texto></seccion3><seccion3
+id="S3_CN_11_14_CO_E8C85A2826EA4C4BA9E608B0832E85B3">
+<seccion3Titulo>La halogenación</seccion3Titulo>
+<seccion3Texto>
+<p>En la halogenación de alquenos se obtiene como producto un <negrita
+>dihalogenuro de alquilo</negrita> vecinal. Los halógenos que más
+se emplean en este tipo de reacción son bromo y cloro, los cuales
+se disuelven en tetracloruro de carbono (CCl<subindice>4</subindice
+>).</p>
+<imagen src="CN_11_14_CO_IMG19_small.jpg">
+<p>En la halogenación de alquenos, los dos átomos del halógeno se
+adicionan a los dos carbonos adyacentes de la insaturación.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_14_CO_E8C85A2826EA4C4BA9E608B0832E52A2">
+<seccion3Titulo>La hidratación</seccion3Titulo>
+<seccion3Texto>
+<p>La hidratación de alquenos es una reacción de adición en la que
+se añade una molécula de agua (H-OH) al doble enlace y se genera un <negrita
+>alcohol</negrita>. Esta reacción se lleva a cabo en presencia de
+ácido sulfúrico, generalmente diluido al 50 %.</p>
+<imagen src="CN_11_14_CO_IMG20_small.jpg">
+<p>En la hidratación de alquenos las partículas se orientan según
+la regla de Markovnikov. Así el hidrógeno del agua se adiciona al
+carbono que contenga más átomos de hidrógeno.</p>
+</imagen>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_14_CO_7E968F50306A4FE6888DD9A25341641C">
+<seccion2Titulo>Los métodos de obtención y las propiedades químicas
+de los alquinos</seccion2Titulo>
+<seccion2Texto>
+<p>Los alquinos, al igual que los alquenos, sufren reacciones de adición.
+El triple enlace tiende a ser muy “inestable”, ya que ofrece electrones
+a los reactantes electrófilos que carecen de ellos.</p>
+<seccion3 id="S3_CN_11_14_CO_DD1241C337A24CAC8679E3627C8A94DB">
+<seccion3Titulo>La deshidrogenación de dihalogenuros de alquilo</seccion3Titulo>
+<seccion3Texto>
+<p>Esta es una reacción que puede ser llevada a cabo en dos etapas
+y necesita que los halógenos estén ubicados en carbonos vecinales.
+En la primera etapa se obtiene un halogenuro insaturado. Estos halogenuros
+son muy estables químicamente, es decir, son poco reactivos, por eso,
+en este punto se suele inhibir la reacción.</p>
+<imagen src="CN_11_14_CO_IMG21_small.jpg">
+<p>Los halogenuros con un halógeno unido directamente a un carbono
+que tenga doble enlace se denominan halogenuros vinílicos.</p>
+</imagen>
+<p>En la segunda etapa del proceso, se usa una base fuerte, preferiblemente
+amiduro de sodio (NaNH<subindice>2</subindice>).</p>
+<imagen src="CN_11_14_CO_IMG22_small.jpg">
+<p>La segunda etapa de la deshidrohalogenación de un halogenuro vinílico
+requiere de una base fuerte, ya que el compuesto de partida (el halogenuro
+vinílico) es muy estable.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_14_CO_ACAE4D8091CE406CB19EB7A81C875CAB">
+<seccion3Titulo>La alquilación de acetiluros de sodio</seccion3Titulo>
+<seccion3Texto>
+<p>Esta es una reacción de adición a un <negrita>alquino terminal</negrita
+> (triple enlace en el carbono número uno) para obtener alquinos más
+complejos. La reacción se lleva a cabo en dos etapas. En la primera
+se hace reaccionar el alquino con una base fuerte, por ejemplo, el
+amiduro de sodio en amoniaco líquido, el producto de esta reacción
+es un acetiluro de sodio.</p>
+<imagen src="CN_11_14_CO_IMG23_small.jpg">
+<p>Los acetiluros son buenos agentes nucleofílicos y participan así
+en reacciones de sustitución nucleofílica.</p>
+</imagen>
+<p>En la segunda etapa, el acetiluro de sodio obtenido en la primera
+etapa ataca a un halogenuro de alquilo para obtener un alquino de
+mayor tamaño.</p>
+<imagen src="CN_11_14_CO_IMG24_small.jpg">
+<p>La segunda etapa de la reacción solo se puede llevar a cabo con
+halogenuros de alquilo primarios.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_14_CO_ACAE4D8091CE406CB19EB7A81C871EDC">
+<seccion3Titulo>La halogenación</seccion3Titulo>
+<seccion3Texto>
+<p>La reacción de halogenación de los alquinos en una primera etapa
+genera un dihaloalqueno vecinal, si se sigue tratando este dihaloalqueno
+vecinal con otra molécula de halógeno, se produce un tetrahalogenuro
+de alquilo.</p>
+<imagen src="CN_11_14_CO_IMG25_small.jpg">
+<p>Por lo general, es más factible que se produzca un tetrahalogenuro
+que un dihalogenuro, pues es más difícil controlar la adición de un
+solo mol de halógeno.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_14_CO_ACAE4D8091CE406CB19EB7A81C872FED">
+<seccion3Titulo>La hidratación</seccion3Titulo>
+<seccion3Texto>
+<p>La adición de agua o hidratación de alquinos es una reacción que
+sigue la <negrita>regla de Markovnikov</negrita>. El resultado final
+es una cetona. Cuando el triple enlace se encuentra entre carbonos
+internos, se forma una mezcla de dos cetonas.</p>
+<imagen src="CN_11_14_CO_IMG26_small.jpg">
+<p>La hidratación de alquinos se hace en medio ácido, con sulfato
+de mercurio (II) como catalizador.</p>
+</imagen>
+<destacado><destacadoTitulo>Alquinos terminales</destacadoTitulo>
+<destacadoTexto>
+<p>En alquinos terminales, el enlace carbono-hidrógeno está ligeramente
+polarizado, de tal forma que el carbono adquiere una ligera carga
+negativa y el hidrógeno una carga ligeramente positiva. Por esta razón
+este hidrógeno presenta característica ácida que reacciona fácilmente
+con una base.</p>
+</destacadoTexto></destacado></seccion3Texto></seccion3></seccion2Texto>
+</seccion2><seccion2
+id="S2_CN_11_14_CO_930EBB57BFA64F9F96AC118C8375E6FB">
+<seccion2Titulo>Las propiedades químicas del benceno</seccion2Titulo>
+<seccion2Texto>
+<p>El <negrita>benceno</negrita> tiene una alta estabilidad debido
+al sistema de dobles enlaces conjugados que presenta en su estructura
+química. No presenta como los alquenos reacciones de adición al doble
+enlace, pero sí de sustitución de los hidrógenos (como <negrita>H<superindice
+>+</superindice></negrita>), lo que le posibilita preservar el anillo
+con el sistema de tres dobles enlaces conjugados.</p>
+<p>El tipo de reacción que presenta el benceno es de <negrita>sustitución
+electrofílica</negrita>, donde sus hidrógenos (<negrita>H<superindice
+>+</superindice></negrita>) son reemplazados por electrófilos (<negrita
+>E<superindice>+</superindice></negrita>). El benceno puede presentar
+las siguientes reacciones de sustitución electrofílica: halogenación,
+nitración, alquilación de Friedel-Crafts y sulfonación.</p>
+<seccion3 id="S3_CN_11_14_CO_FFE0959601FF4E318E0A80F586F65294">
+<seccion3Titulo>La halogenación</seccion3Titulo>
+<seccion3Texto>
+<p>En la reacción de <negrita>halogenación</negrita> se sustituye
+un hidrógeno (<negrita>H<superindice>+</superindice></negrita>) por
+un halógeno (bromo o cloro). Se utiliza como catalizador un ácido
+de Lewis, cuya función es romper de forma heterolítica el enlace de
+la molécula diatómica del halógeno, lo que genera los radicales <negrita
+>X<superindice>+</superindice></negrita> y <negrita>X<superindice
+>-</superindice></negrita>.</p>
+<imagen src="CN_11_14_CO_IMG27_small.jpg">
+<p>Los ácidos de Lewis más usados como catalizadores son: FeCl<subindice
+>3</subindice>, FeBr<subindice>3</subindice>, AlCl<subindice>3</subindice
+> y AlBr<subindice>3</subindice>.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_14_CO_FFE0959601FF4E318E0A80F586F64183">
+<seccion3Titulo>La nitración</seccion3Titulo>
+<seccion3Texto>
+<p>Cuando el benceno reacciona con una mezcla de ácido nítrico concentrado
+(HNO<subindice>3</subindice>) y ácido sulfúrico concentrado (H<subindice
+>2</subindice>SO<subindice>4</subindice>), ocurre una reacción de <negrita
+>nitración</negrita>, en donde un hidrógeno del benceno (<negrita
+>H<superindice>+</superindice></negrita>) es sustituido por el ion
+nitronio (<negrita>NO<subindice>2</subindice><superindice>+</superindice
+></negrita>).</p>
+<imagen src="CN_11_14_CO_IMG28_small.jpg">
+<p>Reacción de formación del ion nitronio (NO<subindice>2</subindice
+><superindice>+</superindice>), que es una especie electrófila.</p>
+</imagen>
+<imagen src="CN_11_14_CO_IMG29_small.jpg">
+<p>El nitrobenceno es un compuesto tóxico, con un olor muy parecido
+al de las almendras.</p>
+</imagen>
+<destacado><destacadoTitulo>Nitrobenceno</destacadoTitulo>
+<destacadoTexto>
+<p>El nitrobenceno se usa como intermediario en la producción de <negrita
+>caprolactama</negrita>, una de las materias primas para la producción
+de la fibra sintética nailon 6 y del MDI (diisocianato de difenilmetileno),
+compuesto que se usa en la fabricación de poliuretanos.</p>
+</destacadoTexto></destacado></seccion3Texto></seccion3><seccion3
+id="S3_CN_11_14_CO_F3B9DE5AFE3847599677930EB17AADE6">
+<seccion3Titulo>La alquilación de Friedel-Crafts</seccion3Titulo>
+<seccion3Texto>
+<p>La reacción de Friedel-Crafts fue desarrollada en el año de 1887
+por el químico francés Charles Friedel y el químico estadounidense
+James Crafts. El benceno reacciona con un halogenuro de alquilo y
+se produce un <negrita>alquilbenceno</negrita>, debido a la sustitución
+de un hidrógeno del benceno (<negrita>H<superindice>+</superindice
+></negrita>) por un radical alquilo (<negrita>R<superindice>-</superindice
+></negrita>).</p>
+<imagen src="CN_11_14_CO_IMG30_small.jpg">
+<p>En la alquilación se utilizan ácidos de Lewis como catalizadores,
+los cuales pueden ser: FeCl<subindice>3</subindice>, FeBr<subindice
+>3</subindice>, AlCl<subindice>3</subindice> y AlBr<subindice>3</subindice
+>.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_14_CO_922C8364BC9F4E70B9008357B98423C0">
+<seccion3Titulo>La sulfonación</seccion3Titulo>
+<seccion3Texto>
+<p>En la reacción de <negrita>sulfonación</negrita> el benceno reacciona
+con ácido sulfúrico fumante, el cual es una mezcla del 7% de trióxido
+de azufre (SO<subindice>3</subindice>) con ácido sulfúrico concentrado.
+El reactante electrófilo es el HSO<subindice>3</subindice><superindice
+>+</superindice> o SO<subindice>3</subindice>, este último es buen
+electrófilo debido a la significativa polaridad positiva que presenta
+el azufre. </p>
+<imagen src="CN_11_14_CO_IMG31_small.jpg">
+<p>La sulfonación es una reacción reversible y se favorece hacía la
+derecha si se utiliza ácido fuerte; por lo contrario, si se utiliza
+ácido diluido, se favorece hacia la izquierda (desulfonación).</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso110&amp;IdRecurso=RES-F466B24E850548F7BB107D731B184A8D"
+>Síntesis y propiedades químicas de hidrocarburos</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso120&amp;IdRecurso=RES-3E67402EEA8D4898B2439B3215C74F3E"
+>Completa la reacción con el reactante o producto</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CN_11_14_CO_A1B09EB435904FF08B748EC78FFFBBD9">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso130&amp;IdRecurso=RES-6ACF319A0926457694F0948CE6F7A8C4"
+>Refuerza tu aprendizaje: Los métodos de obtención y propiedades químicas
+de los hidrocarburos</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_11_14_CO_3A7C8581B1F44843BF4B2F7142DFD491">
+<seccion1Titulo>Los métodos de obtención y propiedades de las funciones
+oxigenadas</seccion1Titulo>
+<seccion1Texto>
+<p>En las <negrita>funciones oxigenadas</negrita> es importante resaltar
+que el oxígeno polariza bastante la molécula y crea así dos centros
+de carga: uno parcialmente positivo y otro parcialmente negativo,
+lo que genera compuestos altamente reactivos, como los alcoholes,
+los aldehídos, las cetonas y los ácidos carboxílicos, entre otros.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso140&amp;IdRecurso=RES-0ED975748C994620B29FBA12C9E0851C"
+>Las reacciones químicas de las funciones oxigenadas</enlace>
+</profundiza><seccion2
+id="S2_CN_11_14_CO_A1B09EB435904FF08B748EC78FFFAAC8">
+<seccion2Titulo>Los métodos de obtención y las propiedades de los
+alcoholes</seccion2Titulo>
+<seccion2Texto>
+<p>En los alcoholes la reactividad está asociada con el átomo de oxígeno,
+porque los electrones libres que posee hacen de él un buen agente
+nucleofílico. Los alcoholes experimentan principalmente tres tipos
+de reacciones: sustituciones nucleofílicas del grupo <negrita>-OH</negrita
+>, adiciones nucleofílicas y reacciones de eliminación.</p>
+<seccion3 id="S3_CN_11_14_CO_8BD12FA69E70498592E2D35AD3FC8AE5">
+<seccion3Titulo>A partir de halogenuros de alquilo y base fuerte</seccion3Titulo>
+<seccion3Texto>
+<p>La reacción de un halogenuro de alquilo (R-X) con una base fuerte
+(NaOH o KOH) produce un <negrita>alcohol</negrita>.</p>
+<imagen src="CN_11_14_CO_IMG32_small.jpg">
+<p>En la reacción, el halógeno es sustituido por el grupo hidroxilo
+(-OH), lo que produce el alcohol y la respectiva sal.</p>
+</imagen>
+<destacado><destacadoTitulo>La fermentación</destacadoTitulo>
+<destacadoTexto>
+<p>La <negrita>fermentación</negrita> es una de las formas más antiguas
+de obtener etanol. Este proceso se hace a partir de una fuente que
+provea un carbohidrato, como la caña de azúcar, la melaza o el almidón
+presente en productos como el maíz o la papa. El carbohidrato es transformado
+por levaduras en <negrita>etanol</negrita> y dióxido de carbono mediante
+un proceso anaerobio (ausencia de oxígeno).</p>
+</destacadoTexto></destacado></seccion3Texto></seccion3><seccion3
+id="S3_CN_11_14_CO_13610BA9A25B45CC8BAFE65FDAE6C747">
+<seccion3Titulo>La esterificación</seccion3Titulo>
+<seccion3Texto>
+<p>Cuando un alcohol reacciona con un ácido carboxílico, en presencia
+de ácido sulfúrico como catalizador, se produce un <negrita>éster</negrita
+> y agua. </p>
+<imagen src="CN_11_14_CO_IMG33_small.jpg">
+<p>En la esterificación, el grupo -OH del ácido carboxílico es reemplazado
+por el grupo OR proveniente del alcohol.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_14_CO_C7E6CE7E4CA44226AE0D2B7DB7CD8D03">
+<seccion3Titulo>La oxidación</seccion3Titulo>
+<seccion3Texto>
+<p>Los alcoholes primarios se oxidan a <negrita>aldehídos</negrita
+> en presencia de permanganato de potasio caliente (KMnO<subindice
+>4</subindice>), óxido de cromo VI (CrO<subindice>3</subindice>) o
+dicromato de potasio (K<subindice>2</subindice>Cr<subindice>2</subindice
+>O<subindice>7</subindice>). Los aldehídos obtenidos se pueden seguir
+oxidando hasta el correspondiente ácido carboxílico.</p>
+<imagen src="CN_11_14_CO_IMG34_small.jpg">
+<p>Para evitar que el aldehído formado pase a ácido carboxílico, se
+adiciona clorocromato de piridinio (CCP).</p>
+</imagen>
+<p>Los alcoholes secundarios se oxidan a <negrita>cetonas</negrita
+>, una vez ocurre esto, ya no se pueden oxidar más.</p>
+<imagen src="CN_11_14_CO_IMG35_small.jpg">
+<p>En la oxidación de un alcohol secundario se utiliza como catalizador
+dicromato de sodio, en medio ácido.</p>
+</imagen>
+<p>Los alcoholes terciarios no se oxidan, debido a la carencia de
+átomos de hidrógeno en el carbono funcional.</p>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_14_CO_2A1A847A7ADF49AFA17570F8D663A114">
+<seccion2Titulo>Los métodos de obtención y las propiedades de los
+éteres</seccion2Titulo>
+<seccion2Texto>
+<p>Los éteres son compuestos que se consideran derivados del agua,
+cuyo par de hidrógenos se han sustituido por radicales alquilo y/o
+arilo. Son compuestos que presentan poca reactividad química debido
+a su estructura.</p>
+<seccion3 id="S3_CN_11_14_CO_1C1875FC7BDC4188BE11583BCFA71BF8">
+<seccion3Titulo>La síntesis de Williamson</seccion3Titulo>
+<seccion3Texto>
+<p>En la síntesis de Williamson se hacen reaccionar alcóxidos de sodio
+o potasio con halogenuros de alquilo, para obtener un éter y un haluro
+del metal correspondiente. En esta síntesis generalmente se obtienen <negrita
+>éteres asimétricos</negrita>.</p>
+<imagen src="CN_11_14_CO_IMG36_small.jpg">
+<p>En la síntesis de Williamson se presenta una sustitución nucleofílica.
+Fue desarrollada en 1805 por el químico inglés Alexander Williamson.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_14_CO_1C1875FC7BDC4188BE11583BCFA72CD0">
+<seccion3Titulo>La deshidratación de alcoholes</seccion3Titulo>
+<seccion3Texto>
+<p>Cuando un alcohol se calienta a altas temperaturas en presencia
+de un ácido mineral, como el ácido sulfúrico (H<subindice>2</subindice
+>SO<subindice>4</subindice>) o el fosfórico (H<subindice>3</subindice
+>PO<subindice>4</subindice>), se forma un <negrita>éter simétrico</negrita
+>. El ácido deshidrata las moléculas del alcohol, de tal manera que
+se forma una molécula de agua y una molécula de un éter simétrico.</p>
+<imagen src="CN_11_14_CO_IMG37_small.jpg">
+<p>La formación de la molécula de agua procede de dos moléculas iguales
+de un alcohol.</p>
+</imagen>
+<p>Si se varían las condiciones de temperatura (al menos 180 °C),
+la deshidratación se hace intramolecularmente y el producto final
+es un alqueno.</p>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_14_CO_D2E980240AFD42B1839339D39A045430">
+<seccion2Titulo>Los métodos de obtención y las propiedades químicas
+de los aldehídos</seccion2Titulo>
+<seccion2Texto>
+<p>Las reacciones químicas de los aldehídos se basan principalmente
+en los ataques que sufre el grupo carbonilo (C=O): el carbono es atacado
+por agentes nucleofílicos y el oxígeno por agentes electrofílicos.</p>
+<seccion3 id="S3_CN_11_14_CO_FFEF510D0E254A4C9446F64168108856">
+<seccion3Titulo>La oxidación parcial de alcoholes primarios</seccion3Titulo>
+<seccion3Texto>
+<p>Un alcohol primario se oxida parcialmente cuando reacciona con
+clorocromato de piridinio (PCC), lo que produce un <negrita>aldehído</negrita
+>. </p>
+<imagen src="CN_11_14_CO_IMG38_small.jpg">
+<p>El clorocromato de piridinio (PCC) es un agente oxidante moderado.
+Es una mezcla de óxido de cromo VI (CrO<subindice>3</subindice>) con
+piridina y ácido clorhídrico que se disuelve en diclorometano (CH<subindice
+>2</subindice>Cl<subindice>2</subindice>). </p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_14_CO_AD3EFCFECE2F4F2080EE35B076C34D2D">
+<seccion3Titulo>La oxidación</seccion3Titulo>
+<seccion3Texto>
+<p>Cuando se usan agentes oxidantes suaves, como el óxido de plata,
+la función aldehído se oxida a un <negrita>ácido carboxílico</negrita
+>. Este reactante es selectivo con los aldehídos, si en la molécula
+existe otra función oxidable, el óxido de plata solo ataca al aldehído
+hasta llevarlo a ácido orgánico. También se pueden usar dicromato
+de potasio (K<subindice>2</subindice>Cr<subindice>2</subindice>O<subindice
+>7</subindice>) o permanganato de potasio (KMnO<subindice>4</subindice
+>) como agentes oxidantes.</p>
+<imagen src="CN_11_14_CO_IMG39_small.jpg">
+<p>Los aldehídos se oxidan fácilmente debido a que el hidrógeno del
+carbono carbonilo se pierde con facilidad.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_14_CO_AD3EFCFECE2F4F2080EE35B076C37F1F">
+<seccion3Titulo>La reducción</seccion3Titulo>
+<seccion3Texto>
+<p>La reducción de aldehídos a <negrita>alcoholes primarios</negrita
+> puede hacerse con agentes reductores, como el hidruro de litio y
+aluminio (LiAlH<subindice>4</subindice>) o el borohidruro de sodio
+(NaBH<subindice>4</subindice>).</p>
+<imagen src="CN_11_14_CO_IMG40_small.jpg">
+<p>La reducción de los aldehídos es posible porque se pueden adicionar
+hidrógenos al doble enlace de carbono carbonilo.</p>
+</imagen>
+<destacado><destacadoTitulo>La oxidación y la reducción</destacadoTitulo>
+<destacadoTexto>
+<p>La <negrita>oxidación</negrita> se define como la pérdida de electrones
+y la <negrita>reducción</negrita> como la ganancia de electrones.
+También se puede decir que la <negrita>oxidación</negrita> es el aumento
+de enlaces con el oxígeno o la disminución de enlaces con el hidrógeno
+en un compuesto orgánico. A su vez, la <negrita>reducción</negrita
+> es la disminución de enlaces con el oxígeno o el aumento de enlaces
+con el hidrógeno.</p>
+</destacadoTexto></destacado></seccion3Texto></seccion3></seccion2Texto>
+</seccion2><seccion2
+id="S2_CN_11_14_CO_2FA22883F4E9447989C302D6CD91F9CA">
+<seccion2Titulo>Los métodos de obtención de y las propiedades químicas
+de las cetonas</seccion2Titulo>
+<seccion2Texto>
+<p>Las cetonas son muy susceptibles a ataques (aunque no tanto como
+los aldehídos), debido a la presencia del grupo carbonilo. Dada la
+polaridad del oxígeno, tienen más fuerza para atraer electrones para
+enlazarse. Además, el enlace C=O es más fuerte que el enlace C=C de
+otros compuestos, lo cual es útil para el desarrollo de las pruebas
+específicas de distinción de compuestos carbonílicos en el laboratorio.</p>
+<seccion3 id="S3_CN_11_14_CO_534D67502EF447238D41A62C9A376CF2">
+<seccion3Titulo>La oxidación parcial de alcoholes secundarios</seccion3Titulo>
+<seccion3Texto>
+<p>Los alcoholes secundarios se oxidan fácilmente a <negrita>cetonas</negrita
+> en presencia del óxido de cromo VI (CrO<subindice>3</subindice>)
+en ácido sulfúrico diluido (mezcla conocida como ácido crómico) o
+ácido acético.</p>
+<imagen src="CN_11_14_CO_IMG41_small.jpg">
+<p>El alcohol secundario pierde en la oxidación dos hidrógenos: uno
+del grupo -OH y otro del carbono que contiene la función alcohol.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_14_CO_534D67502EF447238D41A62C9A371AD3">
+<seccion3Titulo>La oxidación</seccion3Titulo>
+<seccion3Texto>
+<p>Las cetonas no se oxidan en presencia de agentes oxidantes fuertes,
+a consecuencia de su estructura, que no presenta hidrógenos susceptibles
+de sustracción.</p>
+<imagen src="CN_11_14_CO_IMG42_small.jpg">
+<p>La ausencia de hidrógenos en las cetonas no permite la oxidación.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_14_CO_6C1DD198712B438385CB9A669291D619">
+<seccion3Titulo>La reducción</seccion3Titulo>
+<seccion3Texto>
+<p>Las cetonas se pueden reducir a <negrita>alcoholes secundarios</negrita
+> por hidrogenación catalítica, usando níquel o platino como catalizadores,
+a presiones y temperaturas altas. Otra forma de hacerlo es usando
+agentes reductores como el hidruro de litio y aluminio (LiAlH<subindice
+>4</subindice>) o el borohidruro de litio (NaBH<subindice>4</subindice
+>).</p>
+<imagen src="CN_11_14_CO_IMG43_small.jpg">
+<p>El uso de catalizadores, como platino (Pt) o níquel (Ni), es económico,
+aunque el proceso de reducción es lento.</p>
+</imagen>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_14_CO_0EAED793348B4DC2B03C926344588144">
+<seccion2Titulo>Los métodos de obtención de y las propiedades de los
+ácidos carboxílicos</seccion2Titulo>
+<seccion2Texto>
+<p>Los <negrita>ácidos carboxílicos</negrita> son compuestos muy reactivos
+debido a la polaridad de los enlaces del oxígeno, a los electrones
+del enlace pi (<negrita>π</negrita>) del grupo carbonilo y a los electrones
+libres. A su vez, ellos sirven de punto de partida para la síntesis
+de muchos compuestos y son el punto de llegada de muchas reacciones.</p>
+<seccion3 id="S3_CN_11_14_CO_6C1DD198712B438385CB9A669291F508">
+<seccion3Titulo>La hidrólisis de nitrilos</seccion3Titulo>
+<seccion3Texto>
+<p>Los nitrilos se hidrolizan en medio ácido para formar ácidos carboxílicos
+y sulfato de amonio. Esta reacción se lleva a cabo en presencia de
+un ácido fuerte y en caliente.</p>
+<imagen src="CN_11_14_CO_IMG44_small.jpg">
+<p>En la hidrólisis ácida de los nitrilos hay una etapa intermedia
+en donde se forma una amida.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_14_CO_1C73EA223A114F188DD7FAB3FA0421D3">
+<seccion3Titulo>La amidación</seccion3Titulo>
+<seccion3Texto>
+<p>Las <negrita>amidas</negrita> se obtienen por reacción entre un
+ácido carboxílico y amoniaco (NH<subindice>3</subindice>), que produce
+así mismo una molécula de agua. Es una reacción de condensación.</p>
+<imagen src="CN_11_14_CO_IMG45_small.jpg">
+<p>En la reacción se obtiene como producto intermedio una sal de amonio,
+la cual se debe calentar a altas temperaturas para producir la amida.</p>
+</imagen>
+<recuerda><recuerdaTexto>
+<p>Las <negrita>reacciones de condensación</negrita> son aquellas
+en donde dos moléculas se unen y forman un nuevo compuesto acompañado
+de una molécula de agua. También la condensación puede ser intramolecular,
+es decir, se unen dos grupos funcionales ubicados en la misma molécula,
+acompañados también de la pérdida de una molécula de agua.</p>
+</recuerdaTexto></recuerda><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso200&amp;IdRecurso=RES-3E45500A224E4338A484F1386AE59E7F"
+>Completa las reacciones de las funciones oxigenadas</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CN_11_14_CO_1BE177A30DAC4276A6095758D5A34ED6">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso210&amp;IdRecurso=RES-989F8CC13E704BB1BFB71D01C7213C71"
+>Refuerza tu aprendizaje: Los métodos de obtención y propiedades químicas
+de las funciones oxigenadas</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_11_14_CO_076F5AE6CB7547D38779AC9A874846DF">
+<seccion1Titulo>Los métodos de obtención y las propiedades de los
+derivados de ácidos carboxílicos</seccion1Titulo>
+<seccion1Texto>
+<p>El comportamiento químico de los derivados de ácidos carboxílicos
+se encuentra limitado a la reacción de sustitución nucleofílica en
+el grupo acilo.</p>
+<seccion2 id="S2_CN_11_14_CO_1BE177A30DAC4276A6095758D5A39CF5">
+<seccion2Titulo>Los métodos de obtención de y las propiedades químicas
+de los ésteres</seccion2Titulo>
+<seccion2Texto>
+<p>Los ésteres se pueden obtener a partir de cualquier derivado de
+ácido carboxílico, excepto de las amidas. Como producto secundario
+se obtiene una molécula de <negrita>alcohol</negrita>. Dentro de los
+métodos de obtención y las propiedades químicas de los ésteres se
+encuentran: la reacción de esterificación de Fischer, la reducción
+y la amonólisis.</p>
+<seccion3 id="S3_CN_11_14_CO_09DF9C003CA141E1888FB0C2AEBF7C27">
+<seccion3Titulo>La esterificación</seccion3Titulo>
+<seccion3Texto>
+<p>Cuando se forma un éster por la reacción de un alcohol con un ácido
+carboxílico se le denomina <negrita>esterificación</negrita>. Esta
+reacción es importante efectuarla en medio ácido, para que se dé rápidamente.</p>
+<imagen src="CN_11_14_CO_IMG46_small.jpg">
+<p>Cuando la reacción de esterificación se cataliza con un ácido inorgánico,
+también se denomina <negrita>esterificación de Fischer</negrita>.</p>
+</imagen>
+<destacado><destacadoTitulo>Hermann Emil Fisher</destacadoTitulo>
+<destacadoTexto>
+<p>Hermann Emil Fisher fue un científico alemán que describió por
+primera vez la reacción de esterificación, en 1895. Ganó el Premio
+Nobel de Química en 1902. Fue reconocido por sus estudios sobre síntesis
+orgánica en farmacología, en los que relacionó áreas del conocimiento
+como la biología y la química orgánica.</p>
+</destacadoTexto></destacado></seccion3Texto></seccion3><seccion3
+id="S3_CN_11_14_CO_09DF9C003CA141E1888FB0C2AEBF1F59">
+<seccion3Titulo>La reducción</seccion3Titulo>
+<seccion3Texto>
+<p>El proceso de reducción en los ésteres se puede llevar a cabo por <negrita
+>hidrogenación catalítica</negrita> a temperaturas elevadas o por
+reducción química, cuyo producto en ambos casos es una mezcla de alcoholes.</p>
+<imagen src="CN_11_14_CO_IMG47_small.jpg">
+<p>El alcohol que se produce en mayor proporción es el que proviene
+de la parte del ácido carboxílico que conforma al éster, es decir,
+el propanol y el 1-hexanol.</p>
+</imagen>
+<destacado><destacadoTitulo>La hidrogenólisis</destacadoTitulo>
+<destacadoTexto>
+<p>La hidrogenación catalítica de los ésteres también se conoce como <negrita
+>hidrogenólisis</negrita> (escisión con hidrógeno). En esta reacción
+se utiliza como catalizador cromito de cobre (CuCrO<subindice>4</subindice
+>) y se requiere altas temperaturas y presiones.</p>
+</destacadoTexto></destacado></seccion3Texto></seccion3><seccion3
+id="S3_CN_11_14_CO_09DF9C003CA141E1888FB0C2AEBF5B16">
+<seccion3Titulo>La amonólisis</seccion3Titulo>
+<seccion3Texto>
+<p>La <negrita>amonólisis</negrita> o aminólisis es el proceso en
+el que reacciona un éster con amoniaco acuoso o en disolución alcohólica.
+Los productos de la reacción son una amida y un alcohol.</p>
+<imagen src="CN_11_14_CO_IMG48_small.jpg">
+<p>La reacción de amonólisis es muy lenta, por ello es poco utilizada
+para síntesis de amidas.</p>
+</imagen>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_14_CO_945C78DB31FE429484DD881D2379F05B">
+<seccion2Titulo>Los métodos de obtención y las propiedades químicas
+de los anhídridos de ácido</seccion2Titulo>
+<seccion2Texto>
+<p>Un anhídrido de ácido se puede producir a partir de la deshidratación
+intermolecular de dos moléculas de un ácido carboxílico. Se considera
+que tiene una reactividad intermedia, por su ataque nucleofílico sobre
+el carbono carbonílico.</p>
+<seccion3 id="S3_CN_11_14_CO_945F7B7904FF480D8088E24671B5FD8E">
+<seccion3Titulo>La deshidratación de ácidos dicarboxílicos</seccion3Titulo>
+<seccion3Texto>
+<p>Mediante el calentamiento de ácidos dicarboxílicos apropiados se
+pueden obtener <negrita>anhídridos de ácido cíclicos</negrita> de
+cinco y hasta seis carbonos.</p>
+<imagen src="CN_11_14_CO_IMG49_small.jpg">
+<p>La temperatura a que se debe someter el ácido dicarboxílico oscila
+entre 200 °C y 300 °C y depende del ácido que se desee deshidratar.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_14_CO_0CB2C6ECD0DB4AEF8CCCF9D947A15995">
+<seccion3Titulo>La hidrólisis</seccion3Titulo>
+<seccion3Texto>
+<p>En la hidrólisis reaccionan anhídridos de ácido con agua, para
+producir <negrita>ácidos carboxílicos</negrita>. La solubilidad del
+anhídrido en agua influye en la velocidad de la reacción.</p>
+<imagen src="CN_11_14_CO_IMG50_small.jpg">
+<p>De un mol de anhídrido simétrico se obtienen dos moles de un mismo
+ácido carboxílico. En el caso que reaccione un mol de anhídrido asimétrico,
+se producen dos ácidos diferentes (un mol por cada uno).</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_14_CO_00FD319B132B4B6BAFE4546EC54CAD73">
+<seccion3Titulo>La amonólisis</seccion3Titulo>
+<seccion3Texto>
+<p>En el proceso químico de la amonólisis, los anhídridos reaccionan
+con el amoniaco, para producir <negrita>amidas primarias</negrita
+> y un carboxilato de amonio.</p>
+<imagen src="CN_11_14_CO_IMG51_small.jpg">
+<p>Un mol de anhídrido de ácido reacciona con dos moles de amoniaco.</p>
+</imagen>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_14_CO_4F85B60BD1AC4D43B2BEC9A7CAD00499">
+<seccion2Titulo>Los métodos de obtención y las propiedades químicas
+de las amidas</seccion2Titulo>
+<seccion2Texto>
+<p>Las amidas son compuestos derivados de ácidos carboxílicos que
+presentan varios puntos de ataque en las reacciones, especialmente
+por los pares de electrones libres del oxígeno y del nitrógeno.</p>
+<seccion3 id="S3_CN_11_14_CO_00FD319B132B4B6BAFE4546EC54CDF62">
+<seccion3Titulo>La amonólisis de haluros de ácido</seccion3Titulo>
+<seccion3Texto>
+<p>Los haluros de ácido reaccionan en presencia del amoniaco (en exceso)
+para producir <negrita>amidas</negrita> y un ácido hidrácido, el cual
+es neutralizado por el exceso de amoniaco para generar una sal de
+amonio.</p>
+<imagen src="CN_11_14_CO_IMG52_small.jpg">
+<p>El carbono del grupo carboxílico del halogenuro de ácido actúa
+como agente electrófilo en la reacción, razón por la cual es atacado
+por los electrones libres del átomo de nitrógeno del amoniaco.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3>
+<seccion3Titulo>La hidrólisis</seccion3Titulo>
+<seccion3Texto>
+<p>La hidrólisis de amidas se puede llevar a cabo en medio ácido o
+en medio básico. En los dos casos el ácido o la base son reactantes
+y no catalizadores. Los productos de la reacción dependerán del tipo
+de hidrólisis.</p>
+<imagen src="CN_11_14_CO_IMG53_small.jpg">
+<p>En la hidrólisis ácida de las amidas, el tipo de sal de amonio
+que se produce depende del ácido que se use, el cual debe estar en
+exceso.</p>
+</imagen>
+<imagen src="CN_11_14_CO_IMG54_small.jpg">
+<p>La reacción de la hidrólisis básica de las amidas es semejante
+a la saponificación de un éster, pues se produce una sal de ácido
+carboxílico (carboxilato).</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_14_CO_FF03A5708079487D92503F21480BAED8">
+<seccion3Titulo>La reducción</seccion3Titulo>
+<seccion3Texto>
+<p>La reducción de amidas se lleva a cabo en presencia de un agente
+reductor fuerte, como el hidruro de litio y aluminio (LiAlH<subindice
+>4</subindice>), para producir aminas primarias, secundarias y terciarias
+con un alto rendimiento. El número de carbonos de la amida de partida
+es el mismo de la amina final.</p>
+<imagen src="CN_11_14_CO_IMG55_small.jpg">
+<p>En la reducción de amidas el grupo carbonilo (C=O) se convierte
+en un grupo metileno (-CH<subindice>2</subindice>-).</p>
+</imagen>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_14_CO_03AAA3FC6E7A49EE86EFF96C6911669C">
+<seccion2Titulo>Los métodos de obtención y las propiedades de los
+haluros de ácido</seccion2Titulo>
+<seccion2Texto>
+<p>Entre los diferentes derivados de ácidos carboxílicos, los haluros
+de ácido son los más reactivos, debido a la sustitución nucleofílica
+sobre el grupo acilo, lo que permite obtener gran variedad de compuestos.</p>
+<seccion3 id="S3_CN_11_14_CO_FF03A5708079487D92503F21480BFAB7">
+<seccion3Titulo>Tratamiento de ácidos con cloruro de tionilo (SOCl<subindice
+>2</subindice>)</seccion3Titulo>
+<seccion3Texto>
+<p>En esta reacción hay una sustitución del grupo -OH del ácido carboxílico
+por cloro, y se obtiene: el <negrita>cloruro de ácido</negrita> correspondiente,
+ácido clorhídrico y dióxido de azufre.</p>
+<imagen src="CN_11_14_CO_IMG56_small.jpg">
+<p>Se puede reemplazar el cloruro de tionilo (SOCl<subindice>2</subindice
+>) por tricloruro de fósforo (PCl<subindice>3</subindice>), lo que
+produce el cloruro de ácido correspondiente y ácido fosfórico (H<subindice
+>3</subindice>PO<subindice>4</subindice>).</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_14_CO_FF03A5708079487D92503F21480BECA9">
+<seccion3Titulo>La hidrólisis</seccion3Titulo>
+<seccion3Texto>
+<p>En la hidrólisis los haluros de ácido reaccionan con agua para
+producir dos <negrita>ácidos</negrita>: uno orgánico y otro inorgánico.</p>
+<imagen src="CN_11_14_CO_IMG57_small.jpg">
+<p>En la reacción de hidrólisis de haluros de ácido se presenta una
+sustitución nucleofílica en el <negrita>grupo acilo</negrita> (R-CO-).</p>
+</imagen>
+<destacado><destacadoTitulo>La hidrólisis y los derivados de ácido</destacadoTitulo>
+<destacadoTexto>
+<p>Las reacciones de hidrólisis se llevan a cabo con derivados de <negrita
+>ácidos carboxílicos</negrita>, en condiciones ácidas o básicas, según
+la reacción, y se obtiene un ácido carboxílico.</p>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso270&amp;IdRecurso=RES-D9B86A28EAE64EB5838691F5B0A0267D"
+>Completa las reacciones de los derivados de ácidos carboxílicos</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CN_11_14_CO_5A8A26006AD940279D13E811072E88D3">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso280&amp;IdRecurso=RES-4EE35577A5F1480CB02411F59CC07A16"
+>Refuerza tu aprendizaje: Los métodos de obtención y las propiedades
+químicas de los derivados de ácidos carboxílicos</enlace><?Pub Caret -2?>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_11_14_CO_DF5571ED9FC0402ABED922565F35020D">
+<seccion1Titulo>Los métodos de obtención y las propiedades de las
+funciones nitrogenadas</seccion1Titulo>
+<seccion1Texto>
+<p>El comportamiento químico de las aminas se debe a la disposición
+del nitrógeno para compartir su par electrónico no enlazante. Por
+su parte, los nitrilos experimentan reacciones de <negrita>adición
+nucleofílica</negrita> y son agentes electrofílicos.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso290&amp;IdRecurso=RES-9A120239FDF44F35B1E4F023C5545E6E"
+>Las reacciones químicas de las funciones nitrogenadas</enlace>
+</profundiza><seccion2
+id="S2_CN_11_14_CO_5A8A26006AD940279D13E811072E77F2">
+<seccion2Titulo>Los métodos de obtención y las propiedades de las
+aminas</seccion2Titulo>
+<seccion2Texto>
+<p>Las reacciones que presentan las aminas se debe dan principalmente
+por la presencia del par de electrones libres del nitrógeno, lo que
+le permite actuar como agente nucleofílico en sustituciones alifáticas.</p>
+<seccion3 id="S3_CN_11_14_CO_8DACF2FDA8804B4FB02F32B0EBA38F6A">
+<seccion3Titulo>A partir de halogenuros de alquilo</seccion3Titulo>
+<seccion3Texto>
+<p>La reacción entre un halogenuro de alquilo con amoniaco y aminas
+primarias o secundarias produce <negrita>alquilaminas</negrita>.</p>
+<imagen src="CN_11_14_CO_IMG58_small.jpg">
+<p>En las reacciones de obtención de aminas se usan halogenuros de
+alquilo primarios, en presencia de amoniaco (NH<subindice>3</subindice
+>). Como subproducto se obtiene halogenuro de amonio (NH<subindice
+>4</subindice><superindice>+</superindice>X<superindice>-</superindice
+>).</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_14_CO_5EFB69A9B8FA4B24B5898306C2EF7EBA">
+<seccion3Titulo>Degradación de Hofmann</seccion3Titulo>
+<seccion3Texto>
+<p>Esta reacción se utiliza para preparar aminas primarias (con un
+alto rendimiento) a partir de una amida no sustituida y en presencia
+de una base fuerte con cloro o bromo.</p>
+<imagen src="CN_11_14_CO_IMG59_small.jpg">
+<p>En la reacción de degradación de Hofmann la amida experimenta la
+pérdida del grupo carboxilo, por ello, la amina primaria que se obtiene
+presenta un carbono menos.</p>
+</imagen>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_14_CO_6B010887A38A4BB3B7179B77EF141169">
+<seccion2Titulo>Los métodos de obtención de y las propiedades químicas
+de los nitrilos</seccion2Titulo>
+<seccion2Texto>
+<p>Los nitrilos o <negrita>cianuros orgánicos</negrita> se caracterizan
+por la presencia del grupo ciano o nitrilo (CN), en el que el carbono
+forma un triple enlace con el nitrógeno. El grupo nitrilo presenta
+una fuerte polarización (el átomo de carbono es electrófilo), lo que
+le permite reaccionar con nucleófilos, y se comporta, así mismo, como
+base de Lewis, debido a la presencia del par electrónico libre en
+el nitrógeno.</p>
+<seccion3 id="S3_CN_11_14_CO_D2CB2529A98A459581C3506744C4F4C5">
+<seccion3Titulo>Tratamiento de amida primaria con cloruro de tionilo
+(SOCl<subindice>2</subindice>)</seccion3Titulo>
+<seccion3Texto>
+<p>Los <negrita>nitrilos</negrita> se pueden preparar a partir de
+la reacción de una amida primaria con cloruro de tionilo (SOCl<subindice
+>2</subindice>), el cual actúa como un fuerte agente deshidratante.</p>
+<imagen src="CN_11_14_CO_IMG60_small.jpg">
+<p>En la reacción también se puede utilizar como agente deshidratante
+el oxicloruro de fósforo (POCl<subindice>3</subindice>).</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_14_CO_D2CB2529A98A459581C3506744C5A5D6">
+<seccion3Titulo>La reducción</seccion3Titulo>
+<seccion3Texto>
+<p>La reducción de nitrilos conduce a la producción de <negrita>aminas
+primarias</negrita> en presencia del hidruro de litio y aluminio (LiAlH<subindice
+>4</subindice>) como agente reductor.</p>
+<imagen src="CN_11_14_CO_IMG61_small.jpg">
+<p>A nivel industrial la reducción de nitrilos se realiza con hidrógeno
+en presencia de níquel, a temperatura media.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso300&amp;IdRecurso=RES-F307FC0EDA254798A53263FB38D5EC21"
+>Relaciona las sustancias en las reacciones de aminas y nitrilos</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CN_11_14_CO_6B010887A38A4BB3B7179B77EF142270">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso310&amp;IdRecurso=RES-D4E9620824714349845B63D3D0C947C9"
+>Refuerza tu aprendizaje: Los métodos de obtención de y las propiedades
+químicas de las funciones nitrogenadas</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_11_14_CO_56DAF1E1DCB94853A2C4346C988593CD">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso330&amp;IdRecurso=RES-E9BA0BD601AF4E5396E01A747321CA28"
+>Competencias: síntesis de derivados de ácidos carboxílicos</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CN_11_14_CO_E58CD687D7CD4F75B1897301D20F8B83"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso350&amp;IdRecurso=RES-337D8113E808489E82287D2DD6B67659"
+>Mapa conceptual del tema Las reacciones químicas de los compuestos
+orgánicos</enlace></mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_14_CO_Recurso360&amp;IdRecurso=RES-64B920DC6F2045FE9100A8286E411C97"
+>Evalúa tus conocimientos sobre el tema Las reacciones químicas de
+los compuestos orgánicos</enlace></autoevaluate><enlacesreferencia>
+<enlace
+destino="http://prepa8.unam.mx/academia/colegios/quimica/infocab/Unidad411.html"
+>Reacciones químicas orgánicas.</enlace>
+<enlace
+destino="http://www.gobiernodecanarias.org/educacion/3/Usrn/lentiscal/1-CDQuimica-TIC/DIR-Q/Organica-2/reaccionesorganicas/reacionesorgan.htm"
+>Reacciones orgánicas en cadena.</enlace>
+</enlacesreferencia></masinformacion></libro>
