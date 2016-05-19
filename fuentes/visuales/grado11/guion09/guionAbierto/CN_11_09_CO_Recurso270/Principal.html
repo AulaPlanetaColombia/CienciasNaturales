@@ -1,0 +1,158 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta name="viewport" id="viewport" content="initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+		
+		<!--
+		 ************************************************************************
+		 * Visor Mapas Conceptuales
+		 * Versión: 15.12.21.1
+		 * Autores: Javier Garcés i Jesús Gironés (Sinergia)
+		 * Histórico:
+		 *  - 15.12.21.1: Obtener el xml desde el parámetro GET datos_xml
+		 *  - 15.29.9.1: pppPreloader añadido
+		 *  - 15.7.16.1:
+		 *	· Sonidos: hace stop/resume si esta reproduciendo/pausado.
+		 *	  Problemas varios Android 4.1, 4.2:
+		 *	  Comprobación event primary para tablet México.
+		 *	  En canvio de orientación aparece una copia del canvas.
+		 *  - 15.7.1.1:
+		 *	· Cajas de primer nivel (siguiente al root),
+		 *	  alargan su la conexión a su hijo hasta el hermano más alto.
+		 *	  Recargar caché añadiendo la fecha a la carga del xml
+		 *  - 15.6.11.1:
+		 *	· Para trazos de unión de nodos no se detectaba colisióon.
+		 *  - 15.4.16.1:
+		 *	· Eliminado borde negro general innecesario
+		 *  - 15.3.2.1:
+		 *	· Problema con el Recurso140. Un conector demasiado ancho
+		 *	  provoca que no se visualizen otras partes del árbol.
+		 *	  Se ha añadido la mejora de que se permiten conectores
+		 *	  de tamaño más largo i se ha visto que ciertas cajas no
+  		 *	  se podían abrir porque colisionaban con su vecina. Se
+		 *	  arregla poniendo las cajas al mismo nivel.
+		 *  - 14.12.16.1:
+		 *	· El botón de ocultar/mostrar aparece un poco mas alto
+		 *	  si no se especifica las tag "botonMapaMudo"/"botonMapaConceptual"
+		 *	  en el xml.
+		 *  - 14.11.28.1:
+		 *	· Eliminar efecto borroso de algunos elementos como
+		 *	  por ejemplo textos al hacer zoom
+		 *  - 14.9.9.1:
+		 *	· Fondo transparente del logo y de la botonera
+		 *	· Quitar path relativo de la inclusión de los js y css
+		 *  - 14.7.24.1:
+		 *	· Aplicada funcionalidad aclarada del botón T
+		 *	· Cambiar estados botones audio mapa conceptual
+		 *	· Aplicada nueva estructura de carpetas
+		 *  - 14.7.3.1
+		 ************************************************************************
+		-->
+		
+		<title>Mapa conceptual</title>
+
+		<!--<link rel="stylesheet" href="motor/css/styles.css?v=14.6.16.1" type="text/css" />-->
+	
+		<!-- Versió extesa per debugar 
+		<script type="text/javascript" src="extlib/jquery/1_11_1/jquery_1_11_1.js"></script>
+		<script type="text/javascript" src="extlib/createjs/2013_12_12/easeljs_0_7_1_combined.js"></script>
+		<script type="text/javascript" src="extlib/createjs/2013_12_12/preloadjs_0_4_1_min.js"></script>
+		<script type="text/javascript" src="motor/js_test/HTMLText.js"></script>
+		<script type="text/javascript" src="motor/js_test/touchcomp.js"></script>
+		<script type="text/javascript" src="motor/js_test/xdom.js"></script>
+		<script type="text/javascript" src="motor/js_test/xaudio.js"></script>
+		<script type="text/javascript" src="motor/js_test/extendedshape.js"></script>
+		<script type="text/javascript" src="motor/js_test/pppmapaconceptual.js"></script>
+		 -->
+	
+		<!-- versió min 
+		<script type="text/javascript" src="extlib/jquery/1_11_1/jquery_1_11_1_min.js"></script>
+		<script type="text/javascript" src="extlib/createjs/2013_12_12/easeljs_0_7_1_min.js"></script>
+		<script type="text/javascript" src="extlib/createjs/2013_12_12/preloadjs_0_4_1_min.js"></script>
+		<script type="text/javascript" src="motor/js/pppmcall_min.js?v=15.29.9.1"></script>
+		 -->
+		
+		<script type='text/javascript' src='lib/ppppreloader/1_0/ppppreloader_min.js'></script>
+
+		<script type="text/javascript">
+			// Rutina para obtener dinÃƒÂ¡micamente un parÃƒÂ¡metro de la URL
+			function getQueryParam(pName) {
+				var CurrURL = location.href;
+				var ParamsPos = CurrURL.indexOf("?", 0);
+				if (ParamsPos > 0) {
+					var ParamsStr = CurrURL.substr(ParamsPos+1, CurrURL.length);
+					var Params = ParamsStr.split("&");
+					for (var i=0;i<Params.length;i++) {
+						if (Params[i].indexOf(pName + "=", 0) === 0) {
+							return unescape(Params[i].substr(pName.length + 1, Params[i].length));
+						}
+					}
+				}
+				return "";
+			}
+			var datos_xml = getQueryParam("datos_xml");
+			
+			// Precarga
+			var manifest = {
+				// Bloques de elementos a descargar
+				blocks: [
+					{ type: "manifest", files: [ { from: "module", file:"motor/manifest.json"} ] }
+					//{ type: "manifest", files: [ { from: "module", file:"motor/manifest_debug.json"} ] }
+				],
+				spinner: "no",
+				waitForDocumentReady: true, 
+				onEndLoading: function (manifest) {
+					// Miramos si hay errores
+					if (manifest.errors.length > 0) {
+						var msg = "Ended with errors: \n\n";
+						for (var i=0;i<manifest.errors.length;i++) {
+							msg += "- " + manifest.errors[i].type + ": " + manifest.errors[i].file + " [" + manifest.errors[i].url + "]\n";
+						}
+						pppSpinner.hide();
+						alert(msg);
+					} else { // Todo Ok!!!
+						// AHORA PROCEDEMOS A INICIALIZAR EL DIAPORAMA...
+						// Si no se ha redireccionado datos_xml, usamos el valor por defecto
+						if (datos_xml == "") {
+							datos_xml = pppPreloader.from("data", "data/datos.xml" + "?time=" + new Date().getTime());
+						}
+						
+						// Inicialització de la versió HTML5
+						// Escollim tema: per defecte fem servir el tema SVG
+						var theme = "aulaplanetasvg35";
+						// Si és IE fa servir la versió bitmaps (hi ha un bug a la implementació SVG)
+						if (/msie|trident/.test(navigator.userAgent.toLowerCase()))
+							theme = "aulaplaneta35";
+							//alert(theme +" "+ navigator.userAgent);
+						pppSpinner.hide();
+						// Inicialitzem el mapa conceptual
+						var mapac = new pppMapaConceptual("container", false);
+						mapac.initMapaConceptual(/*"."*/pppPreloader.from("data", ""));
+					}
+				}
+			};
+			
+			// Inicialización del sistema
+			pppPreloader.init( {
+				aliases: { "module": "CDN" },
+				remotePaths: { "module": "motors/mapa/" }
+			});
+			pppSpinner.show();
+
+			// Cargamos el manifiesto del motor
+			pppPreloader.loadManifest(manifest);
+			
+		</script>
+		
+	</head>
+	<body>
+		<div id="topcontainer" style="width: 100%; height: 100%; border: 0; margin: 0;">
+			<div class="html_mc">
+				<div class="mc_container">
+					<canvas id="container" width="950" height="608" style="border: 1px solid black;"></canvas>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

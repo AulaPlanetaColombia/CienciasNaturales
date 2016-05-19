@@ -1,0 +1,8 @@
+[module]
+id=mapa
+desc=Visor de mapas conceptuales
+aprid=mapa
+version=15.12.219.1
+folder=motor
+entrypoint=principal.html
+dependencies=principal.dep
