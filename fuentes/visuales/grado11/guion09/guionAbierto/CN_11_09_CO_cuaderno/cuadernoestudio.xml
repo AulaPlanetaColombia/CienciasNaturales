@@ -16,7 +16,7 @@ dental son <negrita>bases</negrita>.</p>
 <p>La crema dental para la limpieza de los dientes tiene componentes
 de <negrita>carácter básico</negrita> que ayudan a neutralizar los
 ácidos que dejan los residuos de los alimentos.</p>
-</imagen><?Pub Caret -1?>
+</imagen>
 <p>Un <negrita>ácido</negrita> es una sustancia química que al disolverse
 en el agua genera iones hidrógeno H<superindice>+</superindice>. Se
 caracterizan, entre otras cosas, por tener un sabor agrio, ser corrosivos
@@ -96,6 +96,7 @@ que un <negrita>ácido</negrita> era una sustancia que libera iones
 hidrógeno H<superindice>+</superindice> en disolución acuosa. En cambio,
 una <negrita>base</negrita> es un compuesto que libera iones hidroxilo
 OH<superindice>-</superindice> en disolución acuosa.</p>
+<p>Ácido de Arrhenius</p>
 <formula alineacion="centrada" src="CN_11_09_CO_formula01.gif">
 </formula>
 <p>Base de Arrhenius</p>
@@ -400,7 +401,7 @@ en una disolución acuosa. Un ejemplo de ácido fuerte es el <negrita
 >hidróxido de potasio</negrita> (KOH).</p>
 <formula alineacion="centrada" src="CN_11_09_CO_formula11.gif">
 </formula>
-<imagen src="CN_11_09_CO_img_06_small.jpg">
+<imagen src="CN_11_09_CO_IMG_06_small.jpg">
 <p>Esquema de la disociación de un ácido fuerte en agua (no se representan
 las moléculas de agua).</p>
 </imagen>
@@ -412,15 +413,16 @@ mientras que en la disociación acuosa de una <negrita>base fuerte</negrita
 en muy alta proporción por la base. Este hecho permite calcular el
 pH de una manera sencilla teniendo en cuenta estas concentraciones.</p>
 <p>Por <negrita>ejemplo</negrita>: ¿Cuál es el pH de una disolución
-0,03M de HCl?</p>
+0,03 <cursiva>M</cursiva> de HCl?</p>
 <listaNumerada>
-<listaElemento>Planteamos la ecuación de la disociación de la sustancia<formula
+<listaElemento>Planteamos la ecuación de la disociación de la sustancia:<formula
 alineacion="centrada" src="CN_11_09_CO_formula12.gif"></formula></listaElemento>
-<listaElemento>El enunciado nos indica que la disolución es 0,03 M
-de HCl. El HCl es un ácido fuerte, por lo tanto se disocia completamente.
-En la disolución acuosa habrá una concentración 0,03 M de iones (H<subindice
->3</subindice>O<superindice>+</superindice>) y 0,03 M de iones Cl<superindice
->-</superindice></listaElemento>
+<listaElemento>El enunciado nos indica que la disolución es 0,03 <cursiva
+>M</cursiva> de HCl. El HCl es un ácido fuerte, por lo tanto se disocia
+completamente. En la disolución acuosa habrá una concentración 0,03 <cursiva
+>M</cursiva> de iones (H<subindice>3</subindice>O<superindice>+</superindice
+>) y 0,03 <cursiva>M</cursiva> de iones Cl<superindice>-</superindice
+>.</listaElemento>
 <listaElemento>Escribimos la expresión para calcular el pH:<br/>pH
 = -log [H<subindice>3</subindice>O<superindice>+</superindice>]</listaElemento>
 <listaElemento>Reemplazamos el valor de la concentración de iones
@@ -445,10 +447,6 @@ pH es 9,6?</p>
 × 10<superindice>-10</superindice></p>
 </destacadoTexto></destacado><practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso040&amp;IdRecurso=RES-4A8A57EF17CA46E0BAFCCE3A89AABAA2"
->Calcula el pH de las disoluciones</enlace>
-</practica><practica>
-<enlace
 destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso050&amp;IdRecurso=RES-1D0236729FAF40CCB18F146D185DCAD2"
 >Realiza los cálculos de las disoluciones</enlace>
 </practica></seccion3Texto></seccion3><seccion3
@@ -469,7 +467,7 @@ iones hidronio (H<subindice>3</subindice>O<superindice>+</superindice
 iones amonio (NH<subindice>4</subindice><superindice>+</superindice
 >), iones hidroxilo (OH<superindice>-</superindice>) y moléculas de
 amoniaco (NH<subindice>3</subindice>).</p>
-<imagen src="CN_11_09_CO_img_07_small.jpg">
+<imagen src="CN_11_09_CO_IMG_07_small.jpg">
 <p>Esquema de la disociación de un ácido débil en agua (no se representan
 las moléculas de agua).</p>
 </imagen>
@@ -613,10 +611,10 @@ id="S2_CN_11_09_CO_F7DAD2D7B395464AB9AE3C67D74D7406">
 <seccion2Texto>
 <p>Los metales, como el zinc o el hierro, se oxidan, mientras que
 el hidrógeno del ácido se reduce y se desprende como gas.</p>
-<imagen src="CN_11_09_CO_img_10_small.jpg">
+<imagen src="CN_11_09_CO_IMG_10_small.jpg">
 <p>Cuando el ácido sulfúrico reacciona con zinc se obtiene sulfato
 de zinc e hidrógeno. Se trata de una reacción redox en la que el zinc
-se oxida y el hidrógeno del ácido se reduce.</p>
+se oxida y el hidrógeno del ácido se reduce.</p><?Pub Caret -2?>
 </imagen>
 <recuerda><recuerdaTexto>
 <p>En una <negrita>reacción redox</negrita>, un elemento se oxida
@@ -735,9 +733,9 @@ del HCl?</p>
 alineacion="centrada" src="CN_11_09_CO_formula14.gif"></formula></listaElemento>
 <listaElemento>Identificamos la información que suministra el enunciado:<br
 /><cursiva>V<subindice>B</subindice></cursiva> = 55 ml<br/><cursiva
->N<subindice>B</subindice></cursiva> = 0,22 N<br/><cursiva>V<subindice
->A</subindice></cursiva> = 25 ml<br/><cursiva>N<subindice>A</subindice
-></cursiva> = ? N</listaElemento>
+>N<subindice>B</subindice></cursiva> = 0,22 <cursiva>N</cursiva><br
+/><cursiva>V<subindice>A</subindice></cursiva> = 25 ml<br/><cursiva
+>N<subindice>A</subindice></cursiva> = ? <cursiva>N</cursiva></listaElemento>
 <listaElemento>Reemplazamos en la fórmula la información conocida:<formula
 alineacion="centrada" src="CN_11_09_CO_formula15.gif"></formula></listaElemento>
 <listaElemento>Despejamos la incógnita:<formula alineacion="centrada"
@@ -850,7 +848,7 @@ cítricos, vinagre y leche.</p>
 </imagen>
 <p>Algunas disoluciones básicas de uso cotidiano son los productos
 utilizados para limpiar cañerías (que llevan hidróxido de sodio),
-algunos artículos de limpieza (contienen amoníaco) o los antiácidos
+algunos artículos de limpieza (contienen amoniaco) o los antiácidos
 para aliviar la acidez de estómago (elaborados con hidróxido de magnesio).</p>
 <imagen src="CN_11_09_CO_img_18_small.jpg">
 <p>Ejemplos de productos que contienen <negrita>bases</negrita>: jabones,
@@ -981,8 +979,8 @@ significa que se consideran condiciones estándar.</p>
 </formula>
 <recuerda><recuerdaTexto>
 <p>Las <negrita>condiciones estándar</negrita> son:</p>
-<p>Concentraciones en disolución de reactivos y productos: <negrita
->1M</negrita></p>
+<p>Concentraciones en disolución de reactantes y productos: <negrita
+>1 <cursiva>M</cursiva></negrita></p>
 <p>Temperatura: <negrita>25 °C</negrita></p>
 <p>Presión (gases): <negrita>1 atm</negrita></p>
 </recuerdaTexto></recuerda>
@@ -993,11 +991,11 @@ valor del potencial negativo de una especie, es fácilmente oxidable
 y buen agente reductor. Así mismo, entre mayor sea el valor positivo
 del potencial de reducción es buen agente oxidante y se reduce fácilmente.
 Por ejemplo el potencial de reducción del níquel (Ni<superindice>2+</superindice
-> <subindice>(ac)</subindice> + 2e- → Ni<subindice>(s)</subindice
->) es de -0,28 V y el del sodio (Na<superindice>+</superindice><subindice
->(ac)</subindice> + e<superindice>-</superindice> → Na<subindice>(s)</subindice
->) es – 2,71 V, lo que indica que el sodio se oxida más fácilmente
-en comparación al níquel.</p>
+> <subindice>(ac)</subindice> + 2e<superindice>-</superindice> → Ni<subindice
+>(s)</subindice>) es de -0,28 V y el del sodio (Na<superindice>+</superindice
+><subindice>(ac)</subindice> + e<superindice>-</superindice> → Na<subindice
+>(s)</subindice>) es – 2,71 V, lo que indica que el sodio se oxida
+más fácilmente en comparación al níquel.</p>
 <destacado><destacadoTitulo>La escala de potencial de reducción</destacadoTitulo>
 <destacadoTexto>
 <p>La escala de potencial de reducción tiene como base la reducción
@@ -1089,12 +1087,6 @@ destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso200&amp;IdRecurso=RES-27B641
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso180&amp;IdRecurso=RES-1A13AECDF93B4FA3930D3689B55B136F"
 >Aprende qué son los electrólitos y los no electrólitos</enlace>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso190&amp;IdRecurso=RES-092ACAD7D0A54C578C504C30D697190E"
->Resuelve el crucigrama sobre la celdas electroquímicas</enlace>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CN_11_09_CO_Recurso250&amp;IdRecurso=RES-8FFA696491824F72AB163EDDF24F9425"
->Distingue entre ácidos y bases</enlace>
 </practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
 <seccion2 id="S2_CN_11_09_CO_B538BE8D11C54A2C94B467BEDF37C63B">
 <seccion2Titulo>Consolidación</seccion2Titulo>
@@ -1132,6 +1124,6 @@ destino="http://recursos.cnice.mec.es/quimica/ulloa1/tercero/tema4/oa5/index.htm
 destino="http://www.hiru.com/quimica/formulacion-de-compuestos-inorganicos-ternarios"
 >Formulación de los ácidos y las bases.</enlace>
 <enlace
-destino="http://www.gobiernodecanarias.org/educacion/3/Usrn/lentiscal/1-cdquimica-tic/Q2/ReaccionesRedox.htm"
+destino="http://www3.gobiernodecanarias.org/medusa/lentiscal/1-CDQuimica-TIC/FlashQ/Redox/fem/fundamnetopilas.htm"
 >Reacciones redox y pilas.</enlace>
 </enlacesreferencia></masinformacion></libro>
