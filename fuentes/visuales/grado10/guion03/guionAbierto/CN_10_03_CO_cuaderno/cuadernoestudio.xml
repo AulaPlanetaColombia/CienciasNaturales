@@ -104,11 +104,11 @@ ejes <negritacursiva>x</negritacursiva> y <negritacursiva>y</negritacursiva
 <p>Sin embargo, al trabajar cantidades vectoriales en el espacio (x,
 y, z) se tendría una componente adicional a lo largo del eje z, es
 decir, <negrita>tres dimensiones</negrita>.</p>
-</recuerdaTexto></recuerda><practica>
+</recuerdaTexto></recuerda><profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso010&amp;IdRecurso=RES-483E58EBF5BE4B0AABD907E12F34D3FD"
->Los componentes de un vector</enlace>
-</practica><practica>
+>El vector y sus componentes</enlace>
+</profundiza><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso020&amp;IdRecurso=RES-AC8D5278B58B4449AB9415B0109B5F56"
 >Identifica las componentes de un vector</enlace>
@@ -120,8 +120,7 @@ id="S2_CN_10_03_CO_C68A8E8DB58A46E2B4FD18864773A21C">
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso030&amp;IdRecurso=RES-0034ECB007C64DC8976535BA0AC3EA60"
->Refuerza tu aprendizaje: Identifica correctamente las componentes
-de un vector</enlace>
+>Refuerza tu aprendizaje: Las componentes de un vector</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CN_10_03_CO_5FA5060DD03A438DA1798F86A69B025F">
 <seccion1Titulo>Movimiento parabólico</seccion1Titulo>
@@ -241,8 +240,7 @@ trayectoria semiparabólica al ser lanzado con una velocidad inicial <negritacur
 >v<subindice>0</subindice></negritacursiva> formando un ángulo de
 cero grados con la horizontal. La componente correspondiente es <negritacursiva
 >v<subindice>0x</subindice></negritacursiva>, debido a que <negritacursiva
->v<subindice>0y</subindice></negritacursiva> es igual a cero.</p><?Pub
-Caret -2?>
+>v<subindice>0y</subindice></negritacursiva> es igual a cero.</p>
 </imagen>
 <profundiza>
 <enlace
@@ -251,10 +249,10 @@ destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso040&amp;IdRecurso=RES-859DC9
 </profundiza><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso050&amp;IdRecurso=RES-98660A1887C54D8B8295DA999D860CF9"
->¿Qué sabes sobre el movimiento parabólico?</enlace>
+>Resuelve problemas de movimiento parabólico</enlace>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso060&amp;IdRecurso=RES-219398102CB0495A9CCB85849685AAB0"
->Aplicación del movimiento parabólico</enlace>
+>Resume las características del movimiento parabólico</enlace>
 </practica><seccion2
 id="S2_CN_10_03_CO_7E6966B08466418BB4F062DFAF2F67E0">
 <seccion2Titulo>Consolidación</seccion2Titulo>
@@ -263,8 +261,7 @@ id="S2_CN_10_03_CO_7E6966B08466418BB4F062DFAF2F67E0">
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso070&amp;IdRecurso=RES-579D6095E6CA49F5BDDDDB7A1E0616C8"
->Refuerza tu aprendizaje: Ángulo óptimo en un lanzamiento de tiro
-parabólico</enlace>
+>Refuerza tu aprendizaje: El movimiento parabólico</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CN_10_03_CO_76A602EDD58F422BA2E938AB1F659230">
 <seccion1Titulo>El movimiento circular</seccion1Titulo>
@@ -365,8 +362,8 @@ será:</p>
 <formula alineacion="centrada" src="CN_10_03_formula20.gif"></formula>
 </destacadoTexto></destacado><profundiza>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso080&amp;IdRecurso=RES-F791F4C7FB70464D9565186B5C5D89EC"
->Características de un movimiento circular</enlace>
+destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso280&amp;IdRecurso=RES-478B91D75C534F73863842084FDB043E"
+>Características de un movimiento circular</enlace><?Pub Caret -2?>
 </profundiza><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso090&amp;IdRecurso=RES-0F1250EACC444E9C8F97472F2ED8F04D"
@@ -469,11 +466,9 @@ la magnitud de la aceleración “total”:</p>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso140&amp;IdRecurso=RES-1A0A3E8986A5426EACE78ED3E1BAE1CD"
 >Resuelve problemas sobre el movimiento circular</enlace>
-</practica><profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso150&amp;IdRecurso=RES-B41F0CBFA59E4DEAA522AFA9DFFC5D01"
 >Analiza el movimiento en dos dimensiones</enlace>
-</profundiza><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso160&amp;IdRecurso=RES-99C3B0279F344518BEB4C6D534745BA7"
 >Comprende el movimiento circular </enlace>
@@ -553,7 +548,7 @@ propuso Copérnico se conoce como teoría heliocéntrica.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso190&amp;IdRecurso=RES-426C7EC9E5194FA7847FF5278318B63A"
->Aprende sobre el modelo de Copérnico</enlace>
+>Establece las características del modelo de Copérnico</enlace>
 </practica>
 <p>Si observamos el cielo, nos parecerá que las estrellas se mueven
 alrededor de la Tierra. Entonces, si el modelo geocéntrico de Ptolomeo
@@ -594,11 +589,11 @@ siguiendo una <negrita>órbita elíptica</negrita>.</p>
 planetas en torno al Sol <negrita>eran elípticas y no circulares</negrita
 > como planteaba Copérnico: había descubierto las <negrita>leyes del
 movimiento de los planetas</negrita>.</p>
-<practica>
+<profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso200&amp;IdRecurso=RES-C7776ADAA05E41EB95691B90CDF34B34"
 >Investiga sobre las leyes de Kepler</enlace>
-</practica><seccion2
+</profundiza><seccion2
 id="S2_CN_10_03_CO_9DD56413728142A6ADB09C2D2CC7000B">
 <seccion2Titulo>La primera ley de Kepler</seccion2Titulo>
 <seccion2Texto>
@@ -687,12 +682,10 @@ destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso220&amp;IdRecurso=RES-3DBC5E
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso230&amp;IdRecurso=RES-D33443DB0D8745D39FEE583D5863D168"
->Competencias: identifica en un experimento las características del
-movimiento en dos dimensiones</enlace>
+>Competencias: estudio del movimiento semiparabólico</enlace>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso240&amp;IdRecurso=RES-0DCABD5FE605462088871BE79F4E595F"
->Competencias: identifica vectores en los distintos movimientos en
-dos dimensiones</enlace>
+>Competencias: utilización de los vectores</enlace>
 </practica></seccion1Texto></seccion1><masinformacion
 id="MI_CN_10_03_CO_B47BEF2F10E14172BDDC0F3766A68050"><mapaconceptual>
 <enlace
