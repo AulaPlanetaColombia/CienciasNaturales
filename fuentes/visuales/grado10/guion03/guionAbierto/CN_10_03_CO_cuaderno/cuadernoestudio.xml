@@ -6,7 +6,7 @@
 <libro id="CN_10_03_CO">
 <libroTitulo>Movimiento en dos dimensiones</libroTitulo>
 <seccion1 id="S1_CN_10_03_CO_1FD4E3420B6C415188B5804C3602F53F">
-<seccion1Titulo>Componentes de un vector</seccion1Titulo>
+<seccion1Titulo>Los componentes de un vector</seccion1Titulo>
 <seccion1Texto>
 <p>La aceleración, la velocidad y la fuerza, entre otras, son <negrita
 >magnitudes vectoriales</negrita>, además de un valor, tienen dirección
@@ -326,7 +326,7 @@ revoluciones por minuto (rpm). También puede expresarse en s<superindice
 estrictamente a una magnitud física.</p>
 <listaSinNumerar>
 <listaElemento>La relación de la <negrita>velocidad angular</negrita
-> <cursiva>ω</cursiva> con el <negrita>periodo</negrita> y la <negrita
+><cursiva>ω</cursiva> con el <negrita>periodo</negrita> y la <negrita
 >frecuencia</negrita> se expresa mediante la siguiente ecuación:<br
 /><formula alineacion="centrada" src="CN_10_03_formula16.gif"></formula
 ></listaElemento>
@@ -342,7 +342,7 @@ una trayectoria aproximadamente circular.</p>
 </imagen>
 <destacado><destacadoTitulo>Desplazamiento angular y distancia recorrida</destacadoTitulo>
 <destacadoTexto>
-<p>El <negrita>radián</negrita> <cursiva>∆φ</cursiva> permite obtener
+<p>El <negrita>radián</negrita><cursiva>∆φ</cursiva> permite obtener
 la equivalencia entre el <negrita>desplazamiento angular</negrita
 > y <negrita>la longitud del arco</negrita> recorrido <cursiva>s</cursiva
 > de un modo sencillo, multiplicando o dividiendo por el radio de
@@ -351,7 +351,7 @@ la circunferencia.</p>
 >R</cursiva> = 2 <cursiva>m</cursiva> y su desplazamiento angular
 es <cursiva>φ</cursiva> = 2,3 radianes, la longitud del arco recorrido
 será:</p>
-<formula alineacion="centrada" src="CN_10_03_formula18.gif"></formula>
+<formula alineacion="centrada" src="CN_10_03_formula08.gif"></formula>
 <formula alineacion="centrada" src="CN_10_03_formula19.gif"></formula>
 <p>Si, en cambio, la distancia recorrida es <cursiva>s</cursiva> =
 5 m, la posición angular será:</p>
@@ -359,14 +359,14 @@ será:</p>
 </destacadoTexto></destacado><profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso280&amp;IdRecurso=RES-478B91D75C534F73863842084FDB043E"
->Características del movimiento circular</enlace>
+>Características del movimiento circular</enlace><?Pub Caret -2?>
 </profundiza><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso090&amp;IdRecurso=RES-0F1250EACC444E9C8F97472F2ED8F04D"
 >Identifica los elementos del movimiento circular</enlace>
 </practica><seccion2
 id="S2_CN_10_03_CO_7E6966B08466418BB4F062DFAF2F58D9">
-<seccion2Titulo>Movimiento circular uniforme</seccion2Titulo>
+<seccion2Titulo>El movimiento circular uniforme</seccion2Titulo>
 <seccion2Texto>
 <p>En esta sección estudiarás movimientos con trayectorias circulares,
 en los cuales tanto la velocidad angular como la velocidad tangencial
@@ -385,7 +385,7 @@ en cada punto, se genera una aceleración dirigida hacia el centro
 de la circunferencia, denominada aceleración centrípeta <cursiva>a<subindice
 >c</subindice></cursiva>.</p>
 </imagen>
-<destacado><destacadoTitulo>Movimiento circular uniforme</destacadoTitulo>
+<destacado><destacadoTitulo>El movimiento circular uniforme</destacadoTitulo>
 <destacadoTexto>
 <p>La aceleración centrípeta se origina por la variación de la velocidad
 lineal respecto al tiempo.</p>
@@ -464,9 +464,6 @@ la magnitud de la aceleración “total”:</p>
 destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso140&amp;IdRecurso=RES-1A0A3E8986A5426EACE78ED3E1BAE1CD"
 >Resuelve problemas sobre el movimiento circular</enlace>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso150&amp;IdRecurso=RES-B41F0CBFA59E4DEAA522AFA9DFFC5D01"
->Analiza el movimiento en dos dimensiones</enlace>
-<enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso160&amp;IdRecurso=RES-99C3B0279F344518BEB4C6D534745BA7"
 >Comprende el movimiento circular </enlace>
 </practica></seccion2Texto></seccion2><seccion2
@@ -487,7 +484,7 @@ la concepción del universo, especialmente sobre el movimiento de los
 planetas con relación al Sol: los modelos <negrita>geocéntrico</negrita
 > y <negrita>heliocéntrico</negrita>.</p>
 <seccion2 id="S2_CN_10_03_CO_E93BA4CA51634F9CBE959FD5B961B089">
-<seccion2Titulo>Modelos del universo</seccion2Titulo>
+<seccion2Titulo>Los modelos del universo</seccion2Titulo>
 <seccion2Texto>
 <p>El interés por observar el movimiento de los planetas es conocido
 desde la Antigüedad, entre otras cosas, porque era muy útil para determinar
@@ -497,16 +494,17 @@ de la historia, muchos científicos se preguntaron cómo se disponían
 los planetas y las estrellas en el universo. Los dos modelos principales
 fueron desarrollados por Ptolomeo y Copérnico.</p>
 <seccion3 id="S3_CN_10_03_CO_81405D72DE6248F7BA50EE3A9E4FA7B4">
-<seccion3Titulo>Modelo de Ptolomeo</seccion3Titulo>
+<seccion3Titulo>El modelo de Ptolomeo</seccion3Titulo>
 <seccion3Texto>
-<p><negrita>Ptolomeo</negrita> fue un astrónomo, matemático y geógrafo
-griego del siglo II d. C., quien propuso que la <negrita>Tierra</negrita
-> se mantenía fija en el <negrita>centro del universo</negrita> y
-estaba rodeada por numerosas esferas que giraban a su alrededor. Los <negrita
->planetas</negrita> estaban situados en estas “esferas” y realizaban
-pequeños movimientos circulares (epiciclos). La esfera más grande,
-la de las estrellas fijas, envolvía todo el cosmos. Ptolomeo explicaba
-el movimiento de los astros tal como se observa desde la Tierra.</p>
+<p>                 <negrita>Ptolomeo</negrita> fue un astrónomo,
+matemático y geógrafo griego del siglo II d. C., quien propuso que
+la <negrita>Tierra</negrita> se mantenía fija en el <negrita>centro
+del universo</negrita> y estaba rodeada por numerosas esferas que
+giraban a su alrededor. Los <negrita>planetas</negrita> estaban situados
+en estas “esferas” y realizaban pequeños movimientos circulares (epiciclos).
+La esfera más grande, la de las estrellas fijas, envolvía todo el
+cosmos. Ptolomeo explicaba el movimiento de los astros tal como se
+observa desde la Tierra.</p>
 <imagen ampliable="no" src="CN_10_03_CO_img_13_small.jpg">
 <p>Por suponer que nuestro planeta era el centro del universo, el
 modelo que propuso <negrita>Ptolomeo</negrita> en el año 140 d. C.
@@ -520,15 +518,15 @@ destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso180&amp;IdRecurso=RES-A6153E
 id="S3_CN_10_03_CO_3529C536382C40D38B9153FC5A4911E9">
 <seccion3Titulo>El modelo de Copérnico</seccion3Titulo>
 <seccion3Texto>
-<p><negrita>Copérnico</negrita> fue un astrónomo, médico y político
-polaco del Renacimiento, que formuló la <negrita>teoría heliocéntrica</negrita
-> en el siglo XVI. Según los datos recogidos en sus observaciones,
-las posiciones de los planetas se explicaban mucho mejor suponiendo
-que estos <negrita>giraban alrededor del Sol</negrita>, en vez de
-hacerlo alrededor de la Tierra. Copérnico mantuvo algunos principios
-del modelo de Ptolomeo, como las órbitas circulares, la idea de las
-esferas dentro de las cuales se encontraban los planetas y la esfera
-exterior donde estaban las estrellas fijas.</p>
+<p>                 <negrita>Copérnico</negrita> fue un astrónomo,
+médico y político polaco del Renacimiento, que formuló la <negrita
+>teoría heliocéntrica</negrita> en el siglo XVI. Según los datos recogidos
+en sus observaciones, las posiciones de los planetas se explicaban
+mucho mejor suponiendo que estos <negrita>giraban alrededor del Sol</negrita
+>, en vez de hacerlo alrededor de la Tierra. Copérnico mantuvo algunos
+principios del modelo de Ptolomeo, como las órbitas circulares, la
+idea de las esferas dentro de las cuales se encontraban los planetas
+y la esfera exterior donde estaban las estrellas fijas.</p>
 <p>Además, según Copérnico la <negrita>Tierra</negrita> realiza tres <negrita
 >movimientos</negrita>:</p>
 <listaSinNumerar>
@@ -582,8 +580,8 @@ tras muchos intentos fallidos, las descartó, porque no explicaban
 con precisión las posiciones observadas. Tras nueve años de intenso
 trabajo logró resolver el problema: Marte se movía alrededor del Sol
 siguiendo una <negrita>órbita elíptica</negrita>.</p>
-<p><negrita>Kepler</negrita> encontró que las órbitas de todos los
-planetas en torno al Sol <negrita>eran elípticas y no circulares</negrita
+<p>         <negrita>Kepler</negrita> encontró que las órbitas de
+todos los planetas en torno al Sol <negrita>eran elípticas y no circulares</negrita
 > como planteaba Copérnico: había descubierto las <negrita>leyes del
 movimiento de los planetas</negrita>.</p>
 <profundiza>
@@ -655,7 +653,7 @@ aproximadamente K = 2,9 x 10-19 s<superindice>2</superindice>/m<superindice
 >3</superindice>. Basta con realizar las conversiones necesarias de
 las unidades astronómicas UA (1 UA equivale a 149 597 870 700 m, que
 equivale aproximadamente a la distancia media entre el planeta Tierra
-y el Sol) y las unidades de tiempo a segundos.</p><?Pub Caret -1?>
+y el Sol) y las unidades de tiempo a segundos.</p>
 </imagen>
 <profundiza>
 <enlace
