@@ -33,9 +33,9 @@ consiste la operación de suma de estas magnitudes, por lo que comenzamos
 ubicando los vectores en el <negrita>sistema coordenado cartesiano</negrita
 >.</p>
 <imagen src="CN_10_03_CO_img_01_small.jpg">
-<p><negrita>Suma de los vectores <cursiva>A</cursiva></negrita> y <negritacursiva
->B</negritacursiva> en el sistema de coordenadas cartesiano (<cursiva
->x</cursiva>, <cursiva>y</cursiva>).</p>
+<p>           <negrita>Suma de los vectores <cursiva>A</cursiva></negrita
+> y <negritacursiva>B</negritacursiva> en el sistema de coordenadas
+cartesiano (<cursiva>x</cursiva>, <cursiva>y</cursiva>).</p>
 </imagen>
 <p>De esta forma, encontramos que la suma vectorial que aparece en
 la imagen es una construcción en <negrita>dos dimensiones</negrita
@@ -49,10 +49,11 @@ vector que tenemos, originalmente, es <negritacursiva>R</negritacursiva
 > obteniendo sus “partes”, las cuales son <negrita>proyecciones del
 vector</negrita> sobre cada uno de los ejes cartesianos; estas se
 conocen como <negrita>componentes</negrita>.</p>
-<p><negritacursiva>R<subindice>x</subindice></negritacursiva> y <negritacursiva
->R<subindice>y</subindice></negritacursiva> se expresan como las <negrita
->componentes del vector <cursiva>R</cursiva></negrita> en el eje horizontal
-y vertical respectivamente, de modo que</p>
+<p>         <negritacursiva>R<subindice>x</subindice></negritacursiva
+> y <negritacursiva>R<subindice>y</subindice></negritacursiva> se
+expresan como las <negrita>componentes del vector <cursiva>R</cursiva
+></negrita> en el eje horizontal y vertical respectivamente, de modo
+que</p>
 <formula alineacion="centrada" src="CN_10_03_formula01.gif"></formula>
 <imagen src="CN_10_03_CO_img_02_small.jpg">
 <p>Las componentes de un vector se ubican sobre cada uno de los ejes
@@ -72,7 +73,8 @@ se conocen las componentes, y también de usar las razones trigonométricas,
 comúnmente seno y coseno, para hallar las componentes <negritacursiva
 >R<subindice>x</subindice></negritacursiva> y <negritacursiva>R<subindice
 >y</subindice></negritacursiva>.</p>
-<formula alineacion="centrada" src="CN_10_03_CO_Tabla_01.gif"></formula>
+<formula alineacion="izquierda" src="CN_10_03_CO_Tabla_01.png">
+</formula>
 <destacado><destacadoTitulo>Dirección de las componentes de un vector</destacadoTitulo>
 <destacadoTexto>
 <p>Las componentes de un vector tienen las mismas unidades que el
@@ -87,12 +89,12 @@ la siguiente convención:</p>
 </destacadoTexto></destacado>
 <imagen src="CN_10_03_CO_img_03_small.jpg">
 <p>El avión viaja con una trayectoria curvilínea y su vector velocidad <negritacursiva
->V</negritacursiva> en un determinado instante es tangente a la curva.
-El vector velocidad <negritacursiva>V</negritacursiva> se ubica en
+>v</negritacursiva> en un determinado instante es tangente a la curva.
+El vector velocidad <negritacursiva>v</negritacursiva> se ubica en
 un sistema de coordenadas cartesianas, luego se realizan las proyecciones
 sobre cada uno de los ejes (<cursiva>x</cursiva>, <cursiva>y</cursiva
 >) y, finalmente, se tienen las componentes de la velocidad <negritacursiva
->V<subindice>x</subindice></negritacursiva> y <negritacursiva>V<subindice
+>v<subindice>x</subindice></negritacursiva> y <negritacursiva>v<subindice
 >y</subindice></negritacursiva>.</p>
 </imagen>
 <recuerda><recuerdaTexto>
@@ -123,7 +125,7 @@ destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso030&amp;IdRecurso=RES-0034EC
 >Refuerza tu aprendizaje: Las componentes de un vector</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CN_10_03_CO_5FA5060DD03A438DA1798F86A69B025F">
-<seccion1Titulo>Movimiento parabólico</seccion1Titulo>
+<seccion1Titulo>El movimiento parabólico</seccion1Titulo>
 <seccion1Texto>
 <p>A un objeto que es lanzado con cierta inclinación respecto a la
 horizontal, como un balón impulsado por un jugador de baloncesto para
@@ -150,10 +152,11 @@ se necesitan dos componentes (<negritacursiva>x</negritacursiva> , <negritacursi
 >y</negritacursiva>).</p>
 <imagen src="CN_10_03_CO_img_05_small.jpg">
 <p>Un cuerpo, en presencia de un campo gravitacional, describe una
-trayectoria parabólica al ser lanzado con una velocidad inicial <negrita
->v0</negrita> formando un ángulo α con la horizontal. Las componentes
-correspondientes son <negritacursiva>v<subindice>0x</subindice></negritacursiva
-> y <negritacursiva>v<subindice>0y</subindice></negritacursiva>.</p>
+trayectoria parabólica al ser lanzado con una velocidad inicial <negritacursiva
+>v<subindice>0</subindice></negritacursiva> formando un ángulo α con
+la horizontal. Las componentes correspondientes son <negritacursiva
+>v<subindice>0x</subindice></negritacursiva> y <negritacursiva>v<subindice
+>0y</subindice></negritacursiva>.</p>
 </imagen>
 <p>En la dirección horizontal, el cuerpo continúa su movimiento gracias
 a la <negrita>inercia</negrita> generada por el impulso dado inicialmente,
@@ -164,7 +167,7 @@ vertical</negrita> y una, posterior, <negrita>caída libre</negrita
 >.</p>
 <destacado><destacadoTitulo>Las componentes de la velocidad en el
 movimiento parabólico</destacadoTitulo><destacadoTexto>
-<p>La <negrita>velocidad inicial</negrita> <negritacursiva>v<subindice
+<p>La <negrita>velocidad inicial</negrita><negritacursiva>v<subindice
 >0</subindice></negritacursiva> presenta dos componentes:</p>
 <p>Velocidad inicial horizontal <negritacursiva>v<subindice>0x</subindice
 ></negritacursiva></p>
@@ -176,17 +179,14 @@ inicial a partir del ángulo de lanzamiento <negritacursiva>α</negritacursiva
 >:</p>
 <formula alineacion="centrada" src="CN_10_03_formula02.gif"></formula>
 <formula alineacion="centrada" src="CN_10_03_formula03.gif"></formula>
-<p><cursiva>v<subindice>0x</subindice></cursiva> = <cursiva>v<subindice
->0</subindice></cursiva> cos <cursiva>α</cursiva></p>
-<p><cursiva>v<subindice>0y</subindice></cursiva> = <cursiva>v<subindice
->0</subindice></cursiva> sen <cursiva>α</cursiva></p>
 </destacadoTexto></destacado>
 <p>Según las componentes de la velocidad del movimiento parabólico,
 se puede determinar el uso de las <negrita>ecuaciones</negrita> conocidas
 de <negrita>movimiento rectilíneo uniforme</negrita> para la componente
 horizontal y las de <negrita>caída libre</negrita> para la componente
 vertical del lanzamiento parabólico.</p>
-<formula alineacion="centrada" src="CN_10_03_CO_Tabla_02.gif"></formula>
+<formula alineacion="izquierda" src="CN_10_03_CO_Tabla_02.png">
+</formula>
 <recuerda><recuerdaTexto>
 <p>Si se considera que el movimiento de un proyectil ocurre en el <negrita
 >vacío</negrita>, es decir, se desprecia el efecto de la resistencia
@@ -211,13 +211,14 @@ la información del <negrita>avance horizontal <cursiva>x</cursiva
 ></negrita> y de la <negrita>altura <cursiva>y</cursiva></negrita
 > en un instante de tiempo dado (por esto es un movimiento en dos
 dimensiones).</p>
-<p>Por tanto, la magnitud del desplazamiento r del cuerpo puede ser
-determinada por</p>
+<p>Por tanto, la magnitud del desplazamiento <cursiva>r</cursiva> del
+cuerpo puede ser determinada por:</p>
 <formula alineacion="centrada" src="CN_10_03_formula04.gif"></formula>
 </destacadoTexto></destacado>
 <p>En el movimiento parabólico es importante conocer la <negrita>altura
-máxima <cursiva>y</cursiva></negrita> y el <negrita>alcance horizontal <cursiva
->x<subindice>max</subindice></cursiva></negrita>.</p>
+máxima <cursiva>y<subindice>max</subindice></cursiva></negrita> y
+el <negrita>alcance horizontal <cursiva>x<subindice>max</subindice
+></cursiva></negrita>.</p>
 <p>La <negrita>altura máxima</negrita> es la posición en la cual la
 componente vertical de la velocidad <negritacursiva>v<subindice>y</subindice
 ></negritacursiva> se hace cero, luego</p>
@@ -234,14 +235,6 @@ cero, la velocidad inicial solamente posee un componente horizontal <negritacurs
 >v<subindice>0x</subindice></negritacursiva> (<cursiva>v<subindice
 >0y</subindice></cursiva> = 0) y la trayectoria que sigue el cuerpo
 es <negrita>semiparabólica</negrita>.</p>
-<imagen src="CN_10_03_CO_img_18_small.jpg">
-<p>En presencia de un campo gravitacional, un cuerpo describe una
-trayectoria semiparabólica al ser lanzado con una velocidad inicial <negritacursiva
->v<subindice>0</subindice></negritacursiva> formando un ángulo de
-cero grados con la horizontal. La componente correspondiente es <negritacursiva
->v<subindice>0x</subindice></negritacursiva>, debido a que <negritacursiva
->v<subindice>0y</subindice></negritacursiva> es igual a cero.</p>
-</imagen>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso040&amp;IdRecurso=RES-859DC9BBC64C41A58314162B9AE5A8EF"
@@ -271,8 +264,8 @@ de tal manera que la <negrita>magnitud</negrita> del vector velocidad
 es constante en cada punto de la circunferencia descrita, a este movimiento
 lo llamamos <negrita>circular uniforme</negrita>, o por el contrario,
 si el móvil incrementa o disminuye de forma constante esta magnitud
-se trata de un <negrita>movimiento circular uniformemente</negrita
-> acelerado.</p>
+se trata de un <negrita>movimiento circular uniformemente acelerado</negrita
+> .</p>
 <p>En un <negrita>movimiento circular</negrita> la trayectoria que
 describe el móvil es una <negrita>circunferencia</negrita>, con <negrita
 >centro de giro</negrita> y <negrita>radio constantes</negrita>.</p>
@@ -283,41 +276,43 @@ experimenta un movimiento circular.</p>
 <p>En el estudio del movimiento circular intervienen las siguientes
 magnitudes:</p>
 <listaSinNumerar>
-<listaElemento><negrita>Desplazamiento angular <cursiva>∆φ</cursiva
-></negrita>: está determinado por el <negrita>ángulo <cursiva>φ</cursiva
-></negrita> que forman los dos radios de la circunferencia correspondientes
-a los extremos del arco recorrido. Se mide en radianes (rad).<br/><formula
-alineacion="centrada" src="CN_10_03_formula07.gif"></formula></listaElemento>
-<listaElemento><negrita>Distancia recorrida <cursiva>s</cursiva></negrita
->: corresponde a la longitud de arco recorrida por el cuerpo durante
-su movimiento por la trayectoria circular de radio <negrita>R</negrita
->. Se mide en unidades de longitud, usualmente metros (m).<br/><formula
-alineacion="centrada" src="CN_10_03_formula08.gif"></formula><br/>Cuando
-el cuerpo termina una vuelta completa,<formula alineacion="centrada"
-src="CN_10_03_formula09.gif"></formula></listaElemento>
-<listaElemento><negrita>Velocidad angular <cursiva>ω</cursiva></negrita
->: es la variación del ángulo barrido, es decir, el <negrita>desplazamiento
-angular</negrita> respecto al tiempo transcurrido. Se mide en radianes
-sobre segundo (rad/s).<br/><formula alineacion="centrada"
-src="CN_10_03_formula10.gif"></formula><br/>Otra forma de expresar
-la <negrita>velocidad angular</negrita> es en revoluciones por unidad
-de tiempo (rev/s). Una revolución es una vuelta completa y, por tanto,
-equivale a <negrita>2π rad</negrita>.</listaElemento>
-<listaElemento><negrita>Velocidad lineal o tangencial <cursiva>v</cursiva
-></negrita>: su magnitud es la longitud del arco recorrido por unidad
-de tiempo. Usualmente se mide en m/s.<br/><formula alineacion="centrada"
-src="CN_10_03_formula11.gif"></formula></listaElemento>
+<listaElemento>           <negrita>Desplazamiento angular <cursiva
+>∆φ</cursiva></negrita>: está determinado por el <negrita>ángulo <cursiva
+>φ</cursiva></negrita> que forman los dos radios de la circunferencia
+correspondientes a los extremos del arco recorrido. Se mide en radianes
+(rad).<br/><formula alineacion="centrada" src="CN_10_03_formula07.gif">
+</formula></listaElemento>
+<listaElemento>           <negrita>Distancia recorrida <cursiva>s</cursiva
+></negrita>: corresponde a la longitud de arco recorrida por el cuerpo
+durante su movimiento por la trayectoria circular de radio <negrita
+>R</negrita>. Se mide en unidades de longitud, usualmente metros (m).<br
+/><formula alineacion="centrada" src="CN_10_03_formula08.gif"></formula
+><br/>Cuando el cuerpo termina una vuelta completa,<formula
+alineacion="centrada" src="CN_10_03_formula09.gif"></formula></listaElemento>
+<listaElemento>           <negrita>Velocidad angular <cursiva>ω</cursiva
+></negrita>: es la variación del ángulo barrido, es decir, el <negrita
+>desplazamiento angular</negrita> respecto al tiempo transcurrido.
+Se mide en radianes sobre segundo (rad/s).<br/><formula
+alineacion="centrada" src="CN_10_03_formula10.gif"></formula><br/>Otra
+forma de expresar la <negrita>velocidad angular</negrita> es en revoluciones
+por unidad de tiempo (rev/s). Una revolución es una vuelta completa
+y, por tanto, equivale a <negrita>2π rad</negrita>.</listaElemento>
+<listaElemento>           <negrita>Velocidad lineal o tangencial <cursiva
+>v</cursiva></negrita>: su magnitud es la longitud del arco recorrido
+por unidad de tiempo. Usualmente se mide en m/s.<br/><formula
+alineacion="centrada" src="CN_10_03_formula11.gif"></formula></listaElemento>
 <listaElemento>El vector <negrita>velocidad lineal</negrita> es tangente
 a la circunferencia en cada instante del movimiento.</listaElemento>
 <listaElemento>La <negrita>velocidad lineal</negrita> y la <negrita
 >velocidad angular</negrita> están relacionadas por la siguiente ecuación:<formula
 alineacion="centrada" src="CN_10_03_formula12.gif"></formula></listaElemento>
-<listaElemento><negrita>Periodo <cursiva>T</cursiva></negrita>: es
-el tiempo que transcurre hasta dar una vuelta completa. Se mide en
-s.</listaElemento>
-<listaElemento><negrita>Frecuencia <cursiva>f</cursiva></negrita>:
-es el número de vueltas recorridas por unidad de tiempo.<br/><formula
-alineacion="centrada" src="CN_10_03_formula13.gif"></formula></listaElemento>
+<listaElemento>           <negrita>Periodo <cursiva>T</cursiva></negrita
+>: es el tiempo que transcurre hasta dar una vuelta completa. Se mide
+en s.</listaElemento>
+<listaElemento>           <negrita>Frecuencia <cursiva>f</cursiva
+></negrita>: es el número de vueltas recorridas por unidad de tiempo.<br
+/><formula alineacion="centrada" src="CN_10_03_formula13.gif"></formula
+></listaElemento>
 </listaSinNumerar>
 <p>El periodo es el inverso de la frecuencia, pues a medida que este
 se incrementa (es decir, entre mayor sea el tiempo que tarda en dar
@@ -325,10 +320,10 @@ una vuelta) disminuye el número de revoluciones que se pueden presentar.</p>
 <formula alineacion="centrada" src="CN_10_03_formula14.gif"></formula>
 <p>Ambas magnitudes se relacionan por la expresión:</p>
 <formula alineacion="centrada" src="CN_10_03_formula15.gif"></formula>
-<p>La frecuencia se mide en revoluciones por segundo (rev/s) o revoluciones
-por minuto (rpm). También puede expresarse en s<superindice>-1</superindice
-> dado que el número de revoluciones no corresponde estrictamente
-a una magnitud física.</p>
+<p>La frecuencia se mide en número de vueltas por segundo (1/s) o
+revoluciones por minuto (rpm). También puede expresarse en s<superindice
+>-1</superindice> dado que el número de revoluciones no corresponde
+estrictamente a una magnitud física.</p>
 <listaSinNumerar>
 <listaElemento>La relación de la <negrita>velocidad angular</negrita
 > <cursiva>ω</cursiva> con el <negrita>periodo</negrita> y la <negrita
@@ -349,8 +344,9 @@ una trayectoria aproximadamente circular.</p>
 <destacadoTexto>
 <p>El <negrita>radián</negrita> <cursiva>∆φ</cursiva> permite obtener
 la equivalencia entre el <negrita>desplazamiento angular</negrita
-> y <negrita>la longitud del arco</negrita> recorrido s de un modo
-sencillo, multiplicando o dividiendo por el radio de la circunferencia.</p>
+> y <negrita>la longitud del arco</negrita> recorrido <cursiva>s</cursiva
+> de un modo sencillo, multiplicando o dividiendo por el radio de
+la circunferencia.</p>
 <p>Por ejemplo, si un móvil realiza un movimiento circular de radio <cursiva
 >R</cursiva> = 2 <cursiva>m</cursiva> y su desplazamiento angular
 es <cursiva>φ</cursiva> = 2,3 radianes, la longitud del arco recorrido
@@ -363,7 +359,7 @@ será:</p>
 </destacadoTexto></destacado><profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso280&amp;IdRecurso=RES-478B91D75C534F73863842084FDB043E"
->Características de un movimiento circular</enlace><?Pub Caret -2?>
+>Características del movimiento circular</enlace>
 </profundiza><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso090&amp;IdRecurso=RES-0F1250EACC444E9C8F97472F2ED8F04D"
@@ -409,11 +405,11 @@ centrípeta dirigida hacia el centro de la circunferencia descrita.</p>
 </imagen>
 <p>Esta aceleración centrípeta es constante y su magnitud se calcula
 de la siguiente manera:</p>
-<formula alineacion="centrada" src="CN_10_03_formula23.gif"></formula>
+<formula alineacion="centrada" src="CN_10_03_formula25.gif"></formula>
 <p>En donde <cursiva>v</cursiva> es la <negrita>velocidad lineal</negrita
-> en un instante determinado, <negrita>R</negrita> es el radio de
-la circunferencia y <negrita>ω</negrita> es la <negrita>velocidad
-angular</negrita>.</p>
+> en un instante determinado, <negritacursiva>R</negritacursiva> es
+el radio de la circunferencia y <negritacursiva>ω</negritacursiva
+> es la <negrita>velocidad angular</negrita>.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_03_CO_Recurso120&amp;IdRecurso=RES-CA4949BDD9724835B851E0F10685351C"
@@ -423,8 +419,9 @@ id="S2_CN_10_03_CO_8FCF419218784277A1F0D8D0C6B4B6D8">
 <seccion2Titulo>El movimiento circular uniformemente acelerado</seccion2Titulo>
 <seccion2Texto>
 <p>A diferencia del movimiento circular uniforme, la <negrita>velocidad
-angular ω es variable</negrita> en el tiempo, esto conlleva la existencia
-de una <negrita>aceleración angular α</negrita>.</p>
+angular <cursiva>ω</cursiva> es variable</negrita> en el tiempo, esto
+conlleva la existencia de una <negrita>aceleración angular <cursiva
+>α</cursiva></negrita>.</p>
 <p>Este tipo de movimiento lo podemos observar, por ejemplo, en la
 rueda de un automóvil o de una bicicleta que empieza a moverse, o
 en los asientos de una noria de un parque de atracciones hasta que
@@ -438,18 +435,18 @@ un movimiento uniformemente acelerado.</p>
 <p>En analogía con un movimiento rectilíneo uniformemente acelerado,
 la <negrita>aceleración angular permanece constante</negrita>, lo
 que permite realizar una comparación entre los dos movimientos.</p>
-<formula alineacion="centrada" src="CN_10_03_CO_Tabla_03.gif"></formula>
+<formula alineacion="centrada" src="CN_10_03_CO_Tabla_03.png"></formula>
 <p>En el movimiento circular uniformemente acelerado se presentan <negrita
 >dos componentes</negrita> para la aceleración:</p>
 <listaSinNumerar>
-<listaElemento><negrita>Aceleración tangencial <cursiva>a<subindice
->t</subindice></cursiva></negrita> se relaciona con la <negrita>variación
-en la magnitud</negrita> del vector velocidad lineal (o velocidad
-tangencial):<br/><formula alineacion="centrada"
+<listaElemento>               <negrita>Aceleración tangencial <cursiva
+>a<subindice>t</subindice></cursiva></negrita> se relaciona con la <negrita
+>variación en la magnitud</negrita> del vector velocidad lineal (o
+velocidad tangencial):<br/><formula alineacion="centrada"
 src="CN_10_03_formula24.gif"></formula></listaElemento>
-<listaElemento><negrita>Aceleración centrípeta <cursiva>a<subindice
->c</subindice></cursiva></negrita> se relaciona con la <negrita>variación
-en la dirección</negrita> del vector velocidad: </listaElemento>
+<listaElemento>               <negrita>Aceleración centrípeta <cursiva
+>a<subindice>c</subindice></cursiva></negrita> se relaciona con la <negrita
+>variación en la dirección</negrita> del vector velocidad: </listaElemento>
 </listaSinNumerar>
 <formula alineacion="centrada" src="CN_10_03_formula25.gif"></formula>
 <imagen src="CN_10_03_CO_img_12_small.jpg">
@@ -510,7 +507,7 @@ estaba rodeada por numerosas esferas que giraban a su alrededor. Los <negrita
 pequeños movimientos circulares (epiciclos). La esfera más grande,
 la de las estrellas fijas, envolvía todo el cosmos. Ptolomeo explicaba
 el movimiento de los astros tal como se observa desde la Tierra.</p>
-<imagen src="CN_10_03_CO_img_13_small.jpg">
+<imagen ampliable="no" src="CN_10_03_CO_img_13_small.jpg">
 <p>Por suponer que nuestro planeta era el centro del universo, el
 modelo que propuso <negrita>Ptolomeo</negrita> en el año 140 d. C.
 se conoce como <negrita>teoría geocéntrica</negrita>.</p>
@@ -642,9 +639,9 @@ cubo del semieje mayor de su órbita”.</p>
 <formula alineacion="centrada" src="CN_10_03_formula27.gif"></formula>
 <p>Por tanto,</p>
 <formula alineacion="centrada" src="CN_10_03_formula28.gif"></formula>
-<p>En esta expresión, <negrita>T</negrita> es el periodo orbital y <negrita
->R</negrita> es la distancia media entre el planeta y el Sol (que
-es igual al semieje mayor de la órbita).</p>
+<p>En esta expresión, <negritacursiva>T</negritacursiva> es el periodo
+orbital y <negritacursiva>R</negritacursiva> es la distancia media
+entre el planeta y el Sol (que es igual al semieje mayor de la órbita).</p>
 <p>Esta ley, que indica que los planetas se mueven más despacio cuanto
 más alejados se encuentran del Sol, abriría el camino que llevó a <negrita
 >Newton</negrita> a enunciar la <negrita>ley de la gravitación universal</negrita
@@ -656,10 +653,9 @@ media que lo separa del Sol. A partir de la tabla se puede comprobar
 que para nuestro sistema solar la <cursiva>constante</cursiva> es
 aproximadamente K = 2,9 x 10-19 s<superindice>2</superindice>/m<superindice
 >3</superindice>. Basta con realizar las conversiones necesarias de
-las unidades astronómicas UA (1 UA equivale a 149597870700 metros
-que equivale aproximadamente a la distancia media entre el planeta
-Tierra y el Sol) y las unidades de tiempo a segundos. ¡Realiza los
-cálculos y demuéstralo!</p>
+las unidades astronómicas UA (1 UA equivale a 149 597 870 700 m, que
+equivale aproximadamente a la distancia media entre el planeta Tierra
+y el Sol) y las unidades de tiempo a segundos.</p><?Pub Caret -1?>
 </imagen>
 <profundiza>
 <enlace
