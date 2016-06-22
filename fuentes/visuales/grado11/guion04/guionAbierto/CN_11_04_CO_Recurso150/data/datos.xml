@@ -1,0 +1,265 @@
+<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f6"><main layout="1">
+<title>Interferencia luminosa y sonora</title>
+<footer>Selecciona una imagen</footer>
+</main>
+<sections>
+<section i="0" star="false" hasSubsections="false">
+<menuImage path="imagendummy_motorf.jpg" border="0">
+<title><![CDATA[El fenómeno de interferencia]]></title>
+</menuImage>
+<pages>
+<page i="0" visible="true" color="">
+<title>La interferencia</title>
+<description><![CDATA[<ul>
+	<li><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size:20px;">Cuando dos o m&aacute;s ondas se cruzan, se afectan mutuamente, ya sea <strong>aumentando </strong>o <strong>disminuyendo </strong>su amplitud.</span></span></li>
+	<li><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size:20px;">Este fen&oacute;meno se conoce como <strong>interferencia</strong>.</span></span></li>
+	<li><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size:20px;">La interferencia se produce en ondas de la misma naturaleza, o similar. As&iacute;, las ondas sonoras se interfieren entre s&iacute;, pero no interfieren con ondas lum&iacute;nicas.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>Interferencia constructiva</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La interferencia entre las ondas produce una <strong>suma </strong>de sus <strong>amplitudes</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">En la <strong>interferencia constructiva</strong>, las ondas que se unen forman una nueva onda de mayor amplitud.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">En otras palabras, las <strong>crestas </strong>de la nueva onda ser&aacute;n m&aacute;s <strong>altas</strong>, y los <strong>valles </strong>ser&aacute;n m&aacute;s <strong>bajos</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Este efecto se conoce como <strong>amplificaci&oacute;n</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Se produce cuando los valles de una onda se encuentran con los valles de otra, o las crestas se unen a otras crestas.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>Interferencia destructiva</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">En la <strong>interferencia destructiva</strong>, la suma de amplitudes produce una onda de<strong> amplitud menor</strong>. </span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Este efecto se conoce como <strong>cancelaci&oacute;n</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Ocurre cuando se une una <strong>cresta</strong> de una onda con un <strong>valle</strong> de otra.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">En este caso, se suman un valor de amplitud <strong>positivo</strong> con uno <strong>negativo</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Si la amplitud de la cresta y el valle que se encuentran es la misma, la onda se <strong>cancela </strong>del todo, resultando en una amplitud de <strong>cero</strong>.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>Patrones de interferencia</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La forma en la que se interfieren las ondas depende de su <strong>frecuencia</strong>, su <strong>direcci&oacute;n </strong>y de si est&aacute;n en <strong>fase</strong> o <strong>fuera de fase</strong> (en <strong>desfase</strong>).</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Las ondas en fase son ondas con la misma <strong>frecuencia </strong>y <strong>longitud de onda</strong>, producidas de manera que las crestas de cada onda siempre coinciden, al igual que los valles</span></span>.</li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Dos ondas en <strong>fase</strong>, producir&aacute;n una nueva onda con el <strong>doble </strong>de amplitud.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Dos ondas <strong>desfasadas </strong>por <strong>media longitud de onda</strong> se cancelar&aacute;n completamente.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>Pulsaciones</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Las ondas con <strong>frecuencias </strong>o longitudes diferentes<strong> </strong>o con un <strong>desfase </strong>que no es de media longitud de onda, sufrir&aacute;n interferencia constructiva en algunas zonas y destructiva en otras.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Esta fluctuaci&oacute;n de amplitudes grandes y peque&ntilde;as se conoce como <strong>pulsaci&oacute;n</strong>.</span></span></li>
+	<li><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size:20px;">En las <strong>ondas esf&eacute;ricas</strong> tambi&eacute;n se producen zonas de interferencia constructiva y destructiva, incluso si las ondas est&aacute;n en fase.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>Patrones de interferencia</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">En los <strong>patrones de interferencia </strong>producidos con ondas esf&eacute;ricas se obtienen l&iacute;neas constantes de amplitud cero, conocidas como <strong>l&iacute;neas nodales</strong>, y zonas en donde la amplitud es m&aacute;xima.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Estos patrones var&iacute;an seg&uacute;n diferentes factores, incluyendo la <strong>distancia </strong>entre las <strong>fuentes </strong>de las ondas, y las <strong>longitudes </strong>y <strong>frecuencias </strong>de dichas ondas.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+</pages>
+</section><section i="0" star="false" hasSubsections="false">
+<menuImage path="imagendummy_motorf.jpg" border="0">
+<title><![CDATA[La interferencia de ondas sonoras]]></title>
+</menuImage>
+<pages>
+<page i="0" visible="true" color="">
+<title>La interferencia en el sonido</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La <strong>interferencia </strong>en las <strong>ondas sonoras</strong> se percibe como cambios en la <strong>intensidad </strong>del sonido. </span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family:verdana,geneva,sans-serif;">Cuando hay interferencia <strong>constructiva</strong>, aumenta la amplitud de las ondas sonoras y por tanto el sonido es m&aacute;s intenso, o m&aacute;s &quot;<strong>fuerte</strong>&quot;.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La interferencia <strong>destructiva </strong>de las ondas sonoras produce un sonido menos intenso (m&aacute;s &quot;<strong>d&eacute;bil</strong>&quot;), o lo cancela completamente.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>La interferencia en el sonido</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Dos <strong>fuentes </strong>de sonido produciendo ondas es fase generar&aacute;n un patr&oacute;n de <strong>interferencia</strong>, en donde las <strong>l&iacute;neas nodales</strong> formar&aacute;n zonas en donde no hay sonido.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">En donde hay <strong>interferencia constructiva </strong>estar&aacute; el sonido de mayor intensidad. </span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Una persona movi&eacute;ndose en un cuarto en donde hay este patr&oacute;n de interferencia, percibir&aacute; las diferencia en el sonido seg&uacute;n el <strong>lugar </strong>en el que se ubique.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>La interferencia en el sonido</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">En el caso de las ondas sonoras fuera de fase, la variaci&oacute;n o <strong>pulsaci&oacute;n </strong>se percibir&aacute; con el <strong>tiempo</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Una persona que escuche la interferencia de ondas fuera de fase percibir&aacute; como estas van cambiando, sin necesidad de desplazarse del sitio en el que est&eacute;.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">En ac&uacute;stica es posible usar la interferencia para <strong>reforzar </strong>o <strong>eliminar </strong>sonidos determinados.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Algunos aud&iacute;fonos, por ejemplo, eliminan el ruido de fondo produciendo ondas sonoras que interfieren destructivamente con ese ruido.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+</pages>
+</section><section i="0" star="false" hasSubsections="false">
+<menuImage path="imagendummy_motorf.jpg" border="0">
+<title><![CDATA[La interferencia de ondas lumínicas]]></title>
+</menuImage>
+<pages>
+<page i="0" visible="true" color="">
+<title>Interferencia en la luz</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Las ondas lum&iacute;nicas tambi&eacute;n se <strong>interfieren</strong> entre s&iacute;.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Para ver un patron de interferncia claro, se necesita que las ondas est&eacute;n en <strong>fase</strong>, o tengan un <strong>desfase constante</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Dado que la luz es producida por el <strong>movimiento</strong> <strong>aleatorio </strong>de part&iacute;culas<strong> subat&oacute;micas</strong>, las ondas lum&iacute;nicas salen desordenadas, por lo que no se forman l&iacute;neas nodales ni&nbsp; de interferencia.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">As&iacute;, dos bombillos en una habitaci&oacute;n no formar&aacute;n zonas iluminadas y oscuras por interferencia.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>Interferencia usando luz difractada</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Es posible &quot;organizar&quot; las ondas luminosas de forma que tengan un patr&oacute;n estable, y puedan producir <strong>figuras de interferencias</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Esto se logra gracias a la <strong>difracci&oacute;n</strong>. </span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Cuando se hace pasar luz por una peque&ntilde;a <strong>rendija</strong>, esta act&uacute;a como una nueva <strong>fuente </strong>de luz (principio de Huygens).</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Si esta luz se difracta de nuevo al pasar por <strong>dos nuevas rendijas</strong>, quedar&aacute; en <strong>fase</strong>, o con un <strong>desfase</strong> <strong>constante</strong>: todo cambio en la luz que llega a la primera rendija se reflejar&aacute; en la que llega a las dos siguientes.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>Patrón de interferencia de la luz</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Dado que la luz que sale de las dos rendijas est&aacute; ahora <strong>coordinada</strong>, la <strong>interferencia </strong>de sus ondas es constante.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Si esta luz llega hasta una pantalla, se ver&aacute; un <strong>patr&oacute;n de interferencia</strong> formado por l&iacute;neas claras y oscuras.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">En las l&iacute;neas <strong>claras</strong> hay interferencia <strong>constructiva</strong>, y en las <strong>oscuras</strong>, <strong>destructiva</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Las l&iacute;neas oscuras se producen por l&iacute;neas nodales.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>Interferencia de luz reflejada</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Existen casos en donde naturalmente se da la <strong>interferencia </strong>lum&iacute;nica.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Esta interferencia normalmente se da porque al llegar a una superficie, una parte de la luz se <strong>refleja </strong>en la <strong>cara superior</strong> de dicha superficie, y otra parte se refleja en la <strong>cara inferior</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Ese desfase en los reflejos hace que las ondas se crucen, y se <strong>interfieran</strong>, tanto constructiva como destructivamente.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>Interferencia de colores: iridiscencia</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Cuando la interferencia se da con luz <strong>blanca</strong>, puede haber interferencia <strong>destructiva</strong> de alg&uacute;n <strong>color </strong>determinado, lo que hace que la luz se vea del color <strong>complementario</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">As&iacute;, si se eliminan las ondas de luz que vibran en la frecuencia del color azul, el rayo de luz se ver&aacute; amarillo, que es el color complementario al azul.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Nomalmente, en algunas zonas se elimina un color, y en otras otro, por lo que se forma un <strong>patr&oacute;n multicolor</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Este fen&oacute;meno se conoce como <strong>iridiscencia</strong>.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>Interferencia de colores: iridiscencia</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La iridiscencia se observa en las manchas de gasolina sobre agua. Una parte de la luz se refleja al llegar hasta la gasolina, y otra se refleja en el agua debajo. Al cruzarse, las ondas se interfieren</span></span>.</li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Por eso las manchas de gasolina en el piso a menudo tienen visos de colores, al igual que el aceite, el petr&oacute;leo y varias otras sustancias.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Lo mismo ocurre en las burbujas de jab&oacute;n: una parte de la luz se refleja en la cara externa de la membrana de jab&oacute;n, y otra en la cara interna, por lo que a veces se ven colores en las burbujas.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+</pages>
+</section></sections>
+</engine>

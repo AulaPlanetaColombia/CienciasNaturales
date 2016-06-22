@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="1" clase="c" aprid="m1c">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Aprende en qué consiste la refracción</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M1C]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Completa las oraciones al unir las frases correspondientes.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <textoatexto cantidad="5">
+    <cuestion>
+      <pregunta><![CDATA[La refracción es el cambio de dirección de las ondas que ocurre cuando]]></pregunta>
+      <respuesta><![CDATA[estas llegan a un nuevo medio.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[La refracción solo ocurre cuando]]></pregunta>
+      <respuesta><![CDATA[la velocidad de propagación de las ondas en los dos medios es diferente.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Las ondas incidente y refractada están en el mismo plano que ]]></pregunta>
+      <respuesta><![CDATA[la recta normal a la superficie de refracción.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[El cociente de los senos de los ángulos de las ondas incidente y refractada es igual al cociente de ]]></pregunta>
+      <respuesta><![CDATA[las velocidades de las ondas en cada medio.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[La ley de Snell permite calcular la velocidad de las ondas en un medio o]]></pregunta>
+      <respuesta><![CDATA[su ángulo de refracción, si se cuenta con la información suficiente.]]></respuesta>
+    </cuestion>
+  </textoatexto>
+  <textofalso cantidad="0"/>
+</motor>

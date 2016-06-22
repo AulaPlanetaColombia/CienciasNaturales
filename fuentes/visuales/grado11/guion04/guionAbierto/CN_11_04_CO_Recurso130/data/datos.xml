@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="4" clase="a" aprid="m4a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Las diferencias entre difracción, reflexión y refracción</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M4A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Completa cada oración con la opción correcta.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="5">
+    <cuestion>
+      <enunciado><![CDATA[Si una onda llega a la superficie de un nuevo medio y se desvía devolviéndose al medio original, se ha...]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="polarizado" correcta="0"/>
+        <respuesta contestacion="refractado" correcta="0"/>
+        <respuesta contestacion="reflejado" correcta="1"/>
+        <respuesta contestacion="difractado" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Cuando se introduce parcialmente un objeto en el agua, se ve como si se torciera. Esto se debe a la...]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="refracción" correcta="1"/>
+        <respuesta contestacion="reflexión" correcta="0"/>
+        <respuesta contestacion="difracción" correcta="0"/>
+        <respuesta contestacion="ilusión" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Si se obliga a una onda transversal a vibrar en un solo plano, se ha...]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="polarizado" correcta="1"/>
+        <respuesta contestacion="reflejado" correcta="0"/>
+        <respuesta contestacion="difractado" correcta="0"/>
+        <respuesta contestacion="descompuesto" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[La descomposición de la luz depende de la...]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="reflexión" correcta="0"/>
+        <respuesta contestacion="refracción" correcta="1"/>
+        <respuesta contestacion="polarización" correcta="0"/>
+        <respuesta contestacion="difracción" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[El ángulo que tiene una onda antes de llegar a una superficie de separación entre dos medios es igual al que tiene al alejarse de dicha superficie durante la...]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="reflexión y refracción" correcta="0"/>
+        <respuesta contestacion="refracción y difracción" correcta="0"/>
+        <respuesta contestacion="reflexión" correcta="1"/>
+        <respuesta contestacion="refracción" correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="5" clase="a" aprid="m5a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Refracción de luz y sonido</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M5A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Desarrolla los siguientes ejercicios.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="5">
+    <cuestion>
+      <enunciado><![CDATA[Una onda pasa del medio 1 al medio 2, y se refracta. Si el ángulo de refracción es menor al de incidencia, ¿en que medio se mueve más rápido la onda?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[imagendummy_motorf.jpg]]></imagen>
+      <ampliacion/>
+      <respuestas>
+        <respuesta contestacion="En el medio 1." correcta="1"/>
+        <respuesta contestacion="En el medio 2." correcta="0"/>
+        <respuesta contestacion="No se puede saber." correcta="0"/>
+        <respuesta contestacion="Depende de la onda." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Para que haya refracción, ¿como debe ser la velocidad de una onda en el primer medio con respecto al segundo?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[imagendummy_motorf.jpg]]></imagen>
+      <ampliacion/>
+      <respuestas>
+        <respuesta contestacion="Mayor" correcta="0"/>
+        <respuesta contestacion="Menor" correcta="0"/>
+        <respuesta contestacion="Igual" correcta="0"/>
+        <respuesta contestacion="Diferente" correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Una onda se difracta con un ángulo de 60°. Si su ángulo de incidencia fue de 40°, y se mueve en el nuevo medio a 108 m/s, ¿a qué velocidad iba por el medio original? ]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[imagendummy_motorf.jpg]]></imagen>
+      <ampliacion/>
+      <respuestas>
+        <respuesta contestacion="80,2 m/s" correcta="1"/>
+        <respuesta contestacion="145,5 m/s" correcta="0"/>
+        <respuesta contestacion="0,005 m/s" correcta="0"/>
+        <respuesta contestacion="72 m/s" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Una onda viaja en el medio 1 a una velocidad de 33 m/s, y en el medio 2 a 30 m/s. Si la onda llegó al medio 2 con un ángulo de incidencia de 45°, ¿cuál será su ángulo de refracción?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[imagendummy_motorf.jpg]]></imagen>
+      <ampliacion/>
+      <respuestas>
+        <respuesta contestacion="0,77°" correcta="0"/>
+        <respuesta contestacion="0,64°" correcta="0"/>
+        <respuesta contestacion="51°" correcta="0"/>
+        <respuesta contestacion="40°" correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Un rayo de luz que sale desde la tierra y llega al espacio, ¿se difractará?]]></enunciado>
+      <explicacion/>
+      <imagen><![CDATA[imagendummy_motorf.jpg]]></imagen>
+      <ampliacion/>
+      <respuestas>
+        <respuesta contestacion="Si, porque la luz no se propaga en el vacío" correcta="0"/>
+        <respuesta contestacion="No, porque el espacio no es un nuevo medio" correcta="0"/>
+        <respuesta contestacion="Si, la luz tiene la misma velocidad en el aire y el vacío" correcta="1"/>
+        <respuesta contestacion="No, porque la velocidad de la luz es constante" correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>

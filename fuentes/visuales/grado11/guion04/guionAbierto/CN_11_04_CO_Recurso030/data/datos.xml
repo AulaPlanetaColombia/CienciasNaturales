@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="4" clase="a" aprid="m4a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Reflexión de luz y sonido</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M4A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Escoge la respuesta correcta en cada caso.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="5">
+    <cuestion>
+      <enunciado><![CDATA[Durante la reflexión, las ondas...]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="regresan al medio original" correcta="1"/>
+        <respuesta contestacion="pasan al nuevo medio" correcta="0"/>
+        <respuesta contestacion="se duplican" correcta="0"/>
+        <respuesta contestacion="permanecen inalteradas" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[El ángulo de incidencia es...]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="la mitad del ángulo de reflexión" correcta="0"/>
+        <respuesta contestacion="el doble del ángulo de reflexión" correcta="0"/>
+        <respuesta contestacion="igual al ángulo de reflexión" correcta="1"/>
+        <respuesta contestacion="diferente al ángulo de reflexión" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Las ondas incidente y reflejada están en...]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="el mismo plano que la recta normal" correcta="1"/>
+        <respuesta contestacion="un plano perpendicular a la recta normal" correcta="0"/>
+        <respuesta contestacion="la misma recta que la normal" correcta="0"/>
+        <respuesta contestacion="planos perpendiculares entre sí" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[La reflexión se da en...]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="las ondas mecánicas" correcta="0"/>
+        <respuesta contestacion="las ondas electromagnéticas" correcta="0"/>
+        <respuesta contestacion="las ondas en movimiento" correcta="0"/>
+        <respuesta contestacion="todas las ondas" correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Cuando se da sobre una superficie irregular, la reflexión es]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="especular" correcta="0"/>
+        <respuesta contestacion="incompleta" correcta="0"/>
+        <respuesta contestacion="difusa" correcta="1"/>
+        <respuesta contestacion="regular" correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>

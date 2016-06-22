@@ -1,0 +1,194 @@
+<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f6"><main layout="1">
+<title>La reflexión de las ondas luminosas y sonoras</title>
+<footer>Selecciona una imagen</footer>
+</main>
+<sections>
+<section i="0" star="false" hasSubsections="false">
+<menuImage path="imagendummy_motorf.jpg" border="0">
+<title><![CDATA[El fenómeno de la reflexión]]></title>
+</menuImage>
+<pages>
+<page i="0" visible="true" color="">
+<title>¿Qué es la reflexión?</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La reflexi&oacute;n es un <strong>fen&oacute;meno ondulatorio</strong> en el cual las ondas cambian su <strong>direcci&oacute;n de propagaci&oacute;n</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Se da cuando las ondas llegan a la <strong>superficie de separaci&oacute;n</strong> entre dos medios.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">El cambio de direcci&oacute;n es similar a un <strong>rebote </strong>de las ondas: al llegar al nuevo medio, las ondas se devuelven para seguir propag&aacute;ndose por el medio original.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>Ondas incidente y reflejada y recta normal</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Las ondas que llegan al nuevo medio se conocen como <strong>ondas incidentes</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Cuando las ondas cambian su direcci&oacute;n al reflejarse, se conocen como <strong>ondas reflejadas.</strong></span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La l&iacute;nea que parte del punto en donde las ondas se reflejan y est&aacute; a 90&deg; de la superficie en donde se da la reflexi&oacute;n es una <strong>recta normal</strong> o <strong>perpendicular</strong>.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>La leyes de la reflexión</title>
+<description><![CDATA[<p><strong><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Primera ley de la reflexi&oacute;n</span></span></strong></p>
+
+<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Las ondas incidentes y reflejadas y la recta normal est&aacute;n siempre en el mismo plano.</span></span></li>
+</ul>
+
+<p><strong><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Segunda ley de la reflexi&oacute;n</span></span></strong></p>
+
+<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">El &aacute;ngulo formado entre la normal y la onda incidente es el mismo que el que se forma entre la normal y la onda reflejada.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>Reflexión especular y difusa</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Cuando la reflexi&oacute;n se da en una <strong>superficie lisa</strong>, todas las ondas se reflejan en la misma direcci&oacute;n. Este tipo de reflexi&oacute;n se conoce como <strong>especular</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Cuando la reflexi&oacute;n se da en una <strong>superficie irregular</strong>, distintas ondas tendr&aacute;n diferentes direcci&oacute;nes al reflejarse, seg&uacute;n la parte de la superficie a la que lleguen. Este tipo de reflexi&oacute;n se conoce como <strong>difusa</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Tanto en la reflexi&oacute;n especular como la difusa se cumplen las leyes de la reflexi&oacute;n.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+</pages>
+</section><section i="0" star="false" hasSubsections="false">
+<menuImage path="imagendummy_motorf.jpg" border="0">
+<title><![CDATA[La reflexión del sonido]]></title>
+</menuImage>
+<pages>
+<page i="0" visible="true" color="">
+<title>La reflexión del sonido</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Como todas las ondas, el <strong>sonido </strong>es capaz de reflejarse.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La reflexi&oacute;n del sonido permite que un receptor pueda captar sonidos que no se dirigen directamente a sus o&iacute;dos.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Diferentes aplicaciones tecnol&oacute;gicas tienen en cuenta este fen&oacute;meno: </span></span>
+	<ul>
+		<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">los auditorios se construyen de manera que el sonido llegue a todos los asistentes. </span></span></li>
+		<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">los sonares y los ec&oacute;grafos son m&aacute;quinas que miden las distancias y formas de los objetos a partir del tiempo que tarda el sonido en regresar el ser reflejado.</span></span></li>
+	</ul>
+	</li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>El eco</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Cuando el <strong>tiempo </strong>que toma el sonido en regresar hasta el emisor es suficientemente largo para ser percibido, se producen el efecto ac&uacute;stico llamado <strong>eco</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Los lugares en donde se produce eco tienen en com&uacute;n que la superficie reflejante est&aacute; lo suficientemente lejos del emisor para que pueda percibir el <strong>retraso </strong>en el regreso del sonido.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">A una temperatura de entre 15 y 17&deg; C, el sonido viaja por el aire a aproximadamente 340 m/s. U<span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">na persona oir&aacute; el eco de su propia voz con un segundo de retraso si est&aacute; a 170 metros de la superficie reflejante cuando produce el sonido.</span></span></span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>La reverberación</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La <strong>reberveraci&oacute;n </strong>es una prolongaci&oacute;n de un sonido producida m&uacute;ltiples reflexiones.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Se produce cuando existen muchas superficies reflectoras.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">En este caso, el oyente recibe una serie de ecos de mismo sonido.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La reberveraci&oacute;n se percibe como un estruendo. Un rel&aacute;mpago, as&iacute; como el disparo de un arma de fuego, producen un sonido que reverbera.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+</pages>
+</section><section i="0" star="false" hasSubsections="false">
+<menuImage path="imagendummy_motorf.jpg" border="0">
+<title><![CDATA[La reflexión de la luz]]></title>
+</menuImage>
+<pages>
+<page i="0" visible="true" color="">
+<title>La reflexión de la luz</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La luz visible se compone de <strong>ondas electromagn&eacute;ticas</strong> dentro de cierto rango de <strong>frecuencias</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La gran mayor&iacute;a de los objetos que vemos no producen luz propia; son visible porque <strong>reflejan</strong> la luz de otras fuentes.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">De la luz que incide en un objeto, una parte es <strong>absorbida </strong>y se transforma en calor, y otra parte vuelve a ser <strong>emitida</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Cuando la luz emitida <strong>regresa </strong>al medio del que provino, ha sido reflejada. Cuando no lo hace, ha sido <strong>refractada</strong>.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>El color</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Cada frecuencia de la luz visible y su correspondiente <strong>longitud de onda</strong> conforma un <strong>color </strong>diferente.&nbsp; </span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Los diferentes materiales absorben distintas longitudes de onda de la luz, y por tanto var&iacute;an en el tipo de luz que reflejan.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">El <strong>color </strong>de un objeto depende la longitud de onda de la luz reflejada. Si un material absorbe todas las longitudes de onda menos la que corresponde al color verde, ser&aacute; percibido de color verde.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Cuando un objeto refleja todas las longitudes de onda de la luz visible, es de color <strong>blanco</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Cuando un objeto absorbe todas las longitudes de onda de la luz visible, es de color <strong>negro</strong>.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>La reflexión difusa de la luz</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Al hablar de reflexi&oacute;n, una superficie se considera <strong>lisa</strong> o <strong>rugosa </strong>seg&uacute;n el tama&ntilde;o de sus irregulariades en comparaci&oacute;n con la longitud de las ondas que inciden sobre ella.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Debido a que la longitud de las ondas luminosas es poca, la mayor&iacute;a de las superficies son <strong>irregulares</strong> para la luz.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Por eso, la mayor&iacute;a de la reflexi&oacute;n de la luz es <strong>difusa</strong>.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>La reflexión especular de la luz</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Cuando una superficie es lisa para la luz, se dice que est&aacute; <strong>pulida</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Los espejos, el agua en calma y muchos metales, constituyen superficies lisas.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La reflexi&oacute;n especular (de espejo) de la luz produce el brillo caracter&iacute;sticos de las superficies pulidas.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+</pages>
+</section></sections>
+</engine>

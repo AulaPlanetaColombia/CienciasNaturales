@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f6"><main layout="1">
+<title>La difracción de la luz y el sonido</title>
+<footer>Selecciona una imagen</footer>
+</main>
+<sections>
+<section i="0" star="false" hasSubsections="false">
+<menuImage path="imagendummy_motorf.jpg" border="0">
+<title><![CDATA[El fenómeno de la difracción]]></title>
+</menuImage>
+<pages>
+<page i="0" visible="true" color="">
+<title>La difracción</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Cuando las ondas llegan a un <strong>obst&aacute;culo </strong>que no pueden atravezar, es posible que puedan <strong>rodearlo</strong>. </span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Al hacerlo, modifican su <strong>direcci&oacute;n de propagaci&oacute;n</strong></span></span>, <span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">en mayor o menor medida.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Este fen&oacute;meno se conoce como <strong>difracci&oacute;n</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La <strong>difracci&oacute;n </strong>es una <strong>variaci&oacute;n </strong>en la <strong>direcci&oacute;n</strong> de una onda, debida a un obst&aacute;culo que interrumpe <strong>parcialmente </strong>su propagaci&oacute;n.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>Difracción por obstáculos grandes y pequeños</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">C&oacute;mo se difracte una onda depende de la relaci&oacute;n entre su <strong>longitud de onda</strong> y el <strong>tama&ntilde;o</strong> del obst&aacute;culo.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Una onda de gran longitud en comparaci&oacute;n al obst&aacute;culo puede <strong>rodearlo completamente</strong> sin sufir m&aacute;s que algunas alteraciones puntuales en su direcci&oacute;n.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Una onda peque&ntilde;a ante un obst&aacute;culo grande puede rodearlo por solo uno de sus <strong>extremos</strong>; en este caso, la direcci&oacute;n de propagaci&oacute;n se altera.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>Difracción por una abertura</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">A veces las ondas pasan por una <strong>peque&ntilde;a</strong> <strong>abertura</strong> o <strong>rendija </strong>del obst&aacute;culo.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">En estos casos, la onda sufre alteraciones en su direcci&oacute;n en todos los puntos en los que entra en contacto con la abertura.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">El fragmento de la onda que atravieza el obst&aacute;culo se comporta como una <strong>fuente </strong>de ondas.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La forma de las nuevas ondas depender&aacute; de la relaci&oacute;n entre el <strong>tama&ntilde;o </strong>de la abertura y la <strong>longitud </strong>de las ondas originales.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>El principio de Huygens</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Christiaan Huygens propuso en 1678 que cada onda se puede considerar una <strong>combinaci&oacute;n </strong>de muchas<strong> ondas m&aacute;s peque&ntilde;as</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Por eso, cualquier parte de una onda puede actuar como <strong>fuente </strong>de nuevas ondas, tal y como ocurre con la difracci&oacute;n a trav&eacute;s de una abertura.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Esto se conoce como el <strong>principio de Huygens</strong>.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+</pages>
+</section><section i="0" star="false" hasSubsections="false">
+<menuImage path="imagendummy_motorf.jpg" border="0">
+<title><![CDATA[La difracción de las ondas sonoras]]></title>
+</menuImage>
+<pages>
+<page i="0" visible="true" color="">
+<title>La difracción del sonido</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La <strong>difracci&oacute;n </strong>del sonido es responsable de diversos fen&oacute;menos ac&uacute;sticos, y nos<span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;"> permite percibir muchos sonidos que de otra forma ser&iacute;an bloqueados.</span></span></span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Al difractarse, las ondas sonoras <strong>rodean </strong>el obst&aacute;culo y llegan a los o&iacute;dos de los oyentes.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Esto es posible porque las ondas sonoras del <strong>espectro audible</strong> (las ondas percibidas por el o&iacute;do humano) son relativamente grandes. </span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Las longitudes de onda en el espectro audible var&iacute;an entre 1,7 cent&iacute;metros y 17 metros.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>La difracción del sonido</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Los sonidos <strong>graves</strong>, que corresponden a las <strong>mayores longitudes de onda</strong>, pueden sobrepasar los obst&aacute;culos con m&aacute;s facilidad que los sonidos <strong>agudos</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Por eso cuando el sonido est&aacute; bloqueado, es m&aacute;s f&aacute;cil percibir los tonos graves.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Despu&eacute;s de que un sonido atravieza una abertura peque&ntilde;a, esta se percibe como la fuente del sonido, debido al <strong>principio de Huygens</strong>.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+</pages>
+</section><section i="0" star="false" hasSubsections="false">
+<menuImage path="imagendummy_motorf.jpg" border="0">
+<title><![CDATA[La difracción de las ondas lumínicas]]></title>
+</menuImage>
+<pages>
+<page i="0" visible="true" color="">
+<title>La difracción de la luz</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La <strong>luz visible</strong> se compone de ondas electromagn&eacute;ticas cuyas <strong>longitudes de onda</strong> son muy <strong>peque&ntilde;as</strong></span></span>: <span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">desde los 390 hasta los 750 nm aproximadamente (un <strong>nan&oacute;metro</strong>, nm, es una milmillon&eacute;sima parte de un metro).</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Por eso, las ondas lum&iacute;nicas no pueden <strong>rodear completamente</strong> los objetos macrosc&oacute;picos, como s&iacute; lo hacen las ondas sonoras.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">No obstante, la <strong>difracci&oacute;n de la luz</strong> tambi&eacute;n es un fen&oacute;meno com&uacute;n.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>La difracción de la luz y las sombras</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Cuando la luz choca contra un objeto que no es transparente, es detenida, y se produce una <strong>sombra</strong>, es decir, una regi&oacute;n sin luz detr&aacute;s del objeto.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Sin embargo, la luz que pasa muy cerca del borde del objeto se <strong>difracta</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Por eso, los bordes de las sombras no est&aacute;n bien definidos, y si se observa con cuidado, se notar&aacute; que la luz se <strong>difumina</strong> desde una zona oscura hasta una zona clara.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>Difracción de la luz a través de ranuras</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La luz tambi&eacute;n se difracta al pasar por una <strong>ranura</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Como la magnitud de la difracci&oacute;n depende de la relaci&oacute;n entre la <strong>longitud de onda</strong> y el <strong>tama&ntilde;o de la abertura</strong>, una ranura grande produce muy poca difracci&oacute;n, y es dificil de observar.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">En cambio, una <strong>ranura delgada</strong>, como la que hace una cuchilla de afeitar sobre un cart&oacute;n, hace que la luz se difracte mucho m&aacute;s, y su efecto es m&aacute;s evidente.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>La difracción de la luz y la microscopía</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La difracci&oacute;n de la luz impone un l&iacute;mite natural a lo que se puede ver usando un <strong>microsc&oacute;pio &oacute;ptico</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Debido a la <strong>difracci&oacute;n</strong>, a medida que se observan objetos m&aacute;s peque&ntilde;os, las <strong>sombras</strong> que estos producen son cada vez menos definidas.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Si se trata de observar un objeto m&aacute;s peque&ntilde;o que la <strong>longitud de onda</strong> de la luz, no podr&aacute; verse nada.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>Los microscópios electrónicos</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Algunos objetos muy peque&ntilde;os se estudian usando <strong>rayos x</strong>, que tienen una <strong>longitud de onda</strong> menor a la de la luz.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Para ver objetos incluso m&aacute;s peque&ntilde;os, se usan los <strong>microscopios electr&oacute;nicos</strong>, que usan electrones para formar las im&aacute;genes.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Los electrones se comportan como <strong>ondas</strong>, pero con una longitud de onda hasta 100 000 veces menor a la que tiene la luz.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">En un microscopio electr&oacute;nico pueden verse objetos que lleguen a medir tan solo 0,05 nm.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+</pages>
+</section></sections>
+</engine>

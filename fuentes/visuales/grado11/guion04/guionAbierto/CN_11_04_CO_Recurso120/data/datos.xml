@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="8" clase="a" aprid="m8a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>El fenómeno de la difracción</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M8A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Escoge la respuesta correcta en cada caso.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="5">
+    <cuestion>
+      <enunciado><![CDATA[Cuando una onda rodea completamente un obstáculo al difractarse...]]></enunciado>
+      <imagen><![CDATA[imagendummy_motorf.jpg]]></imagen>
+      <ampliacion/>
+      <explicacion><![CDATA[Si importar el tipo de onda o la forma del obstáculo, si este el es muy grande en comparación a la longitud de onda, esta no puede rodearlo completamente.]]></explicacion>
+      <respuestas>
+        <respuesta contestacion="el obstáculo es pequeño en comparación a la longitud de onda." correcta="on"/>
+        <respuesta contestacion="el obstáculo en grande es comparación a la longitud de onda." correcta="0"/>
+        <respuesta contestacion="el obstáculo es redondo" correcta="0"/>
+        <respuesta contestacion="la onda es de un material flexible" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Es más fácil que el sonido rodee completamente un obstáculo, o que lo haga la luz?]]></enunciado>
+      <imagen><![CDATA[imagendummy_motorf.jpg]]></imagen>
+      <ampliacion/>
+      <explicacion><![CDATA[El sonido tiene mayor longitud de onda que la luz, por tanto rodea con mayor facilidad los obstáculos.]]></explicacion>
+      <respuestas>
+        <respuesta contestacion="El sonido." correcta="on"/>
+        <respuesta contestacion="La luz." correcta="0"/>
+        <respuesta contestacion="Es igual en ambos casos." correcta="0"/>
+        <respuesta contestacion="Depende de la onda en particular." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Pueden sobrepasar los obstáculos con mayor facilidad las voces masculinas o femeninas? Recuerda que la voz de las mujeres es más aguda que la de los hombres. ]]></enunciado>
+      <imagen><![CDATA[imagendummy_motorf.jpg]]></imagen>
+      <ampliacion/>
+      <explicacion><![CDATA[La voz de los hombres es de más baja frecuencia, por tanto su longitud de onda es mayor y es más probable que supere ciertos obstáculos.]]></explicacion>
+      <respuestas>
+        <respuesta contestacion="Las voces femeninas." correcta="0"/>
+        <respuesta contestacion="Las voces masculinas." correcta="on"/>
+        <respuesta contestacion="Es igual para ambos géneros." correcta="0"/>
+        <respuesta contestacion="La voz humana nunca supera obstáculos." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿En cuál de los siguientes casos se aprecia la difracción de la luz?]]></enunciado>
+      <imagen><![CDATA[imagendummy_motorf.jpg]]></imagen>
+      <ampliacion/>
+      <explicacion><![CDATA[La luz se difracta al pasar por el borde los objetos, y por eso el contorno de las sombras no está perfectamente definido.]]></explicacion>
+      <respuestas>
+        <respuesta contestacion="Al formar un arcoíris." correcta="0"/>
+        <respuesta contestacion="Al formar imágenes en los espejos." correcta="0"/>
+        <respuesta contestacion="Cuando la luz entra al agua." correcta="0"/>
+        <respuesta contestacion="En la formación de sombras." correcta="on"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué principio se ilustra en la siguiente imagen?]]></enunciado>
+      <imagen><![CDATA[imagendummy_motorf.jpg]]></imagen>
+      <ampliacion/>
+      <explicacion><![CDATA[El principio de Huygens permite entender que cuando una onda se difracta por una abertura, actúa como una fuente de ondas.]]></explicacion>
+      <respuestas>
+        <respuesta contestacion="Principio de Snell." correcta="0"/>
+        <respuesta contestacion="Principio de la doble rendija." correcta="0"/>
+        <respuesta contestacion="Principio de Huygens." correcta="on"/>
+        <respuesta contestacion="Principio de la difracción." correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>

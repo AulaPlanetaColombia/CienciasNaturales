@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="1" clase="c" aprid="m1c">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>El fenómeno de la interferencia</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M1C]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Completa los siguientes textos uniendo las frases correspondientes.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <textoatexto cantidad="5">
+    <cuestion>
+      <pregunta><![CDATA[Durante la interferencia constructiva]]></pregunta>
+      <respuesta><![CDATA[aumentan las amplitudes de las ondas que se unen.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Durante la interferencia destructiva]]></pregunta>
+      <respuesta><![CDATA[un valle de una onda se une a la cresta de otra.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[En el fenómeno de interferencia]]></pregunta>
+      <respuesta><![CDATA[las ondas se unen y alteran entre sí.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[En las líneas nodales de un patrón de interferencia]]></pregunta>
+      <respuesta><![CDATA[hay cancelación de ondas en puntos que permanecen fijos.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[La iridiscencia se forma porque]]></pregunta>
+      <respuesta><![CDATA[hay interferencia destructiva de determinados colores en distintas zonas.]]></respuesta>
+    </cuestion>
+  </textoatexto>
+  <textofalso cantidad="0"/>
+</motor>

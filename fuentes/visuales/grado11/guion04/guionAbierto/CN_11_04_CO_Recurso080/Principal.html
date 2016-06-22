@@ -1,0 +1,113 @@
+<!doctype html>
+<html  lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=10">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+        <script type='text/javascript' src='lib/ppppreloader/1_0/ppppreloader_min.js'></script> 
+	    <script>
+
+				// Rutina para obtener dinÃ¡micamente un parÃ¡metro de la URL
+				function getQueryParam(pName) {
+					var CurrURL = location.href;
+					var ParamsPos = CurrURL.indexOf("?", 0);
+					if (ParamsPos > 0) {
+						var ParamsStr = CurrURL.substr(ParamsPos+1, CurrURL.length);
+						var Params = ParamsStr.split("&");
+						for (var i=0;i<Params.length;i++) {
+							if (Params[i].indexOf(pName + "=", 0) === 0) {
+								return unescape(Params[i].substr(pName.length + 1, Params[i].length));
+							}
+						}
+					}
+					return "";
+				}
+				var datos_xml = getQueryParam("datos_xml");
+
+				var manifest = {
+
+				    blocks: [
+				    		{ type: "manifest", files: [ { from: "module", file:"motor/manifest.json"} ] }
+				    ],
+
+				    spinner: "no",
+
+				    waitForDocumentReady: true, 
+
+				    onEndLoading: function (mf) {
+
+				    	if (mf.errors.length > 0) {
+				    		logPreloaderErrors(mf);
+					        pppSpinner.hide();
+				    		return;
+				    	}
+
+				    	
+						// Si no se ha redireccionado datos_xml, usamos el valor por defecto
+						if (datos_xml == "") {
+							datos_xml = pppPreloader.from("data", "data/datos.xml" + "?time=" + new Date().getTime());
+						}
+
+				        Main.init();
+						$.calculator.setDefaults( {
+							showOn: 'both', 
+							buttonImageOnly: true, 
+							onButton: function(value, inst) { 
+								if( value == "Cerrar" ){
+						        	Contenedor.closeHandler();
+						       	}
+						   },
+							buttonImage: pppPreloader.from('CDN', 'extlib/calculadora/calculator.png')
+						});
+
+						pppSpinner.hide();
+
+						window.onbeforeunload = function() {
+							aulaPlaneta.SCORM.terminate();
+						};
+				    }
+				};
+
+				pppPreloader.init( {
+        			aliases: { "module": "CDN" },
+	        		remotePaths: { "module": "motors/m5a/" }
+	      		});
+
+				pppSpinner.show();
+
+				pppPreloader.loadManifest(manifest);
+
+				function logPreloaderErrors(mf) {
+			    	if (mf.errors.length > 0) {
+				        var msg = "ERROR pppPreloader: \n";
+				        for (var i=0;i<mf.errors.length;i++) {
+				        	msg += "  - " + mf.errors[i].type + ": " + mf.errors[i].file + " [" + mf.errors[i].url + "]\n";
+				        }
+				        console.log(msg);
+			    	}
+				}
+				
+				function buttonSymbol(typeSymbol, numberSymbol){
+        			Motor.InsertSymbol(typeSymbol,numberSymbol);
+        		}
+
+	    </script>
+
+    </head>
+    <body id="background">
+
+        <div id="aplicacion">
+        	<div id="wrapper">
+	        	
+				<div id="mediaHolder" style="height:0px">
+				</div>
+				<canvas id="stage" width="950" height="608"></canvas>
+					<span  id="calculator"></span>
+			</div>
+		</div>
+
+    </body>
+</html>

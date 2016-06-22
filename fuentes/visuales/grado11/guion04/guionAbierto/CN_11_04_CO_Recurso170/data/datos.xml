@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="5" clase="d" aprid="m5d">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>La naturaleza ondulatoria de la luz</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M5D]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Completa las siguientes oraciones escogiendo la frase correcta.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[1]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="5">
+    <cuestion>
+      <enunciado><![CDATA[Actualmente, se sabe que la luz es...]]></enunciado>
+      <explicacion/>
+      <texto><![CDATA[Durante mucho tiempo, los científicos ignoraron la naturaleza ondulatoria de la luz. Por eso, muchos fenómenos luminosos no tenían una explicación satisfactoria.]]></texto>
+      <respuestas>
+        <respuesta contestacion="una onda mecánica." correcta="0"/>
+        <respuesta contestacion="una onda electromagnética." correcta="1"/>
+        <respuesta contestacion="una onda inestable." correcta="0"/>
+        <respuesta contestacion="una vibración sonora." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[La difracción, reflexión y refracción de la luz ocurre cuando esta...]]></enunciado>
+      <explicacion/>
+      <texto><![CDATA[Sin embargo, diferentes pensadores comenzaron a plantear que la luz era una onda, y para sostener su posición mencionaron muchos comportamientos de la luz que son típicos de otras ondas conocidas, como las que se forman en el agua. Así, la luz se refleja, se refracta y se difracta.]]></texto>
+      <respuestas>
+        <respuesta contestacion="llega a la superficie de separación de dos medios." correcta="1"/>
+        <respuesta contestacion="tiene una longitud de onda mayor a 0." correcta="0"/>
+        <respuesta contestacion="pasa del aire al agua o viceversa." correcta="0"/>
+        <respuesta contestacion="viaja por el vacío." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[El experimento de la doble rendija se aporya en los fenómenos de...]]></enunciado>
+      <explicacion/>
+      <texto><![CDATA[Aún así, existía mucha resistencia a esta idea entre los científicos. Con el tiempo, diferentes pruebas de la verdadera naturaleza de la luz se fueron acumulando; un experimento en particular, que prácticamente acabo con la discusión, fue el experimento de la doble rendija. En este se comprobó que, en ciertas condiciones, es posible obtener a partir de un rayo de luz un patrón de bandas claras y oscuras. Esto solo es explicable pensando en la luz como una onda.]]></texto>
+      <respuestas>
+        <respuesta contestacion="difracción y reflexión." correcta="0"/>
+        <respuesta contestacion="reflexión y refracción." correcta="0"/>
+        <respuesta contestacion="difracción e interferencia." correcta="1"/>
+        <respuesta contestacion="interferencia y refracción." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Que la luz pueda ser polarizada indica que es una onda...]]></enunciado>
+      <explicacion/>
+      <texto><![CDATA[Con el tiempo han surgido nuevas pruebas de la naturaleza ondulatoria de la luz. Un ejemplo es su polarización, que solo es posible si la luz es una onda.]]></texto>
+      <respuestas>
+        <respuesta contestacion="con polos." correcta="0"/>
+        <respuesta contestacion="transversal." correcta="1"/>
+        <respuesta contestacion="longitudinal." correcta="0"/>
+        <respuesta contestacion="ordenada." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[La luz visible hace parte de un conjunto mucho más amplio de ondas. Este también incluye ondas como ]]></enunciado>
+      <explicacion/>
+      <texto><![CDATA[Actualmente se reconoce que la luz es una onda, pero también se ha encontrado que hay fenómenos que para ser explicados requieren que esta se comporte como si estuviera conformada por partículas y no por ondas. Entonces, se acepta que la luz tiene una doble naturaleza, como partícula y como onda.]]></texto>
+      <respuestas>
+        <respuesta contestacion="los rayos x, las microondas y las ondas de radio." correcta="1"/>
+        <respuesta contestacion="los colores, las ondas sonoras y los rayos x." correcta="0"/>
+        <respuesta contestacion="el sonido, las microondas y las ondas mecánicas." correcta="0"/>
+        <respuesta contestacion="el ultrasonido y la luz ultravioleta." correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>

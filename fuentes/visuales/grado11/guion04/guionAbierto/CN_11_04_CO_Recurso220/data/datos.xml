@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="4" clase="a" aprid="m4a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Evaluación</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M4A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Escoge la opción correcta en cada caso.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="10">
+    <cuestion>
+      <enunciado><![CDATA[El arcoíris se forma principalmente gracias a la ______ de la luz]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="refracción" correcta="1"/>
+        <respuesta contestacion="difracción" correcta="0"/>
+        <respuesta contestacion="polarización" correcta="0"/>
+        <respuesta contestacion="reflexión" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Cuando un rayo de luz que viaja por el aire atraviesa un vidro transparente, ¿qué fenómeno ondulatorio se presenta?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Difracción." correcta="0"/>
+        <respuesta contestacion="Reflexión." correcta="0"/>
+        <respuesta contestacion="Refracción." correcta="1"/>
+        <respuesta contestacion="No se presenta ninguno." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Según el principio de Huygens, una onda puede actuar como fuente de nuevas ondas. Esto se evidencia cuando...]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="la luz se refleja en un espejo." correcta="0"/>
+        <respuesta contestacion="el sonido se refracta en el agua." correcta="0"/>
+        <respuesta contestacion="una onda cualquiera atraviesa una pequeña rendija." correcta="1"/>
+        <respuesta contestacion="la luz se polariza." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[La ley de Snell, que relaciona el seno de los ángulos de las ondas con sus velocidades en distintos medios, es aplicable durante la...]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="refracción" correcta="1"/>
+        <respuesta contestacion="reflexión" correcta="0"/>
+        <respuesta contestacion="difracción" correcta="0"/>
+        <respuesta contestacion="translación" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Si una onda llega a una superficie con un ángulo de incidencia de 32°, ¿cuál será su ángulo de reflexión?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="32°" correcta="1"/>
+        <respuesta contestacion="Depende de las velocidades de la onda en cada medio" correcta="0"/>
+        <respuesta contestacion="sen 32°" correcta="0"/>
+        <respuesta contestacion="64°" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué efecto produce la interferencia constructiva en la luz?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Una iluminación más intensa" correcta="1"/>
+        <respuesta contestacion="Mayor variedad de colores" correcta="0"/>
+        <respuesta contestacion="Mayor velocidad de la luz" correcta="0"/>
+        <respuesta contestacion="Patrones de luz y sombra" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Se tienen tres pelotas sobre una mesa, una es de color blanco, otra es negra, y otra es verde. ¿Cual de todas reflejará más la luz?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="La negra." correcta="0"/>
+        <respuesta contestacion="La blanca." correcta="1"/>
+        <respuesta contestacion="La verde." correcta="0"/>
+        <respuesta contestacion="Todas reflejan la luz por igual." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[La reflexión difusa se obtiene cuando...]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="la onda se mueve más despacio en la superficie reflectora." correcta="0"/>
+        <respuesta contestacion="solo una parte de las ondas se refleja." correcta="0"/>
+        <respuesta contestacion="hay irregularidades en la superficie reflectora." correcta="1"/>
+        <respuesta contestacion="el ángulo de incidencia es menor al de relfexión." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Los bordes de las sombras se relacionan con el proceso de ______ de la luz.]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="reflexión" correcta="0"/>
+        <respuesta contestacion="refracción" correcta="0"/>
+        <respuesta contestacion="difracción" correcta="1"/>
+        <respuesta contestacion="interferencia" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Si una persona grita de frente hacia una pared y las ondas sonoras se reflejan directamente hacia su rostro, además de la reflexión, ¿que otro fenómeno ondulatorio puede esperarse en esta situación?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Refracción" correcta="0"/>
+        <respuesta contestacion="Difracción" correcta="0"/>
+        <respuesta contestacion="Interferencia" correcta="1"/>
+        <respuesta contestacion="Polarización" correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>

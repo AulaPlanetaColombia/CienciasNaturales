@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="5" clase="d" aprid="m5d">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>La polarización de la luz</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M5D]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Resuelve las siguientes preguntas sobre la polarización de la luz.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[1]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="5">
+    <cuestion>
+      <enunciado><![CDATA[Cuando la luz se polariza...]]></enunciado>
+      <explicacion/>
+      <texto><![CDATA[Polarizar las ondas significa restringir sus vibraciones a uno o unos pocos planos determinados. Esto se logra usando materiales especiales, conocidos como polarizadores, que bloquean y modifican las ondas que vibran en un plano diferente al permitido por estos.]]></texto>
+      <respuestas>
+        <respuesta contestacion="se eliminan los colores." correcta="0"/>
+        <respuesta contestacion="se vuelve oscura." correcta="0"/>
+        <respuesta contestacion="se limita su dirección de vibración." correcta="1"/>
+        <respuesta contestacion="se restringe su dirección de propagación." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Si se toma un polarizador que polariza la luz a un plano horizontal, y se hace girar 90°, ¿como saldrá la luz que se haga pasar ahora por el polarizador?]]></enunciado>
+      <explicacion/>
+      <texto><![CDATA[Así, si la luz pasa por un polarizador horizontal, este bloqueará las ondas que vibran verticalmente, bloquearpa una parte de las ondas oblicuas, y refractará otra parte para darles una dirección horizontal y que atraviezen el polarizador. Las ondas que vibran en el plano horizontal pasarán por este polarizador sin problemas.]]></texto>
+      <respuestas>
+        <respuesta contestacion="Polarizada verticalmente." correcta="1"/>
+        <respuesta contestacion="Polarizada horizontalmente." correcta="0"/>
+        <respuesta contestacion="Polarizada horizontal y verticalmente." correcta="0"/>
+        <respuesta contestacion="Sin polarizar." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué ocurriría si el primer polarizador es vertical y el segundo horizontal?]]></enunciado>
+      <explicacion/>
+      <texto><![CDATA[Cuando se hace pasar la luz por un polarizador horizontal y luego uno vertical, la luz se bloquea completamente. Esto ocurre porque el primer polarizador hace que todas las ondas que pasen por él vibren en un plano horizontal, y el segundo polarizador bloquea todas las ondas que vibran horizontalmente.]]></texto>
+      <respuestas>
+        <respuesta contestacion="Solo sale la luz polarizada horizontalmente." correcta="0"/>
+        <respuesta contestacion="Solo sale la luz polarizada verticalmente." correcta="0"/>
+        <respuesta contestacion="Toda la luz pasa sin alterarse." correcta="0"/>
+        <respuesta contestacion="Se bloquea toda la luz." correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Un polarizador bloquea completamente, sin desviar ni una parte, la luz que vibra en un plano...]]></enunciado>
+      <explicacion/>
+      <texto><![CDATA[Sin embargo, cuando se pone un tercer polarizador, ubicado de forma oblicua, entre el polarizador horizontal y el vertical, algo de luz sale del tercer polarizador. Lo que ocurre es que de la luz que sale del primer polarizador, y está polarizada horizontalmente, una parte es bloqueada y otra es desviada por el polarizador oblicuo. Así, del segundo polarizador sale luz que vibra en un plano oblicuo.]]></texto>
+      <respuestas>
+        <respuesta contestacion="a 90° del plano de polarización." correcta="1"/>
+        <respuesta contestacion="a 0° del plano de polarización." correcta="0"/>
+        <respuesta contestacion="a 45° del plano de polarización." correcta="0"/>
+        <respuesta contestacion="a 360° del plano de polarización." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Qué ocurriría si en el conjunto de tres polarizadores, uno es vertical y los otros dos horizontales?]]></enunciado>
+      <explicacion/>
+      <texto><![CDATA[Cuando la luz polarizada en el plano oblicuo por el segundo polarizador llega al tercero y último de los tres polarizadores, el vertical, una parte de dicha luz se bloquea y otra se refracta para que quede en el plano vertical. Por eso, algo de luz, aunque poca, sale del juego de tres polarizadores, a pesar de que se bloquea completamente cuando solo hay dos.]]></texto>
+      <respuestas>
+        <respuesta contestacion="Algo de luz atravezaría todos los polarizadores." correcta="0"/>
+        <respuesta contestacion="Toda la luz atravezaría todos los polarizadores." correcta="0"/>
+        <respuesta contestacion="Toda la luz sería bloqueada." correcta="1"/>
+        <respuesta contestacion="Depende de la ubicación del polarizador vertical." correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>

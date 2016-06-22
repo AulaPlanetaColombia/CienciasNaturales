@@ -1,0 +1,321 @@
+<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f7"><main layout="0">
+<title>La refracción de la luz y el sonido</title>
+<footer>Selecciona una imagen</footer>
+</main>
+<sections>
+<section i="0" star="false" hasSubsections="true">
+<menuImage path="imagendummy_motorf.jpg" border="0">
+<title><![CDATA[La refracción]]></title>
+</menuImage>
+<submenu>
+<main layout="0">
+<title>La refracción</title>
+<footer>Selecciona una imagen</footer>
+</main>
+<sections>
+<section i="0" star="false" hasSubsections="false">
+<menuImage path="imagendummy_motorf.jpg" border="0">
+<title><![CDATA[¿Qué es la refracción?]]></title>
+</menuImage>
+<pages>
+<page i="0" visible="true" color="">
+<title>¿Qué es la refracción?</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Cuando las ondas llegan hasta un <strong>medio diferente</strong> a aquel por el cual se est&aacute;n propagando, pueden ser absorbidas o emitidas nuevamente.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Cuando las ondas se devuelven al medio por el que ven&iacute;an, se han <strong>reflejado</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Si las ondas atraviezan el nuevo medio, cambiando su direcci&oacute;n, han sido <strong>refractadas</strong>.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>¿Qué es la refracción?</title>
+<description><![CDATA[<ul>
+	<li><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 20px;">La <strong>refracci&oacute;n </strong>es un cambio en la direcci&oacute;n de propagaci&oacute;n de las ondas que se da cuando estas atraviesan un nuevo medio.</span></span></li>
+	<li><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 20px;">Para que este fen&oacute;meno ocurra, la <strong>velocidad </strong>a la que se desplazan las ondas en los dos medios debe ser <strong>diferente</strong>.</span></span></li>
+	<li><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size: 20px;">La refracci&oacute;n ocurre tanto cuando las ondas pasan a un medio en el que desplazan m&aacute;s r&aacute;pido, como cuando lo hacen a uno en el que se desplazan m&aacute;s lento.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+</pages>
+</section><section i="0" star="false" hasSubsections="false">
+<menuImage path="imagendummy_motorf.jpg" border="0">
+<title><![CDATA[Las leyes de la refracción]]></title>
+</menuImage>
+<pages>
+<page i="0" visible="true" color="">
+<title>Las leyes de la refracción</title>
+<description><![CDATA[<p><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>Primera ley de la refracci&oacute;n</strong></span></span></p>
+
+<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Las ondas incidente y refractada est&aacute;n en el mismo plano que la recta normal a la superficie en donde se da la refracci&oacute;n.</span></span></li>
+</ul>
+
+<p><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>Segunda ley de la refracci&oacute;n</strong></span></span></p>
+
+<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">El cociente de los senos de los &aacute;ngulos de las ondas incidente y refractada es igual al cociente de las velocidades de las ondas en cada medio.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>Ley de Snell</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La segunda ley de la refracci&oacute;n tambi&eacute;n se conoce como <strong>ley de Snell</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Su forma matem&aacute;tica, la <strong>ecuaci&oacute;n </strong>que aparece en la imagen, es &uacute;til para hacer predicciones y obtener informaci&oacute;n acerca del comportamiento de las ondas al refractarse.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Usando la ley de Snell se puede predecir cuanto se desviar&aacute; una onda al refractarse, o se puede calcular la velocidad de las ondas en distintos medios.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+</pages>
+</section></sections>
+</submenu>
+</section><section i="0" star="false" hasSubsections="true">
+<menuImage path="imagendummy_motorf.jpg" border="0">
+<title><![CDATA[Refracción de luz y sonido]]></title>
+</menuImage>
+<submenu>
+<main layout="0">
+<title>Refracción de luz y sonido</title>
+<footer>Selecciona una imagen</footer>
+</main>
+<sections>
+<section i="0" star="false" hasSubsections="false">
+<menuImage path="imagendummy_motorf.jpg" border="0">
+<title><![CDATA[La refracción del sonido]]></title>
+</menuImage>
+<pages>
+<page i="0" visible="true" color="">
+<title>La refracción del sonido</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La <strong>refracci&oacute;n </strong>de las ondas sonoras ocurre cuando estas pasan de un medio a otro en donde su <strong>velocidad de propagaci&oacute;n</strong> es diferente.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Esto ocurre, por ejemplo, cuando hay <strong>vientos</strong> desiguales. Aunque ambos medios sean de aire, las diferentes velocidades hacen que se comporten como <strong>medios distintos</strong> en cuanto a la transmisi&oacute;n de las ondas.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Tambi&eacute;n hay refracci&oacute;n cuando el sonido pasa del aire al agua o viceversa, o cuando se transmite a trav&eacute;s de diferentes materiales, como metal, madera, etc.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>Refracción del sonido en el aire</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La <strong>temperatura</strong> del aire afecta la velocidad de transmisi&oacute;n de las ondas sonoras.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">El sonido se transmite m&aacute;s r&aacute;pido en el aire caliente que en el aire fr&iacute;o.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Por tanto, cuando el sonido pasa a una capa de aire de diferente temperatura, se <strong>refracta</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">En los d&iacute;as fr&iacute;os o en las noches, el aire cerca del suelo es m&aacute;s fr&iacute;o, y el sonido tiene a descender.</span></span></li>
+	<li><span style="font-size: 20px;"><span style="font-family: verdana, geneva, sans-serif;">En los d&iacute;as c&aacute;lidos el aire es m&aacute;s caliente cerca del suelo, y el sonido tiende a&nbsp;<strong>ascender</strong>.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+</pages>
+</section><section i="0" star="false" hasSubsections="false">
+<menuImage path="imagendummy_motorf.jpg" border="0">
+<title><![CDATA[La refracción de la luz]]></title>
+</menuImage>
+<pages>
+<page i="0" visible="true" color="">
+<title>La refracción de la luz</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La luz, al ser una <strong>onda electromagn&eacute;tica</strong>, tambi&eacute;n se refracta.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Esto ocurre porque la luz viaja con diferentes <strong>velocidades</strong> en <strong>medios </strong>distintos.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Este fen&oacute;meno se observa f&aacute;cilmente al introducir parcialmente objetos en el agua. Estos se ven doblados, aunque en realidad es solo la luz la que se desv&iacute;a al ingresar al agua.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">El aire cerca a una superficie caliente tambi&eacute;n refracta la luz, y crea la ilusi&oacute;n de que hay agua en esa superficie. Eso se conoce como <strong>espejismo</strong>.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>El índice de refracción</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">A diferencia de las ondas mec&aacute;nicas como el sonido, la luz se puede transmitir en el <strong>vac&iacute;o</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La m&aacute;xima <strong>velocidad de la luz</strong> es la que tiene en el vac&iacute;o, y este valor es constante.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Es posible comparar esta velocidad, llamada <strong>c</strong>, con la que tenga en cualquier otro medio. Esta relaci&oacute;n se conoce como <strong>&iacute;ndice de refracci&oacute;n</strong>, y es &uacute;nico para cada medio.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Aplicando la ley de Snell, se obtiene una ecuaci&oacute;n que relaciona los &aacute;ngulos de refracci&oacute;n con los &iacute;ndices de refracci&oacute;n.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>El principio del tiempo mínimo</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Cuando la luz pasa por dos medios en los que se mueve a <strong>diferentes velocidades</strong>, su <strong>trayectoria</strong> es tal que el <strong>tiempo </strong>que tarda en llegar de un punto a otro es el menor posible.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Este <strong>tiempo m&iacute;nimo</strong> no necesariamente corresponde a la trayectoria m&aacute;s corta.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">As&iacute;, el recorrido de la luz por el medio en el que se mueve m&aacute;s lento, ser&aacute; menor que el recorrido que hace por el medio en el que se mueve m&aacute;s r&aacute;pido.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Este principio es un resultado de la ley de Snell.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>La refracción a través de un prisma</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Un <strong>prisma </strong>es un trozo de vidrio cuyas caras opuestas no son paralelas. Normalmente son <strong>triangulares</strong>; algunos son algo <strong>curvos</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Cuando la luz pasa por el prisma, se desv&iacute;a seg&uacute;n la ley de Snell, y cumple con el principio del tiempo m&iacute;nimo.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Los primas curvos, si tienen la curvatura adecuada, pueden hacer que rayos de luz con diferentes trayectorias lleguen a un mismo punto, es decir, <strong>converjan</strong>. En este principio se basan las <strong>lentes convergentes</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Las <strong>lentes divergentes</strong> tambi&eacute;n funcionan gracias a la difracci&oacute;n de la luz, aunque en este caso lo que hacen es separar los rayos.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>La descomposición de la luz</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La rapidez de la luz en un medio transparente depende de la <strong>frecuencia</strong> de las ondas.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La <strong>luz blanca</strong> est&aacute; compuesta por rayos de luz de diferentes <strong>longitudes de onda</strong>. Cada longitud de onda, y su <strong>frecuencia </strong>asociada, representa un <strong>color</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Al refractarse, las ondas lum&iacute;nicas con diferentes frecuencias sufren <strong>desviaciones</strong> distintas, debido a las diferencias en sus velocidades en el nuevo medio.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>La descomposición de la luz</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">En un <strong>prisma </strong>la luz se refracta dos veces: al entrar y al salir del prisma. </span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Esta doble refracci&oacute;n hace que las diferencias en las <strong>desviaciones </strong>de cada color sean m&aacute;s notables. Por eso, cuando la luz sale del prisma, los colores se ven separados.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">As&iacute;, la luz blanca se <strong>descompone </strong>en los colores que la forman. Este fen&oacute;nemo se llama <strong>dispersi&oacute;n</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">El <strong>arcoiris </strong>es un ejemplo natural de dispersi&oacute;n de la luz. Cuando se forma, las gotas de agua act&uacute;an como prismas.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>La polarización</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Una <strong>onda polarizada</strong> es una onda <strong>transversal</strong> que solo oscila en uno o unos pocos planos.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Algunas ondas son naturalmente polarizadas, como una cuerda vibrando.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Otras ondas, como las electromagn&eacute;ticas, normalmente oscilan en muchos planos, pero se pueden <strong>polarizar</strong></span></span><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;"> (hacer que solo oscilen en planos determinados).</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">No se habla de polarizaci&oacute;n de ondas longitudinales, porque estas solo oscilan en la direcci&oacute;n de propagaci&oacute;n.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>Los polarizadores</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La polarizaci&oacute;n se logra bloqueando ciertas ondas, aquellas que no osclilan en la direcci&oacute;n deseada.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Tambi&eacute;n se da polarizaci&oacute;n de ondas cambiando su direcci&oacute;n, es decir, <strong>refract&aacute;ndolas</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Los materiales y objetos que pueden polarizar ondas se conocen como <strong>polarizadores</strong>.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[Si se ponen un polarizador vertical y uno horizontalmente, se bloquea toda la luz.]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>La polarización de la luz</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La <strong>luz </strong>es una onda transversal, y por tanto </span></span><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">puede ser polarizada.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Las fuentes de luz comunes, como el sol, un bombillo o una vela, emiten luz <strong>no polarizada</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Gran parte de la luz reflejada por las superficies no met&aacute;licas est&aacute; polarizada, y la mayor&iacute;a de esas ondas reflejadas son <strong>horizontales</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Es posible construir filtros polarizadores usando cristales como la herapatita, o ciertas mol&eacute;culas alineadas.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>El uso de filtros polarizadores</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">El uso de <strong>filtros polarizadores</strong> reduce el brillo, al limitar la cantidad de luz.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Algunas gafas oscuras usan lentes polarizadores, as&iacute; como muchas c&aacute;maras fotogr&aacute;ficas; al reducir el brillo se puede aumentar la calidad de las fotograf&iacute;as.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Los polarizadores de luz tambi&eacute;n se usan para formar im&aacute;genes en tres dimensiones, al manipular y diferenciar la luz que llega a cada uno de los ojos.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+</pages>
+</section></sections>
+</submenu>
+</section></sections>
+</engine>

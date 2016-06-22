@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="2" clase="a" aprid="m2a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>El fenómeno de reflexión</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M2A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Completa el siguiente texto con las palabras correspondientes.]]></enunciado>
+  <masinfo inicio="0"/>
+  <calc><![CDATA[0]]></calc>
+  <sonido/>
+  <textoacategoria>
+    <cuestion>
+      <pregunta><![CDATA[La  [*] es un fenómeno en el que, al llegar a la superficie de [*] entre dos medios, las ondas rebotan y se siguen propagando por el medio [*]. Las [*] [*] y reflejadas siempre están en el mismo [*] que la recta [*] a la superficie de reflexión. Además, el [*] formado entre la onda incidente y la  [*] normal es  [*] al que se forma entre la onda reflejada y la normal.]]></pregunta>
+      <respuestas>
+        <respuesta orden="1"><![CDATA[reflexión]]></respuesta>
+        <respuesta orden="2"><![CDATA[separación]]></respuesta>
+        <respuesta orden="3"><![CDATA[original]]></respuesta>
+        <respuesta orden="4"><![CDATA[ondas]]></respuesta>
+        <respuesta orden="5"><![CDATA[incidentes]]></respuesta>
+        <respuesta orden="6"><![CDATA[plano]]></respuesta>
+        <respuesta orden="7"><![CDATA[normal]]></respuesta>
+        <respuesta orden="8"><![CDATA[ángulo]]></respuesta>
+        <respuesta orden="9"><![CDATA[recta]]></respuesta>
+        <respuesta orden="10"><![CDATA[igual]]></respuesta>
+      </respuestas>
+    </cuestion>
+  </textoacategoria>
+  <textofalso cantidad="0"/>
+</motor>
