@@ -412,9 +412,9 @@ id="S2_CN_11_14_CO_7E968F50306A4FE6888DD9A25341641C">
 <seccion2Titulo>Los métodos de obtención y las propiedades químicas
 de los alquinos</seccion2Titulo>
 <seccion2Texto>
-<p>Los alquinos, al igual que los alquenos, sufren reacciones de adición.
-El triple enlace tiende a ser muy “inestable”, ya que ofrece electrones
-a los reactantes electrófilos que carecen de ellos.</p>
+<p>Los alquinos, al igual que los alquenos, presentan reacciones de
+adición. El triple enlace tiende a ser muy “inestable”, ya que ofrece
+electrones a los reactantes electrófilos que carecen de ellos.</p>
 <seccion3 id="S3_CN_11_14_CO_DD1241C337A24CAC8679E3627C8A94DB">
 <seccion3Titulo>La deshidrogenación de dihalogenuros de alquilo</seccion3Titulo>
 <seccion3Texto>
@@ -446,7 +446,7 @@ amiduro de sodio en amoniaco líquido, el producto de esta reacción
 es un acetiluro de sodio.</p>
 <imagen ampliable="no" src="CN_11_14_CO_IMG23_small.jpg">
 <p>Los acetiluros son buenos agentes nucleofílicos y participan así
-en reacciones de sustitución nucleofílica.</p><?Pub Caret -2?>
+en reacciones de sustitución nucleofílica.</p>
 </imagen>
 <p>En la segunda etapa, el acetiluro de sodio obtenido en la primera
 etapa ataca a un halogenuro de alquilo para obtener un alquino de
@@ -553,7 +553,7 @@ por el químico francés Charles Friedel y el químico estadounidense
 James Crafts. El benceno reacciona con un halogenuro de alquilo y
 se produce un <negrita>alquilbenceno</negrita>, debido a la sustitución
 de un hidrógeno del benceno (<negrita>H<superindice>+</superindice
-></negrita>) por un radical alquilo (<negrita>R<superindice>-</superindice
+></negrita>) por un radical alquilo (<negrita>R<superindice>+</superindice
 ></negrita>).</p>
 <imagen src="CN_11_14_CO_IMG30_small.jpg">
 <p>En la alquilación se utilizan ácidos de Lewis como catalizadores,
@@ -657,13 +657,13 @@ id="S3_CN_11_14_CO_C7E6CE7E4CA44226AE0D2B7DB7CD8D03">
 dicromato de potasio (K<subindice>2</subindice>Cr<subindice>2</subindice
 >O<subindice>7</subindice>). Los aldehídos obtenidos se pueden seguir
 oxidando hasta el correspondiente ácido carboxílico.</p>
-<imagen src="CN_11_14_CO_IMG34_small.jpg">
+<imagen ampliable="no" src="CN_11_14_CO_IMG34_small.jpg">
 <p>Para evitar que el aldehído formado pase a ácido carboxílico, se
 adiciona clorocromato de piridinio (CCP).</p>
 </imagen>
 <p>Los alcoholes secundarios se oxidan a <negrita>cetonas</negrita
 >, una vez ocurre esto, ya no se pueden oxidar más.</p>
-<imagen src="CN_11_14_CO_IMG35_small.jpg">
+<imagen ampliable="no" src="CN_11_14_CO_IMG35_small.jpg">
 <p>En la oxidación de un alcohol secundario se utiliza como catalizador
 dicromato de sodio, en medio ácido.</p>
 </imagen>
@@ -719,7 +719,7 @@ por agentes nucleofílicos y el oxígeno por agentes electrofílicos.</p>
 <p>Un alcohol primario se oxida parcialmente cuando reacciona con
 clorocromato de piridinio (PCC), lo que produce un <negrita>aldehído</negrita
 >. </p>
-<imagen src="CN_11_14_CO_IMG38_small.jpg">
+<imagen ampliable="no" src="CN_11_14_CO_IMG38_small.jpg">
 <p>El clorocromato de piridinio (PCC) es un agente oxidante moderado.
 Es una mezcla de óxido de cromo VI (CrO<subindice>3</subindice>) con
 piridina y ácido clorhídrico que se disuelve en diclorometano (CH<subindice
@@ -737,7 +737,7 @@ hasta llevarlo a ácido orgánico. También se pueden usar dicromato
 de potasio (K<subindice>2</subindice>Cr<subindice>2</subindice>O<subindice
 >7</subindice>) o permanganato de potasio (KMnO<subindice>4</subindice
 >) como agentes oxidantes.</p>
-<imagen src="CN_11_14_CO_IMG39_small.jpg">
+<imagen ampliable="no" src="CN_11_14_CO_IMG39_small.jpg">
 <p>Los aldehídos se oxidan fácilmente debido a que el hidrógeno del
 carbono carbonilo se pierde con facilidad.</p>
 </imagen>
@@ -781,7 +781,7 @@ específicas de distinción de compuestos carbonílicos en el laboratorio.</p>
 > en presencia del óxido de cromo VI (CrO<subindice>3</subindice>)
 en ácido sulfúrico diluido (mezcla conocida como ácido crómico) o
 ácido acético.</p>
-<imagen src="CN_11_14_CO_IMG41_small.jpg">
+<imagen ampliable="no" src="CN_11_14_CO_IMG41_small.jpg">
 <p>El alcohol secundario pierde en la oxidación dos hidrógenos: uno
 del grupo -OH y otro del carbono que contiene la función alcohol.</p>
 </imagen>
@@ -792,7 +792,7 @@ id="S3_CN_11_14_CO_534D67502EF447238D41A62C9A371AD3">
 <p>Las cetonas no se oxidan en presencia de agentes oxidantes fuertes,
 a consecuencia de su estructura, que no presenta hidrógenos susceptibles
 de sustracción.</p>
-<imagen src="CN_11_14_CO_IMG42_small.jpg">
+<imagen ampliable="no" src="CN_11_14_CO_IMG42_small.jpg">
 <p>La ausencia de hidrógenos en las cetonas no permite la oxidación.</p>
 </imagen>
 </seccion3Texto></seccion3><seccion3
@@ -870,14 +870,12 @@ se encuentra limitado a la reacción de sustitución nucleofílica en
 el grupo acilo.</p>
 <seccion2 id="S2_CN_11_14_CO_1BE177A30DAC4276A6095758D5A39CF5">
 <seccion2Titulo>Los métodos de obtención y las propiedades químicas
-de los ésteres</seccion2Titulo>
+de los ésteres</seccion2Titulo><?Pub Caret -2?>
 <seccion2Texto>
 <p>Los ésteres se pueden obtener a partir de cualquier derivado de
-ácido carboxílico, excepto de las amidas. Como producto secundario
-se obtiene una molécula de <negrita>alcohol</negrita>. Dentro de los
-métodos de obtención y las propiedades químicas de los ésteres se
-encuentran: la reacción de esterificación de Fischer, la reducción
-y la amonólisis.</p>
+ácido carboxílico, excepto de las amidas. Dentro de los métodos de
+obtención y las propiedades químicas de los ésteres se encuentran:
+la reacción de esterificación de Fischer, la reducción y la amonólisis.</p>
 <seccion3 id="S3_CN_11_14_CO_09DF9C003CA141E1888FB0C2AEBF7C27">
 <seccion3Titulo>La esterificación</seccion3Titulo>
 <seccion3Texto>
