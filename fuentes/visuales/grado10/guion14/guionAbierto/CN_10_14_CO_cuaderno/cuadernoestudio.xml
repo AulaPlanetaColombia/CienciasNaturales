@@ -246,12 +246,12 @@ las paredes del recipiente que lo contienen.</listaElemento>
 de gases azufrados como el sulfuro de hidrógeno (H<subindice>2</subindice
 >S), producto de la descomposición bacteriana del azufre en las aguas
 termales se movilizan rápidamente en varias direcciones, comportamiento
-que permite que se perciba, el olor a huevo podrido.</p>
+que permite que se perciba, el olor a huevo podrido.</p><?Pub Caret -2?>
 </imagen>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso060&amp;IdRecurso=RES-4EC4874023EB472F8E27ACF76B989E42"
->¿Qué sabes de la teoría cinética-molecular de los gases?</enlace>
+>Resume la teoría cinética-molecular de los gases</enlace>
 </practica></seccion2Texto></seccion2><seccion2
 id="S2_CN_10_14_CO_F9B9FE2E84AD4477B0EBF54AF3D96012">
 <seccion2Titulo>Consolidación</seccion2Titulo>
@@ -322,7 +322,7 @@ gas es de 1,69 atmósferas.</p>
 <destacadoTexto>
 <p>La ley lleva los apellidos de estos dos científicos. Aunque <negrita
 >Robeth Boyle</negrita> publicó sus trabajos en 1662, <negrita>Edme
-Mariott</negrita> llegó a la misma conclusión sobre los gases, pero
+Mariotte</negrita> llegó a la misma conclusión sobre los gases, pero
 él lo publicó hasta 1676.</p>
 </destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
 id="S2_CN_10_14_CO_E4ECAF0DD4C644AAADF55974D09A966B">
@@ -715,8 +715,8 @@ src="CN_10_14_formula37.gif"></formula></listaElemento>
 normales, se obtienen 224 L de NH<subindice>3</subindice>.</p>
 <practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso190&amp;IdRecurso=RES-FFA16AC364EF44EEAD6EB1061FD954D1"
->Realiza cálculos estequiométricos</enlace>
+destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso310&amp;IdRecurso=RES-EC8A9B1F1EBB440883492FDB346F817F"
+>Practica los cálculos estequiométricos con gases</enlace>
 </practica></seccion2Texto></seccion2><seccion2
 id="S2_CN_10_14_CO_52037FB279AD463AB0BDEC52B84C1C88">
 <seccion2Titulo>Consolidación</seccion2Titulo>
@@ -793,8 +793,7 @@ y <negritacursiva>b</negritacursiva> la correlación del tamaño molecular.</p>
 id="S2_CN_10_14_CO_87B9BA4CB32144EBA0C2C43E06A71DC0">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
-<p>Actividades para consolidar lo que has aprendido en esta sección.</p><?Pub
-Caret 16?>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso230&amp;IdRecurso=RES-AB7095E4A81D417DA158A1EDC6C91ACB"
@@ -821,7 +820,7 @@ destino="/LoIdRedirect.aspx?LoId=CN_10_14_CO_Recurso300&amp;IdRecurso=RES-751DF6
 destino="http://e-ducativa.catedu.es/44700165/aula/archivos/repositorio/4750/4910/html/1_slidos_cristalinos_tipos_de_cristales.html"
 >Los sólidos.</enlace>
 <enlace
-destino="http://www.educaplus.org/play-339-Ejercicios-ecuaci%C3%B3n-de-los-gases.html"
+destino="http://www.educaplus.org/game/ejercicios-ecuacion-de-los-gases"
 >Ejercicios de las leyes de los gases.</enlace>
 <enlace destino="http://es.webqc.org/gaslaws.php">Ejercicios con las
 leyes de los gases usando la calculadora que ofrece el portal de química
