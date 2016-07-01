@@ -57,7 +57,7 @@ como las bandas elásticas.</listaElemento>
 <listaElemento>Tener <negrita>flexibilidad</negrita>, capacidad de
 deformarse constantemente sin romperse.</listaElemento>
 </listaSinNumerar>
-<imagen src="CN_10_14_CO_IMG03_small.jpg">
+<imagen ampliable="no" src="CN_10_14_CO_IMG03_small.jpg">
 <p>El caucho es un material muy <negrita>elástico</negrita>.</p>
 </imagen>
 </seccion2Texto></seccion2><seccion2
@@ -201,7 +201,7 @@ ni volumen definidos, pues adoptan el volumen del recipiente donde
 se almacenen. Además, pueden difundirse fácilmente gracias a que sus
 partículas son muy pequeñas y su densidad es baja. Se consideran los
 más compresibles de los estados de agregación.</p>
-<imagen src="CN_10_14_CO_IMG09_small.jpg">
+<imagen ampliable="no" src="CN_10_14_CO_IMG09_small.jpg">
 <p>El gas que contiene en su interior el globo aerostático adopta
 la forma del globo y, al tener menor densidad que el aire, se presenta
 un empuje hacia arriba.</p>
@@ -246,7 +246,7 @@ las paredes del recipiente que lo contienen.</listaElemento>
 de gases azufrados como el sulfuro de hidrógeno (H<subindice>2</subindice
 >S), producto de la descomposición bacteriana del azufre en las aguas
 termales se movilizan rápidamente en varias direcciones, comportamiento
-que permite que se perciba, el olor a huevo podrido.</p><?Pub Caret -2?>
+que permite que se perciba, el olor a huevo podrido.</p>
 </imagen>
 <practica>
 <enlace
@@ -669,7 +669,8 @@ aplicar la ecuación de los gases ideales <cursiva>PV</cursiva> = <cursiva
 <p>Por <negrita>ejemplo</negrita>, en la reacción entre el zinc (Zn)
 y el ácido clorhídrico (HCl) se produce cloruro de zinc (ZnCl<subindice
 >2</subindice>) e hidrógeno (H<subindice>2</subindice>), ¿cuántos
-moles de Zn se requieren para producir 5 L de H2 a 298 K y 1,5 atm?</p>
+moles de Zn se requieren para producir 5 L de H<subindice>2</subindice
+> a 298 K y 1,5 atm?</p><?Pub Caret 185?>
 <listaNumerada>
 <listaElemento>Escribimos la ecuación balanceada que representa la
 reacción:<br/><formula alineacion="centrada"
