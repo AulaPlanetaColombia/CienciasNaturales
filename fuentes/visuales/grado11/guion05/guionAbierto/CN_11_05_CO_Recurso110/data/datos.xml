@@ -1,0 +1,251 @@
+<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f6"><main layout="1">
+<title>Las ondas estacionarias y su relación con los instrumentos musicales</title>
+<footer>Selecciona una imagen</footer>
+</main>
+<sections>
+<section i="0" star="false" hasSubsections="false">
+<menuImage path="imagendummy_motorf.jpg" border="0">
+<title><![CDATA[Instrumentos de cuerda]]></title>
+</menuImage>
+<pages>
+<page i="0" visible="true" color="">
+<title>Los instrumentos de cuerda</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Los sonidos musicales se forman a trav&eacute;s de los <strong>instrumentos musicales</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">En los instrumentos de cuerda, el sonido de produce a trav&eacute;s de la <strong>vibraci&oacute;n </strong>de una delgada <strong>cuerda </strong>fija por ambos extremos.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Esta cuerda se mantiene tensa, y cuando se mueve puede vibrar r&aacute;pidamente, perturbando el aire y produciendo as&iacute; <strong>sonido</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">En la cuerda vibrante se forma una <strong>onda estacionaria transversal</strong>.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>Armónicos en una cuerda</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Los extremos fijos de la cuerda act&uacute;an como <strong>nodos</strong>, y determinan la <strong>frecuencia fundamental</strong> de la misma.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La onda con la frecuencia fundamental tiene una <strong>longitud de onda</strong> igual al doble de la <strong>longitud de la cuerda</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">A medida que aparecen nuevos nodos en la cuerda, la longitud de onda <strong>disminuye</strong>, y la frecuencia <strong>aumenta</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Estos nuevos nodos forman los nuevos <strong>arm&oacute;nicos</strong>.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>Longitudes de onda de los armónicos</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Sin importar el n&uacute;mero de nodos, la <strong>longitud de onda</strong> siempre es un <strong>m&uacute;ltiplo </strong>o un <strong>subm&uacute;ltiplo </strong>de la <strong>longitud de la cuerda</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">El segundo arm&oacute;nico de la cuerda tiene una longitud de onda igual a la longitud de la cuerda; p</span></span><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">ara el tercer arm&oacute;nico, la longitud de onda es igual a tres medios de la longitud de la cuerda.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La relaci&oacute;n entre la longitud de la cuerda y la longitud de onda de cada arm&oacute;nico se muestra en la ecuaci&oacute;n de la imagen.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>Frecuencias de los armónicos</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Por su parte, la <strong>frecuencia </strong>de cada arm&oacute;nico siempre es un <strong>m&uacute;ltiplo </strong>de la frecuencia fundamental.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La frecuencia del segundo arm&oacute;nico es igual al doble de la frecuencia fundamental, mientras que el tercer arm&oacute;nico tiene un frecuencia que es el triple de la frecuencia fundamental, y as&iacute; sucesivamente.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Cada arm&oacute;nico sucesivo, al tener mayor frecuencia, tendr&aacute; un sonido m&aacute;s <strong>agudo</strong>.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>La longitud de la cuerda y el sonido</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Como la frecuencia a la que vibra la cuerda depende de su <strong>longitud</strong>, el int&eacute;rprete puede cambiar el sonido <strong>presionando </strong>la cuerda el alg&uacute;n punto. </span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Al presionar la cuerda se acorta la secci&oacute;n que vibra y por tanto se aumenta la frecuencia, haciendo m&aacute;s <strong>agudo </strong>el sonido.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Si la cuerda se presiona en puntos espec&iacute;ficos, se podr&aacute; producir un sonido que corresponda a una <strong>nota musical </strong>determinada.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>La tensión de la cuerda y el sonido</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La frecuencia tambi&eacute;n depende la <strong>tensi&oacute;n </strong>de la cuerda, por lo que es posible cambiar el sonido al aumentar o disminuir la tensi&oacute;n.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Esto es lo que se hace al <strong>afinar </strong>un instrumento de cuerda: cambiar la frecuencia de la vibraci&oacute;n hasta que corresponda a la <strong>nota musical</strong> deseada.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Cuanto m&aacute;s tensa est&eacute; la cuerda, m&aacute;s agudo ser&aacute; el sonido que produce.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>El grosor de la cuerda y el sonido</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Finalmente, la frecuencia se relaciona con la cantidad de materia de la cuerda vibrante. Esto implica, adem&aacute;s de su longitud, su grosor y su densidad.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">En los instrumentos, suelen haber cuerdas de distinto grosor, para formar ondas de diferente frecuencia.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">A mayor grosor, menor es la frecuencia y m&aacute;s bajo es el sonido que produce.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+</pages>
+</section><section i="0" star="false" hasSubsections="false">
+<menuImage path="imagendummy_motorf.jpg" border="0">
+<title><![CDATA[Instrumentos de viento]]></title>
+</menuImage>
+<pages>
+<page i="0" visible="true" color="">
+<title>Los instrumentos de viento</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">En los instrumentos de <strong>viento </strong>el sonido se produce gracias a la formaci&oacute;n de <strong>ondas estacionarias</strong> en una <strong>columna de aire</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Esta columna est&aacute; dentro del instrumento mismo, generalmente dentro de un <strong>tubo </strong>largo y delgado.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Las ondas producidas son <strong>longitudinales</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La vibraci&oacute;n del aire es producida a su vez por la vibraci&oacute;n de los <strong>labios </strong>del interprete, o por una o varias <strong>leng&uuml;etas </strong>dentro del instrumento.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>Nodos y antinidos en los tubos</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Los instrumentos de viento pueden tener uno o dos <strong>extremos abiertos</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Cuando solo hay un extremo abierto, hay un <strong>antinodo </strong>en la abertura y un <strong>nodo </strong>en el extremo cerrado.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">En el caso de los dos extremos abiertos, en cada uno hay un <strong>antinodo</strong>, y en el centro del tubo hay un <strong>nodo</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">En cualquier caso, despu&eacute;s del antinodo en un extremo abierto sigue un nodo que est&aacute; en el aire por <strong>fuera </strong>del instrumento.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>Longitudes de onda de los armónicos</title>
+<description><![CDATA[<ul>
+	<li><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size:20px;">La <strong>longitud de onda</strong> de las ondas estacionarias formadas en un tubo dependen de la longitud de dicho tubo.</span></span></li>
+	<li><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size:20px;">La onda con la <strong>frecuencia fundamental</strong>, es decir, el primer <strong>arm&oacute;nico</strong>, tiene la mayor longitud de onda: dos veces la longitud del tubo si tiene los dos extremos abiertos, y cuatro veces esa longitud si un extremo es cerrado.</span></span></li>
+	<li><span style="font-family:verdana,geneva,sans-serif;"><span style="font-size:20px;">Cada arm&oacute;nico sucesivo tiene longitudes de onda m&aacute;s peque&ntilde;as, <strong>subm&uacute;ltiplos </strong>de la longitud de onda del primer arm&oacute;nico.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[En tubos con un extremo abierto n solo toma valores impares, entonces, la longitud de onda de cada armónico es siempre una proporción impar de la primera longitud de onda: la tercera parte, la quinta parte, etc.]]></title>
+</image>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[En tubos con dos extremos abiertos n puede tomar valores tanto pares como impares.]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>Frecuencias de los armónicos</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">La <strong>frecuencia </strong>de cada arm&oacute;nico en un instrumento de viento es un m&uacute;ltiplo de la <strong>frecuencia fundamental</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">En los tubos con <strong>extremo abierto</strong>, no es posible tener ondas cuya frecuencia sea un <strong>m&uacute;liplo par</strong> de la frecuencia fundamental.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">En los tubos con <strong>dos extremos abiertos</strong>, los arm&oacute;nicos pueden ser m&uacute;ltiplos tanto pares como impares de la frecuencia fundamental.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>Cambios de notas en el instrumento de viento</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">En un instrumento de viento se puede cambiar el sonido produciendo alterando la <strong>longitud </strong>de la <strong>columna de aire</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Al hacerlo, cambian la <strong>longitud de onda</strong> y la <strong>frecuencia </strong>de las ondas estacionarias producidas.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Esto se logra tapando <strong>agujeros </strong>en el instrumento por donde el aire puede salir, lo que lo obliga a seguir en el tubo, alargando as&iacute; la columna.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Tambi&eacute;n se pueden mover <strong>llaves </strong>u oprimir <strong>botones </strong>que bloquean el paso del aire, lo que disminuye la longitud de la columna.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>La voz humana</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Las <strong>cuerdas vocales</strong> permiten producir sonidos usando el <strong>aire </strong>que sale por la <strong>tr&aacute;quea </strong>desde los <strong>pulmones</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Todo el <strong>aparato fonador humano</strong> (el que produce la voz) se puede considerar un <strong>instrumento de viento</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;"><strong>Caracter&iacute;sticas anat&oacute;micas </strong>como el tama&ntilde;o de las cuerdas vocales influyen en el tipo de sonido producido.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Los hombres<strong> </strong>tienen cuerdas vocales m&aacute;s grandes que las mujeres, por lo que su voz es m&aacute;s grave.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[Clasificación general de las voces humanas.]]></title>
+</image>
+</images>
+</page>
+</pages>
+</section><section i="0" star="false" hasSubsections="false">
+<menuImage path="imagendummy_motorf.jpg" border="0">
+<title><![CDATA[Instrumentos de percusión]]></title>
+</menuImage>
+<pages>
+<page i="0" visible="true" color="">
+<title>Los instrumentos de percusión</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Los <strong>instrumentos de</strong> <strong>percusi&oacute;n </strong>son aquellos que se funcionan siendo <strong>golpeados</strong>.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Al golpearse, <strong>vibra </strong>una parte del instrumento o todo &eacute;l, y as&iacute; se produce el sonido.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">No siempre se forman <strong>ondas estacionarias</strong> en estos instrumentos. Cuando no lo hacen, sus sonidos se consideran <strong>musicales </strong>porque llevan un <strong>ritmo </strong>y son <strong>agradables </strong>al o&iacute;do.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Cuando s&iacute; se forman ondas estacionarias, son ondas planas cuya descripci&oacute;n matem&aacute;tica es complicada.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[Los instrumentos de percusión se pueden golpear con la mano o con algún otro objeto.]]></title>
+</image>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[Ondas en la membrana de un tambor.]]></title>
+</image>
+</images>
+</page>
+<page i="0" visible="true" color="">
+<title>Variación de sonidos en el instrumento</title>
+<description><![CDATA[<ul>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Algunos instrumentos permiten interpretar diferentes notas, como el xil&oacute;fono, con diferentes teclas para distintas notas.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">Otros son m&aacute;s sencillos y no permiten mayores variaciones en el sonido producido, como en el caso del tr&iacute;angulo.</span></span></li>
+	<li><span style="font-size:20px;"><span style="font-family: verdana,geneva,sans-serif;">En algunos instrumentos, como el tambor, se puede modificar el sonido cambiando la <strong>tensi&oacute;n</strong> de la superficie que se golpea, lo que modifica la <strong>frecuencia </strong>de la onda estacionaria formada.</span></span></li>
+</ul>
+]]></description>
+<images>
+<image path="imagendummy_motorf.jpg" border = "0" pathbig="imagendummy_motorf.jpg">
+<title><![CDATA[]]></title>
+</image>
+</images>
+</page>
+</pages>
+</section></sections>
+</engine>

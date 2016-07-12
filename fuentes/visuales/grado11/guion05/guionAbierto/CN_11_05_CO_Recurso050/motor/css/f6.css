@@ -1,0 +1,105 @@
+﻿.MainTitle {
+    text-align: center;
+    font-size: 34px;
+    vertical-align: middle;
+    line-height: 100px;
+		background-color: transparent;
+    overflow: hidden;
+}
+
+.MainBk {
+    background-color: white;
+}
+
+
+.popupPie {
+		text-align: center;
+		font-family: Verdana, Arial, sans-serif;
+		font-size: 20px;
+}
+
+.popupCloseButton {
+    background: transparent url("../images/btnclose35.png") no-repeat;
+}
+
+.popupOpenButton {
+    background: transparent url("../images/btnopen35.png") no-repeat;
+}
+
+.slideTitle {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 30px;
+	text-align: center;
+}
+
+
+.slideFooter {
+	text-align: center;
+}
+
+.slideFooter span {
+	font-family: Verdana, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 20px;
+	background-color: #cccccc;
+	padding-top: 4px;
+	padding-bottom: 3px;
+}
+
+.slideSubtitle {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 25px;
+	text-align: left;
+}
+
+.imageBordered {
+	border: 1px solid black;
+  -ms-box-sizing: border-box; 
+  -moz-box-sizing: border-box; 
+  -webkit-box-sizing: border-box; 
+  box-sizing: border-box;
+}
+
+@media only screen and (max-width: 950px), only screen and (max-height: 608px) {
+	.imageBordered {
+		border: 2px solid black;
+	}
+}
+
+.menuItemFooter {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
+
+
+/* SOBRECARGA */
+.tlfText p {
+	line-height: normal;
+}
+
+/* Botó imatge que brilla quan passes pel damunt o piques */
+.brightImageButton {
+    background-color: white;
+}
+
+.brightImageButton .imgButtonContainer {
+    pointer-events: none;
+}
+
+.brightImageButton .imgButtonContainer img {
+	position: absolute;
+    pointer-events: none;
+}
+
+.brightImageButton.hover .imgButtonContainer img {
+	opacity: 0.5;
+	-ms-transition: opacity .3s ease-in-out;
+    -moz-transition: opacity .3s ease-in-out;
+    -webkit-transition: opacity .3s ease-in-out;
+    transition: opacity .3s ease-in-out;
+}
+
+.brightImageButton.active .imgButtonContainer img {
+	opacity: 0.5;
+}

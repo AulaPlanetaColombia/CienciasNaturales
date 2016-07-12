@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="1" clase="b" aprid="m1b">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>La formación de una onda estacionaria</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M1B]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Enunciado]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <textoatexto cantidad="1">
+    <cuestion>
+      <pregunta><![CDATA[Pala]]></pregunta>
+      <respuesta><![CDATA[bra]]></respuesta>
+    </cuestion>
+  </textoatexto>
+  <textofalso cantidad="0"/>
+</motor>

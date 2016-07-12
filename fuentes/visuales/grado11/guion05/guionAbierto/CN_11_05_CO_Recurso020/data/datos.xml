@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="2" clase="c" aprid="m2c">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>La formación de una onda estacionaria</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M2C]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Completa el siguiente texto escogiendo la opción correcta en cada caso.]]></enunciado>
+  <masinfo inicio="0"/>
+  <calc><![CDATA[0]]></calc>
+  <sonido/>
+  <textoacategoria>
+    <cuestion>
+      <pregunta><![CDATA[Las ondas estacionarias se forman por [*] de ondas viajeras. Estas ondas deben ser [*] en amplitud y [*], y viajar en direciones [*]. Las ondas [*] se caracterian por tener zonas inmóviles llamadas [*], en donde la amplitud es cero, y zonas llamadas [*],en donde la amplitud de la onda es [*].]]></pregunta>
+      <respuestas>
+        <respuesta orden="1">
+          <opcion correcta="0"><![CDATA[difracción]]></opcion>
+          <opcion correcta="0"><![CDATA[refracción]]></opcion>
+          <opcion correcta="1"><![CDATA[interferencia]]></opcion>
+          <opcion correcta="0"><![CDATA[estabilización]]></opcion>
+        </respuesta>
+        <respuesta orden="2">
+          <opcion correcta="1"><![CDATA[iguales]]></opcion>
+          <opcion correcta="0"><![CDATA[diferentes]]></opcion>
+          <opcion correcta="0"><![CDATA[correspondientes]]></opcion>
+          <opcion correcta="0"><![CDATA[proporcionales]]></opcion>
+        </respuesta>
+        <respuesta orden="3">
+          <opcion correcta="0"><![CDATA[dirección]]></opcion>
+          <opcion correcta="0"><![CDATA[orientación]]></opcion>
+          <opcion correcta="0"><![CDATA[desviación]]></opcion>
+          <opcion correcta="1"><![CDATA[frecuencia]]></opcion>
+        </respuesta>
+        <respuesta orden="4">
+          <opcion correcta="0"><![CDATA[paralelas]]></opcion>
+          <opcion correcta="0"><![CDATA[perpendiculares]]></opcion>
+          <opcion correcta="1"><![CDATA[opuestas]]></opcion>
+          <opcion correcta="0"><![CDATA[correspondientes]]></opcion>
+        </respuesta>
+        <respuesta orden="5">
+          <opcion correcta="1"><![CDATA[estacionarias]]></opcion>
+          <opcion correcta="0"><![CDATA[viajeras]]></opcion>
+          <opcion correcta="0"><![CDATA[interferidas]]></opcion>
+          <opcion correcta="0"><![CDATA[inmóviles]]></opcion>
+        </respuesta>
+        <respuesta orden="6">
+          <opcion correcta="1"><![CDATA[nodos]]></opcion>
+          <opcion correcta="0"><![CDATA[antinodos]]></opcion>
+          <opcion correcta="0"><![CDATA[vientres]]></opcion>
+          <opcion correcta="0"><![CDATA[crestas]]></opcion>
+        </respuesta>
+        <respuesta orden="7">
+          <opcion correcta="0"><![CDATA[nodos]]></opcion>
+          <opcion correcta="1"><![CDATA[antinodos]]></opcion>
+          <opcion correcta="0"><![CDATA[ejes]]></opcion>
+          <opcion correcta="0"><![CDATA[líneas]]></opcion>
+        </respuesta>
+        <respuesta orden="8">
+          <opcion correcta="0"><![CDATA[cero]]></opcion>
+          <opcion correcta="0"><![CDATA[mínima]]></opcion>
+          <opcion correcta="1"><![CDATA[máxima]]></opcion>
+          <opcion correcta="0"><![CDATA[uno]]></opcion>
+        </respuesta>
+      </respuestas>
+    </cuestion>
+  </textoacategoria>
+</motor>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="11" clase="a" aprid="m11a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>La música en términos de ondas</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M11A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Resuelve el crucigrama relacionado con la música y las ondas sonoras.]]></enunciado>
+  <masinfo inicio="0"/>
+  <calc><![CDATA[0]]></calc>
+  <crucigrama>
+    <central etiqueta="escala"><![CDATA[Conjunto organizado de notas musicales]]></central>
+    <cruzadas>
+      <palabra etiqueta="timbre" cortePropio="6"><![CDATA[Característica del sonido derivada de la superposición de armónicos.]]></palabra>
+      <palabra etiqueta="intensidad" cortePropio="6"><![CDATA[Característica de las ondas que es percibida como el "volumen" del sonido,  es decir, qué tan fuerte o débil es un sonido determinado.]]></palabra>
+      <palabra etiqueta="frecuencia" cortePropio="4"><![CDATA[Número de ondas producidas por segundo. Determina la altura del sonido.]]></palabra>
+      <palabra etiqueta="nota" cortePropio="4"><![CDATA[Sonido musical con una frecuencia determinada.]]></palabra>
+      <palabra etiqueta="amplitud" cortePropio="4"><![CDATA[Máxima separación de la onda. Determina la intensidad del sonido.]]></palabra>
+      <palabra etiqueta="fundamental" cortePropio="5"><![CDATA[Frecuencia del primer armónico.]]></palabra>
+    </cruzadas>
+  </crucigrama>
+</motor>

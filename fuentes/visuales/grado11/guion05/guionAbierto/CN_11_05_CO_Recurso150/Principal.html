@@ -1,0 +1,118 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE" />
+	
+	<!--
+				MOTOR HTML M102ab
+				VERSION: 15.11.5.1
+	-->
+	
+	<title>Actividad</title>
+	
+	<!--<script type="text/javascript" src="extlib/jquery/1_11_1/jquery_1_11_1_min.js"></script>
+	<script type="text/javascript" src="extlib/jquery_form/20130711/jquery_form_min.js"></script>
+	<script type="text/javascript" src="extlib/pdfobject/1_2/pdfobject.js"></script> 
+	<script type="text/javascript" src="extlib/swfobject/2_3/swfobject.js"></script>
+	
+	<script type="text/javascript" src="motor/js/XAll-min.js"></script>
+	<script type="text/javascript" src="motor/js/lang.js"></script>-->
+
+	<!-- SCORM -->
+	<!--<script type="text/javascript" src="lib/aulaplaneta/1_0/js/APIWrapper.js"></script>
+	<script type="text/javascript" src="lib/aulaplaneta/1_0/js/SCORM.js"></script>-->
+	
+	<!-- Tema Vídeo/Audio -->
+	<!--<link href="lib/cepdamediaplayer/1_1/css/cepdamediaplayer_base.css" rel="stylesheet" type="text/css"/>
+	<link href="lib/cepdamediaplayer/1_1/cepda_aulaplaneta_theme/cepda_aulaplaneta_small.css" rel="stylesheet" type="text/css"/>
+	<script src="lib/cepdamediaplayer/1_1/js/jquery_ui_1_10_4_custom_min.js" type="text/javascript"></script>
+	<script src="lib/cepdamediaplayer/1_1/js/jquery_ui_1_10_4_slider_scale.js" type="text/javascript"></script>
+	<script src="lib/cepdamediaplayer/1_1/js/jquery_cepdamediaplayer.js" type="text/javascript"></script>
+	<link href="motor/css/style_actividad.css" type="text/css" rel="stylesheet" />-->
+
+	<!-- cargamos las rutinas del motor html -->
+	<!--<script type="text/javascript" src="motor/js/motor.js"></script> 
+	<script src="motor/js/cepdamediainit.js" type="text/javascript"></script>-->
+
+	<script type='text/javascript' src='lib/ppppreloader/1_0/ppppreloader_min.js'></script>
+	
+	<script type='text/javascript'>
+
+		// Precarga
+		var manifest = {
+			// Bloques de elementos a descargar
+			blocks: [
+				{ type: "manifest", files: [ { from: "module", file: "motor/manifest.json"} ] }
+			],
+			spinner: "no",
+			waitForDocumentReady: true, 
+			onEndLoading: function (manifest) {
+				// Miramos si hay errores
+				if (manifest.errors.length > 0) {
+					var msg = "Ended with errors: \n\n";
+					for (var i=0;i<manifest.errors.length;i++) {
+						msg += "- " + manifest.errors[i].type + ": " + manifest.errors[i].file + " [" + manifest.errors[i].url + "]\n";
+					}
+					alert(msg);
+				} else { // Todo Ok!!!
+					// AHORA PROCEDEMOS A INICIALIZAR EL EJERCICIO
+					
+					waitDocumentReady();
+				}
+				pppSpinner.hide();
+			}
+		};
+
+
+		// Inicialización del sistema
+		pppPreloader.init( {
+			aliases: { "module": "CDN" },
+			remotePaths: { "module": "motors/m102ab/" }
+		});
+		pppSpinner.show();
+
+		// Cargamos el manifiesto del motor
+		pppPreloader.loadManifest(manifest);
+
+	</script>
+	
+</head>
+<body>
+	<div id="topcontainer">
+		<div id="htmlcontainer">
+			<div id="ccontainer">
+	<div id="contenedor_actividad">
+		<div id="ac_01">
+			<div class="top">
+				<div class="logo"><img alt="Aula Planeta" /></div>
+				<div class="ac_tit"><h1><div id="plataforma.titulo"></div></h1></div>
+				<!--<div class="cerrar"><a href="#" onClick="javascript:ejercicio_cerrar();"><img src="motor/images/cerrar-ico.jpg" /></a></div>-->
+			</div>
+			<div class="entradilla">
+				<p><div id="enunciado"> </div></p>
+			</div>
+			<div  id="contenido" class="contenido">
+				<div id="contenido_embed" style="height: 100%; min-height: 440px; padding: 0px; margin: 0px; overflow: hidden; position: relative;">
+				</div>
+			</div>
+			<div class="pie">
+				<form id="subir_pro" method="post" action="" enctype="multipart/form-data" target="_blank">
+					<div id="cajaSubir" class="form_adj"><span id="adj" class="adjuntar">Subir proyecto</span>
+					</div>
+					<div class="form_adj_txt">
+						<input id="uploadField" type="text" name="textupload" value="Ningún archivo seleccionado" class="upl_txt" readonly/>
+						<div id="descarga_alumno"></div>
+					</div>
+					<div id="buttonEndAction">
+						<input type="button" name="endActionBut" value="Enviar" class="corregir_bt" alt="Enviar" title="Enviar" onClick="javascript: endAction();" />
+					</div>
+				</form>
+			</div>
+		</div>
+	</div>
+	</div></div></div>
+	<div id="iframeExtContainer"></div>
+</body>
+</html>

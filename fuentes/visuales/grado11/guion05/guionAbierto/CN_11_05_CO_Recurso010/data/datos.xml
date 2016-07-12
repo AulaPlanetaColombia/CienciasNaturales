@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?><engine copy="Editorial Planeta" version="1" aprid="f8">
+<main title="¿Qué son las ondas estacionarias?" bkColor="#FFFFFF" titleColor="#000000" theme="black" buttonsWidth="220" buttonsHeight="42" trans="">
+<default>
+<img path="imagendummy_motorf.jpg" x="300" y="100" width="" height=""/>
+</default><buttons>
+<button title="Reflexíon de una onda viajera">
+<img path="imagendummy_motorf.jpg" x="" y="" width="" height="" anim=""/>
+</button>
+<button title="Las ondas incidente y reflejada se superponen">
+<img path="imagendummy_motorf.jpg" x="" y="" width="" height="" anim=""/>
+</button>
+<button title="Interferencia de las ondas">
+<img path="imagendummy_motorf.jpg" x="" y="" width="" height="" anim=""/>
+</button>
+<button title="Onda estacionaria transversal I">
+<img path="imagendummy_motorf.jpg" x="" y="" width="" height="" anim=""/>
+</button>
+<button title="Onda estacionaria transversal II">
+<img path="imagendummy_motorf.jpg" x="" y="" width="" height="" anim=""/>
+</button>
+<button title="Onda estacionaria transversal III">
+<img path="imagendummy_motorf.jpg" x="" y="" width="" height="" anim=""/>
+</button>
+<button title="Onda estacionaria longitudinal">
+<img path="imagendummy_motorf.jpg" x="" y="" width="" height="" anim=""/>
+</button>
+<button title="Longitud de onda en una onda estacionaria">
+<img path="imagendummy_motorf.jpg" x="" y="" width="" height="" anim=""/>
+</button>
+</buttons>
+</main>
+<masinfo>
+<pantalla1><![CDATA[<p><span style="font-size:20px"><span style="font-family:verdana,geneva,sans-serif"><strong>Las ondas estacionarias</strong></span></span></p>
+
+<ul>
+	<li><span style="font-size:19px"><span style="font-family:verdana,geneva,sans-serif">La mayor&iacute;a de las ondas se desplazan a lo largo del medio en el que est&aacute;n. Estas ondas se conocen como <strong>simples </strong>o <strong>viajeras</strong>.</span></span></li>
+	<li><span style="font-size:19px"><span style="font-family:verdana,geneva,sans-serif">Una <strong>onda estacionaria</strong>, por el contrario, est&aacute; confinada a un espacio determinado. Existe movimiento vibratorio, pero la onda no se propaga.</span></span></li>
+	<li><span style="font-size:19px"><span style="font-family:verdana,geneva,sans-serif">Las ondas estacionarias se forman por <strong>interferencia</strong> de ondas de igual <strong>amplitud </strong>y <strong>frecuencia</strong>, que viajan en <strong>direcciones opuestas</strong>.</span></span></li>
+	<li><span style="font-size:19px"><span style="font-family:verdana,geneva,sans-serif">Algunas zonas de la onda estacionaria se forman por interferencia <strong>constructiva</strong>, y otras por interferencia <strong>destructiva</strong>.</span></span></li>
+	<li><span style="font-size:19px"><span style="font-family:verdana,geneva,sans-serif">La interferencia destructiva produce puntos constantes de amplitud cero, conocidas como <strong>nodos</strong>.</span></span></li>
+	<li><span style="font-size:19px"><span style="font-family:verdana,geneva,sans-serif">En las zonas de m&aacute;xima amplitud, llamadas <strong>vientres</strong> o <strong>antinodos</strong>, se alternan los valles y las crestas.</span></span></li>
+	<li><span style="font-size:19px"><span style="font-family:verdana,geneva,sans-serif">Hay ondas estacionarias <strong>transversales</strong>, como las producidas por una cuerda vibrante, y ondas estacionarias <strong>longitudinales</strong>, como las que se pueden formar en un resorte que se expande y contrae.</span></span></li>
+</ul>
+]]></pantalla1>
+</masinfo>
+</engine>

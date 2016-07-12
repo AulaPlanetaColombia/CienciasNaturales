@@ -1,0 +1,54 @@
+﻿.slidePrincipal {
+	background-color: white;
+}
+
+/* Textos */
+.principal_titulo {
+    text-align: center;
+    font-size: 31px;
+    vertical-align: middle;
+    line-height: 110px;
+	background-color: transparent;
+    overflow: hidden;
+}
+
+.principal_texto {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 18px;
+		background-color: transparent;
+		padding-right: 20px;
+    overflow-y: auto;
+}
+
+.principal_texto p:first-child {
+	margin-top: 0px;
+}
+
+.gridbutton {
+    font-size: 16px;
+}
+
+.slide_default {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 18px;
+    padding-right: 10px;
+		background-color: transparent;
+		overflow-y: auto;
+}
+
+.popupCloseButton {
+    background: transparent url("../images/btnclose35.png") no-repeat;
+}
+
+.popupCloseButton_white {
+    background: transparent url("../images/btnclose35_white.png") no-repeat;
+}
+
+.infoButton {
+    background: transparent url("../images/btninfo35.png") no-repeat;
+}
+
+.infoButton_white {
+    background: transparent url("../images/btninfo35_white.png") no-repeat;
+}
+

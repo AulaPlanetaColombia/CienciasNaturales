@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="10" clase="a" aprid="m10a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Música y ruido</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M10A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Arrastra cada texto al contenedor correspondiente.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <textoacategoria cantidad="2">
+    <cuestion>
+      <categoria><![CDATA[Música]]></categoria>
+      <respuestas>
+        <respuesta id="1"><![CDATA[Sonido regular]]></respuesta>
+        <respuesta id="2"><![CDATA[Agradable de escuchar]]></respuesta>
+        <respuesta id="3"><![CDATA[Vibraciones ordenadas]]></respuesta>
+        <respuesta id="4"><![CDATA[Ondas estacionarias]]></respuesta>
+      </respuestas>
+      <sonido/>
+    </cuestion>
+    <cuestion>
+      <categoria><![CDATA[Ruido]]></categoria>
+      <respuestas>
+        <respuesta id="1"><![CDATA[Sonido irregular]]></respuesta>
+        <respuesta id="2"><![CDATA[Desagradable al oído]]></respuesta>
+        <respuesta id="3"><![CDATA[Vibraciones desordenadas]]></respuesta>
+        <respuesta id="4"><![CDATA[Ondas viajeras]]></respuesta>
+      </respuestas>
+      <sonido/>
+    </cuestion>
+  </textoacategoria>
+</motor>

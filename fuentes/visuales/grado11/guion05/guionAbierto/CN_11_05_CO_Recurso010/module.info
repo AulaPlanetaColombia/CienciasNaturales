@@ -1,0 +1,9 @@
+[module]
+id=f8
+desc=Motor F8
+aprid=f8
+version=14.11.3.1
+folder=motor
+entrypoint=principal.html
+dependencies=principal.dep
+
