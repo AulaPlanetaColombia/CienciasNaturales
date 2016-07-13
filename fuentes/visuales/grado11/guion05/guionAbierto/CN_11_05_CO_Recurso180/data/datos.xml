@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="4" clase="a" aprid="m4a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Evaluación</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M4A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Escoge la respuesta correcta en cada caso.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <respuestaunica><![CDATA[0]]></respuestaunica>
+  <test cantidad="10">
+    <cuestion>
+      <enunciado><![CDATA[En general, la voz de las mujeres es más aguda que la de los hombres porque estas tienen...]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="cuerdas vocales más pequeñas." correcta="1"/>
+        <respuesta contestacion="pulmones más pequeños." correcta="0"/>
+        <respuesta contestacion="bocas más pequeñas." correcta="0"/>
+        <respuesta contestacion="gargantas más largas." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[En una cuerda vibrante, con cada nuevo armónico la longitud de onda]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="aumenta." correcta="0"/>
+        <respuesta contestacion="disminuye." correcta="1"/>
+        <respuesta contestacion="se mantiene." correcta="0"/>
+        <respuesta contestacion="desaparece." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[La frecuencia más baja pertenece siempre al...]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="primer armónico." correcta="1"/>
+        <respuesta contestacion="último armónico." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[En un instrumento de cuerda, el sonido más bajo lo produce...]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="la cuerda más gruesa." correcta="1"/>
+        <respuesta contestacion="la cuerda más delgada." correcta="0"/>
+        <respuesta contestacion="la cuerda más corta." correcta="0"/>
+        <respuesta contestacion="la cuerda menos densa." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Para formar una onda estacionaria, se requiere de la interferencia de ondas viajeras con...]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="igual frecuencia y amplitud, y dirección opuesta." correcta="1"/>
+        <respuesta contestacion="diferente frecuencia, amplitud y dirección." correcta="0"/>
+        <respuesta contestacion="la misma dirección, frecuencia y amplitud." correcta="0"/>
+        <respuesta contestacion="la misma dirección y amplitud, pero diferente frecuencia." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[¿Pueden interferir entre sí dos ondas de igual amplitud pero diferente intensidad?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Si, porque la interferencia se puede dar entre ondas diferentes." correcta="0"/>
+        <respuesta contestacion="No, porque la interferencia solo se da entre ondas iguales." correcta="0"/>
+        <respuesta contestacion="Si, porque la amplitud es independiente de la intensidad." correcta="0"/>
+        <respuesta contestacion="No, porque la amplitud determina la intensidad." correcta="1"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Los sobretonos determinan...]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="la frecuencia fundamental." correcta="0"/>
+        <respuesta contestacion="la longitud de la cuerda." correcta="0"/>
+        <respuesta contestacion="el timbre del sonido." correcta="1"/>
+        <respuesta contestacion="la intensidad del sonido." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[En los instrumentos de viento, ¿cómo es la longitud de onda del primer armónico en comparación con la longitud del tubo?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Mayor" correcta="1"/>
+        <respuesta contestacion="Menor" correcta="0"/>
+        <respuesta contestacion="Igual" correcta="0"/>
+        <respuesta contestacion="Independiente" correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[Cuando se sube el volumen de la radio, ¿qué se hace a las ondas sonoras que emite?]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="Se aumenta su frecuencia." correcta="0"/>
+        <respuesta contestacion="Se disminuye su longitud de onda." correcta="0"/>
+        <respuesta contestacion="Se aumenta su amplitud." correcta="1"/>
+        <respuesta contestacion="Se modifica su altura." correcta="0"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <enunciado><![CDATA[En cada armónico sucesivo, el sonido es más...]]></enunciado>
+      <explicacion/>
+      <imagen/>
+      <respuestas>
+        <respuesta contestacion="agudo" correcta="1"/>
+        <respuesta contestacion="grave" correcta="0"/>
+        <respuesta contestacion="fuerte" correcta="0"/>
+        <respuesta contestacion="armónico" correcta="0"/>
+      </respuestas>
+    </cuestion>
+  </test>
+</motor>

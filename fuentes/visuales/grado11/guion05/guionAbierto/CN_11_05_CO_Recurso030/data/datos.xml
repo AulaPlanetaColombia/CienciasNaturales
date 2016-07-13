@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?><motor tipo="1" clase="b" aprid="m1b">
   <plataforma>
     <grado><![CDATA[2]]></grado>
-    <titulo>La formación de una onda estacionaria</titulo>
+    <titulo>Ondas estacionarias longitudinales y transversales</titulo>
     <area>0</area>
     <nivel>1</nivel>
     <referencia/>
@@ -9,14 +9,26 @@
     <motor><![CDATA[M1B]]></motor>
     <lang>es</lang>
   </plataforma>
-  <enunciado><![CDATA[Enunciado]]></enunciado>
+  <enunciado><![CDATA[Relaciona cada término con la descripción correspondiente.]]></enunciado>
   <masinfo inicio="0"/>
   <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
   <calc><![CDATA[0]]></calc>
-  <textoatexto cantidad="1">
+  <textoatexto cantidad="4">
     <cuestion>
-      <pregunta><![CDATA[Pala]]></pregunta>
-      <respuesta><![CDATA[bra]]></respuesta>
+      <pregunta><![CDATA[Nodo]]></pregunta>
+      <respuesta><![CDATA[Región de la onda en donde la amplitud es siempre cero.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Antinodo]]></pregunta>
+      <respuesta><![CDATA[Región de la onda es donde se presenta la máxima amplitud.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Onda viajera]]></pregunta>
+      <respuesta><![CDATA[Onda que se propaga por el medio en el que está.]]></respuesta>
+    </cuestion>
+    <cuestion>
+      <pregunta><![CDATA[Onda estacionaria]]></pregunta>
+      <respuesta><![CDATA[Onda confinada a una región; formada por interferencia de ondas con igual amplitud y frecuencia, pero viajando el sentido opuesto.]]></respuesta>
     </cuestion>
   </textoatexto>
   <textofalso cantidad="0"/>

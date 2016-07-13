@@ -1,0 +1,9 @@
+[module]
+id=m3a
+desc=Motor M3a
+aprid=m3a
+version=1.0
+folder=motor
+entrypoint=principal.html
+dependencies=
+

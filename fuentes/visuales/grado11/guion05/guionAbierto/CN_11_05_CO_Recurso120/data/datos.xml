@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="10" clase="a" aprid="m10a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Los distintos tipos de instrumentos musicales</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M10A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Ubica cada texto en el contenedor correspondiente.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <textoacategoria cantidad="3">
+    <cuestion>
+      <categoria><![CDATA[Instrumentos de cuerda]]></categoria>
+      <respuestas>
+        <respuesta id="1"><![CDATA[Ondas transversales]]></respuesta>
+        <respuesta id="2"><![CDATA[2 nodos en primer armónico]]></respuesta>
+        <respuesta id="3"><![CDATA[Arpa]]></respuesta>
+        <respuesta id="4"><![CDATA[Violín]]></respuesta>
+      </respuestas>
+      <sonido/>
+    </cuestion>
+    <cuestion>
+      <categoria><![CDATA[Instrumentos de viento]]></categoria>
+      <respuestas>
+        <respuesta id="1"><![CDATA[Ondas longitudinales]]></respuesta>
+        <respuesta id="2"><![CDATA[1 nodo en primer armónico]]></respuesta>
+        <respuesta id="3"><![CDATA[Trompeta]]></respuesta>
+        <respuesta id="4"><![CDATA[Nodo fuera del instrumento]]></respuesta>
+      </respuestas>
+      <sonido/>
+    </cuestion>
+    <cuestion>
+      <categoria><![CDATA[Instrumentos de percusión]]></categoria>
+      <respuestas>
+        <respuesta id="1"><![CDATA[Matemática compleja]]></respuesta>
+        <respuesta id="2"><![CDATA[Ondas en dos dimensiones]]></respuesta>
+        <respuesta id="3"><![CDATA[Batería]]></respuesta>
+        <respuesta id="4"><![CDATA[Muchos no producen notas]]></respuesta>
+      </respuestas>
+      <sonido/>
+    </cuestion>
+  </textoacategoria>
+</motor>

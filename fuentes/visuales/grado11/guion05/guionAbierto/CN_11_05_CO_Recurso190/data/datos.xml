@@ -1,0 +1,54 @@
+﻿<?xml version='1.0' encoding='UTF-8'?><motor tipo="3" clase="a" aprid="m3a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Ondas estacionarias longitudinales y transversales</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M3A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Relaciona cada texto con la imagen correspondiente.]]></enunciado>
+  <masinfo inicio="0"/>
+  <sinaleatoriedad><![CDATA[0]]></sinaleatoriedad>
+  <calc><![CDATA[0]]></calc>
+  <sonidoaimagen cantidad="6">
+    <cuestion>
+      <imagen etiqueta=""><![CDATA[imagendummy_motorf.jpg]]></imagen>
+      <respuestas>
+        <respuesta etiqueta="Nodo en onda transversal"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <imagen etiqueta=""><![CDATA[imagendummy_motorf.jpg]]></imagen>
+      <respuestas>
+        <respuesta etiqueta="Antinodo en onda longitudinal"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <imagen etiqueta=""><![CDATA[imagendummy_motorf.jpg]]></imagen>
+      <respuestas>
+        <respuesta etiqueta="Nodo en onda longitudinal"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <imagen etiqueta=""><![CDATA[imagendummy_motorf.jpg]]></imagen>
+      <respuestas>
+        <respuesta etiqueta="Antinodo en onda transversal"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <imagen etiqueta=""><![CDATA[imagendummy_motorf.jpg]]></imagen>
+      <respuestas>
+        <respuesta etiqueta="Onda estacionaria"/>
+      </respuestas>
+    </cuestion>
+    <cuestion>
+      <imagen etiqueta=""><![CDATA[imagendummy_motorf.jpg]]></imagen>
+      <respuestas>
+        <respuesta etiqueta="Onda viajera"/>
+      </respuestas>
+    </cuestion>
+  </sonidoaimagen>
+</motor>

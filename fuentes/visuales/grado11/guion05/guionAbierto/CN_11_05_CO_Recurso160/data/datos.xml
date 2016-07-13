@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="101" clase="ap" aprid="m101ap">
+  <plataforma>
+    <grado>2</grado>
+    <titulo>Banco de actividades: Ondas estacionarias</titulo>
+    <volumen/>
+    <nivel><![CDATA[1]]></nivel>
+    <referencia/>
+    <motor/>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Analiza y responde las siguientes preguntas.]]></enunciado>
+  <masinfo inicio="0"/>
+  <calc><![CDATA[0]]></calc>
+  <preguntas cantidad="5">
+    <pregunta>
+      <enunciado><![CDATA[¿Es posible que algún armónico de una nota musical corresponda la frecuencia de una nota diferente? Justifica tu respuesta.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿Es posible lograr ondas estacionarias a través de la interferencia de ondas viajeras de igual frecuencia pero diferente amplitud? Justifica tu respuesta.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿Las ondas estacionarias sólo se forman en instrumentos musicales? ¿Por qué?]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[2]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[Describe la formación de una onda estacionaria en una cuerda de guitarra.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+    <pregunta>
+      <enunciado><![CDATA[¿Un sonido no musical también puede tener armónicos? Explica.]]></enunciado>
+      <explicacion/>
+      <nivel><![CDATA[3]]></nivel>
+      <tipo/>
+      <imagen/>
+      <ampliacion/>
+      <texto/>
+    </pregunta>
+  </preguntas>
+</motor>

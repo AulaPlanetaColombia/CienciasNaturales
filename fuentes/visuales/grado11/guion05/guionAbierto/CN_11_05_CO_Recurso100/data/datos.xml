@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?><motor tipo="2" clase="a" aprid="m2a">
+  <plataforma>
+    <grado><![CDATA[2]]></grado>
+    <titulo>Las cualidades del sonido</titulo>
+    <area>0</area>
+    <nivel>1</nivel>
+    <referencia/>
+    <idreg><![CDATA[0]]></idreg>
+    <motor><![CDATA[M2A]]></motor>
+    <lang>es</lang>
+  </plataforma>
+  <enunciado><![CDATA[Completa el siguiente texto poniendo las palabras apropiadas en los campos correspondientes.]]></enunciado>
+  <masinfo inicio="0"/>
+  <calc><![CDATA[0]]></calc>
+  <sonido/>
+  <textoacategoria>
+    <cuestion>
+      <pregunta><![CDATA[Los diversos [*] pueden diferenciarse por tres cualidades que corresponden a características [*] distintas. Una de ellas es la [*], que indica que tan [*] o grave es un sonido, y depende de la [*] de la [*] que lo produce. La [*], por su parte, determina que tan fuerte o débil se escucha el sonido, y se relaciona con la [*] de la onda. Por último está el [*], que depende de la [*] de diferentes ondas sonoras, y le da un caracter particular a sonidos producidos en objetos distintos. ]]></pregunta>
+      <respuestas>
+        <respuesta orden="1"><![CDATA[sonidos]]></respuesta>
+        <respuesta orden="2"><![CDATA[físicas]]></respuesta>
+        <respuesta orden="3"><![CDATA[altura]]></respuesta>
+        <respuesta orden="4"><![CDATA[agudo]]></respuesta>
+        <respuesta orden="5"><![CDATA[frecuencia]]></respuesta>
+        <respuesta orden="6"><![CDATA[onda]]></respuesta>
+        <respuesta orden="7"><![CDATA[intensidad]]></respuesta>
+        <respuesta orden="8"><![CDATA[amplitud]]></respuesta>
+        <respuesta orden="9"><![CDATA[timbre]]></respuesta>
+        <respuesta orden="10"><![CDATA[superposición]]></respuesta>
+      </respuestas>
+    </cuestion>
+  </textoacategoria>
+  <textofalso cantidad="0"/>
+</motor>
