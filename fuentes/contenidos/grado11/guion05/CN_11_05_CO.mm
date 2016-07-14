@@ -1,0 +1,241 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1464748555095" ID="ID_1417081257" MODIFIED="1468519945141" TEXT="Las ondas estacionarias">
+<node CREATED="1464748603458" ID="ID_94768033" MODIFIED="1464748648698" POSITION="left" TEXT="se forman por">
+<icon BUILTIN="idea"/>
+<node CREATED="1464748607995" ID="ID_135280991" MODIFIED="1464748612360" TEXT="Interferencia">
+<node CREATED="1464748612361" ID="ID_1651431100" MODIFIED="1464748645642" TEXT="de">
+<icon BUILTIN="idea"/>
+<node CREATED="1464748613889" ID="ID_1841272202" MODIFIED="1464748638877" TEXT="Ondas con igual amplitud y frecuencia pero direcci&#xf3;n opuesta">
+<node CREATED="1464749340819" ID="ID_1907817979" MODIFIED="1468426229636" TEXT="pueden formarse entre ondas">
+<icon BUILTIN="idea"/>
+<node CREATED="1464749348013" ID="ID_1096435224" MODIFIED="1464749363920">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      -Longitudinales
+    </p>
+    <p>
+      -Transversales
+    </p>
+  </body>
+</html></richcontent>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1464748676030" HGAP="-71" ID="ID_731782927" MODIFIED="1468430347403" POSITION="right" TEXT="son la base de" VSHIFT="-84">
+<icon BUILTIN="idea"/>
+<node CREATED="1464748751515" ID="ID_475849074" MODIFIED="1464748759858" TEXT="La m&#xfa;sica">
+<node CREATED="1464748759859" ID="ID_1037873893" MODIFIED="1464749414877" TEXT="gracias a">
+<icon BUILTIN="idea"/>
+<node CREATED="1464748771161" ID="ID_293661431" MODIFIED="1464748858660" TEXT="La regularidad que presentan"/>
+</node>
+<node CREATED="1464748865895" ID="ID_30104902" MODIFIED="1468426276362" TEXT="son producidas por ">
+<icon BUILTIN="idea"/>
+<node CREATED="1464748882594" ID="ID_1081853391" MODIFIED="1464748892588" TEXT="Instrumentos musicales">
+<node CREATED="1464748892589" ID="ID_124756134" MODIFIED="1464748959628" TEXT="pueden ser">
+<icon BUILTIN="idea"/>
+<node CREATED="1464748896099" ID="ID_470492087" MODIFIED="1464749370546" TEXT="De viento" VSHIFT="-44">
+<node CREATED="1464748907100" ID="ID_479546262" MODIFIED="1464749199868" TEXT="producen">
+<icon BUILTIN="idea"/>
+<node CREATED="1464749102423" ID="ID_1498491222" MODIFIED="1464749116256" TEXT="Ondas estacionarias longitudinales"/>
+</node>
+<node CREATED="1464749377640" ID="ID_1231374730" MODIFIED="1464749381709" TEXT="incluyen">
+<icon BUILTIN="idea"/>
+<node CREATED="1464749382735" ID="ID_741170804" MODIFIED="1464749387453" TEXT="La voz humana"/>
+</node>
+<node CREATED="1468427070823" ID="ID_1734883536" MODIFIED="1468427814616" TEXT="funcionan con">
+<icon BUILTIN="idea"/>
+<node CREATED="1468427099986" ID="ID_1795573971" MODIFIED="1468427107604" TEXT="tubos en donde se producen las ondas"/>
+</node>
+</node>
+<node CREATED="1464749117542" ID="ID_1619402964" MODIFIED="1464749127369" TEXT="De cuerdas">
+<node CREATED="1464749127370" ID="ID_769614708" MODIFIED="1464749200832" TEXT="producen">
+<icon BUILTIN="idea"/>
+<node CREATED="1464749129742" ID="ID_207830791" MODIFIED="1464749139813" TEXT="Ondas estacionarias transversales"/>
+</node>
+</node>
+<node CREATED="1464749141252" HGAP="23" ID="ID_1312260503" MODIFIED="1464749373117" TEXT="De percusi&#xf3;n" VSHIFT="52">
+<node CREATED="1464749152876" ID="ID_1574082434" MODIFIED="1464749201442" TEXT="producen">
+<icon BUILTIN="idea"/>
+<node CREATED="1464749156079" ID="ID_1918637133" MODIFIED="1468426816932" TEXT="Ondas estacionarias transversales planas">
+<arrowlink DESTINATION="ID_1918637133" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_209114121" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1918637133" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_209114121" SOURCE="ID_1918637133" STARTARROW="None" STARTINCLINATION="0;0;"/>
+</node>
+<node CREATED="1464749156079" ID="ID_1660705234" MODIFIED="1468426347732" TEXT="Ruido con ritmo"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1464749421668" HGAP="19" ID="ID_1238036418" MODIFIED="1464749445351" TEXT="se compone de" VSHIFT="55">
+<icon BUILTIN="idea"/>
+<node CREATED="1464749425707" ID="ID_730087084" MODIFIED="1464749453417" TEXT="Sonidos musicales">
+<node CREATED="1464749429909" ID="ID_1094439667" MODIFIED="1464749480315" TEXT="que presentan">
+<icon BUILTIN="idea"/>
+<node CREATED="1464749435121" ID="ID_962738096" MODIFIED="1464749469369" TEXT="Altura">
+<node CREATED="1464749469369" ID="ID_1647332290" MODIFIED="1464749483182" TEXT="determinada por">
+<icon BUILTIN="idea"/>
+<node CREATED="1464749472525" ID="ID_1268056393" MODIFIED="1464749478620" TEXT="La frecuencia de la onda"/>
+</node>
+</node>
+<node CREATED="1464749488248" ID="ID_750609046" MODIFIED="1464749504493" TEXT="Intensidad">
+<node CREATED="1464749504494" ID="ID_472690766" MODIFIED="1464749511842" TEXT="determinada por">
+<icon BUILTIN="idea"/>
+<node CREATED="1464749512908" ID="ID_1848679776" MODIFIED="1464749518925" TEXT="La amplitud de la onda"/>
+</node>
+</node>
+<node CREATED="1464749520373" ID="ID_1531166671" MODIFIED="1464749525657" TEXT="Timbre">
+<node CREATED="1464749525657" ID="ID_1119809787" MODIFIED="1464749537036" TEXT="determinado por">
+<icon BUILTIN="idea"/>
+<node CREATED="1464749539073" ID="ID_1934404615" MODIFIED="1464749552354" TEXT="La cantidad, tipo e intensidad de los sobretonos"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1468430303676" HGAP="-69" ID="ID_1542368759" MODIFIED="1468516855512" POSITION="right" TEXT="se observan en " VSHIFT="119">
+<icon BUILTIN="idea"/>
+<node CREATED="1468430463938" HGAP="24" ID="ID_1587179931" MODIFIED="1468430480756" TEXT="tubos" VSHIFT="49">
+<node CREATED="1468430485386" ID="ID_1493632635" MODIFIED="1468517083673" TEXT="pueden ser">
+<icon BUILTIN="idea"/>
+<node CREATED="1468430488286" ID="ID_1507213498" MODIFIED="1468517097847" TEXT="cerrados">
+<node CREATED="1468427419565" ID="ID_817948789" MODIFIED="1468432823892" TEXT="en donde">
+<arrowlink DESTINATION="ID_817948789" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_848933626" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<arrowlink DESTINATION="ID_817948789" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1472434728" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_817948789" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_848933626" SOURCE="ID_817948789" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_817948789" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1472434728" SOURCE="ID_817948789" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<icon BUILTIN="idea"/>
+<node CREATED="1468427421942" ID="ID_1305009696" MODIFIED="1468518348683">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      frecuencias o arm&#243;nicos
+    </p>
+    <p>
+      <img src="CodeCogsEqn%20(4).gif" />
+    </p>
+  </body>
+</html>
+</richcontent>
+<arrowlink DESTINATION="ID_1305009696" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1648617462" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1305009696" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1648617462" SOURCE="ID_1305009696" STARTARROW="None" STARTINCLINATION="0;0;"/>
+</node>
+<node CREATED="1468432825404" ID="ID_671248387" MODIFIED="1468518515051">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      longitudes de onda
+    </p>
+    <p>
+      <img src="CodeCogsEqn%20(5).gif" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node CREATED="1468430496476" ID="ID_395631593" MODIFIED="1468517108021" TEXT="abiertos">
+<node CREATED="1468427419565" ID="ID_1798296731" MODIFIED="1468432823892" TEXT="en donde">
+<arrowlink DESTINATION="ID_1798296731" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1113118787" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<arrowlink DESTINATION="ID_1798296731" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1086975115" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1798296731" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1113118787" SOURCE="ID_1798296731" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1798296731" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1086975115" SOURCE="ID_1798296731" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<icon BUILTIN="idea"/>
+<node CREATED="1468427421942" ID="ID_1358028133" MODIFIED="1468519656652">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      frecuencia o nodos
+    </p>
+    <p>
+      <img src="CodeCogsEqn%20(6).gif" />
+    </p>
+  </body>
+</html>
+</richcontent>
+<arrowlink DESTINATION="ID_1358028133" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1709994302" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1358028133" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1709994302" SOURCE="ID_1358028133" STARTARROW="None" STARTINCLINATION="0;0;"/>
+</node>
+<node CREATED="1468432825404" ID="ID_1896036466" MODIFIED="1468519818195">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      longitudes de onda
+    </p>
+    <p>
+      <img src="CodeCogsEqn%20(7).gif" />
+    </p>
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+</node>
+</node>
+<node CREATED="1468430456418" HGAP="17" ID="ID_1630312723" MODIFIED="1468430478691" TEXT="cuerdas" VSHIFT="-37">
+<node CREATED="1468427419565" ID="ID_226768525" MODIFIED="1468432823892" TEXT="en donde">
+<arrowlink DESTINATION="ID_226768525" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1873443361" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<arrowlink DESTINATION="ID_226768525" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1861974608" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_226768525" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1873443361" SOURCE="ID_226768525" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_226768525" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1861974608" SOURCE="ID_226768525" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<icon BUILTIN="idea"/>
+<node CREATED="1468432825404" ID="ID_1877970599" MODIFIED="1468519818195">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      longitudes de onda
+    </p>
+    <p>
+      <img src="CodeCogsEqn%20(7).gif" />
+    </p>
+  </body>
+</html></richcontent>
+</node>
+<node CREATED="1468427421942" ID="ID_1067601963" MODIFIED="1468519656652">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      frecuencia o nodos
+    </p>
+    <p>
+      <img src="CodeCogsEqn%20(6).gif" />
+    </p>
+  </body>
+</html></richcontent>
+<arrowlink DESTINATION="ID_1067601963" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1404879808" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<linktarget COLOR="#b0b0b0" DESTINATION="ID_1067601963" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1404879808" SOURCE="ID_1067601963" STARTARROW="None" STARTINCLINATION="0;0;"/>
+</node>
+</node>
+</node>
+</node>
+</node>
+</map>
