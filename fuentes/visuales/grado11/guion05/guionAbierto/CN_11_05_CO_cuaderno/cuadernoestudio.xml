@@ -1,317 +1,765 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CN_11_05_CO">
-  <libroTitulo>Ondas estacionarias</libroTitulo>
-  <seccion1 id="S1_CN_11_05_CO_FAB470DB95504017AFDE25283DAF16F4">
-    <seccion1Titulo>La naturaleza de las ondas estacionarias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_05_CO_img_01_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso010&amp;IdRecurso=RES-D4D84D624D62445B8D75DF41FFAE9995">Recurso F8-01</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_05_CO_img_02_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso020&amp;IdRecurso=RES-665C6E1198B34593BA17CB4D9E283C92">Recurso M2C-01</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_05_CO_img_03_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso030&amp;IdRecurso=RES-94B48B3A702945BE810BB7B388863679">Recurso M4A-01</enlace>
-      </practica>
-      <seccion2 id="S2_CN_11_05_CO_C85B289E7CD54107BEA8B30BE25AB553">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_05_CO_img_04_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso040&amp;IdRecurso=RES-A85CF0F18C16472F8F2422E6556AA56E">Recurso M101A-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_05_CO_img_08_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso080&amp;IdRecurso=RES-62B764A1439E456E9E17A5973CAD8658">Recurso M101A-02</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_05_CO_img_14_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso140&amp;IdRecurso=RES-DE41144BE43343C59BD445E88A10E6B2">Recurso M101A-03</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CN_11_05_CO_1EB8E91EA5F04805B9A78571BDA4C626">
-    <seccion1Titulo>Las ondas estacionarias en los instrumentos musicales</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_05_CO_img_05_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso050&amp;IdRecurso=RES-7F66874473124A808A6BACE57B92137F">Recurso F6-01</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_05_CO_img_06_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso060&amp;IdRecurso=RES-03D60DAC85C04B15A3E9103FC0D51E94">Recurso M10A-01</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_05_CO_img_07_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CN_11_05_CO_05595B561206437A8D6EBCB3F2E37A2E">
-    <seccion1Titulo>Las ondas sonoras, la música y la voz</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_05_CO_img_09_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso090&amp;IdRecurso=RES-B0E3C9F7B98C46FD8A4BE1057D94E9EE">El sonido: naturaleza y propagación</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_05_CO_img_10_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso100&amp;IdRecurso=RES-CADEF3B0BAFD4BE1A3269A527F93DD39">Conoce las cualidades del sonido</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_05_CO_img_11_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso110&amp;IdRecurso=RES-09A77AA501C54D88AD3F87980BEF126C">Recurso F6-02</enlace>
-      </profundiza>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CN_11_05_CO_630FCD19D6994DF582A28A4302382797">
-    <seccion1Titulo>Las ondas, la música y la voz</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_05_CO_img_12_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso120&amp;IdRecurso=RES-68406AF9AD574747BE82099CF9EF0168">Recurso M1B-01</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_05_CO_img_13_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CN_11_05_CO_B2FB8C117FB64B619E1FDC2A2FEE9D5E">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_05_CO_img_15_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso150&amp;IdRecurso=RES-A975402679AB434CB48C0FC5B3F09544">Recurso M102AB-01</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CN_11_05_CO_8F864BB3257D4D6AB1A291F02656E5E7">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso170&amp;IdRecurso=RES-B11E34BB6ED3409DAE1CFDC89EED6679">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso180&amp;IdRecurso=RES-0B52D09D11F34ECB82722E86E1189DBF">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>Las ondas estacionarias</libroTitulo>
+<seccion1 id="S1_CN_11_05_CO_FAB470DB95504017AFDE25283DAF16F4">
+<seccion1Titulo>La naturaleza de las ondas estacionarias</seccion1Titulo>
+<seccion1Texto>
+<p>Cuando las ondas se desplazan libremente por el medio se denominan <negrita
+>ondas viajeras</negrita>. La luz que llega del Sol, las olas que
+se forman en el agua y el sonido de un trueno son ejemplos de estas
+ondas que tienen un desplazamiento libre.</p>
+<p>En otros casos, las ondas que están en un medio limitado quedan <negrita
+>confinadas</negrita> en un espacio. Estas ondas, llamadas <negrita
+>estacionarias</negrita>, presentan puntos <negrita>inmóviles</negrita
+> o <negrita>nodos</negrita>, y otros con máxima energía y amplitud
+llamados <negrita>antinodos</negrita>.</p>
+<imagen src="CN_11_05_CO_img_01_small.png">
+<p>Las ondas estacionarias presentan puntos fijos llamados nodos,
+en donde no hay movimiento. En esta imagen, en los nodos no hay desplazamiento
+de la cuerda hacia arriba ni hacia abajo.</p>
+</imagen>
+<p>Las zonas de máxima amplitud, justo entre dos nodos, se conocen
+como <negrita>antinodos</negrita> o <negrita>vientres</negrita>. Como
+las zonas de <negrita>amplitud cero</negrita> en una onda estacionaria
+son nodos, y la <negrita>longitud</negrita> de una onda (λ) se mide
+desde una cresta a otra (o desde un valle a otro), la distancia entre
+dos nodos corresponde a media longitud de onda (λ/2).</p>
+<imagen src="CN_11_05_CO_img_02_small.png">
+<p>La distancia entre dos nodos corresponde a media longitud de onda.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso010&amp;IdRecurso=RES-D4D84D624D62445B8D75DF41FFAE9995"
+>¿Qué son las ondas estacionarias?</enlace>
+</profundiza><seccion2
+id="S2_CN_11_05_CO_C85B289E7CD54107BEA8B30BE25AC763">
+<seccion2Titulo>¿Cómo se forman las ondas estacionarias?</seccion2Titulo>
+<seccion2Texto>
+<p>Las ondas estacionarias se forman debido a la <negrita>interferencia</negrita
+> de dos ondas de igual <negrita>amplitud</negrita> y <negrita>frecuencia</negrita
+>, que viajan en <negrita>direcciones opuestas</negrita>. Así, en
+las mismas regiones siempre hay interferencia <negrita>constructiva</negrita
+> y <negrita>destructiva</negrita>; en los <negrita>nodos</negrita
+> hay interferencia destructiva, por lo que la onda tiene una amplitud
+de onda nula.</p>
+<recuerda><recuerdaTexto>
+<p>Cuando hay superposición de ondas se da el fenómeno conocido como
+interferencia, en el cual la suma de las ondas produce zonas de refuerzo
+(aumento de la amplitud) y de cancelación (disminución de la amplitud).</p>
+</recuerdaTexto></recuerda>
+<p>A menudo, las ondas estacionarias se forman por la interferencia
+de una <negrita>onda incidente</negrita> con la <negrita>onda reflejada</negrita
+>.</p>
+<imagen src="CN_11_05_CO_img_03_small.png">
+<p>La onda azul es la incidente y la verde es la onda reflejada. La
+onda roja es el resultado de la interferencia y es una onda estacionaria.</p>
+</imagen>
+<p>Una onda estacionaria se puede formar atando a un punto fijo uno
+de los extremos de una cuerda y moviendo el otro extremo con la mano
+de arriba hacia abajo, varias veces. En un principio las oscilaciones
+serán desordenadas, pero si se encuentra la frecuencia correcta, las
+ondas que se <negrita>reflejan</negrita> en la pared interferirán
+con las que llegan y se formará una onda estacionaria. Cuando esto
+ocurra, se verá que las crestas y los valles de la onda se alternan
+en la misma posición, sin avanzar a través de la cuerda.</p>
+<p>Los diferentes instrumentos musicales funcionan produciendo ondas
+estacionarias, ya sea en una cuerda, en una superficie vibrante o
+en una columna de aire.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso020&amp;IdRecurso=RES-665C6E1198B34593BA17CB4D9E283C92"
+>Resume la formación de una onda estacionaria</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_05_CO_C85B289E7CD54107BEA8B30BE25AD112">
+<seccion2Titulo>Los tipos de ondas estacionarias</seccion2Titulo>
+<seccion2Texto>
+<p>Al igual que las ondas viajeras o simples, las ondas estacionarias
+pueden ser <negrita>longitudinales</negrita> y <negrita>transversales</negrita
+>, según el tipo de ondas que interfieran para formarlas.</p>
+<p>Las ondas estacionarias en una cuerda que se mueve de arriba hacia
+abajo son transversales, en tanto que las ondas estacionarias que
+se producen por el movimiento de una columna de aire al transmitir
+sonido son longitudinales.</p>
+<imagen src="CN_11_05_CO_img_04_small.png">
+<p>Una onda estacionaria en un resorte presentará nodos o zonas en
+donde el resorte no se mueve, ni durante las etapas de compresión
+ni de estiramiento.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso030&amp;IdRecurso=RES-94B48B3A702945BE810BB7B388863679"
+>Diferencia las ondas estacionarias longitudinales y las transversales</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso190&amp;IdRecurso=RES-F21CE1CDFD06472AB182FA4B75A142B3"
+>Los componentes de las ondas estacionarias longitudinales y transversales</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_05_CO_C85B289E7CD54107BEA8B30BE25AB553">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividad para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso040&amp;IdRecurso=RES-A85CF0F18C16472F8F2422E6556AA56E"
+>Refuerza tu aprendizaje: Las ondas estacionarias</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_11_05_CO_1EB8E91EA5F04805B9A78571BDA4C626">
+<seccion1Titulo>Los sonidos musicales</seccion1Titulo>
+<seccion1Texto>
+<p>El sonido se puede clasificar como <negrita>ruido</negrita> o como
+un <negrita>sonido musical</negrita>. El ruido es un sonido irregular,
+producido por las vibraciones irregulares de algún objeto. En cambio,
+un sonido musical sí tiene regularidad, pues los objetos que lo producen
+vibran de una forma más constante y armónica.</p>
+<imagen src="CN_11_05_CO_img_05_small.png">
+<p>Los sonidos musicales presentan alguna regularidad, mientras que
+el ruido es un sonido desordenado.</p>
+</imagen>
+<p>La mayoría de los sonidos incluyen algo de ruido. Entonces, para
+hacer sonidos musicales, también llamados <negrita>tonos</negrita
+>, se requiere regularidad, y la mejor forma de lograrlo es produciendo <negrita
+>ondas estacionarias</negrita>.</p>
+<p>La interferencia necesaria para formar ondas estacionarias tiende
+a eliminar el ruido y a fortalecer la tendencia general de las ondas,
+produciendo una nueva onda cuyas crestas y valles aparecen en las
+mismas zonas una y otra vez.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso050&amp;IdRecurso=RES-7F66874473124A808A6BACE57B92137F"
+>La naturaleza de la música</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso090&amp;IdRecurso=RES-B0E3C9F7B98C46FD8A4BE1057D94E9EE"
+>El sonido: naturaleza y propagación</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso060&amp;IdRecurso=RES-03D60DAC85C04B15A3E9103FC0D51E94"
+>Distingue la música del ruido</enlace>
+</practica><seccion2
+id="S2_CN_11_05_CO_C85B289E7CD54107BEA8B30BE25AF773">
+<seccion2Titulo>Las características de los sonidos musicales</seccion2Titulo>
+<seccion2Texto>
+<p>Los sonidos musicales se suelen describir en función de tres características:
+la <negrita>altura</negrita>, la <negrita>intensidad</negrita> y el <negrita
+>timbre</negrita>. Cada una de estas características depende directamente
+de las propiedades físicas de las ondas que conforman el sonido.</p>
+<seccion3 id="S3_CN_11_05_CO_C85B289E7CD54107BEA8B30BE25A2164">
+<seccion3Titulo>La altura</seccion3Titulo>
+<seccion3Texto>
+<p>La <negrita>altura</negrita> de un sonido se refiere a qué tan <negrita
+>agudo</negrita> o <negrita>grave</negrita> es, y depende de la <negrita
+>frecuencia</negrita> de la onda sonora. Si la frecuencia es alta,
+el sonido es agudo, o alto. Si la frecuencia es baja, el sonido es
+grave, o <negrita>bajo</negrita>.</p>
+<destacado><destacadoTitulo>El significado del término tono</destacadoTitulo>
+<destacadoTexto>
+<p>En acústica se usa la palabra <negrita>tono</negrita> para hablar
+de la altura del sonido, que se relaciona con la <negrita>frecuencia</negrita
+>. Sin embargo, los músicos también usan esta palabra para referirse
+a un <negrita>intervalo musical</negrita> determinado, es decir, un
+rango de alturas. Incluso otras personas usan la palabra <negrita
+>tono</negrita> como sinónimo de sonido musical. Entonces es importante
+entender que el significado exacto de la palabra dependerá del contexto
+en el que se use.</p>
+</destacadoTexto></destacado><recuerda><recuerdaTexto>
+<p>La frecuencia es el número de vibraciones que realiza una partícula
+o cuerpo por unidad de tiempo, normalmente un segundo. En términos
+de ondas, la frecuencia es la cantidad de ondas completas que pasan
+por un punto determinado por unidad de tiempo. La frecuencia se mide
+en hertz o hercio (Hz); un Hz es un ciclo por segundo (lo que puede
+ser una vibración o una onda por segundo)</p>
+</recuerdaTexto></recuerda>
+<p>Las notas musicales se caracterizan por tener alguna frecuencia
+determinada, de manera que una <negrita>escala musical</negrita> es
+una escala de frecuencias. Así, un <negrita>Do central</negrita> se
+produce por una vibración a 264 Hz. Al cambiar la frecuencia de la
+onda se cambia la nota musical; del <negrita>Do central</negrita> se
+puede pasar a un <negrita>Re</negrita>, con una frecuencia de 297
+Hz, y luego a un <negrita>Fa</negrita>, a 330 Hz.</p>
+<p>Una <negrita>escala musical</negrita> es un conjunto ordenado de
+sonidos. Existen varias escalas musicales, con diferente cantidad
+de notas y con distintas frecuencias para cada nota. La escala más
+común en Occidente es la <negrita>diatónica</negrita>, que tiene ocho
+sonidos básicos llamados <negrita>notas musicales</negrita>, organizados
+en grupos conocidos como <negrita>octavas</negrita>: Do – Re – Mi
+– Fa – Sol – La – Si – Do. Esta escala se amplía dando lugar a versiones
+de diferente frecuencia de una misma nota; por ejemplo, se pueden
+tener notas Do de 66, 132, 264, 528, 1056 Hz.</p>
+<destacado><destacadoTitulo>Las diferentes escalas musicales</destacadoTitulo>
+<destacadoTexto>
+<p>Aunque la escala más común usada en el mundo occidental es la diatónica,
+en otras partes (del medio y lejano Oriente) se usan escalas diferentes.
+Además, aun para la escala diatónica existen variaciones, debidas
+a las características físicas de los instrumentos musicales usados
+y a los criterios empleados para afinarlos (es decir, hacer que produzcan
+las notas deseadas), así como la distancia que se asigna entre cada
+nota. Todo esto produce pequeñas diferencias en la frecuencia de las
+notas musicales, por ello, un Do central puede en ocasiones tener
+una frecuencia de 264 Hz, y en otras, de 256 o 262 Hz, por ejemplo.</p>
+</destacadoTexto></destacado></seccion3Texto></seccion3><seccion3
+id="S3_CN_11_05_CO_C85B289E7CD54107BEA8B30BE25A3275">
+<seccion3Titulo>La intensidad</seccion3Titulo>
+<seccion3Texto>
+<p>La <negrita>intensidad</negrita> del sonido es la característica
+que percibimos como el “volumen” del mismo (aunque este término no
+es del todo correcto). Un sonido de alta intensidad se conoce como
+un sonido fuerte, como el producido por un avión al despegar; mientras
+que la baja intensidad es percibida como un sonido débil, como un
+susurro, o el sonido de un lápiz chocando contra el piso al caer.</p>
+<p>Desde la física, la <negrita>intensidad</negrita> es una media
+de la cantidad de <negrita>energía</negrita> que transporta la onda
+sonora, y esta cantidad de energía depende de la <negrita>amplitud</negrita
+> de la onda. Cuanto mayor sea la amplitud, mayor será la cantidad
+de energía de la onda, y mayor será la intensidad.</p>
+<imagen src="CN_11_05_CO_img_06_small.png">
+<p>Las ondas sonoras de gran amplitud se perciben como sonidos fuertes,
+mientras que las ondas de poca amplitud son los sonidos débiles.</p>
+</imagen>
+<p>Para ser precisos, la intensidad depende del cuadrado de la amplitud.
+No obstante, la forma en la que percibimos el “volumen” del sonido
+no se corresponde del todo con la intensidad. Mientras que la intensidad
+es un valor objetivo, determinado por una propiedad física medible,
+la percepción de la intensidad es algo subjetivo, determinado por
+las condiciones del cuerpo del oyente. Esta percepción de la intensidad,
+es decir, el volumen que escuchamos, se conoce como <negrita>sonoridad</negrita
+>. De forma aproximada, cuando percibimos que la sonoridad se duplica,
+la intensidad habrá aumentado ocho veces.</p>
+<p>La <negrita>sonoridad</negrita> se mide con una unidad llamada <negrita
+>bel</negrita> (en honor del inventor Alexander Graham Bell), aunque
+comúnmente se usa un submúltiplo de esta, el <negrita>decibel (db)</negrita
+>. A pesar de que existen diferencias entre las personas, en términos
+generales el <negrita>umbral de audición</negrita> humano, es decir,
+el sonido más débil que puede percibir el oído humano, es de 0 db.
+En cuanto a los sonidos fuertes, a partir de los 140 db el sonido
+produce dolor. Desde los 85 decibeles, el sonido puede causar daños
+en el oído, temporales o permanentes, según el tiempo de exposición.</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_05_CO_C85B289E7CD54107BEA8B30BE25A8956">
+<seccion3Titulo>El timbre</seccion3Titulo>
+<seccion3Texto>
+<p>Es sencillo distinguir el sonido producido por un piano de aquel
+producido por una guitarra o un violín. Incluso si se está tocando
+la misma nota, con la misma intensidad, se pueden diferenciar los
+sonidos de cada instrumento. Esto se debe a otra característica del
+sonido, conocida como <negrita>timbre</negrita> o <negrita>calidad</negrita
+>, que le da un carácter particular a cada sonido.</p>
+<p>El <negrita>timbre</negrita> depende de la <negrita>superposición</negrita
+> de ondas sonoras. Cuando un instrumento produce una nota, no solo <negrita
+>vibra</negrita> el objeto específico destinado a producirla (como
+la cuerda de un violín, por ejemplo), sino que también lo hace el
+resto del instrumento (la madera, el aire dentro de la caja, otras
+cuerdas, etc.), y cada parte puede vibrar en una frecuencia diferente.
+El sonido que escuchamos es la combinación de todas esas ondas, y
+por eso una misma nota sonará diferente en dos instrumentos distintos,
+pues tienen partes, materiales y tamaños diferentes.</p>
+<p>La <negrita>voz</negrita> de las personas también tiene un timbre
+característico, que depende de diversos aspectos del cuerpo de cada
+quien, y permiten diferenciar una voz de otra.</p>
+<imagen src="CN_11_05_CO_img_07_small.png">
+<p>Es posible diferenciar el Do producido por un clarinete del Do
+de un piano, porque cada sonido tiene un timbre diferente.</p>
+</imagen>
+<p>Los sonidos musicales se componen de un <negrita>tono fundamental</negrita
+>, que corresponde a la frecuencia más baja, y varios tonos más altos
+y más débiles llamados <negrita>sobretonos</negrita>. La <negrita
+>frecuencia fundamental</negrita> determina la altura de la nota,
+y los sobretonos, llamados también <negrita>armónicos</negrita>, dan
+el timbre.</p>
+<p>Las frecuencias de los sobretonos son siempre múltiplos enteros
+de la frecuencia fundamental. Así, un Do central de 264 Hz puede ir
+acompañado de sobretonos de 528, 792, 1056 o más Hz. El número preciso
+de sobretonos y la intensidad de cada uno varían en cada instrumento,
+cambiando así el timbre o calidad del sonido.</p>
+<imagen src="CN_11_05_CO_img_08_small.png">
+<p>La onda más larga que produce un instrumento tiene la frecuencia
+fundamental. Las ondas del primer sobretono tienen la mitad de la
+longitud de la onda fundamental, las del tercer sobretono tienen la
+tercera parte de la longitud, y así sucesivamente.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso100&amp;IdRecurso=RES-CADEF3B0BAFD4BE1A3269A527F93DD39"
+>Establece las cualidades del sonido</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso200&amp;IdRecurso=RES-509E6EF1D8B94D0BA39B9B951F34295F"
+>Completa el crucigrama sobre la música en términos de ondas</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CN_11_05_CO_C85B289E7CD54107BEA8B30BE25AA884">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso080&amp;IdRecurso=RES-62B764A1439E456E9E17A5973CAD8658"
+>Refuerza tu aprendizaje: Ondas estacionarias y música</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_11_05_CO_05595B561206437A8D6EBCB3F2E37A2E">
+<seccion1Titulo>Las ondas estacionarias en los instrumentos musicales</seccion1Titulo>
+<seccion1Texto>
+<p>Los sonidos de la música son producidos por los <negrita>instrumentos
+musicales</negrita> o por la <negrita>voz</negrita> humana, que se
+comporta como un instrumento musical más, desde el punto de vista
+de la física. Estos instrumentos permiten generar <negrita>ondas estacionarias</negrita
+>, debido a la regularidad que estas presentan.</p>
+<p>Por esto, para hacer un instrumento musical se necesita de un sistema
+que “encierre” las ondas sonoras, haciendo que aquellas producidas
+se <negrita>reflejen</negrita> e <negrita>interfieran</negrita> con
+nuevas ondas.</p>
+<p>Los instrumentos musicales contienen algún objeto suficientemente <negrita
+>flexible</negrita> y <negrita>tenso</negrita> para <negrita>vibrar</negrita
+> muy rápido, como una cuerda metálica, una lámina de madera o metal,
+o los labios y las cuerdas vocales y la laringe de los seres humanos.
+Esta vibración produce las ondas sonoras. Además, dicho objeto debe
+poder vibrar con <negrita>frecuencias</negrita> diferentes para producir
+sonidos más altos o bajos. También es importante que las ondas de
+sonido estén contenidas en un recipiente del <negrita>tamaño</negrita
+> justo para lograr que la <negrita>interferencia</negrita> entre
+las ondas incidente y reflejada produzca una onda estacionaria, y
+no se forme ruido o los sonidos se cancelen mutuamente. Además, un
+ancho limitado evita el desplazamiento lateral de las ondas, lo que
+complicaría mucho el patrón de interferencia.</p>
+<p>Los instrumentos musicales se pueden clasificar en tres tipos:
+instrumentos de <negrita>cuerda</negrita>, instrumentos de <negrita
+>viento</negrita> e instrumentos de <negrita>percusión</negrita>.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso110&amp;IdRecurso=RES-09A77AA501C54D88AD3F87980BEF126C"
+>Las ondas estacionarias y los instrumentos musicales</enlace>
+</profundiza><seccion2
+id="S2_CN_11_05_CO_C85B289E7CD54107BEA8B30BE25A0006">
+<seccion2Titulo>Los instrumentos de cuerda</seccion2Titulo>
+<seccion2Texto>
+<p>En los instrumentos de cuerda, el sonido es producido por <negrita
+>cuerdas vibrantes</negrita>. Las cuerdas se hacen vibrar halándolas
+o frotando un arco sobre ellas. Las cuerdas deben estar tensas para
+que vibren rápidamente, y dependiendo de su grosor y su tensión formarán
+diferentes sonidos. Estas vibraciones se transmiten al aire —medio
+que resulta perturbado—, a través del cual viajan hasta una caja de
+resonancia que actúa como un tubo cerrado produciendo un efecto de
+amplificación del sonido. En la caja de resonancia estas vibraciones
+forman <negrita>ondas estacionarias transversales</negrita> debido
+a la reflexión con la pared de la caja y la interferencia entre estas
+ondas reflejadas.</p>
+<imagen src="CN_11_05_CO_img_09_small.png">
+<p>Existen muchos instrumentos de cuerda. Algunos de los más conocidos
+son el violín, el banjo, el violonchelo y la guitarra.</p>
+</imagen>
+<p>En los instrumentos de cuerda, estas se encuentran atadas al instrumento
+y fijas en los dos extremos, de tal manera que funcionan como <negrita
+>nodos</negrita> para la onda de la <negrita>frecuencia fundamental</negrita
+>. Esta frecuencia determina la nota de cada cuerda. Para producir
+una nota específica también debemos tener en cuenta el material, el
+grosor, la tensión y la longitud de la cuerda.</p>
+<p>Cuando el intérprete del instrumento presiona la cuerda con su
+dedo, este actúa como un nuevo nodo, acortando la parte vibrante de
+la cuerda, por lo que la frecuencia de la nota cambia, se hace más
+alta, produciendo un sonido más agudo.</p>
+<imagen src="CN_11_05_CO_img_10_small.png">
+<p>Los extremos de la cuerda funcionan como nodos. Cuando se presiona
+la cuerda contra el instrumento, se forma un nuevo nodo, que cambia
+la frecuencia de la vibración.</p>
+</imagen>
+<p>Así, las diferentes cuerdas de un instrumento permiten tener distintas
+notas, y el repertorio se amplía aún más al presionar la cuerda en
+puntos específicos.</p>
+<seccion3 id="S3_CN_11_05_CO_C85B289E7CD54107BEA8B30BE25A8290">
+<seccion3Titulo>Las frecuencias de los sonidos en instrumentos de
+cuerda</seccion3Titulo>
+<seccion3Texto>
+<p>Como se dijo, en la cuerda de un instrumento hay por lo menos dos
+nodos, uno en cada extremo de la cuerda. La onda estacionaria formada
+por estos dos nodos tiene la <negrita>frecuencia fundamental</negrita
+> de la cuerda, que es la frecuencia más baja.</p>
+<p>La longitud de la cuerda es igual a media longitud de onda en la
+frecuencia fundamental:</p>
+<formula alineacion="centrada" src="CN_11_05_CO_Formula01.png">
+</formula>
+<p>Donde: <negritacursiva>L</negritacursiva> es la longitud de la
+cuerda y <negritacursiva>λ</negritacursiva> es la longitud de onda.</p>
+<formula alineacion="centrada" src="CN_11_05_CO_Formula02.png">
+</formula>
+<p>Si se añade un nodo a la onda estacionaria, se obtiene el <negrita
+>segundo armónico</negrita> de la cuerda. En este caso, la <negrita
+>longitud de onda</negrita> y la longitud de la cuerda son iguales:</p>
+<formula alineacion="centrada" src="CN_11_05_CO_Formula02.png">
+</formula>
+<p>Con un nodo más, para un total de cuatro nodos en la cuerda, la
+longitud de onda es igual a tres medios de la longitud de la cuerda:</p>
+<formula alineacion="centrada" src="CN_11_05_CO_Formula02.png">
+</formula>
+<p>Y así sucesivamente. Se puede generalizar la relación entre la
+longitud onda y la longitud de la cuerda como:</p>
+<formula alineacion="centrada" src="CN_11_05_CO_Formula02.png">
+</formula>
+<p>El <negrita>primer armónico</negrita> corresponde a <cursiva>n</cursiva
+> = 1, el segundo armónico a <cursiva>n</cursiva> = 2, etc. Si en
+la ecuación anterior se despeja la longitud de onda, se tiene que:</p>
+<formula alineacion="centrada" src="CN_11_05_CO_Formula02.png">
+</formula>
+<p>A partir de estas expresiones es posible determinar la frecuencia
+de cada armónico, recordando la ecuación que relaciona la frecuencia
+(<negritacursiva>f</negritacursiva>), la longitud de onda y la velocidad
+de la onda (<negritacursiva>v</negritacursiva>):</p>
+<formula alineacion="centrada" src="CN_11_05_CO_Formula02.png">
+</formula>
+<p>Entonces, tenemos que:</p>
+<formula alineacion="centrada" src="CN_11_05_CO_Formula02.png">
+</formula>
+<formula alineacion="centrada" src="CN_11_05_CO_Formula02.png">
+</formula>
+<p>Según esto, para el primer armónico la <negrita>frecuencia</negrita
+> es:</p>
+<formula alineacion="centrada" src="CN_11_05_CO_Formula02.png">
+</formula>
+<p>Por su parte, la frecuencia del segundo armónico es:</p>
+<formula alineacion="centrada" src="CN_11_05_CO_Formula02.png">
+</formula>
+<p>Por tanto, podemos reescribir la ecuación de las <negrita>frecuencias
+armónicas</negrita> como sigue:</p>
+<formula alineacion="centrada" src="CN_11_05_CO_Formula02.png">
+</formula>
+<p>Esto significa que la frecuencia de cada armónico es un múltiplo
+de la frecuencia fundamental. El segundo armónico tiene el doble de
+frecuencia que el primero, y el tercer armónico tiene una frecuencia
+tres veces mayor al primer armónico, es decir, tiene tres veces la
+frecuencia fundamental.</p>
+<imagen src="CN_11_05_CO_img_11_small.png">
+<p>En su frecuencia fundamental, la onda estacionaria tiene una longitud
+de onda que es el doble de la longitud de la cuerda.</p>
+</imagen>
+<p>Normalmente, en los instrumentos musicales existe más de una cuerda,
+y los intérpretes del instrumento giran unas clavijas para apretarlas
+o aflojarlas, ¿por qué?</p>
+<p>La <negrita>frecuencia fundamental</negrita> del sonido producido
+por una cuerda depende, como ya se vio, de la <negrita>longitud</negrita
+> de la misma, y a partir de esta se forman los demás <negrita>armónicos</negrita
+>.</p>
+<p>Sin embargo, la fórmula usada para calcular la frecuencia contempla
+la velocidad de las ondas sobre la cuerda:</p>
+<formula alineacion="centrada" src="CN_11_05_CO_Formula02.png">
+</formula>
+<p>Según esta ecuación, a mayor velocidad, mayor frecuencia, lo que
+implica un sonido más agudo. Y la <negrita>velocidad de la onda</negrita
+> depende de la tensión de la cuerda (<negritacursiva>T</negritacursiva
+>) y la densidad lineal de la misma (<negritacursiva>µ</negritacursiva
+>):</p>
+<formula alineacion="centrada" src="CN_11_05_CO_Formula02.png">
+</formula>
+<p>Según esta ecuación, la velocidad de la onda, y por tanto su frecuencia,
+aumenta con la tensión de la cuerda y disminuye con la densidad.</p>
+<p>La <negrita>densidad lineal</negrita> de la cuerda es la relación
+entre su masa y su longitud:</p>
+<formula alineacion="centrada" src="CN_11_05_CO_Formula02.png">
+</formula>
+<p>Entonces, en dos cuerdas de igual longitud, la mayor densidad lineal
+la tendrá la que tenga mayor masa. Normalmente, en los instrumentos
+esto se traduce en cuerdas más gruesas.</p>
+<p>Resumiendo, cuanto más se tensa una cuerda, mayor es la vibración
+y más agudo es el sonido, y cuanto más gruesa es la cuerda, menor
+es la frecuencia y se produce un sonido más grave.</p>
+<imagen src="CN_11_05_CO_img_12_small.png">
+<p>Las cuerdas más delgadas y más tensas son las que producen notas
+más agudas, pues la cuerda vibra con una frecuencia mayor.</p>
+</imagen>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_05_CO_C85B289E7CD54107BEA8B30BE25A1208">
+<seccion2Titulo>Los instrumentos de viento</seccion2Titulo>
+<seccion2Texto>
+<p>En los <negrita>instrumentos de viento</negrita>, la vibración
+se produce directamente en una <negrita>columna de aire</negrita> contenida
+dentro de un <negrita>tubo</negrita> largo y delgado. Aunque el instrumento
+en sí mismo también vibra un poco, la mayoría del sonido es producido
+por el aire dentro del instrumento.</p>
+<imagen src="CN_11_05_CO_img_13_small.png">
+<p>Los instrumentos de viento funcionan al hacer vibrar columnas de
+aire.</p>
+</imagen>
+<p>Así como la laringe en el cuerpo humano sirve para producir la
+voz, el tubo del instrumento sirve para filtrar y reflejar las ondas,
+de manera que se produzcan <negrita>ondas estacionarias</negrita>.
+Estas ondas son <negrita>longitudinales</negrita>, pues implican el
+avance y retroceso de una columna de aire a lo largo del tubo, similar
+al movimiento de un resorte.</p>
+<imagen src="CN_11_05_CO_img_14_small.png">
+<p>Las ondas sonoras son ondas longitudinales formadas por compresiones
+y expansiones (rarefacciones) del aire.</p>
+</imagen>
+<imagen src="CN_11_05_CO_img_15_small.png">
+<p>Los instrumentos de viento forman ondas estacionarias longitudinales.
+En el tubo 1 hay un nodo, en el tubo 2 hay dos nodos, y en el tubo
+3 hay tres nodos.</p>
+</imagen>
+<p>En los instrumentos de viento, normalmente, el aire entra por un
+extremo llamado <negrita>boquilla</negrita>, y sale por el otro, llamado <negrita
+>campana</negrita>, que es más ancho que la boquilla. La vibración
+del aire puede producirse por los labios del intérprete, o por una
+o dos lengüetas dentro del instrumento que vibran cuando entra aire.</p>
+<p>Entre los dos extremos está el <negrita>tubo</negrita>, que es
+el lugar en donde se forma la onda estacionaria. El largo del tubo
+determina la longitud de la <negrita>onda fundamental</negrita>. A
+partir de las divisiones de esta onda se construyen los demás <negrita
+>armónicos</negrita>. Por su parte, la forma y el material del tubo
+determinan el <negrita>timbre</negrita> del sonido.</p>
+<imagen src="CN_11_05_CO_img_16_small.png">
+<p>En los instrumentos de viento el aire entra por la boquilla, se
+mueve por el tubo, en donde se forma la onda estacionaria, y sale
+por la boquilla.</p>
+</imagen>
+<p>El instrumento musical no debe ser cerrado en los dos extremos,
+pues la onda estacionaria dentro del tubo no transmitiría suficiente
+movimiento al aire para que llegue un sonido claro hasta el oído.</p>
+<p>Es posible entonces tener instrumentos con <negrita>un extremo
+cerrado</negrita> y <negrita>uno abierto</negrita>, o los <negrita
+>dos extremos abiertos</negrita>. De esta manera, en un extremo abierto
+el aire no se detiene, por lo que allí no hay nodos. De hecho, en
+los extremos abiertos hay <negrita>antinodos</negrita>.</p>
+<p>En un tubo con un extremo abierto la onda con la <negrita>frecuencia
+fundamental</negrita> tiene un <negrita>nodo</negrita> en el extremo
+cerrado y un <negrita>antinodo</negrita> en el extremo abierto. En
+un tubo con dos extremos abiertos, en ambos hay antinodos, y el nodo
+de la onda fundamental está en el centro del tubo.</p>
+<p>Por supuesto, esto no significa que la onda estacionaria acabe
+en el extremo del tubo. Tanto en tubos abiertos como en cerrados,
+el antinodo al final del tubo es seguido por un nodo, que está en
+el aire por fuera del instrumento.</p>
+<imagen src="CN_11_05_CO_img_17_small.png">
+<p>Las ondas estacionarias en los tubos tienen antinodos en los extremos
+abiertos y nodos en los extremos cerrados. Por facilidad, las ondas
+longitudinales en tubos se representan como ondas transversales.</p>
+</imagen>
+<destacado><destacadoTitulo>Los nodos de presión y movimiento</destacadoTitulo>
+<destacadoTexto>
+<p>Cuando una columna de aire vibra, hay contracciones y rarefacciones
+de la columna. En los nodos, en donde no hay movimiento del aire,
+la presión es máxima cuando hay <negrita>compresión</negrita>, y mínima
+cuando hay <negrita>rarefacción</negrita>. En cambio, en los antinodos
+o vientres siempre hay movimiento del aire, por lo que la presión
+es constante. Esto significa que un nodo de amplitud de la onda, es
+decir, un nodo de movimiento del aire, es también un antinodo de presión.
+De manera correspondiente, un antinodo de movimiento es un nodo de
+presión.</p>
+</destacadoTexto></destacado><seccion3
+id="S3_CN_11_05_CO_C85B289E7CD54107BEA8B30BE25A4531">
+<seccion3Titulo>Los tonos armónicos en los tubos con un extremo abierto</seccion3Titulo>
+<seccion3Texto>
+<p>Como entre dos nodos hay una distancia de media longitud de onda,
+la parte de la onda estacionaria fundamental que está dentro de un
+tubo con un <negrita>extremo cerrado</negrita> tiene una extensión
+de un cuarto de longitud de onda. Esta parte de la onda, además, es
+igual al <negrita>largo del tubo <cursiva>L</cursiva></negrita>, por
+lo que:</p>
+<formula alineacion="centrada" src="CN_11_05_CO_Formula02.png">
+</formula>
+<p>Esto también significa que la onda completa mide cuatro veces el
+largo del tubo. El segundo armónico se obtiene cuando se añade un
+nodo dentro del tubo; al hacerlo, la longitud de onda disminuye (y,
+por tanto, la frecuencia aumenta), resultando en:</p>
+<formula alineacion="centrada" src="CN_11_05_CO_Formula02.png">
+</formula>
+<imagen src="CN_11_05_CO_img_18_small.png">
+<p>Si hay dos nodos en la onda estacionaria, el largo del tubo es
+igual a tres cuartas partes de la longitud de onda.</p>
+</imagen>
+<p>Con un segundo nodo, la relación entre la longitud del tubo y la
+longitud de la onda quedaría:</p>
+<formula alineacion="centrada" src="CN_11_05_CO_Formula02.png">
+</formula>
+<p>Y con un tercer nodo, se obtiene:</p>
+<formula alineacion="centrada" src="CN_11_05_CO_Formula02.png">
+</formula>
+<p>Y así sucesivamente. Se puede entonces generalizar la relación
+entre las longitudes de la onda y el tubo de la siguiente manera:</p>
+<formula alineacion="centrada" src="CN_11_05_CO_Formula02.png">
+</formula>
+<p>Si despejamos la longitud de onda, tenemos que:</p>
+<formula alineacion="centrada" src="CN_11_05_CO_Formula02.png">
+</formula>
+<p>Dado que la <negrita>frecuencia</negrita> de una onda es igual
+a la relación entre su velocidad y su longitud de onda, podemos usar
+la anterior expresión para encontrar la frecuencia fundamental, y
+la de cada uno de los demás armónicos. La <negrita>frecuencia fundamental</negrita
+> sería:</p>
+<formula alineacion="centrada" src="CN_11_05_CO_Formula02.png">
+</formula>
+<p>Siendo <negritacursiva>f</negritacursiva> la frecuencia, <negritacursiva
+>v</negritacursiva> la velocidad del sonido en el aire y <negritacursiva
+>L</negritacursiva> la longitud del tubo. Si usamos la misma fórmula
+para las demás frecuencias encontramos que:</p>
+<formula alineacion="centrada" src="CN_11_05_CO_Formula02.png">
+</formula>
+<p>Esta expresión quiere decir que cada armónico sucesivo tiene una
+frecuencia que es un <negrita>múltiplo impar</negrita> de la <negrita
+>frecuencia fundamental</negrita>. Con un tubo cerrado no es posible
+obtener un armónico cuya frecuencia sea, por ejemplo, el doble de
+la frecuencia fundamental.</p>
+<p>En los tubos con ambos <negrita>extremos abiertos</negrita>, la
+onda fundamental tiene un nodo en la mitad y dos antinodos en cada
+extremo del tubo, por lo que la longitud del tubo es igual a la mitad
+de la longitud de onda.</p>
+<formula alineacion="centrada" src="CN_11_05_CO_Formula02.png">
+</formula>
+<imagen src="CN_11_05_CO_img_19_small.png">
+<p>En un tubo con los dos extremos abiertos, la longitud de onda del
+primer armónico es igual al doble de la longitud del tubo.</p>
+</imagen>
+<p>El segundo armónico en un tubo abierto se logra al añadir un nodo,
+de forma que queden dos dentro del tubo. En ese caso, la relación
+entre la longitud de onda y la longitud del tubo es:</p>
+<formula alineacion="centrada" src="CN_11_05_CO_Formula02.png">
+</formula>
+<p>Y con un tercer nodo obtenemos el segundo armónico, en donde</p>
+<formula alineacion="centrada" src="CN_11_05_CO_Formula02.png">
+</formula>
+<p>Y así sucesivamente. La forma general de esta ecuación para todos
+los armónicos es:</p>
+<formula alineacion="centrada" src="CN_11_05_CO_Formula02.png">
+</formula>
+<p>Tal y como se hizo antes, despejando la longitud de onda, usando
+la ecuación para la frecuencia y calculando la frecuencia de la onda
+fundamental, se tiene que:</p>
+<formula alineacion="centrada" src="CN_11_05_CO_Formula02.png">
+</formula>
+<p>Como se puede apreciar, en este caso <negritacursiva>n</negritacursiva
+> no solo toma valores impares. Esto significa que, en un <negrita
+>tubo cerrado</negrita>, la frecuencia de los armónicos puede ser
+cualquier múltiplo de la frecuencia fundamental.</p>
+<imagen src="CN_11_05_CO_img_20_small.png">
+<p>En los tubos abiertos en un solo extremo solo se forman los armónicos
+con múltiplos impares de la frecuencia fundamental. Los tubos con
+dos extremos abiertos presentan armónicos con múltiplos tanto pares
+como impares.</p>
+</imagen>
+<p>La <negrita>frecuencia</negrita> de la onda estacionaria se puede
+alterar cambiando la <negrita>longitud</negrita> de la <negrita>columna
+de aire</negrita>. Esto se logra con <negrita>llaves</negrita> o <negrita
+>botones</negrita> que cierran secciones del tubo, acortando la columna.
+Cuando se cierra una llave se produce un efecto similar al de presionar
+una cuerda en un instrumento de cuerdas: la menor columna tendrá una
+onda de mayor frecuencia, lo que produce un sonido más alto.</p>
+<p>También es posible alterar la longitud de la columna de aire por
+medio de <negrita>orificios</negrita> que se cierran con los dedos:
+si el orificio está abierto, el aire escapa por allí, y la onda estacionaria
+termina en ese punto. Si el orificio se tapa, el aire se ve obligado
+a seguir por el tubo, lo que produce una columna más larga.</p>
+<p>El intérprete del instrumento acortará y alargará la columna de
+aire para variar la las notas producidas y así interpretar la melodía.</p>
+<imagen src="CN_11_05_CO_img_21_small.png">
+<p>En un saxofón se acorta la columna de aire presionando unos botones
+o llaves que hacen descender un pistón que acorta la columna de aire.
+En una flauta, al tapar los orificios se evita que el aire salga,
+haciendo que la columna de aire sea más larga.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso120&amp;IdRecurso=RES-68406AF9AD574747BE82099CF9EF0168"
+>Diferencia los distintos tipos de instrumentos musicales</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_CN_11_05_CO_C85B289E7CD54107BEA8B30BE25A5642">
+<seccion3Titulo>La voz humana</seccion3Titulo>
+<seccion3Texto>
+<p>El <negrita>sistema fonador</negrita>, que es el responsable de
+la producción y modulación de la <negrita>voz</negrita>, involucra
+diferentes estructuras, y su funcionamiento es complejo. A menudo,
+se le considera como un instrumento de viento, aunque hay quienes
+disputan este punto de vista.</p>
+<p>El aire que sale de los pulmones sube por la <negrita>tráquea</negrita
+> y llega a la <negrita>laringe</negrita>, en donde encuentra las <negrita
+>cuerdas vocales</negrita>. Estas en realidad no son cuerdas sino
+membranas que se pueden abrir y cerrar, o quedar entrecerradas. Según
+el grado de apertura de las cuerdas o <negrita>pliegues vocales</negrita
+>, así como del grado de tensión que tengan, el sonido se modifica,
+por lo que es posible modular la voz.</p>
+<imagen src="CN_11_05_CO_img_22_small.png">
+<p>En el cuerpo humano hay dos pares de cuerdas vocales: las “falsas”,
+que cierran la laringe para evitar la entrada de comida al sistema
+respiratorio, y las verdaderas, que modulan la voz.</p>
+</imagen>
+<p>Como las cuerdas vocales de los <negrita>hombres</negrita> son
+más gruesas que las de las <negrita>mujeres</negrita>, su vibración
+es más lenta y la voz es más grave, es decir, de frecuencia más baja.
+Los <negrita>niños</negrita> tienen cuerdas vocales delgadas, por
+lo que su voz es aguda, similar a la de las mujeres. En el caso de
+los hombres, durante la pubertad las cuerdas se engrosan y la voz
+se hace más grave.</p>
+<p>En los coros, las voces femeninas y masculinas se clasifican según
+la frecuencia que tengan (las voces infantiles se consideran femeninas).
+Existen tres categorías básicas para las voces femeninas: <negrita
+>soprano</negrita> (la más aguda), <negrita>mezzosoprano</negrita
+> y <negrita>contralto</negrita>. Por su parte, las voces masculinas
+se clasifican en tenor (la voz más aguda), <negrita>barítono</negrita
+> y <negrita>bajo</negrita> (la voz más grave).</p>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_05_CO_C85B289E7CD54107BEA8B30BE25A2319">
+<seccion2Titulo>Los instrumentos de percusión</seccion2Titulo>
+<seccion2Texto>
+<p>En los instrumentos de percusión, estos se golpean para producir
+ondas sonoras en una superficie. En el caso de instrumentos como los
+tambores, lo que vibra es una membrana, de manera más o menos similar
+a una cuerda, pero en un patrón más complejo por darse en toda la
+superficie. En otros instrumentos, como el triángulo, la vibración
+que produce el sonido se da en todo el instrumento.</p>
+<imagen src="CN_11_05_CO_img_23_small.png">
+<p>Las vibraciones de los instrumentos de percusión siguen los mismos
+principios de las cuerdas o las columnas de aire, pero su descripción
+es más compleja.</p>
+</imagen>
+<p>No obstante, en muchos instrumentos de percusión no se producen
+ondas estacionarias; en vez de eso, se produce <negrita>ruido</negrita
+> rítmicamente. Esto significa que muchos instrumentos de percusión
+no generan notas definidas, ni tienen armónicos que se puedan manipular.</p>
+<p>Otros instrumentos están construidos de manera que su forma y tamaño
+sí producen ondas estacionarias que generan notas musicales. Un ejemplo
+es el xilófono.</p>
+<imagen src="CN_11_05_CO_img_24_small.png">
+<p>La mayoría de instrumentos de percusión produce ruido, sin embargo,
+al generarse rítmicamente hacen parte de la música.</p>
+</imagen>
+<p>En cualquier caso, el tamaño del instrumento sí altera el sonido
+producido: instrumentos más grandes producen mayores longitudes de
+onda y, por tanto, sonidos de mayor intensidad.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso130&amp;IdRecurso=RES-D83B5E4BE8934F7C8DE4442D2947EE50"
+>Explica la física de los instrumentos musicales</enlace><?Pub Caret -2?>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso070&amp;IdRecurso=RES-F3B37C3D87A44E6AB6719F24B7F6BC76"
+>Infiere el funcionamiento de las ondas en los instrumentos musicales</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_05_CO_C85B289E7CD54107BEA8B30BE25A3420">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso140&amp;IdRecurso=RES-DE41144BE43343C59BD445E88A10E6B2"
+>Refuerza tu aprendizaje: Las ondas en los instrumentos musicales</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_11_05_CO_B2FB8C117FB64B619E1FDC2A2FEE9D5E">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso150&amp;IdRecurso=RES-A975402679AB434CB48C0FC5B3F09544"
+>Competencias: formación de una onda estacionaria</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CN_11_05_CO_8F864BB3257D4D6AB1A291F02656E5E7"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso170&amp;IdRecurso=RES-B11E34BB6ED3409DAE1CFDC89EED6679"
+>Mapa conceptual del tema Las ondas estacionarias</enlace>
+</mapaconceptual><autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_05_CO_Recurso180&amp;IdRecurso=RES-0B52D09D11F34ECB82722E86E1189DBF"
+>Evalúa tus conocimientos acerca del tema Las ondas estacionarias</enlace>
+</autoevaluate><enlacesreferencia>
+<enlace
+destino="http://intercentres.edu.gva.es/iesleonardodavinci/Fisica/Ondas/Ondas12.htm"
+>Las ondas estacionarias.</enlace>
+<enlace
+destino="http://blogs.elcorreo.com/el-navegante/2012/01/24/la-fisica-la-musica-y-las-ondas-estacionarias/"
+>La música y las ondas estacionarias.</enlace>
+<enlace
+destino="http://www.pasajealaciencia.es/2010/pdf/07-vicente-lopez.pdf"
+>Ondas, sonido y música.</enlace>
+</enlacesreferencia></masinformacion></libro>
