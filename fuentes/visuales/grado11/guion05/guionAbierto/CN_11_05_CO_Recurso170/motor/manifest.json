@@ -1,0 +1,24 @@
+{
+	"blocks" : [
+		{ "type" : "css", "files":  [
+			{ "from" : "module", "file" : "motor/css/styles.css?v=14.6.16.1" }
+		] },
+		{ "type" : "js", "files": [
+			{ "from" : "CDN", "file" : "extlib/jquery/1_11_1/jquery_1_11_1_min.js" },
+			{ "from" : "CDN", "file" : "extlib/createjs/2013_12_12/easeljs_0_7_1_min.js" },
+			{ "from" : "CDN", "file" : "extlib/createjs/2013_12_12/preloadjs_0_4_1_min.js" },
+
+			{ "from" : "module", "file" : "motor/js/pppmcall_min.js?v=15.29.9.1" }
+
+		]},
+		{ "type" : "img", "files": [
+			{ "from" : "module", "file" : "motor/images/botomenys.png"},
+			{ "from" : "module", "file" : "motor/images/botomes.png"},
+			{ "from" : "module", "file" : "motor/images/logo.png"},
+			{ "from" : "module", "file" : "motor/images/soundoff.png"},
+			{ "from" : "module", "file" : "motor/images/soundon.png"},
+			{ "from" : "module", "file" : "motor/images/tnormal.png"},
+			{ "from" : "module", "file" : "motor/images/ttachado.png"}
+		]}
+	]
+}

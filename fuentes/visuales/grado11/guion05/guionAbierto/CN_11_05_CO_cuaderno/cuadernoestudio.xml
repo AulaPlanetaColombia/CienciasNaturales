@@ -363,13 +363,7 @@ la frecuencia de la vibración.</p>
 </imagen>
 <p>Así, las diferentes cuerdas de un instrumento permiten tener distintas
 notas, y el repertorio se amplía aún más al presionar la cuerda en
-puntos específicos.</p>
-<imagen src="CN_11_05_CO_IMG11_small.jpg">
-<p>Falta pie de foto</p>
-</imagen>
-<imagen src="CN_11_05_CO_IMG12_small.jpg">
-<p>Falta pie de foto</p>
-</imagen>
+puntos específicos.</p><?Pub Caret -3?>
 <seccion3 id="S3_CN_11_05_CO_C85B289E7CD54107BEA8B30BE25A8290">
 <seccion3Titulo>Las frecuencias de los sonidos en instrumentos de
 cuerda</seccion3Titulo>
@@ -624,7 +618,7 @@ los armónicos es:</p>
 la ecuación para la frecuencia y calculando la frecuencia de la onda
 fundamental, se tiene que:</p>
 <formula alineacion="centrada" src="CN_11_05_CO_formula_27.gif">
-</formula><?Pub Caret -1?>
+</formula>
 <p>Como se puede apreciar, en este caso <negritacursiva>n</negritacursiva
 > no solo toma valores impares. Esto significa que, en un <negrita
 >tubo cerrado</negrita>, la frecuencia de los armónicos puede ser
