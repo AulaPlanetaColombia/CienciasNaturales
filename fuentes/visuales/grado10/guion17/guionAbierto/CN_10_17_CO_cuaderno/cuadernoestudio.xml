@@ -6,7 +6,7 @@
 <libro id="CN_10_17_CO">
 <libroTitulo>Las leyes de las fuerzas</libroTitulo>
 <seccion1 id="S1_CN_10_17_CO_CF9605F4D9024ACC8DBCC1A1538166FB">
-<seccion1Titulo>Leyes de Newton</seccion1Titulo><?Pub Caret -3?>
+<seccion1Titulo>Leyes de Newton</seccion1Titulo>
 <seccion1Texto>
 <p>El movimiento de traslación, concretamente el movimiento rectilíneo,
 tanto uniforme como acelerado, es el movimiento más simple. Hasta
@@ -309,7 +309,8 @@ destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso110&amp;IdRecurso=RES-443FE8
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso130&amp;IdRecurso=RES-2FCCDFCFC8EC4F3FA411DC114E88A222"
 >Calcula haciendo uso de las características del movimiento circular</enlace>
-</practica><seccion2>
+</practica><seccion2
+id="S2_CN_10_17_CO_4B4C0DFA889546F3A1520F23D8FF2117">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
 <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
@@ -496,8 +497,8 @@ destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso180&amp;IdRecurso=RES-798D79
 destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso200&amp;IdRecurso=RES-622FB87BD5CF4D47AB30416C7898F36F"
 >Descubre las fuerzas paralelas</enlace>
 </practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
-<seccion2>
-<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2 id="S2_CN_10_17_CO_4B4C0DFA889546F3A1520F23D8FF7025">
+<seccion2Titulo>Consolidación</seccion2Titulo><?Pub Caret -2?>
 <seccion2Texto>
 <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
 <practica>
