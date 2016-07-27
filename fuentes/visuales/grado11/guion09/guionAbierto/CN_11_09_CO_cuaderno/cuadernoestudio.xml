@@ -399,7 +399,7 @@ en un medio acuoso depende de la naturaleza de la sustancia.</p>
 en una disolución acuosa. Un ejemplo de ácido fuerte es el <negrita
 >ácido clorhídrico</negrita> (HCl) y una base fuerte es el <negrita
 >hidróxido de potasio</negrita> (KOH).</p>
-<formula alineacion="centrada" src="CN_11_09_CO_formula11.gif">
+<formula alineacion="centrada" src="CN_11_09_CO_formula_11.gif">
 </formula>
 <imagen src="CN_11_09_CO_IMG_06_small.jpg">
 <p>Esquema de la disociación de un ácido fuerte en agua (no se representan
@@ -614,7 +614,7 @@ el hidrógeno del ácido se reduce y se desprende como gas.</p>
 <imagen src="CN_11_09_CO_IMG_10_small.jpg">
 <p>Cuando el ácido sulfúrico reacciona con zinc se obtiene sulfato
 de zinc e hidrógeno. Se trata de una reacción redox en la que el zinc
-se oxida y el hidrógeno del ácido se reduce.</p><?Pub Caret -2?>
+se oxida y el hidrógeno del ácido se reduce.</p>
 </imagen>
 <recuerda><recuerdaTexto>
 <p>En una <negrita>reacción redox</negrita>, un elemento se oxida
@@ -796,25 +796,22 @@ se transforma en ácida porque hay exceso de iones H<subindice>3</subindice
 id="S3_CN_11_09_CO_03D1CDE5288D4C7583213D9E7F0D4418">
 <seccion3Titulo>La curva de valoración ácido débil-base fuerte</seccion3Titulo>
 <seccion3Texto>
-<p>En la valoración de un ácido débil (ácido acético, HC<subindice
->2</subindice>H<subindice>3</subindice>O<subindice>2</subindice>)
-con una base fuerte (NaOH) se obtiene una curva de valoración como
-la siguiente:</p>
+<p>En la valoración de un ácido débil (ácido acético, CH<subindice
+>3</subindice>COOH) con una base fuerte (NaOH) se obtiene una curva
+de valoración como la siguiente:</p>
 <imagen src="CN_11_09_CO_img_16_small.jpg">
-<p>Curva de valoración de una disolución de HC<subindice>2</subindice
->H<subindice>3</subindice>O<subindice>2</subindice> con NaOH.</p>
+<p>Curva de valoración de una disolución de CH<subindice>3</subindice
+>COOH con NaOH.</p>
 </imagen>
-<p>La curva de valoración del HC<subindice>2</subindice>H<subindice
->3</subindice>O<subindice>2</subindice> (ácido acético) inicia en
-un pH ácido mayor que 1, debido a que es un ácido débil. A medida
-que se añade NaOH aumenta el pH, el punto de equivalencia se alcanza
-en un pH > 7, por lo tanto la disolución será básica, debido a que
-el anión acetato (C<subindice>2</subindice>H<subindice>3</subindice
->O<subindice>2</subindice><superindice>-</superindice>) de la sal
-(NaC<subindice>2</subindice>H<subindice>3</subindice>O<subindice>2</subindice
->) que se produce se comporta como una base débil. Al seguir añadiendo
-más NaOH, la disolución será más básica debido al exceso de iones
-OH<superindice>-</superindice>.</p>
+<p>La curva de valoración del CH<subindice>3</subindice>COOH (ácido
+acético) inicia en un pH ácido mayor que 1, debido a que es un ácido
+débil. A medida que se añade NaOH aumenta el pH, el punto de equivalencia
+se alcanza en un pH > 7, por lo tanto la disolución será básica, debido
+a que el anión acetato (CH<subindice>3</subindice>COO<superindice
+>-</superindice>) de la sal (CH<subindice>3</subindice>COONa) que
+se produce se comporta como una base débil. Al seguir añadiendo más
+NaOH, la disolución será más básica debido al exceso de iones OH<superindice
+>-</superindice>.</p>
 <p>El indicador más adecuado para este tipo de valoración es la fenolftaleína,
 porque su viraje de color es a un pH > 7.</p>
 <destacado><destacadoTitulo>Valoración ácido débil-base fuerte y formación
@@ -903,8 +900,8 @@ de óxido-reducción</negrita> o <negrita>redox</negrita>. Este tipo
 de reacción implica la transferencia de electrones entre unas sustancias
 que los pierden (se oxidan) y otras que los ganan (se reducen).</p>
 <p>Por <negrita>ejemplo</negrita>:</p>
-<formula alineacion="centrada" src="CN_11_09_CO_formula18.gif">
-</formula>
+<formula alineacion="centrada" src="CN_11_09_CO_formula_18.gif">
+</formula><?Pub Caret -1?>
 <p>Los números ubicados en la parte superior del símbolo de cada elemento
 son los estados de oxidación. Con relación a ellos podemos establecer
 lo siguiente:</p>
