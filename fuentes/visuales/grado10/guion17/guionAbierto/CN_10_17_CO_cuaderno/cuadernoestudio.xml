@@ -36,7 +36,7 @@ desde el origen de un sistema de coordenadas o representación vectorial
 denominado <negrita>diagrama de cuerpo libre</negrita> o <negrita
 >diagrama de fuerzas</negrita>.</p>
 <p>Para su elaboración es necesario tener en cuenta la <negrita>dirección</negrita
-> y la <negrita>magnitud</negrita> de cada uno de los vectores- fuerza.
+> y la <negrita>magnitud</negrita> de cada uno de los vectores-fuerza.
 Preferiblemente, se utiliza una escala que permita comparar las magnitudes
 de los vectores y realizar la suma de los mismos para obtener la <negrita
 >fuerza neta</negrita>.</p>
@@ -82,12 +82,13 @@ comenzará a frenarse debido a la fricción que actúa sobre él, de lo
 contrario, continuaría moviéndose con movimiento rectilíneo uniforme.</p>
 <imagen src="CN_10_17_CO_IMG04_small.jpg">
 <p>Las fuerzas que actúan sobre el cuerpo de la imagen están compensadas
-entre sí. Por ejemplo, la tensión <negrita>T</negrita> está equilibrada
-con la componente horizontal del peso <negrita>W<subindice>x</subindice
-></negrita>, al igual que la fuerza normal <negrita>N</negrita> con
-la componente vertical del peso <negrita>W<subindice>y</subindice
-></negrita>. Como el sistema se encuentra en equilibrio, el cuerpo
-podría estar en reposo o moviéndose a lo largo del plano inclinado. </p>
+entre sí. Por ejemplo, la tensión <negritacursiva>T</negritacursiva
+> está equilibrada con la componente horizontal del peso <negrita
+>W<subindice>x</subindice></negrita>, al igual que la fuerza normal <negritacursiva
+>N</negritacursiva> con la componente vertical del peso <negrita>W<subindice
+>y</subindice></negrita>. Como el sistema se encuentra en equilibrio,
+el cuerpo podría estar en reposo o moviéndose a lo largo del plano
+inclinado. </p>
 </imagen>
 <p>Así, la <negrita>inercia</negrita> expresa la tendencia de un cuerpo
 a mantenerse en el estado de movimiento en el que se encuentra a menos
@@ -127,9 +128,10 @@ sobre cuerpos de masas distintas produce aceleraciones diferentes.</p>
 <formula alineacion="centrada" src="CN_10_17_CO_formula_15.gif">
 </formula>
 <p>Donde <negritacursiva>F<subindice>neta</subindice></negritacursiva
-> es la fuerza neta(N); <negritacursiva>m</negritacursiva> la masa
-del cuerpo (<cursiva>kg</cursiva>) y a la aceleración (m/s<superindice
->2</superindice>).</p>
+> es la fuerza neta (<cursiva>N</cursiva>); <negritacursiva>m</negritacursiva
+> la masa del cuerpo (<cursiva>kg</cursiva>) y <negritacursiva>a</negritacursiva
+> la aceleración (<cursiva>m/s<superindice>2</superindice></cursiva
+>).</p>
 <p>La masa (<negritacursiva>m</negritacursiva>) es la <negrita>constante
 de proporcionalidad</negrita> y es una característica de cada cuerpo.
 La <negrita>masa</negrita> es una propiedad de los cuerpos que mide
@@ -142,9 +144,9 @@ caja vacía, su inercia es mayor.</p>
 <p>Las fuerzas que actúan sobre el sistema representado en la imagen
 se encuentran en desequilibrio en el eje paralelo al plano, ya que
 la tensión (<negritacursiva>T</negritacursiva>) debe ser menor que
-la suma de la fuerza de fricción y la componente del peso (f<subindice
->rM</subindice> + Mg sen(α)) en el eje x. Por tanto, el objeto está
-acelerado hacia abajo del plano inclinado.</p>
+la suma de la fuerza de fricción y la componente del peso <cursiva
+>(f<subindice>rM</subindice> + Mg sen(α))</cursiva> en el eje x. Por
+tanto, el objeto está acelerado hacia abajo del plano inclinado.</p>
 </imagen>
 <destacado><destacadoTitulo>Las unidades de fuerza</destacadoTitulo>
 <destacadoTexto>
@@ -176,7 +178,7 @@ id="S2_CN_10_17_CO_6099C5619E9F4D3C9A4202D022DDFDF9">
 <seccion2Texto>
 <p>Esta ley explica que las fuerzas son interacciones, es decir, acciones
 recíprocas entre pares de objetos.</p>
-<destacado><destacadoTitulo>La tercera ley de Newton y el peso</destacadoTitulo>
+<destacado><destacadoTitulo>Acción-reacción</destacadoTitulo>
 <destacadoTexto>
 <p>Cuando un cuerpo ejerce una fuerza (<negrita>acción</negrita>)
 sobre otro, este ejercerá sobre el primero otra fuerza (<negrita>reacción</negrita
@@ -255,7 +257,7 @@ pero no la magnitud de la velocidad.</p>
 </imagen>
 <p>De acuerdo con la segunda ley de Newton, toda fuerza neta distinta
 de cero provoca una aceleración. En el caso de un movimiento circular,
-la <negrita>fuerza centrípeta</negrita> <negritacursiva>F<subindice
+la <negrita>fuerza centrípeta </negrita><negritacursiva>F<subindice
 >C</subindice></negritacursiva> es la responsable de que exista la
 aceleración centrípeta <negritacursiva>a<subindice>C</subindice></negritacursiva
 >.</p>
@@ -292,7 +294,7 @@ de la circunferencia descrita.</p>
 </formula>
 <formula alineacion="centrada" src="CN_10_17_CO_formula_20.gif">
 </formula>
-<imagen src="CN_10_17_CO_IMG08_small.jpg">
+<imagen src="CN_10_17_CO_IMG10_small.jpg">
 <p>En las curvas, la fuerza de fricción entre las llantas y el pavimento
 juega un papel muy importante, pues actúa como fuerza centrípeta permitiendo
 que el carro pueda dar el giro en la porción de trayectoria circular.
@@ -328,8 +330,9 @@ destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso140&amp;IdRecurso=RES-23B6F8
 la fuerza resultante es nula.</p>
 <imagen src="CN_10_17_CO_IMG11_small.jpg">
 <p>Al girar el volante de un carro, el conductor aplica un par de
-fuerzas (F1 y F2), que son dos fuerzas paralelas de la misma magnitud
-pero con sentidos opuestos.</p>
+fuerzas (<cursiva>F<subindice>1</subindice></cursiva> y <cursiva>F<subindice
+>2</subindice></cursiva>), que son dos fuerzas paralelas de la misma
+magnitud pero con sentidos opuestos.</p>
 </imagen>
 <p>Aunque la resultante de las fuerzas del <negrita>par</negrita> es
 nula,</p>
@@ -498,7 +501,7 @@ destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso200&amp;IdRecurso=RES-622FB8
 >Descubre las fuerzas paralelas</enlace>
 </practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
 <seccion2 id="S2_CN_10_17_CO_4B4C0DFA889546F3A1520F23D8FF7025">
-<seccion2Titulo>Consolidación</seccion2Titulo><?Pub Caret -2?>
+<seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
 <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
 <practica>
@@ -514,6 +517,10 @@ destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso190&amp;IdRecurso=RES-E72653
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso210&amp;IdRecurso=RES-95A2F48F5C234A7DBDD39A7DBB6ED874"
 >Competencias: funcionamiento de una palanca</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso220&amp;IdRecurso=RES-CBBA3F591F83442FB01EE3581958CD62"
+>Competencias: experimentar con el equilibrio de fuerzas</enlace><?Pub
+Caret -3?>
 </practica></seccion1Texto></seccion1><masinformacion
 id="MI_CN_10_17_CO_CBAE397F51BD4530B1AB6DA0B982EE91"><mapaconceptual>
 <enlace
