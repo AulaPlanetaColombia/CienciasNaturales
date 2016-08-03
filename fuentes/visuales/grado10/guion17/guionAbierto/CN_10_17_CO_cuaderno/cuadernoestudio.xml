@@ -1,78 +1,75 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
 <!--Arbortext, Inc., 1988-2015, v.4002-->
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
 <?Pub Inc?>
 <libro id="CN_10_17_CO">
-<libroTitulo>Las leyes de las fuerzas</libroTitulo>
-<seccion1 id="S1_CN_10_17_CO_CF9605F4D9024ACC8DBCC1A1538166FB">
-<seccion1Titulo>Leyes de Newton</seccion1Titulo>
-<seccion1Texto>
-<p>El movimiento de traslación, concretamente el movimiento rectilíneo,
+  <libroTitulo>Las leyes de las fuerzas</libroTitulo>
+  <seccion1 id="S1_CN_10_17_CO_CF9605F4D9024ACC8DBCC1A1538166FB">
+    <seccion1Titulo>Leyes de Newton</seccion1Titulo>
+    <seccion1Texto>
+      <p>El movimiento de traslación, concretamente el movimiento rectilíneo,
 tanto uniforme como acelerado, es el movimiento más simple. Hasta
 el momento se han hecho aproximaciones netamente cinemáticas, es decir,
 se han estudiado sin importar las causas que los producen. En este
 capítulo estudiaremos las leyes que explican por qué un cuerpo se
 mueve de cierta manera o de otra, es decir abordaremos las leyes que
 rigen la <negrita>dinámica</negrita> de los cuerpos, las cuales fueron
-postuladas por el científico inglés <negrita>Isaac Newton</negrita
-> (1642-1727).</p>
-<imagen src="CN_10_17_CO_IMG01_small.jpg">
-<p><negrita>Isaac Newton</negrita> formuló los principios que permiten
+postuladas por el científico inglés <negrita>Isaac Newton</negrita> (1642-1727).</p>
+      <imagen src="CN_10_17_CO_IMG01_small.jpg">
+        <p>
+          <negrita>Isaac Newton</negrita> formuló los principios que permiten
 explicar las causas del movimiento de los cuerpos, desde el movimiento
 de los planetas hasta el funcionamiento de máquinas como la palanca
 o la polea.</p>
-</imagen>
-<p>Como se estudió en capítulos anteriores, a partir de los <negrita
->diagramas de cuerpo libre</negrita> se puede determinar la <negrita
->fuerza neta</negrita> o <negrita>fuerza resultante</negrita>, correspondiente
+      </imagen>
+      <p>Como se estudió en capítulos anteriores, a partir de los <negrita>diagramas de cuerpo libre</negrita> se puede determinar la <negrita>fuerza neta</negrita> o <negrita>fuerza resultante</negrita>, correspondiente
 a la suma vectorial de todas las fuerzas que actúan sobre el objeto:</p>
-<formula alineacion="centrada" src="CN_10_17_CO_formula_01.gif">
-</formula>
-<destacado><destacadoTitulo>Diagramas de cuerpo libre</destacadoTitulo>
-<destacadoTexto>
-<p>Todas las fuerzas que actúan sobre un objeto pueden ser ubicadas
+      <formula alineacion="centrada" src="CN_10_17_CO_formula_01.gif">
+      </formula>
+      <destacado>
+        <destacadoTitulo>Diagramas de cuerpo libre</destacadoTitulo>
+        <destacadoTexto>
+          <p>Todas las fuerzas que actúan sobre un objeto pueden ser ubicadas
 desde el origen de un sistema de coordenadas o representación vectorial
-denominado <negrita>diagrama de cuerpo libre</negrita> o <negrita
->diagrama de fuerzas</negrita>.</p>
-<p>Para su elaboración es necesario tener en cuenta la <negrita>dirección</negrita
-> y la <negrita>magnitud</negrita> de cada uno de los vectores-fuerza.
+denominado <negrita>diagrama de cuerpo libre</negrita> o <negrita>diagrama de fuerzas</negrita>.</p>
+          <p>Para su elaboración es necesario tener en cuenta la <negrita>dirección</negrita> y la <negrita>magnitud</negrita> de cada uno de los vectores-fuerza.
 Preferiblemente, se utiliza una escala que permita comparar las magnitudes
-de los vectores y realizar la suma de los mismos para obtener la <negrita
->fuerza neta</negrita>.</p>
-</destacadoTexto></destacado>
-<formula alineacion="centrada" src="CN_10_17_Tabla01.gif"></formula>
-<p>La <negrita>fuerza neta</negrita> juega un papel muy importante
+de los vectores y realizar la suma de los mismos para obtener la <negrita>fuerza neta</negrita>.</p>
+        </destacadoTexto>
+      </destacado>
+      <formula alineacion="centrada" src="CN_10_17_Tabla01.gif">
+      </formula>
+      <p>La <negrita>fuerza neta</negrita> juega un papel muy importante
 dentro de las leyes de Newton, pues si las fuerzas se encuentran equilibradas,
 es decir, si la fuerza neta es nula, se está en presencia de un fenómeno
-que se explica por medio de la <negrita>primera Ley de Newton</negrita
->. Por el contrario, si la fuerza neta es diferente de cero, se cumple
+que se explica por medio de la <negrita>primera Ley de Newton</negrita>. Por el contrario, si la fuerza neta es diferente de cero, se cumple
 la <negrita>segunda Ley de Newton</negrita>.</p>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso270&amp;IdRecurso=RES-38CE95EDB7044E028C5312C3E9A17A73"
->Entiende las leyes de Newton</enlace>
-</profundiza><seccion2
-id="S2_CN_10_17_CO_DD4D766226F8406EB7C6CED8851E82DC">
-<seccion2Titulo>Primera ley de Newton: ley de la inercia</seccion2Titulo>
-<seccion2Texto>
-<p>Esta ley explica qué le sucede a un objeto cuando la resultante
+      <profundiza>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso270&amp;IdRecurso=RES-38CE95EDB7044E028C5312C3E9A17A73">Entiende las leyes de Newton</enlace>
+      </profundiza>
+      <seccion2 id="S2_CN_10_17_CO_DD4D766226F8406EB7C6CED8851E82DC">
+        <seccion2Titulo>Primera ley de Newton: ley de la inercia</seccion2Titulo>
+        <seccion2Texto>
+          <p>Esta ley explica qué le sucede a un objeto cuando la resultante
 de todas las fuerzas externas que actúan sobre él es nula.</p>
-<destacado><destacadoTitulo>La primera ley de Newton</destacadoTitulo>
-<destacadoTexto>
-<p>Si sobre un cuerpo no actúa ninguna fuerza, o si la sumatoria de
+          <destacado>
+            <destacadoTitulo>La primera ley de Newton</destacadoTitulo>
+            <destacadoTexto>
+              <p>Si sobre un cuerpo no actúa ninguna fuerza, o si la sumatoria de
 todas las fuerzas que actúan sobre este cuerpo es igual a cero:</p>
-<formula alineacion="centrada" src="CN_10_17_CO_formula_03.gif">
-</formula>
-<formula alineacion="centrada" src="CN_10_17_CO_formula_04.gif">
-</formula>
-<p>De la <negrita>primera ley de Newton</negrita> se deduce que una
+              <formula alineacion="centrada" src="CN_10_17_CO_formula_03.gif">
+              </formula>
+              <formula alineacion="centrada" src="CN_10_17_CO_formula_04.gif">
+              </formula>
+              <p>De la <negrita>primera ley de Newton</negrita> se deduce que una
 fuerza es la causa capaz de provocar un cambio de velocidad en un
 cuerpo, es decir, una <negrita>aceleración</negrita>.</p>
-<p>De acuerdo con esto, un objeto en equilibrio podrá encontrarse
+              <p>De acuerdo con esto, un objeto en equilibrio podrá encontrarse
 en dos estados: estar en reposo o tener un movimiento rectilíneo uniforme.</p>
-</destacadoTexto></destacado>
-<p>La <negrita>primera ley de Newton</negrita> postula que un cuerpo
+            </destacadoTexto>
+          </destacado>
+          <p>La <negrita>primera ley de Newton</negrita> postula que un cuerpo
 no puede cambiar por sí solo su estado de movimiento o de reposo,
 a menos que actúe una fuerza externa sobre él que modifique su velocidad.
 Dicho de otra forma, un objeto en movimiento no se detiene de forma
@@ -80,17 +77,13 @@ natural si no se aplica una fuerza externa sobre él. Por ejemplo,
 un balón que se desliza con una velocidad constante sobre una superficie
 comenzará a frenarse debido a la fricción que actúa sobre él, de lo
 contrario, continuaría moviéndose con movimiento rectilíneo uniforme.</p>
-<imagen src="CN_10_17_CO_IMG04_small.jpg">
-<p>Las fuerzas que actúan sobre el cuerpo de la imagen están compensadas
-entre sí. Por ejemplo, la tensión <negritacursiva>T</negritacursiva
-> está equilibrada con la componente horizontal del peso <negrita
->W<subindice>x</subindice></negrita>, al igual que la fuerza normal <negritacursiva
->N</negritacursiva> con la componente vertical del peso <negrita>W<subindice
->y</subindice></negrita>. Como el sistema se encuentra en equilibrio,
+          <imagen src="CN_10_17_CO_IMG04_small.jpg">
+            <p>Las fuerzas que actúan sobre el cuerpo de la imagen están compensadas
+entre sí. Por ejemplo, la tensión <negritacursiva>T</negritacursiva> está equilibrada con la componente horizontal del peso <negrita>W<subindice>x</subindice></negrita>, al igual que la fuerza normal <negritacursiva>N</negritacursiva> con la componente vertical del peso <negrita>W<subindice>y</subindice></negrita>. Como el sistema se encuentra en equilibrio,
 el cuerpo podría estar en reposo o moviéndose a lo largo del plano
 inclinado. </p>
-</imagen>
-<p>Así, la <negrita>inercia</negrita> expresa la tendencia de un cuerpo
+          </imagen>
+          <p>Así, la <negrita>inercia</negrita> expresa la tendencia de un cuerpo
 a mantenerse en el estado de movimiento en el que se encuentra a menos
 que una fuerza externa actúe sobre él y lo modifique. Por tanto, si
 esas fuerzas externas que actúan directamente sobre el cuerpo se cancelan
@@ -99,40 +92,38 @@ rectilíneo uniforme con respecto a un sistema de medición. Para la
 situación anterior de plano inclinado, al aplicar la primera ley de
 Newton se tienen las siguientes fuerzas actuando sobre la masa ubicada
 en el plano inclinado:</p>
-<formula alineacion="centrada" src="CN_10_17_Tabla02.gif"></formula>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso280&amp;IdRecurso=RES-E753E026CF7246D1B4AB04C683E4F9BE"
->Analiza la primera ley de Newton</enlace>
-</practica></seccion2Texto></seccion2><seccion2
-id="S2_CN_10_17_CO_DCC3C782803E4564B81DCA41DE5D0480">
-<seccion2Titulo>La segunda ley de Newton</seccion2Titulo>
-<seccion2Texto>
-<p>Esta ley explica qué le sucede a un objeto cuando las fuerzas que
+          <formula alineacion="centrada" src="CN_10_17_Tabla02.gif">
+          </formula>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso280&amp;IdRecurso=RES-E753E026CF7246D1B4AB04C683E4F9BE">Analiza la primera ley de Newton</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CN_10_17_CO_DCC3C782803E4564B81DCA41DE5D0480">
+        <seccion2Titulo>La segunda ley de Newton</seccion2Titulo>
+        <seccion2Texto>
+          <p>Esta ley explica qué le sucede a un objeto cuando las fuerzas que
 se ejercen sobre él no se encuentran equilibradas, es decir, cuando
 la fuerza resultante tiene un valor distinto de cero.</p>
-<destacado><destacadoTitulo>La segunda ley de Newton</destacadoTitulo>
-<destacadoTexto>
-<p>La <negrita>aceleración</negrita> de un objeto es directamente
+          <destacado>
+            <destacadoTitulo>La segunda ley de Newton</destacadoTitulo>
+            <destacadoTexto>
+              <p>La <negrita>aceleración</negrita> de un objeto es directamente
 proporcional a la <negrita>fuerza neta</negrita> que actúa sobre él
 e inversamente proporcional a su masa.</p>
-<formula alineacion="centrada" src="CN_10_17_CO_formula_13.gif">
-</formula>
-<formula alineacion="centrada" src="CN_10_17_CO_formula_14.gif">
-</formula>
-<p>Además, la dirección de la aceleración es igual a la de la <negrita
->fuerza neta</negrita>. Igualmente, una misma fuerza neta aplicada
+              <formula alineacion="centrada" src="CN_10_17_CO_formula_13.gif">
+              </formula>
+              <formula alineacion="centrada" src="CN_10_17_CO_formula_14.gif">
+              </formula>
+              <p>Además, la dirección de la aceleración es igual a la de la <negrita>fuerza neta</negrita>. Igualmente, una misma fuerza neta aplicada
 sobre cuerpos de masas distintas produce aceleraciones diferentes.</p>
-</destacadoTexto></destacado>
-<p>Dicho enunciado se expresa mediante la siguiente ecuación:</p>
-<formula alineacion="centrada" src="CN_10_17_CO_formula_15.gif">
-</formula>
-<p>Donde <negritacursiva>F<subindice>neta</subindice></negritacursiva
-> es la fuerza neta (<cursiva>N</cursiva>); <negritacursiva>m</negritacursiva
-> la masa del cuerpo (<cursiva>kg</cursiva>) y <negritacursiva>a</negritacursiva
-> la aceleración (<cursiva>m/s<superindice>2</superindice></cursiva
->).</p>
-<p>La masa (<negritacursiva>m</negritacursiva>) es la <negrita>constante
+            </destacadoTexto>
+          </destacado>
+          <p>Dicho enunciado se expresa mediante la siguiente ecuación:</p>
+          <formula alineacion="centrada" src="CN_10_17_CO_formula_15.gif">
+          </formula>
+          <p>Donde <negritacursiva>F<subindice>neta</subindice></negritacursiva> es la fuerza neta (<cursiva>N</cursiva>); <negritacursiva>m</negritacursiva> la masa del cuerpo (<cursiva>kg</cursiva>) y <negritacursiva>a</negritacursiva> la aceleración (<cursiva>m/s<superindice>2</superindice></cursiva>).</p>
+          <p>La masa (<negritacursiva>m</negritacursiva>) es la <negrita>constante
 de proporcionalidad</negrita> y es una característica de cada cuerpo.
 La <negrita>masa</negrita> es una propiedad de los cuerpos que mide
 su <negrita>inercia</negrita>, es decir, su resistencia a cambiar
@@ -140,402 +131,375 @@ de velocidad. La fuerza que ejercemos para mover una caja llena de
 libros es mucho mayor que la que aplicaríamos si la caja estuviera
 vacía. Debido a que la masa de la caja llena es mayor que la de la
 caja vacía, su inercia es mayor.</p>
-<imagen src="CN_10_17_CO_IMG05_small.jpg">
-<p>Las fuerzas que actúan sobre el sistema representado en la imagen
+          <imagen src="CN_10_17_CO_IMG05_small.jpg">
+            <p>Las fuerzas que actúan sobre el sistema representado en la imagen
 se encuentran en desequilibrio en el eje paralelo al plano, ya que
 la tensión (<negritacursiva>T</negritacursiva>) debe ser menor que
-la suma de la fuerza de fricción y la componente del peso <cursiva
->(f<subindice>rM</subindice> + Mg sen(α))</cursiva> en el eje x. Por
+la suma de la fuerza de fricción y la componente del peso <cursiva>(f<subindice>rM</subindice> + Mg sen(α))</cursiva> en el eje x. Por
 tanto, el objeto está acelerado hacia abajo del plano inclinado.</p>
-</imagen>
-<destacado><destacadoTitulo>Las unidades de fuerza</destacadoTitulo>
-<destacadoTexto>
-<p>De la ecuación para la segunda ley de Newton se deduce la definición
+          </imagen>
+          <destacado>
+            <destacadoTitulo>Las unidades de fuerza</destacadoTitulo>
+            <destacadoTexto>
+              <p>De la ecuación para la segunda ley de Newton se deduce la definición
 de la <negrita>unidad de fuerza</negrita> en el Sistema Internacional
 de Unidades (SI): un newton (N) es la fuerza que, aplicada a una masa
-de un kilogramo, le produce una aceleración de 1 m/s<superindice>2</superindice
->.</p>
-<formula alineacion="centrada" src="CN_10_17_CO_formula_16.gif">
-</formula>
-</destacadoTexto></destacado><destacado><destacadoTitulo>La segunda
-ley de Newton y el peso</destacadoTitulo><destacadoTexto>
-<p>Al aplicar la <negrita>segunda ley de Newton</negrita> para un
-cuerpo en caída libre en el vacío, la aceleración (<negritacursiva
->a</negritacursiva>) se sustituiría por la aceleración de la gravedad
+de un kilogramo, le produce una aceleración de 1 m/s<superindice>2</superindice>.</p>
+              <formula alineacion="centrada" src="CN_10_17_CO_formula_16.gif">
+              </formula>
+            </destacadoTexto>
+          </destacado>
+          <destacado>
+            <destacadoTitulo>La segunda
+ley de Newton y el peso</destacadoTitulo>
+            <destacadoTexto>
+              <p>Al aplicar la <negrita>segunda ley de Newton</negrita> para un
+cuerpo en caída libre en el vacío, la aceleración (<negritacursiva>a</negritacursiva>) se sustituiría por la aceleración de la gravedad
 (<negritacursiva>g</negritacursiva>), y la única fuerza actuante sería
 el peso (<negritacursiva>W</negritacursiva>).</p>
-<formula alineacion="centrada" src="CN_10_17_CO_formula_17.gif">
-</formula>
-<p>Se encuentra así una correspondencia entre la segunda ley de Newton
+              <formula alineacion="centrada" src="CN_10_17_CO_formula_17.gif">
+              </formula>
+              <p>Se encuentra así una correspondencia entre la segunda ley de Newton
 y la expresión para el peso deducida de la ley de gravitación universal.</p>
-</destacadoTexto></destacado><practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso040&amp;IdRecurso=RES-06A3C4C6871E40D886D2BCE8C6F18A77"
->Aplica la segunda ley de Newton a las poleas</enlace>
-</practica></seccion2Texto></seccion2><seccion2
-id="S2_CN_10_17_CO_6099C5619E9F4D3C9A4202D022DDFDF9">
-<seccion2Titulo>La tercera ley de Newton: ley de acción y reacción</seccion2Titulo>
-<seccion2Texto>
-<p>Esta ley explica que las fuerzas son interacciones, es decir, acciones
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso040&amp;IdRecurso=RES-06A3C4C6871E40D886D2BCE8C6F18A77">Aplica la segunda ley de Newton a las poleas</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CN_10_17_CO_6099C5619E9F4D3C9A4202D022DDFDF9">
+        <seccion2Titulo>La tercera ley de Newton: ley de acción y reacción</seccion2Titulo>
+        <seccion2Texto>
+          <p>Esta ley explica que las fuerzas son interacciones, es decir, acciones
 recíprocas entre pares de objetos.</p>
-<destacado><destacadoTitulo>Acción-reacción</destacadoTitulo>
-<destacadoTexto>
-<p>Cuando un cuerpo ejerce una fuerza (<negrita>acción</negrita>)
-sobre otro, este ejercerá sobre el primero otra fuerza (<negrita>reacción</negrita
->) de igual magnitud y dirección, pero de sentido contrario.</p>
-</destacadoTexto></destacado>
-<p>Los dos procesos (<negrita>acción</negrita> y <negrita>reacción</negrita
->) ocurren simultáneamente y las fuerzas existen mientras dura la
-interacción. Ambas fuerzas siempre <negrita>actúan sobre objetos distintos</negrita
->, por eso no se anulan a pesar de tener la misma dirección y magnitud,
+          <destacado>
+            <destacadoTitulo>Acción-reacción</destacadoTitulo>
+            <destacadoTexto>
+              <p>Cuando un cuerpo ejerce una fuerza (<negrita>acción</negrita>)
+sobre otro, este ejercerá sobre el primero otra fuerza (<negrita>reacción</negrita>) de igual magnitud y dirección, pero de sentido contrario.</p>
+            </destacadoTexto>
+          </destacado>
+          <p>Los dos procesos (<negrita>acción</negrita> y <negrita>reacción</negrita>) ocurren simultáneamente y las fuerzas existen mientras dura la
+interacción. Ambas fuerzas siempre <negrita>actúan sobre objetos distintos</negrita>, por eso no se anulan a pesar de tener la misma dirección y magnitud,
 pero sentidos opuestos.</p>
-<imagen src="CN_10_17_CO_IMG06_small.jpg">
-<p>De acuerdo con la <negrita>tercera ley de Newton</negrita>, cuando
+          <imagen src="CN_10_17_CO_IMG06_small.jpg">
+            <p>De acuerdo con la <negrita>tercera ley de Newton</negrita>, cuando
 sostenemos un objeto en muestra mano ejercemos una fuerza hacia arriba
 para sostenerlo (<negrita>acción</negrita>); sin embargo, a su vez
-el objeto ejerce una fuerza sobre nuestra mano (<negrita>reacción</negrita
->). Se dice entonces que estas fuerzas forman un <negrita>par acción-reacción</negrita
->.</p>
-</imagen>
-<p>Otro ejemplo de la aplicación de la tercera ley de Newton se verifica
+el objeto ejerce una fuerza sobre nuestra mano (<negrita>reacción</negrita>). Se dice entonces que estas fuerzas forman un <negrita>par acción-reacción</negrita>.</p>
+          </imagen>
+          <p>Otro ejemplo de la aplicación de la tercera ley de Newton se verifica
 en el funcionamiento de los cohetes. El cohete empuja hacia atrás
 los gases de la combustión y estos reaccionan aplicándole una fuerza
 que lo impulsa hacia adelante.</p>
-<imagen ampliable="no" src="CN_10_17_CO_IMG07_small.jpg">
-<p>Al poner en marcha el motor, el cohete ejerce una gran fuerza hacia
+          <imagen ampliable="no" src="CN_10_17_CO_IMG07_small.jpg">
+            <p>Al poner en marcha el motor, el cohete ejerce una gran fuerza hacia
 atrás al expulsar los gases de la combustión, los cuales, a su vez,
 ejercerán otra igual y contraria (hacia adelante) que lo hará despegar.</p>
-</imagen>
-<p>Otra situación en la que se ve reflejada la tercera ley de Newton
-es durante un choque entre dos objetos <negrita>A</negrita> y <negrita
->B</negrita>. La fuerza con la que el <negrita>objeto A</negrita> impacta
+          </imagen>
+          <p>Otra situación en la que se ve reflejada la tercera ley de Newton
+es durante un choque entre dos objetos <negrita>A</negrita> y <negrita>B</negrita>. La fuerza con la que el <negrita>objeto A</negrita> impacta
 al <negrita>objeto B</negrita> es igual en magnitud a la fuerza con
-la que el objeto <negrita>B</negrita> impacta al <negrita>A</negrita
->, pero en sentido opuesto. Esto se cumple independientemente de la
+la que el objeto <negrita>B</negrita> impacta al <negrita>A</negrita>, pero en sentido opuesto. Esto se cumple independientemente de la
 masa y el tamaño que posea cada uno de los cuerpos.</p>
-<destacado><destacadoTitulo>La reacción del peso</destacadoTitulo>
-<destacadoTexto>
-<p>Cuando un objeto está en reposo, apoyado sobre una superficie horizontal,
-las fuerzas actuantes sobre él son el <negrita>peso</negrita> y la <negrita
->normal</negrita>. Sin embargo, estas dos interacciones <negrita>no
+          <destacado>
+            <destacadoTitulo>La reacción del peso</destacadoTitulo>
+            <destacadoTexto>
+              <p>Cuando un objeto está en reposo, apoyado sobre una superficie horizontal,
+las fuerzas actuantes sobre él son el <negrita>peso</negrita> y la <negrita>normal</negrita>. Sin embargo, estas dos interacciones <negrita>no
 forman un par acción-reacción</negrita>, pues estarían actuando sobre
 el mismo cuerpo, incumpliendo la tercera ley de Newton.</p>
-<p>El <negrita>peso</negrita> es la fuerza de atracción que ejerce
+              <p>El <negrita>peso</negrita> es la fuerza de atracción que ejerce
 el planeta Tierra sobre un objeto (<negrita>acción</negrita>), luego
 la <negrita>reacción</negrita> corresponde a la fuerza con que el
 objeto atrae a la Tierra.</p>
-</destacadoTexto></destacado><practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso070&amp;IdRecurso=RES-EF66D83232E4423E942268B221D5A915"
->Aplica las leyes de Newton en situaciones problema</enlace>
-</practica></seccion2Texto></seccion2><seccion2
-id="S2_CN_10_17_CO_4B4C0DFA889546F3A1520F23D8FF2330">
-<seccion2Titulo>Consolidación</seccion2Titulo>
-<seccion2Texto>
-<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso090&amp;IdRecurso=RES-049E0F74B4D34CC993CD79F601A51C1D"
->Refuerza tu aprendizaje: Las leyes de Newton</enlace>
-</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
-<seccion1 id="S1_CN_10_17_CO_FDEE25BDC90848ECBDD53725DAADE2FC">
-<seccion1Titulo>La fuerza centrípeta</seccion1Titulo>
-<seccion1Texto>
-<p>Un cuerpo que se desplaza en una <negrita>trayectoria circular</negrita
-> está sometido a la acción de una <negrita>fuerza centrípeta</negrita
->.</p>
-<recuerda><recuerdaTexto>
-<p>En un movimiento circular uniforme, la velocidad lineal <negrita
->cambia de dirección</negrita> constantemente. Este cambio de velocidad
+            </destacadoTexto>
+          </destacado>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso070&amp;IdRecurso=RES-EF66D83232E4423E942268B221D5A915">Aplica las leyes de Newton en situaciones problema</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CN_10_17_CO_4B4C0DFA889546F3A1520F23D8FF2330">
+        <seccion2Titulo>Consolidación</seccion2Titulo>
+        <seccion2Texto>
+          <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso090&amp;IdRecurso=RES-049E0F74B4D34CC993CD79F601A51C1D">Refuerza tu aprendizaje: Las leyes de Newton</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CN_10_17_CO_FDEE25BDC90848ECBDD53725DAADE2FC">
+    <seccion1Titulo>La fuerza centrípeta</seccion1Titulo>
+    <seccion1Texto>
+      <p>Un cuerpo que se desplaza en una <negrita>trayectoria circular</negrita> está sometido a la acción de una <negrita>fuerza centrípeta</negrita>.</p>
+      <recuerda>
+        <recuerdaTexto>
+          <p>En un movimiento circular uniforme, la velocidad lineal <negrita>cambia de dirección</negrita> constantemente. Este cambio de velocidad
 en el tiempo implica que existe una aceleración perpendicular a la
-dirección de la velocidad, conocida como <negrita>aceleración centrípeta</negrita
-> (dirigida hacia el centro de giro).</p>
-</recuerdaTexto></recuerda>
-<imagen src="CN_10_17_CO_IMG08_small.jpg">
-<p>La <negrita>aceleración centrípeta</negrita> solo modifica la dirección,
+dirección de la velocidad, conocida como <negrita>aceleración centrípeta</negrita> (dirigida hacia el centro de giro).</p>
+        </recuerdaTexto>
+      </recuerda>
+      <imagen src="CN_10_17_CO_IMG08_small.jpg">
+        <p>La <negrita>aceleración centrípeta</negrita> solo modifica la dirección,
 pero no la magnitud de la velocidad.</p>
-</imagen>
-<p>De acuerdo con la segunda ley de Newton, toda fuerza neta distinta
+      </imagen>
+      <p>De acuerdo con la segunda ley de Newton, toda fuerza neta distinta
 de cero provoca una aceleración. En el caso de un movimiento circular,
-la <negrita>fuerza centrípeta </negrita><negritacursiva>F<subindice
->C</subindice></negritacursiva> es la responsable de que exista la
-aceleración centrípeta <negritacursiva>a<subindice>C</subindice></negritacursiva
->.</p>
-<p>Cualquier movimiento circular requiere de una fuerza dirigida hacia
+la <negrita>fuerza centrípeta </negrita><negritacursiva>F<subindice>C</subindice></negritacursiva> es la responsable de que exista la
+aceleración centrípeta <negritacursiva>a<subindice>C</subindice></negritacursiva>.</p>
+      <p>Cualquier movimiento circular requiere de una fuerza dirigida hacia
 el centro de curvatura para mantener el móvil en una trayectoria curvilínea.
 Si no existiera dicha fuerza externa, según el enunciado de la primera
 ley de Newton, la trayectoria del cuerpo debería ser rectilínea. Por
 tanto, la fuerza centrípeta es la que hace que el móvil describa una
 trayectoria circular.</p>
-<p>Por ejemplo, si atamos una piedra al extremo de una cuerda y la
+      <p>Por ejemplo, si atamos una piedra al extremo de una cuerda y la
 empezamos a girar, la fuerza que mantiene a la piedra en movimiento
 circular es la tensión, es decir, dicha tensión actúa como la fuerza
 centrípeta en esta situación. Si la cuerda llegara a romperse durante
 el movimiento, la piedra seguiría moviéndose por una trayectoria rectilínea
 tangente a la circunferencia en el punto de ruptura. </p>
-<imagen src="CN_10_17_CO_IMG09_small.jpg">
-<p>Al hacer girar una piedra atada al extremo de una cuerda, la <negrita
->tensión</negrita> actúa como la <negrita>fuerza centrípeta</negrita
->. En el momento en que la cuerda se rompe, la masa continúa con la
+      <imagen src="CN_10_17_CO_IMG09_small.jpg">
+        <p>Al hacer girar una piedra atada al extremo de una cuerda, la <negrita>tensión</negrita> actúa como la <negrita>fuerza centrípeta</negrita>. En el momento en que la cuerda se rompe, la masa continúa con la
 velocidad lineal que llevaba en ese instante siguiendo una trayectoria
 rectilínea tangente a la circunferencia.</p>
-</imagen>
-<p>La magnitud de la <negrita>aceleración centrípeta</negrita> se
+      </imagen>
+      <p>La magnitud de la <negrita>aceleración centrípeta</negrita> se
 calcula mediante la siguiente ecuación:</p>
-<formula alineacion="centrada" src="CN_10_17_CO_formula_18.gif">
-</formula>
-<p>Donde: <negritacursiva>v</negritacursiva> representa la velocidad
-lineal o tangencial del cuerpo, <negritacursiva>ω</negritacursiva
-> la velocidad angular y <negritacursiva>R</negritacursiva> el radio
+      <formula alineacion="centrada" src="CN_10_17_CO_formula_18.gif">
+      </formula>
+      <p>Donde: <negritacursiva>v</negritacursiva> representa la velocidad
+lineal o tangencial del cuerpo, <negritacursiva>ω</negritacursiva> la velocidad angular y <negritacursiva>R</negritacursiva> el radio
 de la circunferencia descrita.</p>
-<p>Por tanto, de acuerdo con la segunda ley de Newton, la <negritacursiva
->fuerza centrípeta</negritacursiva> se expresa como:</p>
-<formula alineacion="centrada" src="CN_10_17_CO_formula_19.gif">
-</formula>
-<formula alineacion="centrada" src="CN_10_17_CO_formula_20.gif">
-</formula>
-<imagen src="CN_10_17_CO_IMG10_small.jpg">
-<p>En las curvas, la fuerza de fricción entre las llantas y el pavimento
+      <p>Por tanto, de acuerdo con la segunda ley de Newton, la <negritacursiva>fuerza centrípeta</negritacursiva> se expresa como:</p>
+      <formula alineacion="centrada" src="CN_10_17_CO_formula_19.gif">
+      </formula>
+      <formula alineacion="centrada" src="CN_10_17_CO_formula_20.gif">
+      </formula>
+      <imagen src="CN_10_17_CO_IMG10_small.jpg">
+        <p>En las curvas, la fuerza de fricción entre las llantas y el pavimento
 juega un papel muy importante, pues actúa como fuerza centrípeta permitiendo
 que el carro pueda dar el giro en la porción de trayectoria circular.
 En las curvas, las vías además presentan cierta inclinación llamada
 peralte, el cual ayuda a mantener la estabilidad del vehículo mientras
 las recorre, para evitar que se deslice y el carro se salga de la
 trayectoria.</p>
-</imagen>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso110&amp;IdRecurso=RES-443FE847F5044ED2BAFD6F0C90389D5B"
->El movimiento circular y la fuerza centrípeta</enlace>
-</profundiza><practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso130&amp;IdRecurso=RES-2FCCDFCFC8EC4F3FA411DC114E88A222"
->Calcula haciendo uso de las características del movimiento circular</enlace>
-</practica><seccion2
-id="S2_CN_10_17_CO_4B4C0DFA889546F3A1520F23D8FF2117">
-<seccion2Titulo>Consolidación</seccion2Titulo>
-<seccion2Texto>
-<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso140&amp;IdRecurso=RES-23B6F8F0B7EE40A9AE77A654ECDD2E50"
->Refuerza tu aprendizaje: La fuerza centrípeta</enlace>
-</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
-<seccion1 id="S1_CN_10_17_CO_19E2FC431C764732B25DD57B02457522">
-<seccion1Titulo>El torque o momento de una fuerza</seccion1Titulo>
-<seccion1Texto>
-<p>Un sistema formado por dos <negrita>fuerzas paralelas</negrita
-> de la <negrita>misma intensidad</negrita> y <negrita>sentidos contrarios</negrita
-> constituye un <negrita>par de fuerzas</negrita>. En estos sistemas,
+      </imagen>
+      <profundiza>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso110&amp;IdRecurso=RES-443FE847F5044ED2BAFD6F0C90389D5B">El movimiento circular y la fuerza centrípeta</enlace>
+      </profundiza>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso130&amp;IdRecurso=RES-2FCCDFCFC8EC4F3FA411DC114E88A222">Calcula haciendo uso de las características del movimiento circular</enlace>
+      </practica>
+      <seccion2 id="S2_CN_10_17_CO_4B4C0DFA889546F3A1520F23D8FF2117">
+        <seccion2Titulo>Consolidación</seccion2Titulo>
+        <seccion2Texto>
+          <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso140&amp;IdRecurso=RES-23B6F8F0B7EE40A9AE77A654ECDD2E50">Refuerza tu aprendizaje: La fuerza centrípeta</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CN_10_17_CO_19E2FC431C764732B25DD57B02457522">
+    <seccion1Titulo>El torque o momento de una fuerza</seccion1Titulo>
+    <seccion1Texto>
+      <p>Un sistema formado por dos <negrita>fuerzas paralelas</negrita> de la <negrita>misma intensidad</negrita> y <negrita>sentidos contrarios</negrita> constituye un <negrita>par de fuerzas</negrita>. En estos sistemas,
 la fuerza resultante es nula.</p>
-<imagen src="CN_10_17_CO_IMG11_small.jpg">
-<p>Al girar el volante de un carro, el conductor aplica un par de
-fuerzas (<cursiva>F<subindice>1</subindice></cursiva> y <cursiva>F<subindice
->2</subindice></cursiva>), que son dos fuerzas paralelas de la misma
+      <imagen src="CN_10_17_CO_IMG11_small.jpg">
+        <p>Al girar el volante de un carro, el conductor aplica un par de
+fuerzas (<cursiva>F<subindice>1</subindice></cursiva> y <cursiva>F<subindice>2</subindice></cursiva>), que son dos fuerzas paralelas de la misma
 magnitud pero con sentidos opuestos.</p>
-</imagen>
-<p>Aunque la resultante de las fuerzas del <negrita>par</negrita> es
+      </imagen>
+      <p>Aunque la resultante de las fuerzas del <negrita>par</negrita> es
 nula,</p>
-<formula alineacion="centrada" src="CN_10_17_CO_formula_21.gif">
-</formula>
-<p>se produce una rotación, porque los <negrita>torques</negrita> o <negrita
->momentos</negrita> de cada fuerza del par, con respecto al punto
+      <formula alineacion="centrada" src="CN_10_17_CO_formula_21.gif">
+      </formula>
+      <p>se produce una rotación, porque los <negrita>torques</negrita> o <negrita>momentos</negrita> de cada fuerza del par, con respecto al punto
 cero O, suman su capacidad de producir un giro.</p>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso150&amp;IdRecurso=RES-76CC9EC40D6F40409EE22A021F499669"
->El par de fuerzas</enlace>
-</profundiza><seccion2
-id="S2_CN_10_17_CO_C88B465A7F064EB9ACA1A7B139D8ED24">
-<seccion2Titulo>El torque</seccion2Titulo>
-<seccion2Texto>
-<p>El <negrita>torque</negrita> o <negrita>momento</negrita> que caracteriza
+      <profundiza>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso150&amp;IdRecurso=RES-76CC9EC40D6F40409EE22A021F499669">El par de fuerzas</enlace>
+      </profundiza>
+      <seccion2 id="S2_CN_10_17_CO_C88B465A7F064EB9ACA1A7B139D8ED24">
+        <seccion2Titulo>El torque</seccion2Titulo>
+        <seccion2Texto>
+          <p>El <negrita>torque</negrita> o <negrita>momento</negrita> que caracteriza
 al par de fuerzas <negritacursiva>Τ</negritacursiva> se calcula a
-partir del producto vectorial entre la magnitud de las <negrita>fuerzas</negrita
-> implicadas y la <negrita>distancia</negrita> que las separa; su
+partir del producto vectorial entre la magnitud de las <negrita>fuerzas</negrita> implicadas y la <negrita>distancia</negrita> que las separa; su
 magnitud será:</p>
-<formula alineacion="centrada" src="CN_10_17_CO_formula_22.gif">
-</formula>
-<formula alineacion="centrada" src="CN_10_17_CO_formula_23.gif">
-</formula>
-<p>Por lo que para el par de fuerzas <negrita>F<subindice>1</subindice
-> = F<subindice>2</subindice></negrita> se tiene que los momentos <negrita
->τ<subindice>1</subindice> = τ<subindice>2</subindice></negrita>.
+          <formula alineacion="centrada" src="CN_10_17_CO_formula_22.gif">
+          </formula>
+          <formula alineacion="centrada" src="CN_10_17_CO_formula_23.gif">
+          </formula>
+          <p>Por lo que para el par de fuerzas <negrita>F<subindice>1</subindice> = F<subindice>2</subindice></negrita> se tiene que los momentos <negrita>τ<subindice>1</subindice> = τ<subindice>2</subindice></negrita>.
  Las unidades de <negrita>τ</negrita> en el Sistema Internacional
 (SI) son Newton metro (<cursiva>N m</cursiva>).</p>
-<recuerda><recuerdaTexto>
-<p>El <negrita>producto vectorial</negrita> implica <negrita>dos vectores</negrita
-> que forman un plano y dan como resultado un <negrita>tercer vector
+          <recuerda>
+            <recuerdaTexto>
+              <p>El <negrita>producto vectorial</negrita> implica <negrita>dos vectores</negrita> que forman un plano y dan como resultado un <negrita>tercer vector
 perpendicular</negrita> a estos:</p>
-<formula alineacion="centrada" src="CN_10_17_CO_IMG12.png"></formula>
-<formula alineacion="centrada" src="CN_10_17_CO_formula_24.gif">
-</formula>
-<p>En esta expresión <negritacursiva>a</negritacursiva> y <negritacursiva
->b</negritacursiva> son vectores, |<cursiva>a</cursiva>| y |<cursiva
->b</cursiva>| son las correspondientes magnitudes y θ es el ángulo
+              <formula alineacion="centrada" src="CN_10_17_CO_IMG12.png">
+              </formula>
+              <formula alineacion="centrada" src="CN_10_17_CO_formula_24.gif">
+              </formula>
+              <p>En esta expresión <negritacursiva>a</negritacursiva> y <negritacursiva>b</negritacursiva> son vectores, |<cursiva>a</cursiva>| y |<cursiva>b</cursiva>| son las correspondientes magnitudes y θ es el ángulo
 que forman ambos vectores.</p>
-</recuerdaTexto></recuerda>
-<p>Por tanto, el torque o <negrita>momento</negrita> es una magnitud
+            </recuerdaTexto>
+          </recuerda>
+          <p>Por tanto, el torque o <negrita>momento</negrita> es una magnitud
 vectorial y siempre se dirige en dirección perpendicular al plano
 formado por las dos fuerzas involucradas y la distancia que las separa.
 El punto cero O es usualmente elegido de manera que coincida con el
 eje respecto al cual el objeto está rotando. Por ejemplo, la bisagra
 de una puerta o el punto central en una balanza de dos brazos.</p>
-<p>Como se puede observar, solo las fuerzas que actúan en el plano
+          <p>Como se puede observar, solo las fuerzas que actúan en el plano
 perpendicular al eje de rotación contribuyen al torque del sistema.
 Con esta condición, un cuerpo puede rotar en dos posibles direcciones
 alrededor del eje seleccionado:</p>
-<listaSinNumerar>
-<listaElemento>Cuando rota en sentido <negrita>contrario a las manecillas
+          <listaSinNumerar>
+            <listaElemento>Cuando rota en sentido <negrita>contrario a las manecillas
 del reloj</negrita> el torque generado por la fuerza correspondiente
 se toma como <negrita>dirección positiva</negrita>.</listaElemento>
-<listaElemento>Cuando rota en el <negrita>mismo sentido de las manecillas
+            <listaElemento>Cuando rota en el <negrita>mismo sentido de las manecillas
 del reloj</negrita> el torque será <negrita>negativo</negrita>.</listaElemento>
-</listaSinNumerar>
-<imagen src="CN_10_17_CO_IMG13_small.jpg">
-<p>El punto O es elegido en el eje de rotación de la balanza. Solo
+          </listaSinNumerar>
+          <imagen src="CN_10_17_CO_IMG13_small.jpg">
+            <p>El punto O es elegido en el eje de rotación de la balanza. Solo
 las fuerzas perpendiculares al plano de la tabla, en este caso los
-pesos de los dos objetos <negrita>W<subindice>1</subindice></negrita
-> y <negrita>W<subindice>2</subindice></negrita>, contribuyen al torque,
+pesos de los dos objetos <negrita>W<subindice>1</subindice></negrita> y <negrita>W<subindice>2</subindice></negrita>, contribuyen al torque,
 es decir, a la rotación de la balanza. </p>
-</imagen>
-</seccion2Texto></seccion2><seccion2
-id="S2_CN_10_17_CO_C88B465A7F064EB9ACA1A7B139D8BA35">
-<seccion2Titulo>El equilibrio de torques y palancas</seccion2Titulo>
-<seccion2Texto>
-<p>Un cuerpo se encuentra en <negrita>equilibrio</negrita> cuando
-no se desplaza ni gira (rota), es decir, se encuentra en <negrita
->condiciones estáticas</negrita>. Para que el cuerpo se encuentre
+          </imagen>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CN_10_17_CO_C88B465A7F064EB9ACA1A7B139D8BA35">
+        <seccion2Titulo>El equilibrio de torques y palancas</seccion2Titulo>
+        <seccion2Texto>
+          <p>Un cuerpo se encuentra en <negrita>equilibrio</negrita> cuando
+no se desplaza ni gira (rota), es decir, se encuentra en <negrita>condiciones estáticas</negrita>. Para que el cuerpo se encuentre
 en equilibrio, las fuerzas que actúan sobre él deben cumplir dos condiciones:</p>
-<listaSinNumerar>
-<listaElemento>No debe actuar ninguna fuerza sobre el objeto, o bien,
+          <listaSinNumerar>
+            <listaElemento>No debe actuar ninguna fuerza sobre el objeto, o bien,
 la <negrita>sumatoria de las fuerzas</negrita> que actúan debe ser
-cero, es decir, la <negrita>resultante</negrita> debe ser <negrita
->nula</negrita>. Esta condición evita el desplazamiento del cuerpo
-(como lo afirma la primera ley de Newton).<br/><formula
-alineacion="centrada" src="CN_10_17_CO_formula_25.gif"></formula></listaElemento>
-<listaElemento>Un objeto puede girar sin desplazarse. Para que esto
-no ocurra, la <negrita>sumatoria de los torques</negrita> o <negrita
->momentos de las fuerzas</negrita> que actúan sobre él debe ser también <negrita
->nula</negrita>.<br/><formula alineacion="centrada"
-src="CN_10_17_CO_formula_26.gif"></formula></listaElemento>
-</listaSinNumerar>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso160&amp;IdRecurso=RES-5780852481774F3D83349291C07BD325"
->Practica con el equilibrio de fuerzas</enlace>
-</practica><seccion3
-id="S3_CN_10_17_CO_DD4D766226F8406EB7C6CED8851E93AB">
-<seccion3Titulo>El equilibrio en máquinas simples: la palanca</seccion3Titulo>
-<seccion3Texto>
-<p>La <negrita>palanca</negrita> es una <negrita>máquina simple</negrita
-> utilizada para transmitir una fuerza de un punto a otro, aumentando
+cero, es decir, la <negrita>resultante</negrita> debe ser <negrita>nula</negrita>. Esta condición evita el desplazamiento del cuerpo
+(como lo afirma la primera ley de Newton).<br /><formula alineacion="centrada" src="CN_10_17_CO_formula_25.gif"></formula></listaElemento>
+            <listaElemento>Un objeto puede girar sin desplazarse. Para que esto
+no ocurra, la <negrita>sumatoria de los torques</negrita> o <negrita>momentos de las fuerzas</negrita> que actúan sobre él debe ser también <negrita>nula</negrita>.<br /><formula alineacion="centrada" src="CN_10_17_CO_formula_26.gif"></formula></listaElemento>
+          </listaSinNumerar>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso160&amp;IdRecurso=RES-5780852481774F3D83349291C07BD325">Practica con el equilibrio de fuerzas</enlace>
+          </practica>
+          <seccion3 id="S3_CN_10_17_CO_DD4D766226F8406EB7C6CED8851E93AB">
+            <seccion3Titulo>El equilibrio en máquinas simples: la palanca</seccion3Titulo>
+            <seccion3Texto>
+              <p>La <negrita>palanca</negrita> es una <negrita>máquina simple</negrita> utilizada para transmitir una fuerza de un punto a otro, aumentando
 su intensidad. Consiste en una barra rígida que gira alrededor de
 un punto de apoyo o <negrita>fulcro</negrita>. La fuerza que aplicamos
 se conoce como <negrita>potencia</negrita> y la fuerza que ejerce
 el objeto se denomina <negrita>resistencia</negrita>.</p>
-<p>Existen tres <negrita>tipos de palancas</negrita> según la <negrita
->posición del punto de apoyo</negrita> respecto a los puntos de aplicación
+              <p>Existen tres <negrita>tipos de palancas</negrita> según la <negrita>posición del punto de apoyo</negrita> respecto a los puntos de aplicación
 de la resistencia y la potencia.</p>
-<imagen src="CN_10_17_CO_IMG14_small.jpg">
-<p>Clasificación de las palancas según la ubicación del fulcro.</p>
-</imagen>
-<table border="1"><caption>LOS TIPOS DE PALANCAS</caption><colgroup>
-<col/><col/><col/></colgroup>
-<tbody>
-<tr>
-<td><negrita>Tipo de palanca</negrita></td>
-<td><negrita>Situación del fulcro</negrita></td>
-<td><negrita>Ejemplo</negrita></td>
-</tr>
-<tr>
-<td><negrita>Primer género</negrita></td>
-<td>Entre la potencia y la resistencia.</td>
-<td>Balancín</td>
-</tr>
-<tr>
-<td><negrita>Segundo género</negrita></td>
-<td>En un extremo y la resistencia se encuentra el fulcro y la potencia.</td>
-<td>Carretilla</td>
-</tr>
-<tr>
-<td><negrita>Tercer género</negrita></td>
-<td>En un extremo y la potencia se encuentra entre el fulcro y la
+              <imagen src="CN_10_17_CO_IMG14_small.jpg">
+                <p>Clasificación de las palancas según la ubicación del fulcro.</p>
+              </imagen>
+              <table border="1">
+                <caption>Los tipos de palancas</caption>
+                <colgroup>
+                  <col />
+                  <col />
+                  <col />
+                </colgroup>
+                <tbody>
+                  <tr>
+                    <td>
+                      <negrita>Tipo de palanca</negrita>
+                    </td>
+                    <td>
+                      <negrita>Ubicación del fulcro</negrita>
+                    </td>
+                    <td>
+                      <negrita>Ejemplo</negrita>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>Primer género</td>
+                    <td>Entre la potencia y la resistencia.</td>
+                    <td>Balancín</td>
+                  </tr>
+                  <tr>
+                    <td>Segundo género</td>
+                    <td>En un extremo y la resistencia se encuentra el fulcro y la potencia.</td>
+                    <td>Carretilla</td>
+                  </tr>
+                  <tr>
+                    <td>Tercer género</td>
+                    <td>En un extremo y la potencia se encuentra entre el fulcro y la
 resistencia. </td>
-<td>Caña de pescar</td>
-</tr>
-</tbody>
-</table>
-<p>Cuando se alcanza el <negrita>equilibrio</negrita>, la <negrita
->fuerza resultante</negrita> es nula (∑<cursiva>F</cursiva> = <cursiva
->0</cursiva>), igual que el <negrita>torque</negrita> (o momento) <negrita
->resultante</negrita> (∑<cursiva>τ</cursiva> = <cursiva>0</cursiva
->), ya que el momento de la potencia se iguala al de la resistencia.
+                    <td>Caña de pescar</td>
+                  </tr>
+                </tbody>
+              </table>
+              <p>Cuando se alcanza el <negrita>equilibrio</negrita>, la <negrita>fuerza resultante</negrita> es nula (∑<cursiva>F</cursiva> = <cursiva>0</cursiva>), igual que el <negrita>torque</negrita> (o momento) <negrita>resultante</negrita> (∑<cursiva>τ</cursiva> = <cursiva>0</cursiva>), ya que el momento de la potencia se iguala al de la resistencia.
 De esta manera puede deducirse la <negrita>ley de equilibrio de la
 palanca</negrita>:</p>
-<formula alineacion="centrada" src="CN_10_17_CO_formula_27.gif">
-</formula>
-<formula alineacion="centrada" src="CN_10_17_CO_formula_28.gif">
-</formula>
-<formula alineacion="centrada" src="CN_10_17_CO_formula_29.gif">
-</formula>
-<p>En esta fórmula, <negritacursiva>P</negritacursiva> es la <negrita
->potencia</negrita>, <negritacursiva>R</negritacursiva> es la <negrita
->resistencia</negrita>, <negritacursiva>b<subindice>p</subindice></negritacursiva
-> es el <negrita>brazo de potencia</negrita> y <negritacursiva>b<subindice
->R</subindice></negritacursiva> es el <negrita>brazo de resistencia</negrita
->.</p>
-<imagen src="CN_10_17_CO_IMG15_small.jpg">
-<p>Equilibrio en una palanca de primer género.</p>
-</imagen>
-<profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso170&amp;IdRecurso=RES-E8E937E5368B4E36BDE2A0FAD000B181"
->El principio de la palanca y el equilibrio</enlace>
-</profundiza><practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso180&amp;IdRecurso=RES-798D79BE327F42D4B36459345E330E0B"
->Resuelve un crucigrama sobre la dinámica</enlace>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso200&amp;IdRecurso=RES-622FB87BD5CF4D47AB30416C7898F36F"
->Descubre las fuerzas paralelas</enlace>
-</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
-<seccion2 id="S2_CN_10_17_CO_4B4C0DFA889546F3A1520F23D8FF7025">
-<seccion2Titulo>Consolidación</seccion2Titulo>
-<seccion2Texto>
-<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso190&amp;IdRecurso=RES-E72653B4FE144B8197E54D1B0A8BFBBA"
->Refuerza tu aprendizaje: Las fuerzas en equilibrio</enlace>
-</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
-<seccion1 id="S1_CN_10_17_CO_AB9289B161AF4A1CBF1252254A293B71">
-<seccion1Titulo>Competencias</seccion1Titulo>
-<seccion1Texto>
-<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
-<practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso210&amp;IdRecurso=RES-95A2F48F5C234A7DBDD39A7DBB6ED874"
->Competencias: funcionamiento de una palanca</enlace>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso220&amp;IdRecurso=RES-CBBA3F591F83442FB01EE3581958CD62"
->Competencias: experimentar con el equilibrio de fuerzas</enlace><?Pub
-Caret -3?>
-</practica></seccion1Texto></seccion1><masinformacion
-id="MI_CN_10_17_CO_CBAE397F51BD4530B1AB6DA0B982EE91"><mapaconceptual>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso250&amp;IdRecurso=RES-531365D946A747CD86E09E85AB681CF1"
->Mapa conceptual del tema Las leyes de las fuerzas</enlace>
-</mapaconceptual><autoevaluate><enlace
-destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso260&amp;IdRecurso=RES-860A0A994AEB40CCA661774BDB744C7D"
->Evalúa tus conocimientos sobre el tema Las leyes de las fuerzas</enlace>
-</autoevaluate><enlacesreferencia>
-<enlace
-destino="http://recursostic.educacion.es/newton/web/materiales_didacticos/deslizamiento_prob/applet.html"
->El plano inclinado.</enlace>
-<enlace
-destino="https://fisicadelmovimiento.wordpress.com/linea-de-tiempo-2/palancas/"
->Los tipos de palancas.</enlace>
-<enlace destino="https://phet.colorado.edu/es/simulation/balancing-act"
->El torque y el equilibrio.</enlace>
-</enlacesreferencia></masinformacion></libro>
+              <formula alineacion="centrada" src="CN_10_17_CO_formula_27.gif">
+              </formula>
+              <formula alineacion="centrada" src="CN_10_17_CO_formula_28.gif">
+              </formula>
+              <formula alineacion="centrada" src="CN_10_17_CO_formula_29.gif">
+              </formula>
+              <p>En esta fórmula, <negritacursiva>P</negritacursiva> es la <negrita>potencia</negrita>, <negritacursiva>R</negritacursiva> es la <negrita>resistencia</negrita>, <negritacursiva>b<subindice>p</subindice></negritacursiva> es el <negrita>brazo de potencia</negrita> y <negritacursiva>b<subindice>R</subindice></negritacursiva> es el <negrita>brazo de resistencia</negrita>.</p>
+              <imagen src="CN_10_17_CO_IMG15_small.jpg">
+                <p>Equilibrio en una palanca de primer género.</p>
+              </imagen>
+              <profundiza>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso170&amp;IdRecurso=RES-E8E937E5368B4E36BDE2A0FAD000B181">El principio de la palanca y el equilibrio</enlace>
+              </profundiza>
+              <practica>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso180&amp;IdRecurso=RES-798D79BE327F42D4B36459345E330E0B">Resuelve un crucigrama sobre la dinámica</enlace>
+                <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso200&amp;IdRecurso=RES-622FB87BD5CF4D47AB30416C7898F36F">Descubre las fuerzas paralelas</enlace>
+              </practica>
+            </seccion3Texto>
+          </seccion3>
+        </seccion2Texto>
+      </seccion2>
+      <seccion2 id="S2_CN_10_17_CO_4B4C0DFA889546F3A1520F23D8FF7025">
+        <seccion2Titulo>Consolidación</seccion2Titulo>
+        <seccion2Texto>
+          <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+          <practica>
+            <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso190&amp;IdRecurso=RES-E72653B4FE144B8197E54D1B0A8BFBBA">Refuerza tu aprendizaje: Las fuerzas en equilibrio</enlace>
+          </practica>
+        </seccion2Texto>
+      </seccion2>
+    </seccion1Texto>
+  </seccion1>
+  <seccion1 id="S1_CN_10_17_CO_AB9289B161AF4A1CBF1252254A293B71">
+    <seccion1Titulo>Competencias</seccion1Titulo>
+    <seccion1Texto>
+      <p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+      <practica>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso210&amp;IdRecurso=RES-95A2F48F5C234A7DBDD39A7DBB6ED874">Competencias: funcionamiento de una palanca</enlace>
+        <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso220&amp;IdRecurso=RES-CBBA3F591F83442FB01EE3581958CD62">Competencias: experimentar con el equilibrio de fuerzas</enlace>
+        <?Pub Caret -3?>
+      </practica>
+    </seccion1Texto>
+  </seccion1>
+  <masinformacion id="MI_CN_10_17_CO_CBAE397F51BD4530B1AB6DA0B982EE91">
+    <mapaconceptual>
+      <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso250&amp;IdRecurso=RES-531365D946A747CD86E09E85AB681CF1">Mapa conceptual del tema Las leyes de las fuerzas</enlace>
+    </mapaconceptual>
+    <autoevaluate>
+      <enlace destino="/LoIdRedirect.aspx?LoId=CN_10_17_CO_Recurso260&amp;IdRecurso=RES-860A0A994AEB40CCA661774BDB744C7D">Evalúa tus conocimientos sobre el tema Las leyes de las fuerzas</enlace>
+    </autoevaluate>
+    <enlacesreferencia>
+      <enlace destino="http://recursostic.educacion.es/newton/web/materiales_didacticos/deslizamiento_prob/applet.html">El plano inclinado.</enlace>
+      <enlace destino="https://fisicadelmovimiento.wordpress.com/linea-de-tiempo-2/palancas/">Los tipos de palancas.</enlace>
+      <enlace destino="https://phet.colorado.edu/es/simulation/balancing-act">El torque y el equilibrio.</enlace>
+    </enlacesreferencia>
+  </masinformacion>
+</libro>
