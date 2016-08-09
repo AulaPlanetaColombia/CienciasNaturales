@@ -1,500 +1,702 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CN_11_08_CO">
-  <libroTitulo>Electromagnetismo</libroTitulo>
-  <seccion1 id="S1_CN_11_08_CO_BDB469D75C864F27A9233048A764198C">
-    <seccion1Titulo>Magnetostática</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_08_CO_img_01_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso010&amp;IdRecurso=RES-5740644DCAC64D10919D04BFDF5886EB">La fuerza magnética, imanes y magnetismo</enlace>
-      </profundiza>
-      <seccion2 id="S2_CN_11_08_CO_BFC57164DC60405CAE1131E170926F29">
-        <seccion2Titulo>Campo magnético de la tierra</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_08_CO_img_02_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso020&amp;IdRecurso=RES-EAD997E117494050BCD86E38CE369607">Entiende qué son los polos magnéticos de la Tierra</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_08_CO_765C4F3D645C4279AE1CD665C2C78451">
-        <seccion2Titulo>Campos magnéticos</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_08_CO_img_03_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso030&amp;IdRecurso=RES-0345A98F191844CBA12FED76A6E40059">El concepto de campo magnético</enlace>
-          </profundiza>
-          <seccion3 id="S3_CN_11_08_CO_B229076F2E8F4B1EB989A5BEE198CD30">
-            <seccion3Titulo>Efectos de campo magnético sobre una carga eléctrica</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_08_CO_img_04_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso040&amp;IdRecurso=RES-AFCC3E07E0DA4AC297AF6FDEC7E954C0">Recurso M4A-01</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-          <seccion3 id="S3_CN_11_08_CO_75B0DCC6053D467296F53E65099F9EB5">
-            <seccion3Titulo>Fuerza magnética sobre un conductor portador de corriente</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_08_CO_img_05_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso050&amp;IdRecurso=RES-06E2D23876084EB083EEDE83237ABF1B">Recurso M4A-02</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_08_CO_A56A9934D03F4CDFA713AF3F15FC4E46">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_08_CO_img_06_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso060&amp;IdRecurso=RES-65FDD27092FA4D65BE719EE35258ABB1">Recurso M101A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CN_11_08_CO_8950920477454EEABBFD1252E44369A1">
-    <seccion1Titulo>Generación de campo magnético</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_08_CO_img_07_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso070&amp;IdRecurso=RES-63A43F22FD2A459387858A5EB77ADDEF">El experimento de Hans Christian Oersted</enlace>
-      </profundiza>
-      <seccion2 id="S2_CN_11_08_CO_8386598BA0FA4192A457E3B5F65A2BBF">
-        <seccion2Titulo>Ley de Amperè</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_08_CO_img_08_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso080&amp;IdRecurso=RES-B6C41B1B1F2C4E2897E69F608D0CB3E4">Recurso M4A-03</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_08_CO_7E621350CA72495B9750FF890E1C108F">
-        <seccion2Titulo>Ley de Amperè y aplicaciones</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <seccion3 id="S3_CN_11_08_CO_B950653E41044DBAA92F4A64897FC928">
-            <seccion3Titulo>Aplicaciones de generación de campo magnético</seccion3Titulo>
-            <seccion3Texto>
-              <p>Aquí escribiré el párrafo de la sección</p>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_08_CO_img_09_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso090&amp;IdRecurso=RES-097833542BD541108F66EDC2D5994055">El electromagnetismo y la vida cotidiana</enlace>
-              </profundiza>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_08_CO_img_10_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso100&amp;IdRecurso=RES-4EEDAC714E1E44A894C78810A2DEB1C2">Señala los componentes de un motor eléctrico</enlace>
-              </practica>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_08_CO_img_11_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <profundiza>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso110&amp;IdRecurso=RES-9C2BF76B7FCA453FA6AD8428645E1D57">Recurso F13-01</enlace>
-              </profundiza>
-              <p>Aquí va un PÁRRAFO</p>
-              <imagen src="CN_11_08_CO_img_12_small.png">
-                <p>Aquí escribiré el pie de foto</p>
-              </imagen>
-              <recuerda>
-                <recuerdaTexto>
-                  <p>Aquí va un RECUERDA</p>
-                </recuerdaTexto>
-              </recuerda>
-              <destacado>
-                <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-                <destacadoTexto>
-                  <p>Aquí va el texto de un DESTACADO</p>
-                </destacadoTexto>
-              </destacado>
-              <practica>
-                <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso120&amp;IdRecurso=RES-CF22400B296748B09D6237617C770F7A">Recurso M5A-01</enlace>
-              </practica>
-            </seccion3Texto>
-          </seccion3>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_08_CO_img_13_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso130&amp;IdRecurso=RES-00F18564CE764B99A7CB750376AC5344">Recurso M101A-02</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CN_11_08_CO_1BCD739E84AC4E6A984990BD207C99E5">
-    <seccion1Titulo>Inducción electromagnética</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <seccion2 id="S2_CN_11_08_CO_AE7DB70B8DBA46BAB7E9C17D779ADF23">
-        <seccion2Titulo>Fem inducida y flujo magnético</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_08_CO_img_14_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso140&amp;IdRecurso=RES-07634472D82D4D05A24A733626A14B10">Recurso F12-01</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_08_CO_img_15_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso120&amp;IdRecurso=RES-CF22400B296748B09D6237617C770F7A">Recurso M5A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_08_CO_479E1343C7A545CDA59601BE738057E4">
-        <seccion2Titulo>Ley de inducción de Faraday y ley de Lenz</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_08_CO_img_16_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso160&amp;IdRecurso=RES-7B31370393044083972D1B589698FE9D">Experimenta con la inducción electromagnética</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_08_CO_img_17_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_08_CO_80ED7DD0083D4230831C09F9BBFB1DFF">
-        <seccion2Titulo>Generadores de corriente eléctrica</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_08_CO_img_18_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso180&amp;IdRecurso=RES-5D28E497C5E14D33BE1CC9F01FCE185B">Los generadores de corriente eléctrica</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_08_CO_img_19_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <profundiza>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso190&amp;IdRecurso=RES-6F0C1E685CD1426082942E34CE80DDFD">¿Qué sabes sobre los generadores y los motores eléctricos?</enlace>
-          </profundiza>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_08_CO_img_20_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso200&amp;IdRecurso=RES-F75BA3421D5E4471ADBBE1284F390C04">Recurso M101A-03</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CN_11_08_CO_4142CA0A3FDD442BB4B7EAAC013C54CF">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_08_CO_img_21_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso210&amp;IdRecurso=RES-FA409D1BA19A49A69D362C5A121F920F">Recurso F13-02</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_08_CO_img_22_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso220&amp;IdRecurso=RES-9E3D1C6EE39A405C9B85820216D1F9F6">Recurso F13-03</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CN_11_08_CO_1DD458EDF8A64E2AA83687126C8DCF6A">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso240&amp;IdRecurso=RES-B5C610CB7E5F4451875B66ADECC11C76">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso250&amp;IdRecurso=RES-7E1F7D3B3BE141E79C8854B0D2677FED">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>Electromagnetismo</libroTitulo>
+<seccion1 id="S1_CN_11_08_CO_BDB469D75C864F27A9233048A764198C">
+<seccion1Titulo>Magnetostática</seccion1Titulo>
+<seccion1Texto>
+<p>En los grandes depósitos de chatarra del mundo se hace uso de <negrita
+>electroimanes</negrita> que permiten la separación de los elementos
+metálicos de los no metálicos para su reutilización. Los <negrita
+>imanes</negrita> y sus efectos de interacción con la electricidad
+tienen gran aplicación en diferentes máquinas de uso cotidiano e industrial;
+en esta sección estudiarás el <negrita>magnetismo</negrita> y, en
+particular, la <negrita>magnetostática</negrita>, es decir, los campos
+magnéticos constantes en el tiempo. Analizaremos las bases teóricas,
+las aplicaciones y su relación con la electricidad.</p>
+<imagen src="CN_11_08_CO_IMG01_small.jpg">
+<p>El electroimán, como su nombre lo indica, es un imán que funciona
+con electricidad. Este potente aparato permite trasladar con facilidad
+pesos enormes y una rápida selección de material metálico para su
+reciclaje.</p>
+</imagen>
+<destacado><destacadoTitulo>El electromagnetismo</destacadoTitulo>
+<destacadoTexto>
+<p>Tanto el uso de la electricidad para crear fuerzas magnéticas como
+el uso de fuerzas magnéticas para generar electricidad se conoce como <negrita
+>electromagnetismo</negrita>. Estos efectos se ven reflejados en aplicaciones
+tecnológicas como el <negrita>electroimán</negrita>, los <negrita
+>motores</negrita>, los <negrita>transformadores</negrita>, los <negrita
+>superconductores</negrita>, entre otros.</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso010&amp;IdRecurso=RES-5740644DCAC64D10919D04BFDF5886EB"
+>La fuerza magnética, imanes y magnetismo</enlace>
+</profundiza><seccion2
+id="S2_CN_11_08_CO_BFC57164DC60405CAE1131E170926F29">
+<seccion2Titulo>El campo magnético de la Tierra</seccion2Titulo>
+<seccion2Texto>
+<p>Actualmente, los sistemas de localización por satélite (GPS) y
+los sistemas de localización en tiempo real (RTLS) usan tecnología
+basada en señales electromagnéticas, lo que indica el uso necesario
+de electricidad. Sin embargo, si tienes uno de estos dispositivos
+móviles y se descarga, ¿cómo podrías ubicarte?</p>
+<imagen src="CN_11_08_CO_IMG02_small.jpg">
+<p>La brújula es un dispositivo que interactúa con el campo magnético
+producido por la Tierra; con un mapa geográfico y una brújula podrías
+ubicarte en cualquier lugar, si conoces los puntos cardinales. Es
+importante saber que el norte geográfico corresponde al sur magnético,
+según esto ¿cómo explicas que el extremo de la aguja de la brújula
+siempre señala el norte de la tierra?, esto puede comprobar que estamos
+sometidos al campo magnético terrestre.</p>
+</imagen>
+<p>La brújula es uno de los instrumentos de ubicación y navegación
+más antiguos, es un dispositivo que contiene una aguja imantada que
+interactúa con el campo magnético producido por la Tierra. El campo
+magnético terrestre tiene varios orígenes: el primero, en su centro,
+más exactamente en la franja exterior del núcleo caliente donde fluyen
+corrientes de hierro líquido que son conductoras de electricidad;
+el segundo, la corteza terrestre que está compuesta por rocas más
+o menos magnéticas y, por último, las corrientes eléctricas atmosféricas
+producidas entre la energía solar y los componentes de la estratosfera.</p>
+<imagen src="CN_11_08_CO_IMG03_small.jpg">
+<p>La Tierra, como un imán, genera un campo magnético producido mayormente
+por el núcleo. Si observas, los polos geográficos son opuestos a los
+magnéticos y entre los ejes de estos se forma un ángulo de diferencia
+de 11,5º, que se denomina declinación magnética. Considerando la Tierra
+como un imán de barra, este ángulo puede cambiar dependiendo del lugar
+geográfico donde te encuentres.</p>
+</imagen>
+<p>Aunque el campo magnético de la Tierra cambia cada cierto tiempo,
+con el uso de la brújula es posible movilizarse geográficamente, cuando
+no tienes un sistema de localización que use electricidad. En el siguiente
+enlace puedes observar cómo ha cambiado la polaridad del campo magnético
+de la Tierra a través del tiempo<enlace
+destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=11&amp;idpil=001JMH01&amp;ruta=Buscador"
+> [VER]</enlace>.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso020&amp;IdRecurso=RES-EAD997E117494050BCD86E38CE369607"
+>Comprende las bases sobre los polos magnéticos de la Tierra</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_08_CO_765C4F3D645C4279AE1CD665C2C78451">
+<seccion2Titulo>Los campos magnéticos</seccion2Titulo>
+<seccion2Texto>
+<p>Un campo magnético se genera debido a una <negrita>carga eléctrica</negrita
+> en movimiento. En todos los materiales existen cargas en movimiento;
+debido a que estas se mueven aleatoriamente, los campos magnéticos
+generados por cada carga se anulan entre sí. Los imanes tienen organizadas
+sus cargas en movimiento de tal forma que los campos magnéticos de
+estas cargas se suman.</p>
+<imagen src="CN_11_08_CO_IMG04_small.jpg">
+<p>Campos producidos por imanes y por electroimanes. Los efectos de
+un imán en el espacio se deben a sus propiedades naturales de magnetización.
+Los electroimanes, por otra parte, inducen el campo magnético debido
+al flujo de carga en un conductor.</p>
+</imagen>
+<p>La generación de <negrita>campo magnético</negrita> constituye
+la base para la creación de los motores, los generadores o los transformadores,
+por lo que es importante primero estudiar los efectos del campo magnético
+sobre cargas eléctricas, como el electrón y el protón, así como en
+elementos que porten una corriente eléctrica.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso030&amp;IdRecurso=RES-0345A98F191844CBA12FED76A6E40059"
+>El concepto de campo magnético</enlace>
+</profundiza><seccion3
+id="S3_CN_11_08_CO_B229076F2E8F4B1EB989A5BEE198CD30">
+<seccion3Titulo>Los efectos de campo magnético sobre una carga eléctrica</seccion3Titulo>
+<seccion3Texto>
+<p>Cuando una <negrita>carga eléctrica</negrita> se encuentra en reposo
+no se ve afectada por la presencia de un campo magnético; por otra
+parte, si una carga eléctrica se desplaza a través de un <negrita
+>campo magnético</negrita> actuará sobre ella una <negrita>fuerza
+magnética</negrita> dada por:</p>
+<formula alineacion="centrada" src="CN_11_08_CO_formula_01.gif">
+</formula>
+<p>Donde <cursiva>q</cursiva> es la carga eléctrica, <cursiva>v</cursiva
+> es la velocidad de la carga y <cursiva>B</cursiva> el campo magnético.
+Para su operación se utiliza el producto cruz (representado por <cursiva
+>x</cursiva>), el cual cumple las siguientes condiciones para la fuerza
+magnética:</p>
+<listaNumerada>
+<listaElemento>Si la carga se mueve paralela o antiparalela al campo
+magnético, el valor de la fuerza será nula.<br/><formula
+alineacion="centrada" src="CN_11_08_CO_formula_02.gif"></formula></listaElemento>
+<listaElemento>Si la carga se desplaza perpendicularmente al campo
+magnético, la magnitud de la fuerza:<br/><formula alineacion="centrada"
+src="CN_11_08_CO_formula_03.gif"></formula></listaElemento>
+<listaElemento>Si la velocidad de la carga que se desplaza forma un
+ángulo con el campo magnético, la magnitud de la fuerza será:<br/><formula
+alineacion="centrada" src="CN_11_08_CO_formula_04.gif"></formula></listaElemento>
+</listaNumerada>
+<p>Donde <cursiva>θ</cursiva> es el ángulo que forman la velocidad
+de la carga y el campo magnético. </p>
+<p>Los experimentos han demostrado que la <negrita>fuerza magnética</negrita
+> siempre es perpendicular a la velocidad de la carga y al campo magnético.
+Una herramienta que permite analizar el comportamiento de los vectores
+velocidad de la carga, campo magnético y fuerza magnética es la <negrita
+>regla de la mano derecha</negrita>. Esta regla consiste en usar los
+dedos de la mano derecha apuntando en la dirección de la velocidad;
+los dedos se cierran hacia la dirección del campo magnético, de manera
+que el dedo pulgar señalará la dirección de la fuerza magnética.</p>
+<destacado><destacadoTitulo>Unidades de campo magnético</destacadoTitulo>
+<destacadoTexto>
+<p>En el Sistema Internacional de Unidades (SI), <negritacursiva>F</negritacursiva
+> está en Newtons (N), <negritacursiva>q</negritacursiva> en Coulomb
+(C) y <negritacursiva>v</negritacursiva> en metros sobre segundos
+(m/s), la unidad del campo magnético es el <negrita>Tesla (T)</negrita
+>.</p>
+</destacadoTexto></destacado>
+<imagen src="CN_11_08_CO_IMG05_small.jpg">
+<p>Casos en los que se presenta una fuerza magnética: 1) en <cursiva
+>a</cursiva> y <cursiva>b</cursiva> la partícula se mueve paralela
+o antiparalela al campo magnético <negrita>F = 0</negrita>; 2) en <cursiva
+>c</cursiva> y <cursiva>d</cursiva> la fuerza máxima cuando el campo
+magnético y la velocidad son perpendiculares; 3) la velocidad y el
+campo magnético forman un ángulo <cursiva>θ</cursiva> sobre un plano.
+Si la partícula fuera negativa los resultados en <cursiva>c</cursiva
+> y <cursiva>d</cursiva> se intercambiarían. La regla de la mano derecha,
+que tiene en cuenta las direcciones de los vectores, permite identificar
+la dirección de la fuerza magnética.</p><?Pub Caret -2?>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso040&amp;IdRecurso=RES-AFCC3E07E0DA4AC297AF6FDEC7E954C0"
+>Fuerza magnética sobre una carga magnética</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_CN_11_08_CO_75B0DCC6053D467296F53E65099F9EB5">
+<seccion3Titulo>Los efectos de campo magnético sobre un cable portador
+de corriente</seccion3Titulo>
+<seccion3Texto>
+<p>Las cargas eléctricas en movimiento son la base de la <negrita
+>corriente eléctrica</negrita> en un conductor. Si un cable se coloca
+dentro de un campo magnético se ejercerá una fuerza magnética sobre
+el cable proporcional a cuatro factores:</p>
+<listaNumerada>
+<listaElemento>La <negrita>intensidad</negrita> del campo magnético <negrita
+>B</negrita>.</listaElemento>
+<listaElemento>La <negrita>corriente eléctrica I</negrita> en el cable.</listaElemento>
+<listaElemento>La <negrita>longitud</negrita> del cable <negrita>L</negrita
+> que se encuentra dentro del campo magnético.</listaElemento>
+<listaElemento>El posible <negrita>ángulo</negrita> que forme el cable
+con el campo magnético.</listaElemento>
+</listaNumerada>
+<p>Así, la expresión que permite el cálculo del campo magnético será:</p>
+<formula alineacion="centrada" src="CN_11_08_CO_formula_05.gif">
+</formula>
+<p>Al igual como sucede con las cargas en movimiento, la regla de
+la mano derecha permite determinar la dirección de la fuerza; en este
+caso, la dirección de la corriente y el campo magnético permiten identificar
+la <negrita>dirección de la fuerza</negrita>.</p>
+<destacado><destacadoTitulo>Cómo resolver el producto cruz</destacadoTitulo>
+<destacadoTexto>
+<p>Si la corriente y el campo magnético forman un ángulo, la expresión
+para la fuerza queda de la forma:</p>
+<formula alineacion="centrada" src="CN_11_08_CO_formula_06.gif">
+</formula>
+<p>Y, por tanto, si la corriente y el campo magnético son perpendiculares
+la fuerza es:</p>
+<formula alineacion="centrada" src="CN_11_08_CO_formula_07.gif">
+</formula>
+</destacadoTexto></destacado>
+<p>El campo magnético puede representarse en tres dimensiones a partir
+de símbolos que indican que el campo sale o entra de la pantalla:
+piensa en una flecha que se dispara, si esta se dirige hacia ti se
+observa un punto, pero si se aleja se observa una cruz formada por
+las plumas en su extremo, esto te ayudará a identificar los vectores
+y a usar la regla de la mano derecha.</p>
+<imagen src="CN_11_08_CO_IMG06_small.jpg">
+<p>Recuerda que la corriente se representa como cargas en movimiento
+–en este caso, las cargas positivas que producen una corriente <cursiva
+>I</cursiva> a lo largo del cable de longitud <cursiva>L</cursiva
+>–; el campo magnético está dirigido hacia la derecha y puede representarse
+en tres dimensiones como si saliera o entrara de la pantalla. Los
+casos a, b, c y d indican las posibles direcciones de la corriente
+y el campo magnético. Usa tu mano derecha para indicar la dirección
+de la fuerza magnética.</p>
+</imagen>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso050&amp;IdRecurso=RES-06E2D23876084EB083EEDE83237ABF1B"
+>Fuerza magnética sobre un cable portador de corriente</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CN_11_08_CO_A56A9934D03F4CDFA713AF3F15FC4E46">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso060&amp;IdRecurso=RES-65FDD27092FA4D65BE719EE35258ABB1"
+>Refuerza tu aprendizaje: el campo magnético</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_11_08_CO_8950920477454EEABBFD1252E44369A1">
+<seccion1Titulo>La generación de campo magnético</seccion1Titulo>
+<seccion1Texto>
+<p>El estudio de la relación entre la electricidad y el magnetismo
+es uno de los campos más importantes de la física. Como has visto,
+las cargas libres, o las que se mueven por un conductor, se ven afectadas
+por un campo magnético produciendo una fuerza. El físico danés Hans
+Christian <negrita>Oersted</negrita> (1777-1851) descubrió que la
+corriente eléctrica también es una fuente de campo magnético al observar
+que las agujas de una brújula eran afectadas cuando se acercaba a
+un cable en el que circulaba una corriente eléctrica.</p>
+<imagen src="CN_11_08_CO_IMG07_small.jpg">
+<p>Del experimento de Oersted se infiere que el campo magnético es,
+como el eléctrico, un campo de fuerzas cuyos vectores se encuentran
+dispuestos de manera que conforman circunferencias concéntricas alrededor
+de la corriente, por esto la brújula gira. Por consiguiente, a diferencia
+de las líneas de fuerza, las líneas del campo magnético son cerradas.</p>
+</imagen>
+<p>Es posible analizar el comportamiento del campo producido por una
+corriente, aunque solo vamos a considerar los casos especiales, como
+aquellos en donde las cargas en movimiento están asociadas con corrientes
+que circulan a través de cables rectos y espiras circulares.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso070&amp;IdRecurso=RES-63A43F22FD2A459387858A5EB77ADDEF"
+>La relación entre la corriente y el campo magnético</enlace>
+</profundiza><seccion2
+id="S2_CN_11_08_CO_8386598BA0FA4192A457E3B5F65A2BBF">
+<seccion2Titulo>La Ley de Ampère</seccion2Titulo>
+<seccion2Texto>
+<p>El científico André-Marie <negrita>Ampère</negrita> (1775-1836)
+desarrolló una técnica para determinar el valor del campo magnético
+producido por una corriente, ya que proporciona una <negrita>relación</negrita
+> entre la <negrita>corriente</negrita> en un alambre con forma arbitraria
+y el <negrita>campo magnético generado</negrita> por el mismo. Para
+que lo puedas entender más fácilmente, piensa en una trayectoria que
+encierre al cable por el que circula la corriente.</p>
+<imagen src="CN_11_08_CO_IMG08_small.jpg">
+<p>En la imagen del campo magnético producido por un cable portador
+de corriente, los círculos representan las líneas de campo magnético
+que se alejan del cable. Para un solenoide o bobina observas que el
+campo magnético interno depende de la longitud del mismo y del número
+de espiras o aros que conforman la bobina. En el cable recto, la regla
+de la mano derecha tiene validez: al apuntar tu dedo pulgar hacia
+la dirección de la corriente, tus dedos deben rotar hacia la dirección
+del campo magnético. ¿Qué sucede si la dirección de la corriente va
+en sentido opuesto?</p>
+</imagen>
+<destacado><destacadoTitulo>La regla de la mano derecha</destacadoTitulo>
+<destacadoTexto>
+<p>Ten en cuenta que la regla de la mano derecha se usa de distintas
+maneras de acuerdo con el análisis que vayas a realizar; ya sea para
+determinar la <negrita>dirección de la fuerza magnética</negrita> o
+la del campo magnético en una barra conductora de corriente. La representación
+de la posición del dedo pulgar y los dedos que giran muestran distintas
+magnitudes vectoriales en cada caso.</p>
+</destacadoTexto></destacado>
+<p>El método permite identificar, para el caso de un <negrita>alambre
+recto</negrita>, la trayectoria cerrada como una circunferencia, y,
+para un <negrita>solenoide</negrita> (conjunto de espiras cercanas),
+en su interior como una línea recta donde el número de espiras es
+proporcional a la magnitud del campo magnético. El valor del campo
+magnético para los dos casos es proporcional a la <negrita>corriente <cursiva
+>I</cursiva></negrita>, e inversamente proporcional a la distancia
+entre el alambre y un punto en el espacio donde se mide el campo magnético <negritacursiva
+>r</negritacursiva>:</p>
+<formula alineacion="centrada" src="CN_11_08_CO_formula_08.gif">
+</formula>
+<p>Y en el caso del solenoide:</p>
+<formula alineacion="centrada" src="CN_11_08_CO_formula_09.gif">
+</formula>
+<p>Para el caso del <negrita>solenoide</negrita>, <cursiva>N</cursiva
+> es el número de espiras y <cursiva>L</cursiva> la longitud del solenoide.
+La constante de proporcionalidad se denomina <negrita>permeabilidad
+magnética del vacío <cursiva>μ<subindice>0</subindice></cursiva></negrita
+> y tiene un valor de:</p>
+<formula alineacion="centrada" src="CN_11_08_CO_formula_10.gif">
+</formula>
+<p>Los materiales pueden clasificarse a partir de su valor de permeabilidad
+magnética; solo trabajaremos los campos magnéticos en el vacío.</p>
+<p>Como has podido observar, existe una relación directa entre los
+fenómenos eléctricos y magnéticos, la <negrita>ley de Ampère</negrita
+> es una de la bases de las <negrita>interacciones</negrita>, que
+de aquí en adelante se denominan <negrita>electromagnéticas</negrita
+>.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso080&amp;IdRecurso=RES-B6C41B1B1F2C4E2897E69F608D0CB3E4"
+>La ley de Ampère y el campo generado por un alambre</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_08_CO_7E621350CA72495B9750FF890E1C108F">
+<seccion2Titulo>El electromagnetismo y sus aplicaciones</seccion2Titulo>
+<seccion2Texto>
+<p>Como has observado, los fenómenos magnéticos y eléctricos tienen
+una relación fundamentada en los <negrita>campos magnéticos</negrita
+> producidos por materiales y por el movimiento de <negrita>cargas</negrita
+> en un conductor. El <negrita>electromagnetismo</negrita> nace entonces
+del estudio de las interacciones eléctricas y magnéticas, y las teorías
+que vinculan los fenómenos, por lo cual en esta sección estudiarás
+algunos experimentos que explican dichas <negrita>interacciones electromagnéticas</negrita
+>.</p>
+<imagen src="CN_11_08_CO_IMG09_small.jpg">
+<p>Los fenómenos electromagnéticos hacen parte de muchos aparatos
+de uso cotidiano. El timbre, aunque sencillo, fundamenta su funcionamiento
+en el uso de un electroimán; a través del interruptor se conduce la
+corriente para producir un campo magnético, esta interacción atrae
+el martillo hacia la campana y, a través del contacto que sirve como
+un interruptor, se repiten los golpes del martillo en la campana.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso090&amp;IdRecurso=RES-097833542BD541108F66EDC2D5994055"
+>Algunos elementos cotidianos donde se genera campo magnético</enlace>
+</profundiza><seccion3
+id="S3_CN_11_08_CO_B950653E41044DBAA92F4A64897FC928">
+<seccion3Titulo>El electroimán</seccion3Titulo>
+<seccion3Texto>
+<p>El electroimán es otro aparato que se basa en el uso de espiras
+de alambre de cobre denominadas <negrita>bobinas</negrita>, los motores
+eléctricos caseros usan estas bobinas que son la base fundamental
+de la aplicación de la ley de Ampère.</p>
+<p>Las partes de un electroimán son:</p>
+<listaNumerada>
+<listaElemento>Una <negrita>bobina</negrita> que se construye a partir
+de una serie de vueltas de alambre de cobre aislado recuerda que mientras
+más vueltas tenga la bobina, habrá mayor intensidad del campo magnético.
+Esta debe rodear un núcleo.</listaElemento>
+<listaElemento>Un <negrita>núcleo</negrita> hecho de un <negrita>material
+magnético</negrita> blando como el hierro hace que la intensidad del
+campo sea mucho mayor; cuando no circula corriente el campo se anula.</listaElemento>
+<listaElemento>En una <negrita>batería</negrita> para suministrar
+corriente, el campo magnético será mayor si la corriente aumenta.</listaElemento>
+</listaNumerada>
+<imagen src="CN_11_08_CO_IMG10_small.jpg">
+<p>Cuando el electroimán se pone en funcionamiento actúa como un imán
+que atrae los objetos metálicos. En este caso, se muestra un electroimán
+pequeño, cuyo núcleo está hecho con una puntilla. Al conectar la pila
+circulará corriente a través del cable en espiral generando una magnetización
+del núcleo, la cual permite que este actúe como un <negrita>imán</negrita
+> siempre y cuando circule corriente a través de la bobina.</p>
+</imagen>
+<p>A fin de determinar el valor de la fuerza que se requiere para
+levantar un objeto es necesario conocer algunas propiedades de los <negrita
+>materiales magnéticos</negrita>. Existen algunos metales en los que
+sus átomos pueden actuar frecuentemente como imanes elementales, alineándose
+como si se sometieran a la influencia de un campo magnético. Cuando
+esto ocurre se <negrita>magnetizan</negrita>, convirtiéndose en un
+imán temporal, o en un imán permanente como sucede con el <negrita
+>electroimán</negrita>.</p>
+<p>Los metales que se magnetizan con facilidad reciben el nombre de <negrita
+>paramagnéticos</negrita>, y los que no se magnetizan o son difíciles
+de magnetizar se denominan <negrita>diamagnéticos</negrita>.</p>
+<p>Entre los paramagnéticos, los metales más fáciles de magnetizar
+se denominan <negrita>ferromagnéticos</negrita>, debido a que fue
+el hierro en el que se detectó por primera vez esa propiedad; se consideran
+también ferromagnéticos otros metales como el níquel, el cobalto y
+algunas aleaciones especiales.</p>
+<imagen src="CN_11_08_CO_IMG11_small.jpg">
+<p>Representación del campo magnético en los átomos de un material
+ferromagnético. Bajo la acción de un campo magnético exterior, los
+ejes magnéticos de los átomos se alinean en la dirección del campo,
+este efecto permite que el material se convierta en un imán temporal
+como sucede en el electroimán.</p>
+</imagen>
+<p>Ahora bien, en ocasiones, los <negrita>electroimanes</negrita> se
+construyen para que produzcan una <negrita>fuerza de atracción</negrita
+>. Esta fuerza de atracción es proporcional a una constante que combina
+la dependencia del <negrita>medio</negrita> donde se produce el <negrita
+>campo magnético</negrita> y la <negrita>simetría del campo</negrita
+>, así como la superficie de contacto entre el núcleo del electroimán
+con el elemento metálico que atraiga. La expresión que permite calcular
+la máxima fuerza es:</p>
+<formula alineacion="centrada" src="CN_11_08_CO_formula_11.gif">
+</formula>
+<p>Donde <negritacursiva>B</negritacursiva> es la <negrita>magnitud</negrita
+> del <negrita>campo magnético</negrita> y <negritacursiva>A</negritacursiva
+> es el <negrita>área de contacto</negrita> entre el núcleo del electroimán
+y el cuerpo que se atrae.</p>
+<destacado><destacadoTitulo>Cálculo de la fuerza en un electroimán</destacadoTitulo>
+<destacadoTexto>
+<p><negrita>Ejemplo</negrita></p>
+<p>Determina la fuerza con la que atraerá el electroimán de la figura
+a la armadura de hierro si la inducción que aparece en el núcleo es
+de 1,3 T.</p>
+<imagen src="CN_11_08_CO_IMG12_zoom.jpg"></imagen>
+<p>La superficie de atracción de uno de los polos es:</p>
+<formula alineacion="centrada" src="CN_11_08_CO_formula_12.gif">
+</formula>
+<p>Como se calculará la fuerza de atracción de los dos polos, el área
+de contacto total es:</p>
+<formula alineacion="centrada" src="CN_11_08_CO_formula_13.gif">
+</formula>
+<p>La fuerza es, entonces:</p>
+<formula alineacion="centrada" src="CN_11_08_CO_formula_14.gif">
+</formula>
+<p>Con esto el electroimán estaría en capacidad de levantar una masa
+de alrededor de 5 kg.</p>
+</destacadoTexto></destacado>
+<p>La gran ventaja de los electroimanes frente a los imanes permanentes
+es que los <negrita>electroimanes</negrita> se pueden imantar y desimantar
+a voluntad, por lo que se aplican en grúas de chatarrerías y en la
+construcción de motores y timbres eléctricos, entre muchos otros aparatos.</p>
+<imagen src="CN_11_08_CO_IMG12_zoom.jpg">
+<p>Sin pie de imagen</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_08_CO_B950653E41044DBAA92F4A64897FD039">
+<seccion3Titulo>El motor eléctrico</seccion3Titulo>
+<seccion3Texto>
+<p>La necesidad de transformar <negrita>energía eléctrica</negrita
+> en <negrita>energía mecánica</negrita> resultó en los <negrita>motores
+eléctricos</negrita> que consiguieron relacionar estas energías a
+través de las interacciones entre fuerzas magnéticas, de manera que
+fueran transformadas en <negrita>energía cinética rotacional</negrita
+> que permite, por ejemplo, el funcionamiento de las unidades de DVD,
+las licuadoras, etc.</p>
+<recuerda><recuerdaTexto>
+<p>La <negrita>energía cinética rotacional</negrita> es aquella asociada
+a un cuerpo que rota a una velocidad angular dada. Esta energía depende
+de la velocidad angular y la forma del cuerpo.</p>
+</recuerdaTexto></recuerda>
+<imagen src="CN_11_08_CO_IMG13_small.jpg">
+<p>Esquema de un motor eléctrico simple de corriente continua. La
+parte fija o estator es un imán permanente, mientras que la giratoria
+o rotor es una bobina conductora, a través de la cual pasa la corriente.
+El eje transmite el movimiento giratorio de la bobina.</p>
+</imagen>
+<p> En un motor, la bobina está situada en el centro y se encuentra
+unida a un eje que transmite el movimiento generado por ella. Esta
+parte central del motor se llama <negrita>rotor</negrita> o <negrita
+>armadura</negrita>. El imán fijo que lo rodea se llama <negrita>estator</negrita
+>. Cuando circula corriente por la bobina, el campo magnético del
+estator la hace girar y la energía cinética que adquiere se transmite
+al eje que, a su vez, hace mover, por ejemplo, las palas de un ventilador,
+la licuadora, la lavadora o la batidora. Los motores eléctricos se
+pueden clasificar, según la corriente empleada, en: <negrita>motores
+de corriente continua</negrita>, motores de <negrita>corriente alterna</negrita
+> y motores <negrita>universales</negrita> (que sirven para los dos
+tipos de corriente).</p>
+<recuerda><recuerdaTexto>
+<p>La <negrita>corriente continua</negrita> es aquella corriente que
+es constante. Por otra parte, la <negrita>corriente alterna</negrita
+> presenta cambios en el tiempo (usualmente en forma de función sinusoidal).</p>
+</recuerdaTexto></recuerda><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso100&amp;IdRecurso=RES-4EEDAC714E1E44A894C78810A2DEB1C2"
+>El motor eléctrico y sus componentes</enlace>
+</practica><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso110&amp;IdRecurso=RES-9C2BF76B7FCA453FA6AD8428645E1D57"
+>Cómo construir un motor eléctrico casero</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso120&amp;IdRecurso=RES-CF22400B296748B09D6237617C770F7A"
+>Analiza el comportamiento del motor eléctrico</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CN_11_08_CO_AE7DB70B8DBA46BAB7E9C17D779AAG34">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso130&amp;IdRecurso=RES-00F18564CE764B99A7CB750376AC5344"
+>Refuerza tu aprendizaje: los generadores de campo magnético</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_11_08_CO_1BCD739E84AC4E6A984990BD207C99E5">
+<seccion1Titulo>La inducción electromagnética</seccion1Titulo>
+<seccion1Texto>
+<p>Así como el experimento de Hans Oersted permitió identificar la
+relación entre corriente y campo magnético, otros científicos buscaron
+describir el fenómeno opuesto a través de la pregunta: ¿cómo generar
+corriente eléctrica a partir de campos magnéticos?</p>
+<p>Los experimentos realizados de manera independiente por <negrita
+>Michael Faraday</negrita>, en Inglaterra, y <negrita>Joseph Henry</negrita
+>, en Estados Unidos, demostraron que un <negrita>campo magnético
+variable</negrita> en el tiempo puede producir o inducir una corriente
+en el circuito, fenómeno que estudiaremos a continuación.</p>
+<seccion2 id="S2_CN_11_08_CO_AE7DB70B8DBA46BAB7E9C17D779ADF23">
+<seccion2Titulo>El flujo magnético</seccion2Titulo>
+<seccion2Texto>
+<p>En la magnetostática, el campo magnético permanece constante en
+el tiempo; para comprender el concepto de inducción magnética es necesario
+que conozcas primero el concepto de <negrita>flujo magnético</negrita
+>, lo que implicará más adelante que el campo magnético sea variable
+en el tiempo.</p>
+<p>El <negrita>flujo magnético</negrita> podría definirse como una
+representación asociada al número de <negrita>líneas de campo magnético</negrita
+> que atraviesan una <negrita>superficie</negrita>. Debido a que el
+campo magnético es un vector y la superficie representará un área,
+tanto el campo como el área pueden formar un ángulo, el flujo se expresa
+entonces como:</p>
+<formula alineacion="centrada" src="CN_11_08_CO_formula_15.gif">
+</formula>
+<p>Donde <negritacursiva>Φ</negritacursiva> es la magnitud del campo
+magnético en Weber (Wb), <negritacursiva>A</negritacursiva> es el
+área de la superficie que atraviesa el campo magnético y <negritacursiva
+>θ</negritacursiva> el ángulo que forman la línea perpendicular a
+la superficie y las líneas del campo magnético.</p>
+<imagen src="CN_11_08_CO_IMG14_small.jpg">
+<p>Posibles casos de flujo magnético; la línea resaltada en negro
+representa una línea perpendicular a la superficie. a) existe un ángulo
+entre el campo y la línea perpendicular a la superficie; b) el flujo
+es mayor cuando la superficie es perpendicular al campo magnético
+por lo que <negritacursiva>Φ = BA</negritacursiva>; c) el flujo es
+cero cuando la superficie es paralela al campo magnético.</p>
+</imagen>
+<p>Al pensar en motores eléctricos el propósito es relacionar la transformación
+de energía eléctrica en energía mecánica. Cuando se hace fluir una
+corriente eléctrica a través de una armadura que se encuentra en un
+campo magnético, dicha armadura gira, este es el principio de un <negrita
+>motor eléctrico</negrita>. Pero cuando una armadura gira en un campo
+magnético que produce en ella una corriente eléctrica, este aparato
+es un <negrita>generador eléctrico</negrita>.</p>
+<imagen src="CN_11_08_CO_IMG15_small.jpg">
+<p>Los trenes eléctricos aplican dos principios: el mismo sistema
+que actúa como motor para mover el tren en las subidas, se usa como
+generador cuando el tren va de bajada. El operador cambia un interruptor
+que permite que la energía cinética del tren se use para producir
+energía eléctrica, la cual se almacena a través de las líneas de alimentación
+para que otros trenes la usen. Consulta cómo funciona el alternador
+de un automóvil.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso140&amp;IdRecurso=RES-07634472D82D4D05A24A733626A14B10"
+>Los generadores y los motores eléctricos</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso150&amp;IdRecurso=RES-18FAC744EFF244A383181C63F936D36E"
+>Identifica las características del motor y el generador eléctrico</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_08_CO_479E1343C7A545CDA59601BE738057E4">
+<seccion2Titulo>La ley de inducción de Faraday y la ley de Lenz</seccion2Titulo>
+<seccion2Texto>
+<p>La ley de inducción de <negrita>Faraday</negrita> establece que
+si existe un cambio en el flujo magnético en el tiempo a través de
+una superficie, en cierto intervalo de tiempo se inducirá una <negrita
+>fuerza electromotriz</negrita> (<negrita>f.e.m.</negrita>). La expresión
+más simple de la <negrita>ley de Faraday</negrita> permite relacionar
+la <negrita>f.e.m.</negrita> <cursiva>ε</cursiva> inducida en la <negrita
+>bobina</negrita> con la variación del <negrita>flujo magnético</negrita
+> que atraviesa la bobina: </p>
+<formula alineacion="centrada" src="CN_11_08_CO_formula_16.gif">
+</formula>
+<p>Donde <negrita>N</negrita> es el número de vueltas de la <negrita
+>bobina</negrita> y el segundo término corresponde a la variación
+del flujo magnético en el tiempo.</p>
+<imagen src="CN_11_08_CO_IMG16_small.jpg">
+<p>El movimiento del imán cuando ingresa a la bobina hace que el flujo
+a través de la espira aumente. La ley de Lenz requiere un flujo que
+se oponga al incremento del flujo que es generado por una corriente
+hacia la izquierda. Cuando el imán sale del bobinado hace que el flujo
+a través de la espira disminuya. La ley de Lenz requiere un flujo
+que se oponga a la reducción del flujo que es generado por una corriente
+hacia la derecha.</p>
+</imagen>
+<p>El <negrita>signo menos</negrita> en la <negrita>ley de Faraday</negrita
+> es fundamental; este indica que la <negrita>f.e.m.</negrita> inducida
+se opone a la variación del flujo magnético (como se indica en la
+figura). Esta característica es de suma importancia y recibe el nombre
+de <negrita>ley de Lenz</negrita>. </p>
+<p>Debido a que existe una resistencia en el sistema, también, es
+necesario aplicar la ley de Ohm que se expresa como:</p>
+<formula alineacion="centrada" src="CN_11_08_CO_formula_17.gif">
+</formula>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso160&amp;IdRecurso=RES-7B31370393044083972D1B589698FE9D"
+>Experimenta con la ley de inducción de Faraday</enlace>
+</profundiza></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_08_CO_80ED7DD0083D4230831C09F9BBFB1DFF">
+<seccion2Titulo>Los generadores de corriente eléctrica</seccion2Titulo>
+<seccion2Texto>
+<p>Como has observado, la ley de inducción permite la construcción
+de instrumentos que transforman la energía mecánica en eléctrica.
+Un <negrita>generador eléctrico</negrita> usa como principio la <negrita
+>ley de inducción</negrita> y hace parte fundamental de la energía
+que consumimos a diario para recargar baterías, usar electrodomésticos,
+etc. Las fuentes de la energía mecánica pueden ser diversas como:
+la caída de agua en una central hidroeléctrica; las turbinas de vapor
+en centrales de biocombustible, de masa y nucleares; y, cada vez más,
+el viento se usa como fuente de energía mecánica.</p>
+<p>Como sabes, la corriente eléctrica inducida requiere que se presente
+un cambio en el flujo magnético, en este caso, tanto el área de la
+bobina como la magnitud del campo magnético permanecen con valores
+constantes, de manera que para que se produzca el flujo magnético,
+debe producirse un cambio en el ángulo, debido a la rotación de la
+espira. Si la bobina gira con una velocidad angular constante <negritacursiva
+>ω</negritacursiva>, el <negrita>ángulo de giro</negrita> puede expresarse
+como:</p>
+<formula alineacion="centrada" src="CN_11_08_CO_formula_18.gif">
+</formula>
+<p>Al combinar esta ecuación podrás determinar la magnitud de la fuerza
+electromotriz inducida reemplazando la expresión de la ley de inducción
+de Faraday y la expresión del flujo magnético (como se ve en la sección
+3.1):</p>
+<formula alineacion="centrada" src="CN_11_08_CO_formula_19.gif">
+</formula>
+<p>Así, la expresión de variación en el paréntesis puede calcularse
+con la ayuda del límite o de la derivada con respecto al tiempo, de
+manera que la <negrita>f.e.m.</negrita> es:</p>
+<formula alineacion="centrada" src="CN_11_08_CO_formula_20.gif">
+</formula>
+<recuerda><recuerdaTexto>
+<p>En la derivación de funciones trigonométricas:</p>
+<formula alineacion="centrada" src="CN_11_08_CO_formula_21.gif">
+</formula>
+</recuerdaTexto></recuerda>
+<imagen src="CN_11_08_CO_IMG17_small.jpg">
+<p>Esquema de un generador de corriente alterna básico; tanto la ley
+de inducción de Faraday como la ley de Lenz permiten que la bombilla
+encienda. Debido a que la f.e.m. inducida es sinusoidal la intensidad
+de la luz variará en el tiempo.</p>
+</imagen>
+<p>El comportamiento del sistema es sinusoidal, esto permite ver que
+se obtiene una variación periódica de la <negrita>fuerza electromotriz</negrita
+>, ya que el plano de la bobina en algunos momentos estará paralelo
+al plano del campo magnético, donde la <negrita>f.e.m.</negrita> será
+máxima, y, en otro momento, los dos planos serán perpendiculares,
+por lo que la <negrita>f.e.m.</negrita> será nula.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso180&amp;IdRecurso=RES-5D28E497C5E14D33BE1CC9F01FCE185B"
+>Los generadores de corriente eléctrica</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso190&amp;IdRecurso=RES-6F0C1E685CD1426082942E34CE80DDFD"
+>¿Qué tanto sabes sobre generadores y motores eléctricos?</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_08_CO_80ED7DD0083D4230831C09F9BBFB2ADD">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso200&amp;IdRecurso=RES-F75BA3421D5E4471ADBBE1284F390C04"
+>Refuerza tu aprendizaje: la ley de inducción electromagnética</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_11_08_CO_4142CA0A3FDD442BB4B7EAAC013C54CF">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso210&amp;IdRecurso=RES-FA409D1BA19A49A69D362C5A121F920F"
+>Competencias: identificación del campo magnético de la Tierra</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso220&amp;IdRecurso=RES-9E3D1C6EE39A405C9B85820216D1F9F6"
+>Competencias: comprobación de la inducción electromagnética</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CN_11_08_CO_1DD458EDF8A64E2AA83687126C8DCF6A"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso240&amp;IdRecurso=RES-B5C610CB7E5F4451875B66ADECC11C76"
+>Mapa conceptual del tema Electromagnetismo</enlace></mapaconceptual>
+<autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso250&amp;IdRecurso=RES-7E1F7D3B3BE141E79C8854B0D2677FED"
+>Evalúa tus competencias sobre el tema Electromagnetismo</enlace>
+</autoevaluate><enlacesreferencia>
+<enlace
+destino="https://phet.colorado.edu/es/simulation/legacy/generator"
+>El generador.</enlace>
+<enlace destino="https://www.youtube.com/watch?v=HnKNiqMAmv4">La ley
+de Lenz y la ley de inducción de Faraday.</enlace>
+<enlace
+destino="http://ciencia.nasa.gov/science-at-nasa/2003/02apr_robotblood/"
+>Fluidos magnéticos.</enlace>
+</enlacesreferencia></masinformacion></libro>
