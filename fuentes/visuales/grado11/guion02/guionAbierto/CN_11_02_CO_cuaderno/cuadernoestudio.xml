@@ -1,449 +1,644 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
-<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd"[]>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
 <libro id="CN_11_02_CO">
-  <libroTitulo>Las ondas</libroTitulo>
-  <seccion1 id="S1_CN_11_02_CO_9FBD64190D4C40F394C11E677D3F41BE">
-    <seccion1Titulo>Las ondas</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_02_CO_img_01_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso010&amp;IdRecurso=RES-7774BA0609AE4930A769CBF63BF2C81F">Las clases de ondas y sus propiedades</enlace>
-      </profundiza>
-      <seccion2 id="S2_CN_11_02_CO_7102E416D24B4F3B8C3CF8965393E82A">
-        <seccion2Titulo>La clasificación de las ondas</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_02_CO_img_02_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso020&amp;IdRecurso=RES-0A3DB19814F548BFB8F115D74E02B98D">Recurso M11A-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_02_CO_img_03_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso030&amp;IdRecurso=RES-069CF9926AA4451BA07CBFD3E65955D7">Recurso M4A-01</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-      <seccion2 id="S2_CN_11_02_CO_206EA6CD945A4B6A9895C0872998BBE9">
-        <seccion2Titulo>Consolidación</seccion2Titulo>
-        <seccion2Texto>
-          <p>Aquí escribiré el párrafo de la sección</p>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_02_CO_img_04_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso040&amp;IdRecurso=RES-6D15DC239DB5415FA5056CF31CD22E3E">Recurso M101A-01</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_02_CO_img_09_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso090&amp;IdRecurso=RES-F03E928A5B914BD8873E0C4D7175225A">Refuerza tu aprendizaje: Las ondas</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_02_CO_img_16_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso160&amp;IdRecurso=RES-561CEB82559A4B04B9F250CC6DFE1085">Recurso M101A-02</enlace>
-          </practica>
-          <p>Aquí va un PÁRRAFO</p>
-          <imagen src="CN_11_02_CO_img_20_small.png">
-            <p>Aquí escribiré el pie de foto</p>
-          </imagen>
-          <recuerda>
-            <recuerdaTexto>
-              <p>Aquí va un RECUERDA</p>
-            </recuerdaTexto>
-          </recuerda>
-          <destacado>
-            <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-            <destacadoTexto>
-              <p>Aquí va el texto de un DESTACADO</p>
-            </destacadoTexto>
-          </destacado>
-          <practica>
-            <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso200&amp;IdRecurso=RES-3A6A09E1FC364933B936EBDE8A1F7FE7">Recurso M101A-03</enlace>
-          </practica>
-        </seccion2Texto>
-      </seccion2>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CN_11_02_CO_889B6F38C22E4020BE91F6D9AC217FCA">
-    <seccion1Titulo>Las características de las ondas</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_02_CO_img_05_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso050&amp;IdRecurso=RES-395459E668A1439397A2072931D280D7">Recurso F10-01</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_02_CO_img_06_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso060&amp;IdRecurso=RES-F92FA3BF3A8840A5A0D8A769586099CF">Diferencia las clases de ondas</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_02_CO_img_07_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso070&amp;IdRecurso=RES-244EC25990574AC7A19361F9AB7BDBA6">Resuelve un crucigrama sobre las ondas</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_02_CO_img_08_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CN_11_02_CO_ED2DD38D7A8741629F294A87A2603379">
-    <seccion1Titulo>Propiedad de un onda</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_02_CO_img_10_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso100&amp;IdRecurso=RES-52BCB22B4A654D55A13A8263AE9CEA25">Recurso F4-01</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_02_CO_img_11_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso110&amp;IdRecurso=RES-45E0EC023AFD4CE0846CFB2BD9D4EFF2">Recurso M14A-01</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_02_CO_img_12_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso120&amp;IdRecurso=RES-29A483A523934235BCB2CBD241EF45D8">La reflexión y la refracción de la luz</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_02_CO_img_13_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso130&amp;IdRecurso=RES-81DCCCA959B7477ABFBC2C6F13500328">Aprende en qué consiste la refracción</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_02_CO_img_14_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_02_CO_img_15_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso050&amp;IdRecurso=RES-395459E668A1439397A2072931D280D7">Recurso F10-01</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CN_11_02_CO_332B66FF8B554D4F8427FEE76CC24679">
-    <seccion1Titulo>La energía de la onda</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_02_CO_img_17_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <profundiza>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso170&amp;IdRecurso=RES-6085ECEFEAAA4A9C9E1D61D42C7A3D9D">Los terremotos</enlace>
-      </profundiza>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_02_CO_img_18_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso180&amp;IdRecurso=RES-BA52FC409C864FBDBEB90861368D9F81">Comprende los terremotos</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_02_CO_img_19_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso030&amp;IdRecurso=RES-069CF9926AA4451BA07CBFD3E65955D7">Recurso M4A-01</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <seccion1 id="S1_CN_11_02_CO_0167694E1B3D42E6AC829673D70A7A32">
-    <seccion1Titulo>Competencias</seccion1Titulo>
-    <seccion1Texto>
-      <p>Aquí escribiré el párrafo de la sección</p>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_02_CO_img_21_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso210&amp;IdRecurso=RES-71C4CC1EE18043CB8E8956476EB16BF2">Competencias: estudio de las ondas longitudinales y transversales</enlace>
-      </practica>
-      <p>Aquí va un PÁRRAFO</p>
-      <imagen src="CN_11_02_CO_img_22_small.png">
-        <p>Aquí escribiré el pie de foto</p>
-      </imagen>
-      <recuerda>
-        <recuerdaTexto>
-          <p>Aquí va un RECUERDA</p>
-        </recuerdaTexto>
-      </recuerda>
-      <destacado>
-        <destacadoTitulo>Aquí va el título de un DESTACADO</destacadoTitulo>
-        <destacadoTexto>
-          <p>Aquí va el texto de un DESTACADO</p>
-        </destacadoTexto>
-      </destacado>
-      <practica>
-        <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso220&amp;IdRecurso=RES-528B8480AE14483DB468044E809C90BD">Competencias: construcción de un sismógrafo</enlace>
-      </practica>
-    </seccion1Texto>
-  </seccion1>
-  <masinformacion id="MI_CN_11_02_CO_CF6640F0DCD24B63A69061E9871FC2FD">
-    <mapaconceptual>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso240&amp;IdRecurso=RES-045838EAE84943758A7F609B2F8D9137">Mapa Conceptual</enlace>
-    </mapaconceptual>
-    <autoevaluate>
-      <enlace destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso250&amp;IdRecurso=RES-2F9608F810A346608F59C202BC055707">Evaluación</enlace>
-    </autoevaluate>
-    <enlacesreferencia>
-      <enlace destino="http://www.aulaplaneta.com">AulaPlaneta</enlace>
-    </enlacesreferencia>
-  </masinformacion>
-</libro>
+<libroTitulo>Las ondas</libroTitulo>
+<seccion1 id="S1_CN_11_02_CO_9FBD64190D4C40F394C11E677D3F41BE">
+<seccion1Titulo>Las ondas, sus elementos y su clasificación</seccion1Titulo>
+<seccion1Texto>
+<p>Una <negrita>onda</negrita> es el fenómeno producido por una perturbación
+energética que se propaga a través de un medio material elástico o
+a través del vacío. Este fenómeno también es conocido como <negrita
+>movimiento ondulatorio</negrita>.</p>
+<p>En un movimiento ondulatorio solamente se da un <negrita>transporte
+de energía</negrita>, nunca hay transporte de materia. Esta afirmación
+se puede evidenciar cuando en un estanque en reposo flotan pedazos
+de corcho, pero si se genera un tren de ondas del centro del estanque
+hacia la orilla, se observa que el corcho se mantiene en el mismo
+lugar realizando un movimiento de vaivén hacia arriba y hacia abajo,
+y los pedazos de corcho no se desplazan hacia la orilla.</p>
+<imagen ampliable="no" src="CN_11_02_CO_IMG01_small.jpg">
+<p>Christian Huygens fue uno de los científicos que más aportó a la
+teoría ondulatoria de la luz, la cual necesitaba como soporte la existencia
+de una materia sutil, el éter, a través de la cual viajaba la onda
+luminosa, así como las ondas en un estanque necesitan del agua, o
+el sonido necesita del aire para propagarse.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso010&amp;IdRecurso=RES-7774BA0609AE4930A769CBF63BF2C81F"
+>Las clases de ondas y sus propiedades</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso020&amp;IdRecurso=RES-0A3DB19814F548BFB8F115D74E02B98D"
+>Comprende las clases de ondas</enlace>
+</practica><seccion2
+id="S2_CN_11_02_CO_7102E416D24B4F3B8C3CF8965393E82A">
+<seccion2Titulo>Los elementos y las características de las ondas</seccion2Titulo>
+<seccion2Texto>
+<p>Para entender el comportamiento de las ondas es necesario reconocer
+los elementos que las constituyen, para esto se analizará la formación
+de una onda en un <negrita>medio elástico</negrita> a partir de la
+siguiente ilustración:</p>
+<imagen ampliable="no" src="CN_11_02_CO_IMG02_small.jpg">
+<p>La vibración de la primera partícula se transmite consecutivamente
+a todas las demás partículas del medio, debido a que ellas se encuentran
+unidas por fuerzas intermoleculares y es así como constituyen el medio
+material donde se propagan las ondas.</p>
+</imagen>
+<p>El medio elástico puede ser gaseoso, líquido o sólido, y tiene
+la propiedad de deformarse y luego recuperarse. La <negrita>perturbación</negrita
+> es la interacción de un agente externo sobre el medio elástico.</p>
+<imagen src="CN_11_02_CO_IMG03_small.jpg">
+<p>La longitud de onda es la distancia que recorre una perturbación
+en un tiempo de un periodo. Está definida por la distancia entre dos
+máximos, dos valles o dos crestas consecutivas.</p>
+</imagen>
+<p>El movimiento de oscilación de la primera partícula corresponde
+a un <negrita>movimiento armónico simple</negrita> y la <negrita>energía</negrita
+> que lo produce es la que se propaga a las demás partículas del medio
+material elástico. Los componentes en una onda son:</p>
+<listaSinNumerar>
+<listaElemento>La <negrita>amplitud de la onda</negrita> (<negrita
+>A</negrita>), es la máxima elongación del movimiento armónico simple
+(MAS). </listaElemento>
+<listaElemento>El <negrita>periodo</negrita> (<negrita>T</negrita
+>) es el tiempo que tarda una oscilación del MAS. También puede definirse
+como el tiempo que tarda en propagarse la energía que produce la onda
+al recorrer una <negrita>longitud de onda</negrita>.</listaElemento>
+<listaElemento>La <negrita>longitud de onda</negrita> (<negrita>λ</negrita
+>) es la distancia que recorre la onda mientras la primera partícula
+realiza una oscilación completa, es decir, es la distancia que recorre
+la onda en un periodo de tiempo.</listaElemento>
+<listaElemento>La <negrita>frecuencia</negrita> (<negrita>f</negrita
+>) se define como el número de oscilaciones que realiza el MAS en
+la unidad de tiempo (un segundo). También se puede decir que son cuantas
+longitudes de onda se forman en un segundo.</listaElemento>
+</listaSinNumerar>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso030&amp;IdRecurso=RES-069CF9926AA4451BA07CBFD3E65955D7"
+>Tipos de ondas y fenómenos ondulatorios</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_02_CO_206EA6CD945A4B6A9895C0872998DDA0">
+<seccion2Titulo>Clasificación de las ondas</seccion2Titulo>
+<seccion2Texto>
+<p>En la naturaleza encontramos distintas formas de ondas, por ejemplo,
+cuando se agita una cuerda se puede observar cómo las ondas se desplazan
+a lo largo de ella, o cuando un pato perturba el agua de un estanque
+y se ve cómo las ondas se desplazan en todas las direcciones en la
+superficie del agua, o cuando se enciende una bombilla y vemos que
+se ilumina el espacio cerrado, la luz se propaga en todas las direcciones,
+descubriendo en frente nuestro la forma y el color de los objetos.</p>
+<p>Para estudiarlas, las ondas se pueden clasificar de tres formas
+distintas, dependiendo de:</p>
+<listaNumerada>
+<listaElemento>El medio de propagación.</listaElemento>
+<listaElemento>Las direcciones de los movimientos que componen el
+movimiento ondulatorio.</listaElemento>
+<listaElemento>Las dimensiones del espacio que ocupen en su propagación.</listaElemento>
+</listaNumerada>
+<imagen src="CN_11_02_CO_IMG04_small.jpg">
+<p>Ejemplos de ondas unidimensionales (izquierda), superficiales (estanque)
+y esféricas (luz).</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso260&amp;IdRecurso=RES-C4D37E8F68DE453EB599B573306E99EC"
+>Las características de las ondas</enlace>
+</profundiza><seccion3
+id="S3_CN_11_02_CO_206EA6CD945A4B6A9895C0872998AAD2">
+<seccion3Titulo>Según el medio</seccion3Titulo>
+<seccion3Texto>
+<p>De acuerdo con el medio en el que se propagan las ondas se clasifican
+en dos tipos:</p>
+<listaSinNumerar>
+<listaElemento><negrita>Ondas mecánicas:</negrita> estas ondas se
+producen cuando la perturbación energética se propaga a través de
+un medio material elástico como, por ejemplo, las olas del mar que
+se propagan en el agua, o también, las ondas sonoras que se propagan
+a través del aire.</listaElemento>
+<listaElemento><negrita>Ondas electromagnéticas:</negrita> estas ocurren
+cuando la perturbación energética se propaga a través del vacío, como,
+por ejemplo: la luz, las ondas de radio, los rayos X, y en general
+todas las ondas que hacen parte del espectro electromagnético.</listaElemento>
+</listaSinNumerar>
+<imagen src="CN_11_02_CO_IMG05_small.jpg">
+<p>Las ondas en el agua son un ejemplo de ondas mecánicas, mientras
+que la luz que viene del Sol y nos permite distinguir los colores
+son ondas electromagnéticas.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_02_CO_206EA6CD945A4B6A9895C0872998FFE4">
+<seccion3Titulo>Según las direcciones de los movimientos de la onda</seccion3Titulo>
+<seccion3Texto>
+<p>El movimiento ondulatorio se considera también como la combinación
+de un <negrita>movimiento vibratorio</negrita> (MAS) y un <negrita
+>movimiento de propagación</negrita> (movimiento uniforme). Dependiendo
+de las direcciones de estos dos movimientos, las ondas se pueden clasificar
+en:</p>
+<listaSinNumerar>
+<listaElemento><negrita>Ondas transversales</negrita> que son las
+que se forman cuando la dirección del movimiento vibratorio es perpendicular
+a la dirección del movimiento de propagación. Como ejemplo de estas
+ondas podemos mencionar las olas que se forman en la superficie del
+mar, la luz ordinaria y los rayos X.</listaElemento>
+</listaSinNumerar>
+<imagen src="CN_11_02_CO_IMG06_small.jpg">
+<p>Las direcciones y los movimientos del medio que producen la onda
+son perpendiculares entre si.</p>
+</imagen>
+<listaSinNumerar>
+<listaElemento><negrita>Ondas longitudinales</negrita>, que son las
+que se forman cuando la dirección del movimiento de oscilación es
+paralelo a la dirección del movimiento de propagación. Como ejemplo
+de estas ondas podemos mencionar las expansiones y compresiones de
+un resorte, las ondas sonoras y algunas ondas sísmicas.</listaElemento>
+</listaSinNumerar>
+<imagen src="CN_11_02_CO_IMG07_small.jpg">
+<p>Las direcciones de los movimientos constitutivos de la onda, son
+paralelas.</p>
+</imagen>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_02_CO_206EA6CD945A4B6A9895C0872998CCA6">
+<seccion3Titulo>Según las dimensiones del espacio en las que se propaga</seccion3Titulo>
+<seccion3Texto>
+<p>El espacio tiene tres dimensiones; cuando se analiza solo una hablamos
+de la magnitud espacial llamada <negrita>longitud</negrita>, cuando
+se analizan dos dimensiones hablamos de <negrita>área</negrita> y
+cuando se analizan las tres dimensiones hablamos de <negrita>volumen</negrita
+>.</p>
+<p>Teniendo en cuenta estas tres dimensiones, las ondas se clasifican
+en ondas unidimensionales, bidimensionales o superficiales y tridimensionales
+o esféricas.</p>
+<listaSinNumerar>
+<listaElemento><negrita>Ondas unidimensionales</negrita>, son aquellas
+que se propagan en una sola dirección; por ejemplo, las ondas en la
+cuerda de una guitarra. O la luz polarizada, porque aunque la luz
+ordinaria vibra en todas las direcciones, un haz de luz polarizado
+resulta al seleccionar las ondas de una sola dirección, al pasarla
+por una serie de filtros que la seleccionan.</listaElemento>
+<listaElemento><negrita>Ondas superficiales</negrita>, son aquellas
+que se propagan sobre una superficie, en todas las direcciones radiales
+que conforman el plano; como las ondas que se producen en un estanque
+al arrojar una piedra y que se propagan formando circunferencias.</listaElemento>
+<listaElemento><negrita>Ondas esféricas</negrita>, son aquellas que
+se propagan en direcciones radiales del espacio, como las ondas sonoras
+que se propagan en el aire, o las ondas de luz de vienen de las estrellas
+y se propagan hacia todos los lugares del universo.</listaElemento>
+</listaSinNumerar>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso060&amp;IdRecurso=RES-F92FA3BF3A8840A5A0D8A769586099CF"
+>Recuerda conceptos relacionados con las ondas</enlace>
+</practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
+<seccion2 id="S2_CN_11_02_CO_206EA6CD945A4B6A9895C0872998AC21">
+<seccion2Titulo>La velocidad de la onda</seccion2Titulo>
+<seccion2Texto>
+<p>La onda al propagarse lo hace con movimiento uniforme, es decir
+con velocidad constante y en todas las direcciones.</p>
+<recuerda><recuerdaTexto>
+<p>La velocidad es la relación de la distancia recorrida y el tiempo
+empleado para recorrerla, en el movimiento uniforme la expresión matemática
+que describe la velocidad es:</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_01.gif">
+</formula>
+</recuerdaTexto></recuerda>
+<p>En el movimiento ondulatorio la <negrita>longitud de onda</negrita
+> (<negrita>λ</negrita>) se define como la distancia recorrida en
+un periodo de tiempo (<negrita>T</negrita>), entonces la <negrita
+>velocidad</negrita> de onda se expresa:</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_02.gif">
+</formula>
+<p>Como el <negrita>periodo</negrita> es el inverso de la <negrita
+>frecuencia</negrita> entonces la <negrita>velocidad</negrita> con
+la cual se desplaza la onda se expresa:</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_03.gif">
+</formula>
+<p>Es muy importante destacar que la <negrita>velocidad de propagación</negrita
+> del movimiento ondulatorio para ondas mecánicas depende de la <negrita
+>elasticidad</negrita> del medio y de su <negrita>densidad</negrita
+>, pero siempre es constante.</p>
+<p>Dependiendo de la fase de la materia: sólida, líquida o gaseosa,
+la velocidad de propagación de las ondas se escribe matemáticamente
+como lo muestra la siguiente tabla.</p>
+<formula alineacion="centrada" src="CN_11_02_Tabla01.png"></formula>
+<destacado><destacadoTitulo>Los cantos de las ballenas</destacadoTitulo>
+<destacadoTexto>
+<p>Las ballenas son animales que para ubicarse en las profundidades
+de océano, donde no hay luz, emiten sonidos con frecuencias del orden
+de 180 000 Hz. Estas ondas se reflejan y regresan a su cuerpo, permitiéndoles
+conocer la distancia a la que se encuentran los obstáculos dependiendo
+del tiempo que tarde la onda en reflejarse.</p>
+<p><negrita>Ejemplo</negrita><br/>Si la densidad del agua de mar en
+un determinado lugar es de 1025 kg/m<superindice>3</superindice> y
+el módulo de compresibilidad es de 2 x 109 N/m<superindice>2</superindice
+>, calcular la longitud de la onda del sonido emitido por una ballena
+y el tiempo que se demora en detectar un obstáculo que se encuentra
+a 3000 m.</p>
+<p><negrita>Solución</negrita><br/>Se calcula primero la velocidad
+de la onda sonora emitida por la ballena, utilizando la fórmula de
+la velocidad de las ondas en un medio líquido.</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_04.gif">
+</formula>
+<p>Con el valor de la velocidad y la fórmula <cursiva>v = λf</cursiva
+> se puede calcular la longitud de onda</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_05.gif">
+</formula>
+<p><cursiva>Este resultado tiene sentido ya que las frecuencias altas
+tienen longitudes de onda muy pequeñas.</cursiva></p>
+<p>Ahora, para hallar el tiempo en que la ballena vuelve a escuchar
+la onda, si hay un obstáculo a 3000 m, usamos la fórmula del movimiento
+uniforme </p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_06.gif">
+</formula>
+<p>y el hecho de que la distancia recorrida sea de 3000 m de ida más
+3000 m de vuelta, da un tiempo</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_07.gif">
+</formula>
+<p><cursiva>El tiempo entonces, es suficiente para que la ballena
+evite chocar con el obstáculo, porque la velocidad del sonido que
+emiten es muy grande en comparación con la velocidad con que la ballena
+se desplaza dentro del agua.</cursiva></p>
+</destacadoTexto></destacado>
+<p>Así, también se pueden calcular las propiedades de una onda en
+una cuerda.</p>
+<destacado><destacadoTitulo>Velocidad de una cuerda vibrante</destacadoTitulo>
+<destacadoTexto>
+<p><negrita>Ejemplo</negrita><br/>Un teléfono de juguete hecho con
+2 bocinas de latón y una cuerda de 5 m, cuya masa es de 10 g se tensiona
+con una fuerza de 7 N, ¿cuánto demora en llegar un mensaje de una
+bocina a la otra, si la frecuencia de la voz es de 400 Hz?</p>
+<p><negrita>Solución</negrita><br/>Se calcula primero la densidad
+lineal de la cuerda:</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_08.gif">
+</formula>
+<p>Luego se calcula la velocidad de la onda sonora emitida utilizando
+la fórmula de la velocidad de las ondas en una cuerda:</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_09.gif">
+</formula>
+<p>Ahora, para hallar el tiempo que tarda en llegar el mensaje utilizamos
+la fórmula del movimiento uniforme:</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_10.gif">
+</formula>
+<p>Despejando la variable <negritacursiva>t</negritacursiva>:</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_11.gif">
+</formula>
+<p><cursiva>Para los seres humanos sería casi ¡instantáneo!; no podemos
+diferenciar con los sentidos 0,08 s de 0,09 s o de 1 s.</cursiva></p>
+</destacadoTexto></destacado><recuerda><recuerdaTexto>
+<p>En una onda mecánica se pueden distinguir dos velocidades:</p>
+<listaSinNumerar>
+<listaElemento>La velocidad de vaivén de las partículas del medio
+a lado y lado de su posición de equilibrio (MAS).</listaElemento>
+<listaElemento>Velocidad de propagación de la perturbación que es
+constante (MU).</listaElemento>
+</listaSinNumerar>
+</recuerdaTexto></recuerda></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_02_CO_206EA6CD945A4B6A9895C0872998BBE9">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso090&amp;IdRecurso=RES-F03E928A5B914BD8873E0C4D7175225A"
+>Refuerza tu aprendizaje: Las características de las ondas</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_11_02_CO_889B6F38C22E4020BE91F6D9AC217FCA">
+<seccion1Titulo>La ecuación de onda</seccion1Titulo>
+<seccion1Texto>
+<p>Se denomina ecuación de onda a la expresión matemática que describe
+el movimiento de la perturbación que forma la onda a partir de las
+propiedades de los movimientos periódicos. Esta <negrita>perturbación</negrita
+> sería como la <negrita>altura</negrita> que tiene la onda después
+de haber recorrido cierta distancia en un tiempo determinado.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso270&amp;IdRecurso=RES-6A112FF3C99D4DACBAF8ED21EC69301A"
+>Las ecuaciones de onda</enlace>
+</profundiza>
+<imagen src="CN_11_02_CO_IMG08_small.jpg">
+<p>Un pulso que forma parte de una onda (arco negro), se describe
+en función de <cursiva>x</cursiva> en un tiempo inicial (<cursiva
+>t = t<subindice>0</subindice></cursiva>), por medio de la ecuación <cursiva
+>y = f (x<subindice>0</subindice>)</cursiva>. Cuando el pulso se ha
+desplazado una distancia <cursiva>d = </cursiva>Δ<cursiva>x</cursiva
+> ha trascurrido un tiempo determinado <cursiva>t</cursiva>, descrito
+por la ecuación <cursiva>y = f (x - vt)</cursiva>, que se denomina <cursiva
+>ecuación de onda</cursiva>, la cual está en función de la distancia
+y el tiempo. Esta ecuación muestra cómo avanza o se propaga una onda.</p>
+</imagen>
+<p>En la imagen anterior se muestra la ecuación de onda y la onda
+en dos puntos distintos después de haber transcurrido cierto tiempo.</p>
+<p>Como la onda se traslada con velocidad constante, se utiliza la
+ecuación de movimiento rectilíneo uniforme:</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_12.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_13.gif">
+</formula>
+<p>La distancia <cursiva>d</cursiva> es igual a Δ<cursiva>x</cursiva
+>, entonces:</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_14.gif">
+</formula>
+<p>Δ<cursiva>x</cursiva> es el cambio de la posición y es igual a
+la posición después de un cierto tiempo menos su posición inicial:
+∆<cursiva>x = x - x<subindice>0</subindice></cursiva>, entonces:</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_15.gif">
+</formula>
+<p>Despejando <cursiva>x<subindice>0</subindice></cursiva></p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_16.gif">
+</formula>
+<p>Es por esto que la ecuación de onda original <cursiva>f(x<subindice
+>0</subindice>)</cursiva> se transforma en <cursiva>f(x - vt)</cursiva
+> para un tiempo posterior. Nota que es como si se reemplazara a <cursiva
+>x<subindice>0</subindice></cursiva>, por la ecuación anterior.</p>
+<p>La forma general de esta ecuación es:</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_17.gif">
+</formula>
+<p>En la cual <cursiva>y</cursiva> es una función que depende de la
+posición (<cursiva>x</cursiva>) y del tiempo (<cursiva>t</cursiva
+>).</p>
+<p>La función <cursiva>f</cursiva> puede describirse matemáticamente
+de muchas formas, pero la que más se aproxima a la realidad es la
+función seno. Utilizando la función seno, la ecuación de onda se presenta
+así:</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_18.gif">
+</formula>
+<p>Donde:</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_50.gif">
+</formula>
+<p>es el número de onda, que tiene unidades de rad/m</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_51.gif">
+</formula>
+<p>es la frecuencia angular, que tiene unidades de rad/m</p>
+<destacado><destacadoTitulo>El movimiento de una cuerda</destacadoTitulo>
+<destacadoTexto>
+<p><negrita>Ejemplo</negrita><br/>Una onda en una cuerda se describe
+por la ecuación</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_52.gif">
+</formula>
+<p>Calcula:</p>
+<listaNumerada>
+<listaElemento>La amplitud.</listaElemento>
+<listaElemento>La longitud de la onda.</listaElemento>
+<listaElemento>La frecuencia.</listaElemento>
+<listaElemento>La velocidad de la onda.</listaElemento>
+</listaNumerada>
+<p><negrita>Solución</negrita><br/>La onda tiene la siguiente forma:</p>
+<imagen src="CN_11_02_Tabla02.png"></imagen>
+<p>Comparando la ecuación general y la ecuación dada:</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_19.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_20.gif">
+</formula>
+<p>Vemos que la amplitud de la onda es 0,8 m.</p>
+<p>Para hallar la longitud de onda usamos la ecuación de número de
+onda <cursiva>k = 2π/λ</cursiva> ; de la comparación vemos que el
+número de onda es 0,3<cursiva>π </cursiva>rad/m, entonces,</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_21.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_22.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_23.gif">
+</formula>
+<p>Para hallar la frecuencia se usa la ecuación de la frecuencia angular:</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_24.gif">
+</formula>
+<p>De la comparación se sabe que <cursiva>ω</cursiva> = 4<cursiva
+>π</cursiva> rad/s, entonces:</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_25.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_26.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_27.gif">
+</formula>
+<p>Finalmente, para calcular la velocidad usamos la ecuación <cursiva
+>v = λf</cursiva>:</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_28.gif">
+</formula>
+</destacadoTexto></destacado>
+<p>Otro ejemplo que muestra una aplicación de la función de onda se
+muestra a continuación:</p>
+<destacado><destacadoTitulo>La onda sinusoidal</destacadoTitulo>
+<destacadoTexto>
+<p><negrita>Ejemplo</negrita><br/>Una onda sinusoidal que viaja en
+una cuerda tarda un tiempo de 0,12 s en llegar desde el centro hasta
+su máxima amplitud, que es de 10 cm.</p>
+<p>Calcular:</p>
+<listaNumerada>
+<listaElemento>El periodo.</listaElemento>
+<listaElemento>La frecuencia.</listaElemento>
+<listaElemento>La velocidad de onda si la longitud es de 0,3 m.</listaElemento>
+<listaElemento>Determinar la ecuación de onda.</listaElemento>
+</listaNumerada>
+<p><negrita>Solución</negrita><br/>Para hacer la oscilación completa
+la onda debe ir a su máxima amplitud, volver al centro, bajar hasta
+su amplitud y luego volver al centro nuevamente; entonces, el periodo
+corresponde a cuatro veces el tiempo del centro a su máxima amplitud:</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_29.gif">
+</formula>
+<p>Dado que la frecuencia es el inverso del periodo, entonces,</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_30.gif">
+</formula>
+<p>Luego, la velocidad de la onda es <cursiva>v = λf</cursiva>:</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_31.gif">
+</formula>
+<p>De otra parte, para construir la ecuación de onda para esta situación
+debe tenerse en cuenta la ecuación general:</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_32.gif">
+</formula>
+<p>Como la amplitud es uno de los datos suministrados en el enunciado,
+con un valor de 10 cm, se pueden determinar los valores de <cursiva
+>k</cursiva> y <cursiva>ω</cursiva>, para <cursiva>k</cursiva>:</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_33.gif">
+</formula>
+<p>Y para <cursiva>ω</cursiva>:</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_34.gif">
+</formula>
+<p>Entonces, la ecuación de onda es:</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_35.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_36.gif">
+</formula>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso110&amp;IdRecurso=RES-45E0EC023AFD4CE0846CFB2BD9D4EFF2"
+>Los componentes de la ecuación</enlace>
+</practica>
+<p>Cuando dos ondas se encuentran simultáneamente en un medio, ellas
+pueden estar en fase o desfasadas, esto significa que una está más
+adelantada o más atrasada que la otra. Observa la siguiente imagen:</p>
+<imagen src="CN_11_02_CO_IMG09_small.jpg">
+<p>Las curvas roja y negra representan dos ondas de las mismas características
+(amplitud, número de onda y frecuencia angulares), pero están desfasas
+π⁄2 radianes, el desfase se representa con la letra griega ϕ.</p>
+</imagen>
+<p>Ese corrimiento se denomina <negrita>fase</negrita> y la ecuación
+general para la onda se expresa de la siguiente manera:</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_37.gif">
+</formula>
+<p><cursiva>ϕ</cursiva> es el desfase que tiene unidades de [rad].</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso150&amp;IdRecurso=RES-BC4E126C70964E5B8FC02BE0E96FC69F"
+>Las propiedades de las ondas</enlace>
+</practica><seccion2
+id="S2_CN_11_02_CO_206EA6CD945A4B6A9895C08729982CA1">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso160&amp;IdRecurso=RES-561CEB82559A4B04B9F250CC6DFE1085"
+>Refuerza tu aprendizaje: Las ecuaciones de onda</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_11_02_CO_ED2DD38D7A8741629F294A87A2603379">
+<seccion1Titulo>La energía en las ondas</seccion1Titulo>
+<seccion1Texto>
+<p>Las ondas se originan por una perturbación inicial en el <negrita
+>punto de origen</negrita> de la onda; la <negrita>energía</negrita
+> que se transfiere a la partícula que está en dicho punto es la que
+se va a propagar.</p>
+<p>La perturbación en el punto inicial se realiza periódicamente,
+es decir, de manera regular se envía energía al medio en el cual la
+onda se propaga. Entonces, la energía que se transfiere por unidad
+de tiempo es la <negrita>potencia</negrita> de la onda que tiene unidades
+de vatios (W).</p>
+<p>La ecuación para la potencia es:</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_38.gif">
+</formula>
+<p>Las ondas sobre una superficie, como las que se forman en un estanque,
+se propagan en todas las direcciones formando circunferencias desde
+el lugar de origen de la onda. A medida que la onda avanza, la circunferencia
+se hace más grande. Esto quiere decir que la <negrita>energía</negrita
+> que se propaga a través de la onda debe distribuirse cada vez en
+un espacio más grande, lo que implica que la <negrita>intensidad</negrita
+> de la onda va a disminuir a medida que se desplaza y se aleja del <negrita
+>punto de propagación</negrita> original, como se muestra en la siguiente
+imagen:</p>
+<imagen src="CN_11_02_CO_IMG10_small.jpg">
+<p>El sentido de propagación de la energía (flecha roja) que origina
+la onda en el punto O, se propaga en todas las direcciones. A medida
+que se aleja, O cubre mayores circunferencias.</p>
+</imagen>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso170&amp;IdRecurso=RES-6085ECEFEAAA4A9C9E1D61D42C7A3D9D"
+>Energía de las ondas</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso180&amp;IdRecurso=RES-BA52FC409C864FBDBEB90861368D9F81"
+>Potencia e intensidad de las ondas</enlace>
+</practica>
+<p>A medida que la <negrita>onda</negrita> se propaga en un estanque
+se ve que su <negrita>amplitud</negrita> disminuye, se hace más pequeña,
+esto significa que la <negrita>intensidad</negrita> depende del <negrita
+>espacio</negrita> que cubra la circunferencia y de la <negrita>energía</negrita
+> que se transporte por unidad de tiempo. La <negrita>intensidad</negrita
+> se define de la siguiente forma:</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_39.gif">
+</formula>
+<p>Otro ejemplo en el que se percibe cómo la intensidad disminuye
+a medida que la onda se propaga es en el <negrita>sonido</negrita
+>. A medida que una persona se aleja del parlante, el sonido se escucha
+más suave. Este caso es un ejemplo del tipo de ondas que se propagan
+en tres dimensiones, es decir, que forman cascos esféricos alrededor
+del origen de la onda.</p>
+<p>Por tanto, a medida que la onda se propaga, la energía por unidad
+de tiempo debe distribuirse en un área cada vez mayor, como se muestra
+en la siguiente figura:</p>
+<imagen src="CN_11_02_CO_IMG11_small.jpg">
+<p>El sentido de propagación de la energía (flecha azul) que origina
+la onda en el punto O es en todas las direcciones. A medida que se
+aleja del punto O, la energía cubre mayores áreas.</p>
+</imagen>
+<p>Para estas ondas vemos que el área que debe cubrir la onda es la
+de un cascarón esférico, cuya <negrita>área</negrita> es: 4<cursiva
+>πr</cursiva><superindice>2</superindice>, y la <negrita>intensidad</negrita
+> queda definida así:</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_40.gif">
+</formula>
+<p>A medida que la onda avanza cubre una mayor área y, por tanto,
+la intensidad disminuye. La <negrita>intensidad</negrita> es inversamente
+proporcional al área o inversamente proporcional al cuadrado del radio
+o a la distancia a la que se encuentre de su punto de origen.</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_41.gif">
+</formula>
+<p>Por otro lado, la <negrita>potencia</negrita> de la onda siempre
+es la misma, es constante debido a que la perturbación inicial es
+periódica. Por tanto, la <negrita>distancia</negrita> es el único
+factor que hace variar la intensidad de la onda.</p>
+<destacado><destacadoTitulo>Las ondas sísmicas</destacadoTitulo>
+<destacadoTexto>
+<p><negrita>Ejemplo</negrita><br/>La intensidad de una onda sísmica
+que viaja a través de las rocas y que se detecta a 100 km del epicentro
+es de 1 x 10<superindice>6</superindice> W/m<superindice>2</superindice
+>.</p>
+<p>¿Cuál es la intensidad a 400 km del epicentro?</p>
+<p><negrita>Solución</negrita><br/>Como se conocen la intensidad y
+la distancia a la que se percibe dicha intensidad, se puede hallar
+la potencia, así:</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_42.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_43.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_44.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_45.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_46.gif">
+</formula>
+<p>La potencia en una onda es constante, entonces se usará ese valor
+para calcular la intensidad a la distancia pedida</p>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_47.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_48.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_02_CO_formula_49.gif">
+</formula>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso190&amp;IdRecurso=RES-4B04B91241564A55B83FCE404EBA2D52"
+>Términos relacionados con la energía de las ondas</enlace>
+</practica><seccion2
+id="S2_CN_11_02_CO_206EA6CD945A4B6A9895C0872998A3B2">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso200&amp;IdRecurso=RES-3A6A09E1FC364933B936EBDE8A1F7FE7"
+>Refuerza tu aprendizaje: La energía de las ondas</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_11_02_CO_0167694E1B3D42E6AC829673D70A7A32">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p><?Pub
+Caret -1?>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso210&amp;IdRecurso=RES-71C4CC1EE18043CB8E8956476EB16BF2"
+>Competencias: estudio de las ondas longitudinales y transversales</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso220&amp;IdRecurso=RES-528B8480AE14483DB468044E809C90BD"
+>Competencias: construcción de un sismógrafo</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CN_11_02_CO_CF6640F0DCD24B63A69061E9871FC2FD"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso240&amp;IdRecurso=RES-045838EAE84943758A7F609B2F8D9137"
+>Mapa conceptual del tema Las ondas</enlace></mapaconceptual>
+<autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_02_CO_Recurso250&amp;IdRecurso=RES-2F9608F810A346608F59C202BC055707"
+>Evalúa tus conocimientos sobre el tema Las ondas</enlace>
+</autoevaluate><enlacesreferencia>
+<enlace
+destino="http://concurso.cnice.mec.es/cnice2005/56_ondas/ondas.swf"
+>Las ondas.</enlace>
+<enlace
+destino="http://panamaigc-up.com/images/swf%20and%20flash%20file/terremoto.swf?8ee187"
+>Simulador de sismos.</enlace>
+<enlace destino="https://www.youtube.com/watch?v=rQ7ZHx3hU8w">Tipos
+de onda.</enlace>
+</enlacesreferencia></masinformacion></libro>
