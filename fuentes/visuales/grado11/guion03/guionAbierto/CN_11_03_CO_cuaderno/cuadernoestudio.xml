@@ -1,0 +1,938 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="cuadernoestudio/dtd/libro.xslt" type="text/xsl"?>
+<!--Arbortext, Inc., 1988-2015, v.4002-->
+<!DOCTYPE libro SYSTEM "cuadernoestudio/dtd/libro.dtd">
+<?Pub Inc?>
+<libro id="CN_11_03_CO">
+<libroTitulo>La luz y el sonido</libroTitulo>
+<seccion1 id="S1_CN_11_03_CO_11B66890C17F4269B097FC30695F608A">
+<seccion1Titulo>El sonido</seccion1Titulo>
+<seccion1Texto>
+<p>En la naturaleza hay muchos seres vivos capaces de percibir el
+sonido en rangos más amplios que el ser humano; las ballenas, por
+ejemplo, se comunican entre ellas con ondas que alcanzan 100 000 Hz,
+mientras los perros detectan ondas que alcanzan los 45 000 Hz; estos
+animales pueden percibir sonidos que los seres humanos muchas veces
+ignoramos aunque estén presentes. Conozcamos la naturaleza de estas
+ondas y la manera como alcanzan a los receptores.</p>
+<profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_03_CO_Recurso010&amp;IdRecurso=RES-B58F13736D6D455E975F0DB8E3C9BA22"
+>La naturaleza y la propagación del sonido</enlace>
+</profundiza><seccion2
+id="S2_CN_11_03_CO_6CD2CA4D18404682A42EF723F2046BB9">
+<seccion2Titulo>La naturaleza del sonido</seccion2Titulo>
+<seccion2Texto>
+<p>Cuando conseguimos que un objeto vibre lo podemos percibir como
+un sonido; por ejemplo, al golpear una lámina metálica con un martillo,
+al pulsar una cuerda tensada, como las de la guitarra, o cuando agitamos
+bruscamente un látigo en el aire, hacemos que estos objetos se muevan
+de manera repetitiva sobre un punto de equilibrio, produciendo una
+serie de <negrita>vibraciones</negrita>.</p>
+<p>Las vibraciones de los cuerpos se transfieren al medio elástico
+en el que se encuentran, de manera que generan una <negrita>perturbación</negrita
+> que, eventualmente, llega a un aparato detector de sonido como son
+los oídos y otros órganos sensores en las plantas, que responden a
+las perturbaciones del medio ambiente.</p>
+<p>De manera más precisa, cuando una partícula vibra en un <negrita
+>medio elástico</negrita>, como el aire, el agua u otros medios fluidos,
+choca contra otras partículas cercanas, transmitiéndoles esa misma
+vibración, de manera que se producen zonas de compresión (con mayor
+densidad y presión de lo normal) y zonas de relajación (de menor densidad
+y menor presión) generando una onda longitudinal. Esta, al alcanzar
+al <negrita>oído humano</negrita>, por ejemplo, ejerce presión sobre
+el tímpano, una membrana templada, capaz de moverse hacia adelante
+y hacia atrás, que transmite la vibración a un mecanismo de tres huesecillos
+del oído medio, y que se concentra en una estructura enrollada o caracol
+llena de líquido que sostiene un tabique apoyado en uno de sus extremos,
+por lo que oscila y es el encargado de percibir y detectar distintos
+desplazamientos y transformarlos en impulsos eléctricos que, en el <negrita
+>cerebro</negrita>, son interpretados como sensaciones sonoras de
+diferentes frecuencias.</p>
+<p>Lo que el <negrita>oído humano</negrita> interpreta como sonidos
+solamente son ondas que llegan a él con <negrita>frecuencias</negrita
+> entre 16 y 20 000 vibraciones por segundo. Estos límites pueden
+tomarse como cifra media, ya que la <negrita>sensibilidad auditiva</negrita
+> varía de una persona a otra.</p>
+<p>El <negrita>sonido</negrita> puede definirse como una <negrita
+>onda mecánica</negrita> que se propaga a través de diferentes <negrita
+>medios elásticos</negrita>, que pueden ser sólidos, líquidos o gaseosos,
+en donde las ondas se difunden con diferentes velocidades, dependiendo
+de las fuerzas intermoleculares que existen en cada medio material.
+Por esta razón, el sonido se propaga de mayor a menor velocidad en
+los sólidos, los líquidos y los gases, y se explica desde las leyes
+de la mecánica.</p>
+<imagen src="CN_11_03_CO_IMG01_small.jpg">
+<p>En la onda sonora el movimiento de vibración de las partículas
+del medio elástico es paralelo al movimiento de propagación de la
+onda; es decir, se encuentran en la misma dirección, por lo que se
+puede afirmar que el sonido es una onda longitudinal.</p>
+</imagen>
+<p>La vibración generada por un emisor produce <negrita>compresiones</negrita
+> y <negrita>expansiones</negrita> en el medio, en la misma dirección
+en que avanza o se propaga la onda. <negrita>El sonido no se puede
+propagar en el vacío</negrita>.</p>
+<recuerda><recuerdaTexto>
+<p>El sonido es una <negrita>onda mecánica</negrita> porque requiere
+de un medio elástico para su propagación.</p>
+<p>El sonido es también una <negrita>onda longitudinal</negrita> porque
+las vibraciones de las partículas tienen la misma dirección que la
+propagación de la onda.</p>
+</recuerdaTexto></recuerda><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_03_CO_Recurso020&amp;IdRecurso=RES-5EE7C5CEEA634DBF806D7109202B027E"
+>Las características del sonido</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_03_CO_4F105E87E8CA47CDA159006A5A8F7BF7">
+<seccion2Titulo>La velocidad del sonido</seccion2Titulo>
+<seccion2Texto>
+<p>Las ondas sonoras viajan a través de diferentes medios con distintas
+velocidades dependiendo de factores como: la densidad, la elasticidad
+y la temperatura del medio. La velocidad del sonido aumenta dependiendo
+de la fase de la materia, por lo que entre mayor densidad tenga, mayor
+es su velocidad de propagación. En la siguiente tabla se muestran
+diferentes velocidades del sonido en medios distintos; estos son datos
+hallados experimentalmente.</p>
+<table border="1"><caption>Velocidades del sonido en diferentes medios</caption>
+<colgroup><col/><col/></colgroup>
+<tbody>
+<tr>
+<td align="center"><cursiva>Sustancia</cursiva></td>
+<td align="center"><cursiva>Velocidad</cursiva> (m/s)</td>
+</tr>
+<tr>
+<td>Aire (a 0 °C)</td>
+<td>331</td>
+</tr>
+<tr>
+<td>Aire (a 15 °C)</td>
+<td>340</td>
+</tr>
+<tr>
+<td>Helio</td>
+<td>1000</td>
+</tr>
+<tr>
+<td>Alcohol</td>
+<td>1220</td>
+</tr>
+<tr>
+<td>Agua</td>
+<td>1440</td>
+</tr>
+<tr>
+<td>Agua del mar</td>
+<td>1500</td>
+</tr>
+<tr>
+<td>Vidrio</td>
+<td>4500</td>
+</tr>
+<tr>
+<td>Concreto</td>
+<td>3000</td>
+</tr>
+<tr>
+<td>Madera dura</td>
+<td>4000</td>
+</tr>
+<tr>
+<td>Hierro</td>
+<td>5000</td>
+</tr>
+<tr>
+<td>Aluminio</td>
+<td>5100</td>
+</tr>
+</tbody>
+</table>
+<p>En los <negrita>medios gaseosos</negrita>, las fuerzas intermoleculares
+se ven afectadas por la <negrita>temperatura</negrita>, que a medida
+que se incrementa afecta la densidad y, por tanto, la velocidad con
+la que se propaga el sonido. En los <negrita>medios líquidos</negrita
+> y en los sólidos, la temperatura no afecta considerablemente la
+velocidad de propagación del sonido; sin embrago, el valor de la velocidad
+en cada material es una constante.</p>
+<p>Experimentalmente, se ha encontrado que la velocidad del sonido
+en el aire aumenta 0,6 m/s por cada grado centígrado, determinándose
+la siguiente relación:</p>
+<formula alineacion="centrada" src="CN_11_03_CO_formula_01.gif">
+</formula>
+<p>Donde: <cursiva>v<subindice>0</subindice></cursiva> es la velocidad
+del sonido en el aire a 0 °C, y es igual a 331 m/s y <cursiva>T</cursiva
+> es la temperatura en grados centígrados.</p>
+<destacado><destacadoTitulo>¿Dónde cayó ese rayo? y ¿cuánto demora
+el tren?</destacadoTitulo><destacadoTexto>
+<p><negrita>Ejemplo 1</negrita><br/>En una tarde lluviosa, con una
+temperatura ambiente de 15 °C se escucha un trueno 15 segundos después
+de ver el relámpago, ¿a qué distancia cayó este rayo?</p>
+<p><negrita>Solución</negrita><br/>Como la velocidad del sonido es
+constante, entonces:</p>
+<formula alineacion="centrada" src="CN_11_03_CO_formula_02.gif">
+</formula>
+<p>La velocidad del sonido es igual a</p>
+<formula alineacion="centrada" src="CN_11_03_CO_formula_03.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_03_CO_formula_04.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_03_CO_formula_05.gif">
+</formula>
+<p>Entonces,</p>
+<formula alineacion="centrada" src="CN_11_03_CO_formula_06.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_03_CO_formula_07.gif">
+</formula>
+<p><negrita>Ejemplo 2</negrita><br/>En el riel de un tren el sonido
+se propaga a una velocidad de 4,5 km/s, ¿cuánto se demora la onda
+sonora que produce el tren en el riel para recorrer 72 km?</p>
+<p><negrita>Solución</negrita><br/>Como la velocidad del sonido es
+constante, entonces:</p>
+<formula alineacion="centrada" src="CN_11_03_CO_formula_08.gif">
+</formula>
+<p>Así,</p>
+<formula alineacion="centrada" src="CN_11_03_CO_formula_09.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_03_CO_formula_10.gif">
+</formula>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_03_CO_Recurso040&amp;IdRecurso=RES-0E62313F246B4DB895FD23DD84BA1D2D"
+>Conoce la velocidad como se mueve el sonido</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_03_CO_E1D5BD1612AA41DFB31130C0A5EF4232">
+<seccion2Titulo>Características del sonido</seccion2Titulo>
+<seccion2Texto>
+<p>La sonoridad es una impresión subjetiva atribuida por quien escucha;
+en cambio, la energía de la onda sonora es una magnitud física. Los
+sonidos se distinguen unos de otros por sus características de intensidad,
+tono y timbre.</p>
+<seccion3 id="S3_CN_11_03_CO_E1D5BD1612AA41DFB31130C0A5EF5388">
+<seccion3Titulo>Intensidad</seccion3Titulo>
+<seccion3Texto>
+<p>Para estudiar esta característica del sonido examinaremos en detalle
+las siguientes experiencias:</p>
+<listaSinNumerar>
+<listaElemento>Si se dejan caer dos objetos (uno de masa mayor que
+el otro) al piso, desde la misma altura, se escuchará con mayor “fuerza”
+el sonido del golpe producido por el objeto de mayor masa.<br/><br
+/>En este caso, se escucha con mayor <negrita>intensidad</negrita
+> el sonido producido por el objeto de mayor masa puesto que este
+genera una onda sonora de mayor <negrita>amplitud</negrita> que el
+sonido emitido por el de menor masa.</listaElemento>
+<listaElemento>El sonido producido por el golpe de un objeto al chocar
+contra el piso será escuchado con mayor fuerza por una persona que
+se encuentre cerca del evento que por otra persona que se encuentre
+a mayor distancia.<br/><br/>En este caso se dice que la persona que
+se encuentra más cerca del evento percibe con mayor <negrita>intensidad</negrita
+> el sonido que la persona que está más lejos debido a que la <negrita
+>amplitud</negrita> de la onda sonora va disminuyendo a medida que
+la energía vibrante abarca cada vez mayor área alrededor del punto
+de origen de propagación, como se ilustra en la siguiente gráfica:</listaElemento>
+</listaSinNumerar>
+<imagen src="CN_11_03_CO_IMG02_small.jpg">
+<p>La energía sonora (flecha azul) que origina la onda en el punto
+O se propaga en todas las direcciones. A medida que se aleja de O,
+una misma cantidad de energía cubre mayores áreas disminuyendo su
+intensidad.</p>
+</imagen>
+<p>El sonido es un caso de ondas que se propagan en tres dimensiones,
+es decir, se forman cascos esféricos alrededor del origen de la onda.
+Por tanto, cuando la onda se propaga la energía por unidad de tiempo
+debe distribuirse en un área cada vez mayor.</p>
+<p>La <negrita>intensidad</negrita> depende del área que cubra la
+circunferencia y de la energía que se transporte por unidad de tiempo.
+Para estas ondas vemos que el área que debe cubrir la onda es la de
+un cascarón esférico, cuya fórmula es: 4<cursiva>πr</cursiva><superindice
+>2</superindice>, por lo que la intensidad queda definida así:</p>
+<formula alineacion="centrada" src="CN_11_03_CO_formula_11.gif">
+</formula>
+<p>En conclusión, la intensidad del sonido disminuye proporcionalmente
+con el cuadrado de la distancia a la fuente sonora (<negritacursiva
+>r</negritacursiva>).</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_03_CO_E1D5BD1612AA41DFB31130C0A5EF6499">
+<seccion3Titulo>Medida de la intensidad del sonido</seccion3Titulo>
+<seccion3Texto>
+<p>Para medir la intensidad del sonido se debe tener en cuenta la
+intensidad propia de la fuente sonora, que se mide en <negrita>watios</negrita
+> sobre metro cuadrado (<negritacursiva>W/m<superindice>2</superindice
+></negritacursiva>) y la intensidad de la sensación sonora que se
+mide en <negrita>belios</negrita> (<negrita>B</negrita>).</p>
+<p>La intensidad de la fuente sonora aumenta exponencialmente desde
+10<superindice>-12</superindice> W/m<superindice>2</superindice> hasta
+10<superindice>0</superindice> W/m<superindice>2</superindice>, y
+la intensidad de la sensación sonora varía linealmente desde 0 B hasta
+12 B. Observa la siguiente tabla sobre intensidades del sonido:</p>
+<table border="1"><colgroup><col span="3"/><col/></colgroup>
+<tbody>
+<tr>
+<td align="center">Intensidad de la fuente sonora (W/m<superindice
+>2</superindice>)</td>
+<td align="center">Nivel del sonido belios (B)</td>
+<td align="center">Nivel del sonido decibelios (dB)</td>
+<td align="center">Sensación en el oído humano</td>
+</tr>
+<tr>
+<td align="center">1 x 10<superindice>-12</superindice></td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td>Umbral audible</td>
+</tr>
+<tr>
+<td align="center">1 x 10<superindice>-11</superindice></td>
+<td align="center">1</td>
+<td align="center">10</td>
+<td></td>
+</tr>
+<tr>
+<td align="center">1 x 10<superindice>-10</superindice></td>
+<td align="center">2</td>
+<td align="center">20</td>
+<td>Murmullo</td>
+</tr>
+<tr>
+<td align="center">1 x 10<superindice>-9</superindice></td>
+<td align="center">3</td>
+<td align="center">30</td>
+<td></td>
+</tr>
+<tr>
+<td align="center">1 x 10<superindice>-8</superindice></td>
+<td align="center">4</td>
+<td align="center">40</td>
+<td></td>
+</tr>
+<tr>
+<td align="center">1 x 10<superindice>-7</superindice></td>
+<td align="center">5</td>
+<td align="center">50</td>
+<td></td>
+</tr>
+<tr>
+<td align="center">1 x 10<superindice>-6</superindice></td>
+<td align="center">6</td>
+<td align="center">60</td>
+<td>Conversación normal</td>
+</tr>
+<tr>
+<td align="center">1 x 10<superindice>-5</superindice></td>
+<td align="center">7</td>
+<td align="center">70</td>
+<td></td>
+</tr>
+<tr>
+<td align="center">1 x 10<superindice>-4</superindice></td>
+<td align="center">8</td>
+<td align="center">80</td>
+<td></td>
+</tr>
+<tr>
+<td align="center">1 x 10<superindice>-3</superindice></td>
+<td align="center">9</td>
+<td align="center">90</td>
+<td></td>
+</tr>
+<tr>
+<td align="center">1 x 10<superindice>-2</superindice></td>
+<td align="center">10</td>
+<td align="center">100</td>
+<td>Discoteca</td>
+</tr>
+<tr>
+<td align="center">1 x 10<superindice>-1</superindice></td>
+<td align="center">11</td>
+<td align="center">110</td>
+<td></td>
+</tr>
+<tr>
+<td align="center">1 x 10<superindice>0</superindice></td>
+<td align="center">12</td>
+<td align="center">120</td>
+<td>Taladro neumático a dos metros de distancia</td>
+</tr>
+</tbody>
+</table>
+<p>Con base en la tabla anterior, el nivel de la sensación sonora
+B se podría calcular en función del logaritmo de la relación entre
+la intensidad de la fuente y la intensidad del umbral audible, así:</p>
+<formula alineacion="centrada" src="CN_11_03_CO_formula_12.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_03_CO_formula_13.gif">
+</formula>
+<destacado><destacadoTitulo>¡Qué intensidad la de esa sirena!</destacadoTitulo>
+<destacadoTexto>
+<p><negrita>Ejemplo</negrita><br/>En la esquina de una calle hay una
+ambulancia con las sirenas encendidas, y el nivel de sonido es de
+90 dB. ¿Cuál es la intensidad del sonido que produce la sirena?</p>
+<p><negrita>Solución</negrita><br/> Tenemos que la sensación sonora
+depende de:</p>
+<formula alineacion="centrada" src="CN_11_03_CO_formula_14.gif">
+</formula>
+<p>donde, <cursiva>B</cursiva> = 90 dB, por tanto,</p>
+<formula alineacion="centrada" src="CN_11_03_CO_formula_15.gif">
+</formula>
+<p>entonces se debe hallar</p>
+<formula alineacion="centrada" src="CN_11_03_CO_formula_16.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_03_CO_formula_17.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_03_CO_formula_18.gif">
+</formula>
+<p>Utilizando las propiedades de los logaritmos,</p>
+<formula alineacion="centrada" src="CN_11_03_CO_formula_19.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_03_CO_formula_20.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_03_CO_formula_21.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_03_CO_formula_22.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_03_CO_formula_23.gif">
+</formula>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_03_CO_Recurso050&amp;IdRecurso=RES-2336BBB917EF40CAA24E74D87B7A18F0"
+>¿Qué sabes sobre los decibelios?</enlace>
+</practica></seccion3Texto></seccion3><seccion3
+id="S3_CN_11_03_CO_E1D5BD1612AA41DFB31130C0A5EF7500">
+<seccion3Titulo>Tono</seccion3Titulo>
+<seccion3Texto>
+<p>Esta característica el sonido permite clasificarlo como <negrita
+>agudo</negrita> o <negrita>grave</negrita>, al comparar dos señales
+sonoras. Esta cualidad depende de la frecuencia de vibración de la
+onda.</p>
+<p>Un sonido es <negrita>más agudo</negrita> que otro si tiene <negrita
+>alta frecuencia</negrita>, y es más grave que otro si la frecuencia
+de vibración es menor. Como se anotó, el oído humano percibe como
+sonido aquellas ondas cuyas frecuencias están comprendidas en un rango
+de 16 a 20 000 vibraciones por segundo (Hz).</p>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_03_CO_E1D5BD1612AA41DFB31130C0A5EF8611">
+<seccion3Titulo>Timbre</seccion3Titulo>
+<seccion3Texto>
+<p>Esta característica o cualidad del sonido permite identificar la <negrita
+>fuente</negrita> de la onda sonora. Por esto, por ejemplo, puedes
+distinguir e identificar las voces familiares cuando conversan en
+un recinto vecino aunque no los puedas ver, ya que cada uno tiene
+un timbre de voz característico.</p>
+<p>De igual manera, cuando los distintos instrumentos de una orquesta
+emiten sonidos con la misma intensidad e igual frecuencia, el oído
+humano puede distinguirlos, porque cada instrumento, además de los
+sonidos fundamentales, produce otros sonidos secundarios, denominados <negrita
+>armónicos</negrita>, que acompañan al sonido fundamental. Si se registran
+gráficamente estos sonidos se obtienen curvas sinusoidales con diferentes
+formas, que se atribuyen al sonido característico del emisor: su <negrita
+>timbre</negrita>.</p>
+<imagen src="CN_11_03_CO_IMG03_small.jpg">
+<p>El registro de las ondas sonoras de diferentes instrumentos de
+la misma intensidad (igual amplitud) y del mismo tono (de la misma
+longitud de onda y, por consiguiente, la misma frecuencia) difieren
+en las pequeñas ondulaciones que acompañan al sonido fundamental.</p>
+</imagen>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_03_CO_E1D5BD1612AA41DFB31130C0A5EF3121">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_03_CO_Recurso060&amp;IdRecurso=RES-008138E85E5F40F399293EE60FA26290"
+>Refuerza tu aprendizaje: Las ondas sonoras</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_11_03_CO_B67B1761AB104DFEA3D200B5F2145EAA">
+<seccion1Titulo>El efecto Doppler</seccion1Titulo>
+<seccion1Texto>
+<p>El efecto Doppler, que se aplica para todo tipo de ondas, estudia
+la variación de la frecuencia con la que se percibe una onda, cuando
+la <negrita>fuente emisora</negrita> y el <negrita>receptor</negrita
+> se encuentran en <negrita>movimiento</negrita>, uno con respecto
+del otro.</p>
+<p>Para las ondas sonoras, este efecto produce la <negrita>variación
+de la frecuencia</negrita> con la cual se percibe un sonido, cuando
+la fuente sonora se acerca o se aleja del receptor, cuando el receptor
+se acerca o se aleja de la fuente sonora y cuando ambos se acercan
+o se alejan simultáneamente.</p>
+<p>Por esta razón, si una persona vendada se encuentra a la orilla
+de una carretera, puede percibir si un automóvil se acerca o se aleja,
+de acuerdo con la frecuencia del sonido generada por el motor del
+auto.</p>
+<p>Para el estudio de este fenómeno se utilizarán las siguientes convenciones:<br
+/><br/><negritacursiva>v</negritacursiva>: velocidad del sonido en
+el medio correspondiente (valor constante).<br/><negritacursiva>v<subindice
+>e</subindice></negritacursiva>: velocidad del emisor.<br/><negritacursiva
+>v<subindice>r</subindice></negritacursiva>: velocidad del receptor.<br
+/><negritacursiva>f</negritacursiva>: frecuencia de emisión (permanece
+constante).<br/><negritacursiva>f<subindice>r</subindice></negritacursiva
+>: frecuencia de recepción.</p>
+<listaSinNumerar>
+<listaElemento><negrita>Primera situación</negrita>: cuando el receptor
+se acerca o se aleja de la fuente sonora y esta permanece en reposo:<br
+/><br/>Cuando se acerca, <formula alineacion="centrada"
+src="CN_11_03_CO_formula_24.gif"></formula><br/><br/>Cuando se aleja,<formula
+alineacion="centrada" src="CN_11_03_CO_formula_25.gif"></formula></listaElemento>
+<listaElemento><negrita>Segunda situación</negrita>: si la fuente
+sonora se acerca o se aleja del receptor, pero este permanece en reposo:<br
+/><br/>Cuando se acerca,<formula alineacion="centrada"
+src="CN_11_03_CO_formula_26.gif"></formula><br/><br/>Cuando se aleja,<formula
+alineacion="centrada" src="CN_11_03_CO_formula_27.gif"></formula></listaElemento>
+<listaElemento><negrita>Tercera situación</negrita>: si tanto el receptor
+como la fuente se acercan o se alejan, simultáneamente:<br/><br/>Cuando
+ambos se acercan, <formula alineacion="centrada"
+src="CN_11_03_CO_formula_28.gif"></formula><br/><br/>Cuando ambos
+se alejan, <formula alineacion="centrada"
+src="CN_11_03_CO_formula_29.gif"></formula></listaElemento>
+</listaSinNumerar>
+<destacado><destacadoTitulo>¿Ya llega la ambulancia?</destacadoTitulo>
+<destacadoTexto>
+<p><negrita>Ejemplo</negrita><br/>Un observador se mueve con una velocidad
+de 15 m/s y la fuente sonora, una ambulancia, va a una velocidad de
+50 m/s mientras emite un sonido de 500 Hz, en una tarde donde la temperatura
+ambiente es de 15 °C, es decir, que la velocidad del sonido en el
+aire es 340 m/s.</p>
+<p>Calcular la frecuencia con la cual el observador percibe el sonido
+en los seis casos posibles.</p>
+<p><negrita>Solución</negrita><br/>Los datos consignados en el enunciado
+son:</p>
+<p><cursiva>v</cursiva> = 340 m/s, <cursiva>v<subindice>r</subindice
+></cursiva> = 15 m/s, <cursiva>v<subindice>e</subindice></cursiva
+> = 50 m/s <cursiva>f</cursiva> = 500 Hz</p>
+<listaNumerada>
+<listaElemento>Cuando el observador o receptor se acerca a la fuente,<br
+/><br/><formula alineacion="centrada" src="CN_11_03_CO_formula_30.gif">
+</formula><br/><br/><formula alineacion="centrada"
+src="CN_11_03_CO_formula_31.gif"></formula></listaElemento>
+<listaElemento>Cuando el observador se aleja de la fuente,<br/><br
+/><formula alineacion="centrada" src="CN_11_03_CO_formula_32.gif">
+</formula></listaElemento>
+<listaElemento>Cuando la fuente se acerca al observador,<br/><br/><formula
+alineacion="centrada" src="CN_11_03_CO_formula_33.gif"></formula></listaElemento>
+<listaElemento>Cuando la fuente se aleja del observador,<br/><br/><formula
+alineacion="centrada" src="CN_11_03_CO_formula_34.gif"></formula></listaElemento>
+<listaElemento>Cuando la fuente y el observador se acercan,<br/><br
+/><formula alineacion="centrada" src="CN_11_03_CO_formula_35.gif">
+</formula></listaElemento>
+<listaElemento>Cuando la fuente y el observador se alejan,<br/><br
+/><formula alineacion="centrada" src="CN_11_03_CO_formula_36.gif">
+</formula></listaElemento>
+</listaNumerada>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_03_CO_Recurso070&amp;IdRecurso=RES-F70FDA14D30148F283DC7463033056E5"
+>El efecto Doppler</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_03_CO_Recurso080&amp;IdRecurso=RES-ECE951E623584F6BBD80156ED251B58B"
+>Resuelve problemas con el efecto Doppler</enlace>
+</practica><seccion2
+id="S2_CN_11_03_CO_A06BFBE35D1847038033B13AF7507BD8">
+<seccion2Titulo>Ondas de choque</seccion2Titulo>
+<seccion2Texto>
+<p>La <negrita>onda de choque</negrita> es un fenómeno que se produce
+cuando una fuente sonora viaja con mayor velocidad que la del sonido,
+en el medio en el cual se mueve la fuente.</p>
+<p>Ejemplos de esta situación se presentan cuando un avión supera
+la velocidad de 340 m/s que es la velocidad del sonido promedio en
+el aire, cuando los meteoritos entran a la atmósfera terrestre, cuando
+escuchamos los truenos durante las tormentas, o en el caso de las
+explosiones, controladas o no. Observa la siguiente gráfica:</p>
+<imagen src="CN_11_03_CO_IMG04_small.jpg">
+<p>La imagen enseña la representación de una onda de choque en cuatro
+pasos: 1) el tambor emite una onda, 2) el tambor se mueve en línea
+recta pero las ondas sonoras se mueven con mayor velocidad, 3) el
+tambor alcanza el sonido del aire, 4) el tambor supera la velocidad
+del aire y las ondas forman un cono de Mach, el cual representa la
+onda de choque.</p>
+</imagen>
+<p>Para que se produzca la <negrita>onda de choque</negrita>, la fuente
+emisora del sonido debe realizar los siguientes pasos, en el caso
+del tambor:</p>
+<listaNumerada>
+<listaElemento>El tambor, al ser golpeado por una baqueta, produce
+ondas sonoras que se propagan a través del aire en todas las direcciones.</listaElemento>
+<listaElemento>El tambor que produce las ondas sonoras se mueve progresivamente
+en línea recta, pero las ondas sonoras se mueven más rápido que el
+tambor, de tal manera que frente este las ondas se comprimen, aumentando
+su frecuencia y, por el contrario, detrás del tambor las ondas se
+dispersan disminuyendo la frecuencia (efecto Doppler).</listaElemento>
+<listaElemento>El tambor alcanza la velocidad del sonido en el aire.</listaElemento>
+<listaElemento>El tambor supera la velocidad del sonido dejando atrás
+las ondas que produce, las cuales quedan dentro de una superficie
+que recibe el nombre de cono de Mach, que es propiamente la onda de
+choque.</listaElemento>
+</listaNumerada>
+<p>Las ondas de choque son utilizadas para la destrucción controlada
+de edificaciones (explosiones controladas) y en medicina para el tratamiento
+desintegrador de cálculos renales, uretrales, pancreáticos y salivares,
+además de servir en tratamientos antiinflamatorios.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_03_CO_Recurso090&amp;IdRecurso=RES-0EE301E3BEEC4129B48C05F10ED87CEF"
+>Conoce sobre las ondas de choque</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_03_CO_A06BFBE35D1847038033B13AF7509CE9">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_03_CO_Recurso100&amp;IdRecurso=RES-E22B1E08AD0147508335208AE05A07B4"
+>Refuerza tu aprendizaje: El efecto Doppler</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_11_03_CO_767A8D34670C4B0B93E6891509F05C1B">
+<seccion1Titulo>La luz</seccion1Titulo>
+<seccion1Texto>
+<p>La luz es una forma de energía utilizada por las plantas para fabricar
+su propio alimento, y por muchos animales para recibir información
+de lo que se encuentra a su alrededor, utilizando distintos mecanismos
+de percepción que dependen de las propiedades de la luz y de la sensibilidad
+de los órganos receptores que han desarrollado según su evolución.
+Así, por ejemplo, el ojo humano detecta distintas frecuencias, ve
+colores; mientras las abejas, además, detectan la polarización de
+las ondas.</p>
+<p>Para empezar a estudiar la luz es importante saber que existen
+cuerpos que producen y emiten su propia luz, y se conocen como <negrita
+>fuentes luminosas</negrita>, y otros que la absorben y la reflejan,
+son los llamados <negrita>cuerpos opacos</negrita>.</p>
+<p>La luz se propaga a través de diferentes medios, los cuales se
+pueden clasificar en <negrita>medios transparentes</negrita> y <negrita
+>medios traslúcidos</negrita>; así mismo, existen otros cuerpos por
+los que la luz no se propaga, estos son los cuerpos opacos.</p>
+<p>Los <negrita>medios</negrita> o cuerpos <negrita>transparentes</negrita
+> permiten el paso de la luz sin dispersarla, como por ejemplo, los
+vidrios de los ventanales de las casas, que permiten identificar con
+claridad los objetos que se encuentran del otro lado.</p>
+<p>Los cuerpos o <negrita>medios traslúcidos</negrita> permiten el
+paso de la luz pero la dispersan en diferentes direcciones, es decir,
+dejan pasar la luz pero no permiten identificar con claridad los objetos
+que tratamos ver al otro lado del medio.</p>
+<imagen src="CN_11_03_CO_IMG05_small.jpg">
+<p>El vidrio martillado que aparece a la derecha no deja ver con claridad
+la imagen que está tras él, aunque permite el paso de la luz, es traslúcido,
+mientras que el vidrio de la izquierda deja ver con claridad lo que
+hay tras él, por lo que se le llama un medio o cuerpo transparente.</p>
+</imagen>
+<seccion2 id="S2_CN_11_03_CO_629DD8E29E244DC7BD370965C8118402">
+<seccion2Titulo>Naturaleza de la luz</seccion2Titulo>
+<seccion2Texto>
+<p>Un gran interrogante de la humanidad ha sido: ¿por qué vemos los
+objetos? Los antiguos griegos suponían que todos los cuerpos emitían
+partículas que impresionaban la visión humana permitiéndoles ser observados.
+Pero, ¿por qué la parte posterior de los objetos no era vista por
+un observador ubicado al frente de ellos?</p>
+<p>En la segunda mitad del siglo XVII surge la primera teoría científica
+sobre la naturaleza de la luz, conocida como la <negrita>teoría corpuscular</negrita
+>, postulada por sir Isaac Newton, que expresaba lo siguiente: “De
+los cuerpos luminosos se desprenden corpúsculos finísimos que se mueven
+en línea recta, siguiendo las leyes de la mecánica, al tropezar con
+el ojo producen la sensación de luz”. De acuerdo con esto, estos llamados
+corpúsculos (que suponían partículas sin masa) podían atravesar los
+cuerpos transparentes y se reflejaban en las superficies de los cuerpos
+opacos, que podían absorber parte de ellos. Pero esta teoría no explicaba
+los fenómenos de difracción ni el de la interferencia de la luz.</p>
+<p>Paralelamente a la teoría corpuscular se postuló la <negrita>teoría
+ondulatoria</negrita>, defendida inicialmente por el físico holandés <negrita
+>Christian Huygens</negrita> (1629-1695), y apoyada posteriormente
+por <negrita>Tomás Young</negrita> (1773-1829) y <negrita>Agustín
+Fresnel</negrita> (1788-1827). En dicha teoría se afirmaba que la
+luz era una onda mecánica transversal, que requería de un medio material
+para su propagación, por lo cual se supuso la existencia del <negrita
+>éter</negrita>, para explicar cómo se transmitía la luz del Sol hacia
+la Tierra. Esta última suposición nunca pudo ser probada. La principal
+objeción a la teoría ondulatoria era que la luz no parecía doblar
+en las esquinas sino que por evidencia viajaba en línea recta.</p>
+<p>Ante las falencias de las teorías anteriores surge, a mediados
+del siglo XIX, la <negrita>teoría electromagnética</negrita>, propuesta
+por James Clark Maxwell (1831-1879), según la cual la luz es una onda
+electromagnética que se puede propagar con velocidad definida, incluso
+en el vacío y, por tanto, no era necesario suponer el <negrita>éter</negrita
+>.</p>
+<p>La teoría electromagnética fue aceptada durante algún tiempo, hasta
+que no logró explicar satisfactoriamente otros fenómenos como el <negrita
+>efecto fotoeléctrico</negrita> y el <negrita>efecto Compton</negrita
+>. Esto provocó que en 1900 el científico alemán <negrita>Max Planck</negrita
+> (1858-1947), apoyado posteriormente por <negrita>Albert Einstein</negrita
+> en 1905, propusiera la <negrita>teoría cuántica</negrita>, la cual
+considera a la luz como paquetes de energía indivisible, <negrita
+>fotones</negrita> o <negrita>quantum</negrita>, emitidos cuando los
+electrones pasan de un nivel de energía superior a otro de menor energía.</p>
+<p>Actualmente se considera que la luz participa de una doble naturaleza:
+ondas y fotones, que son dos caras de una misma realidad; esta <negrita
+>teoría mecánica-ondulatoria</negrita> fue propuesta por el físico
+francés <negrita>Luis de la Broglie</negrita> en su tesis de grado
+en 1923.</p>
+<p>Esta dualidad onda-partícula se reconoce a través de la ecuación <cursiva
+>E = h.f</cursiva>, donde: la frecuencia (<negritacursiva>f</negritacursiva
+>) es una propiedad ondulatoria y el quantum de energía (<negritacursiva
+>E</negritacursiva>) es una propiedad corpuscular, siendo la mínima
+cantidad de luz amarilla que se puede absorber o emitir. La naturaleza
+ondulatoria se apoya en los experimentos de Young, y la corpuscular,
+sobre el efecto fotoeléctrico, en los de Philipp Lenard (1862-1947).</p>
+<destacado><destacadoTitulo>El efecto fotoeléctrico y el efecto Compton</destacadoTitulo>
+<destacadoTexto>
+<p>El <negrita>efecto fotoeléctrico</negrita> fue descubierto por
+Hertz en 1887; sin embargo, fue Albert Einstein quien pudo explicar
+tal fenómeno. Propuso que un <negrita>metal</negrita> emite electrones
+si sobre él se aplica una radiación con cierta intensidad. Para darse
+este efecto de expulsión de electrones, la luz debía estar compuesta
+por partículas a las que Einstein llamó <negrita>fotones</negrita
+>, y para lograr tal efecto estos debían vibrar con cierta frecuencia
+mayor a una frecuencia umbral, <negritacursiva>f<subindice>0</subindice
+></negritacursiva> establecida por Lenard. Einstein demostró que,
+dado que  la luz consta de fotones, cada electrón solo puede recibir
+la energía <negritacursiva>h.f</negritacursiva> de un fotón. El <negrita
+>efecto Compton</negrita> es un efecto que muestra cómo una onda se
+comporta como una partícula. De esta manera, una onda de luz choca
+contra un electrón y, al hacerlo, se dispersa de acuerdo con la conservación
+del momentum de la onda, presentando un cambio en su frecuencia que
+está relacionada con este momemtum.</p>
+</destacadoTexto></destacado><profundiza>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_03_CO_Recurso110&amp;IdRecurso=RES-082F767EAC3C4CF4A7F74122C83D5876"
+>Las ondas de luz</enlace>
+</profundiza><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_03_CO_Recurso120&amp;IdRecurso=RES-BC23A1AFA9104115A8C09712A701367F"
+>Las teorias de la luz</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_03_CO_76DCB0890E0E4DAEA560EEE2AF9A5CB8">
+<seccion2Titulo>La propagación de la luz</seccion2Titulo>
+<seccion2Texto>
+<p>La luz, desde el punto de vista de la física, incluye todas las <negrita
+>radiaciones electromagnéticas</negrita>, las cuales <negrita>se propagan
+en línea recta</negrita> en todas las direcciones formando ondas transversales
+esféricas.</p>
+<p>A partir del hecho de que la luz se propaga en línea recta se puede
+explicar qué son las zonas de sombra y penumbra que se producen cuando
+la luz impacta sobre cuerpos opacos.</p>
+<p>La <negrita>zona de sombra</negrita> es aquella región donde no
+llega la luz proveniente de una fuente luminosa puntual, como se ilustra
+en la siguiente gráfica:</p>
+<imagen src="CN_11_03_CO_IMG06_small.jpg">
+<p>Los rayos luminosos, provenientes de una fuente no puntual, impactan
+sobre un cuerpo opaco generando dos zonas perfectamente definidas:
+la zona de sombra, donde no llega ningún rayo luminoso procedente
+de la fuente luminosa, pues no logran atravesarlo, y otra región envolvente,
+donde llegan parcialmente los rayos luminosos emitidos en los extremos
+de la fuente, que es la zona de penumbra.</p>
+</imagen>
+<p>Al formarse una sombra también se crea la <negrita>zona de penumbra</negrita
+>, donde llegan parcialmente los rayos procedentes de la fuente luminosa.</p>
+<p>Los eclipses parciales y totales de Sol se explican de manera similar
+cuando la Luna (cuerpo opaco) se atraviesa entre el Sol y la Tierra.</p>
+<seccion3 id="S3_CN_11_03_CO_76DCB0890E0E4DAEA560EEE2AF9A6DC9">
+<seccion3Titulo>La velocidad de la luz</seccion3Titulo>
+<seccion3Texto>
+<p>La luz es una onda electromagnética que se propaga en línea recta
+en todas las direcciones, con una velocidad igual a 300 000 km/s (3
+x 10<superindice>8</superindice> m/s) cuando lo hace en el vacío.
+Cuando la luz se propaga a través de otros medios, como el aire, el
+vidrio, el diamante o el agua, lo hace con velocidades inferiores,
+las cuales se han determinado de forma experimental y dependen de
+la estructura molecular del medio de propagación y, en particular,
+de las propiedades electromagnéticas (permeabilidad eléctrica y magnética)
+de cada medio.</p>
+<table border="1"><caption>Velocidad de la luz en algunos medios</caption>
+<colgroup><col/><col/></colgroup>
+<tbody>
+<tr>
+<td>Vacío</td>
+<td>300 000 km/s</td>
+</tr>
+<tr>
+<td>Aire</td>
+<td>299 700 km/s</td>
+</tr>
+<tr>
+<td>Agua</td>
+<td>249 800 km/s</td>
+</tr>
+<tr>
+<td>Diamante</td>
+<td>125 000 km/s</td>
+</tr>
+</tbody>
+</table>
+</seccion3Texto></seccion3><seccion3
+id="S3_CN_11_03_CO_76DCB0890E0E4DAEA560EEE2AF9A7AD0">
+<seccion3Titulo>La experiencia de Fizeau</seccion3Titulo>
+<seccion3Texto>
+<p>Para obtener el valor de la velocidad de la luz se realizaron varios
+experimentos, entre ellos el del físico francés <negrita>Hippolyte
+Fizeau</negrita> a mediados de 1849, quien empleó un dispositivo consistente
+en una lámina semitransparente (<negritacursiva>L</negritacursiva
+>), una rueda dentada giratoria (<negritacursiva>R</negritacursiva
+>), un espejo (<negritacursiva>E</negritacursiva>) situado a una distancia
+(<negritacursiva>d</negritacursiva>) de la rueda, de manera que un
+rayo luminoso procedente de la fuente luminosa incidía en la lámina
+semitransparente y se reflejaba hacia el espejo, después de pasar
+por un espacio vacío o escotadura de la rueda, sufriendo una segunda
+reflexión para volver por el mismo camino e incidir sobre el siguiente
+diente de la rueda giratoria, de tal manera que el observador nunca
+ve el rayo reflejado por el espejo, como se observa en la siguiente
+figura:</p>
+<imagen src="CN_11_03_CO_IMG07_small.jpg">
+<p>En este experimento de <negrita>Fizeau</negrita> los valores de
+los factores que se hallaron fueron: N = 720 dientes, n = 12,5 vueltas/segundo,
+d = 8/3 <cursiva>km</cursiva> para obtener un valor de <cursiva>c = 300
+000 km/s</cursiva>, que es la velocidad de la luz.</p>
+</imagen>
+<p>La velocidad de la luz se halla calculando el tiempo en que la
+escotadura es reemplazada por el diente y la distancia recorrida por
+el rayo entre la rueda, el espejo y de nuevo la rueda, es decir, dos
+veces la distancia (<negrita>2d</negrita>) entre la rueda y el espejo,
+garantizando que la rueda giratoria mantenga un movimiento circular
+uniforme.</p>
+<p>Por lo cual tenemos que:<br/><br/><negritacursiva>c</negritacursiva
+>: velocidad de la luz.<br/><negritacursiva>N</negritacursiva>: número
+de dientes de la rueda.<br/><negritacursiva>n</negritacursiva>: frecuencia
+del movimiento circular (vueltas/s).<br/><negritacursiva>d</negritacursiva
+>: distancia de la rueda al espejo.</p>
+<p>De acuerdo con estas convenciones,<br/><br/><negrita>1/n</negrita
+>: es el periodo del movimiento circular (tiempo empleado por la rueda
+para realizar una vuelta).<br/><negrita>1/n N</negrita>: tiempo para
+que un diente sea reemplazado por otro diente.<br/><negrita>1/2n N</negrita
+>: tiempo para sustituir un diente por una escotadura.<br/><negrita
+>2d</negrita>: distancia recorrida por la luz</p>
+<formula alineacion="centrada" src="CN_11_03_CO_formula_37.gif">
+</formula>
+</seccion3Texto></seccion3></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_03_CO_76DCB0890E0E4DAEA560EEE2AF9A9123">
+<seccion2Titulo>La luz como onda electromagnética</seccion2Titulo>
+<seccion2Texto>
+<p>La luz, al igual que las <negrita>ondas mecánicas</negrita>, presenta
+fenómenos como la <negrita>reflexión</negrita> y la <negrita>refracción</negrita
+>, que pueden ser explicados incluso si la luz se considera como partículas
+y no como ondas. Sin embargo, los fenómenos de <negrita>difracción</negrita
+> y de <negrita>interferencia</negrita> solo se pueden explicar gracias
+a las <negrita>ondas</negrita>. Estos últimos son los que mantienen
+vigente la teoría ondulatoria de la luz.</p>
+<p>Pero en el espacio vacío, la luz no dispone de un medio elástico
+por el cual propagarse; luego, si es una onda, el medio por el que
+se propaga debe tener algo que oscile para poder constituir una onda.
+¿Qué es lo que oscila?</p>
+<p>La respuesta a esa pregunta lleva a la definición de onda electromagnética;
+es decir, son ondas que no necesitan de un medio elástico para propagarse.</p>
+<p>En la naturaleza, la materia exhibe propiedades fundamentales,
+como la <negrita>masa</negrita> y la <negrita>carga eléctrica</negrita
+>. Gracias a la <negrita>masa</negrita> podemos hablar de la fuerza
+gravitacional, que es la fuerza que existe entre los cuerpos (más
+evidente entre los astros). Es una fuerza que que actúa a distancia
+y hace que estos se atraigan. Por ejemplo, la Luna gira alrededor
+de la Tierra porque esta la atrae y, sin embargo, nunca hacen contacto:
+entre ellas dos se crea un <negrita>campo gravitacional</negrita>.
+Ese campo gravitacional permite que la interacción o la fuerza gravitacional
+sea posible.</p>
+<p>Al igual que de campo gravitacional podemos hablar del <negrita
+>campo eléctrico</negrita>, que es el que aparece entre cargas eléctricas
+que interactúan a través de la fuerza eléctrica, es decir, aquella
+que existe entre los protones y los electrones en un átomo. El <negrita
+>campo magnético</negrita> también está relacionado con las cargas
+eléctricas, y se origina cuando las cargas se mueven produciendo fuerzas
+atractivas o repulsivas, como las que se sienten cuando acercamos
+dos imanes.</p>
+<p>Los conceptos de campo magnético y campo eléctrico fueron desarrollados
+por Faraday para considerar los fenómenos electromagnéticos, pero
+Maxwell estableció ecuaciones a fin de comprender el electromagnetismo,
+que explican que el campo magnético variable y el campo eléctrico
+variable coexisten, autopropagándose con la onda a través del espacio
+y generándose continuamente Se observa cómo estos campos son perpendiculares
+entre sí y a la dirección de propagación de la onda.</p>
+<p>Como hemos asociado los campos eléctrico y magnético a las cargas
+eléctricas deducimos que la luz tiene relación con estos campos.</p>
+<p>Entonces, la luz se puede ver como ondas transversales en el espacio,
+en el que los campos eléctrico y magnético oscilan perpendicularmente
+a la dirección en la que la luz avanza, como muestra la siguiente
+figura:</p>
+<imagen src="CN_11_03_CO_IMG08_small.jpg">
+<p>La onda electromagnética es una onda transversal en la que el campo
+magnético (oscila en el plano rojo) es perpendicular al campo eléctrico
+(oscila en el plano azul), y ambos son perpendiculares a la dirección
+de propagación de la onda.</p>
+</imagen>
+</seccion2Texto></seccion2><seccion2
+id="S2_CN_11_03_CO_76DCB0890E0E4DAEA560EEE2AF9A0234">
+<seccion2Titulo>El espectro de la luz</seccion2Titulo>
+<seccion2Texto>
+<p>El espectro electromagnético o espectro de la luz es el conjunto
+de todas las radiaciones electromagnéticas: las ondas de radio y TV,
+las microondas usadas en los satélites y los hornos, los rayos X y
+gama, las ondas de infrarrojos que se perciben como calor y las ultravioleta
+presentes en la luz del Sol, y, desde luego, la luz visible. Por su
+carácter ondulatorio las radiaciones electromagnéticas pueden clasificarse
+de acuerdo con su frecuencia o su longitud de onda. Estas dos características
+son inversamente proporcionales, es decir, a mayor longitud de onda
+menor frecuencia y viceversa.</p>
+<p>La luz visible está constituida por aquellas radiaciones electromagnéticas
+con frecuencias comprendidas entre 10<superindice>14</superindice
+> y 10<superindice>15</superindice> Hz, o longitudes de onda entre
+750 nm para el rojo y 400 nm para el púrpura, pasando por el verde
+de 520 nm, aproximadamente.</p>
+<imagen src="CN_11_03_CO_IMG09_small.jpg">
+<p>Este conjunto de radiaciones conforma el espectro electromagnético
+de la luz. Se ordenan de acuerdo con la frecuencia de las ondas.</p>
+</imagen>
+<destacado><destacadoTitulo>La longitud de onda de la luz amarilla</destacadoTitulo>
+<destacadoTexto>
+<p><negrita>Ejemplo</negrita><br/>En nuestros hogares usamos distintas
+calidades de luz. Determine la longitud de onda de la luz amarilla
+que ilumina un recinto y que tiene una frecuencia de 5 x 10<superindice
+>14</superindice> Hz.</p>
+<p><negrita>Solución</negrita><br/>En general, para cualquier onda
+se tiene que la velocidad de propagación es:</p>
+<formula alineacion="centrada" src="CN_11_03_CO_formula_38.gif">
+</formula>
+<p>Para el caso de las ondas electromagnéticas, la velocidad siempre
+es de 3 x 10<superindice>8</superindice> m/s y se escribe con la letra <negritacursiva
+>c</negritacursiva>, por lo que se establece la siguiente ecuación:</p>
+<formula alineacion="centrada" src="CN_11_03_CO_formula_39.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_03_CO_formula_40.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_03_CO_formula_41.gif">
+</formula>
+</destacadoTexto></destacado><practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_03_CO_Recurso130&amp;IdRecurso=RES-5E22ED943F3043F8A9225FAA6A59ABF9"
+>Conoce el espectro electromagnético</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_03_CO_Recurso150&amp;IdRecurso=RES-F0FFE9F15B3E4DF9A30D74AD1F569123"
+>Crucigrama sobre las ondas de luz</enlace>
+</practica></seccion2Texto></seccion2><seccion2
+id="S2_CN_11_03_CO_76DCB0890E0E4DAEA560EEE2AF9A7176">
+<seccion2Titulo>Consolidación</seccion2Titulo>
+<seccion2Texto>
+<p>Actividades para consolidar lo que has aprendido en esta sección.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_03_CO_Recurso160&amp;IdRecurso=RES-F3D48B60F83A4E7C83E8D2FB08E95B72"
+>Refuerza tu aprendizaje: Las ondas de luz</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_11_03_CO_68F7E6AFA07F4431B6D762537AF38DCD">
+<seccion1Titulo>Competencias</seccion1Titulo>
+<seccion1Texto>
+<p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_03_CO_Recurso170&amp;IdRecurso=RES-AEF8D534BF584E4686E3E17CD9623598"
+>Competencias: comprobación de las características de la luz</enlace>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_03_CO_Recurso180&amp;IdRecurso=RES-7BA6721384AA4924A6E7AADBE7BE63F9"
+>Competencias: observación del movimiento de las ondas sonoras</enlace>
+</practica></seccion1Texto></seccion1><masinformacion
+id="MI_CN_11_03_CO_1116553C9FCB42F0996F249290F3FEB9"><mapaconceptual>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_03_CO_Recurso200&amp;IdRecurso=RES-3CC793222D88487DB970A72E0519F93D"
+>Mapa conceptual del tema La luz y el sonido</enlace></mapaconceptual>
+<autoevaluate><enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_03_CO_Recurso210&amp;IdRecurso=RES-1BCE59100BF748D1A6CCD05C4E6DF97E"
+>Evalúa tus conocimientos sobre el tema La luz y el sonido</enlace>
+</autoevaluate><enlacesreferencia>
+<enlace
+destino="https://phet.colorado.edu/es/simulation/legacy/photoelectric"
+>El efecto foto eléctrico.</enlace>
+<enlace destino="https://www.youtube.com/watch?v=ScN-btW8ST8">El experimento
+de Fizeau.</enlace>
+<enlace
+destino="https://www.saberespractico.com/curiosidades/que-es-el-efecto-doppler/"
+>El efecto Doppler.</enlace>
+</enlacesreferencia></masinformacion></libro>
