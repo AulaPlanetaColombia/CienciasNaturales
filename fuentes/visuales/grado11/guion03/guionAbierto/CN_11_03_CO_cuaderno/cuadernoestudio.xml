@@ -379,20 +379,19 @@ constante).<br/><negritacursiva>f<subindice>r</subindice></negritacursiva
 <listaSinNumerar>
 <listaElemento><negrita>Primera situación</negrita>: cuando el receptor
 se acerca o se aleja de la fuente sonora y esta permanece en reposo:<br
-/><br/>Cuando se acerca, <formula alineacion="centrada"
-src="CN_11_03_CO_formula_24.gif"></formula><br/><br/>Cuando se aleja,<formula
-alineacion="centrada" src="CN_11_03_CO_formula_25.gif"></formula></listaElemento>
+/><br/><formula alineacion="centrada" src="CN_11_03_CO_formula_24.gif">
+</formula><br/><br/><formula alineacion="centrada"
+src="CN_11_03_CO_formula_25.gif"></formula></listaElemento>
 <listaElemento><negrita>Segunda situación</negrita>: si la fuente
 sonora se acerca o se aleja del receptor, pero este permanece en reposo:<br
-/><br/>Cuando se acerca,<formula alineacion="centrada"
-src="CN_11_03_CO_formula_26.gif"></formula><br/><br/>Cuando se aleja,<formula
-alineacion="centrada" src="CN_11_03_CO_formula_27.gif"></formula></listaElemento>
+/><br/><formula alineacion="centrada" src="CN_11_03_CO_formula_26.gif">
+</formula><br/><br/><formula alineacion="centrada"
+src="CN_11_03_CO_formula_27.gif"></formula></listaElemento>
 <listaElemento><negrita>Tercera situación</negrita>: si tanto el receptor
-como la fuente se acercan o se alejan, simultáneamente:<br/><br/>Cuando
-ambos se acercan, <formula alineacion="centrada"
-src="CN_11_03_CO_formula_28.gif"></formula><br/><br/>Cuando ambos
-se alejan, <formula alineacion="centrada"
-src="CN_11_03_CO_formula_29.gif"></formula></listaElemento>
+como la fuente se acercan o se alejan, simultáneamente:<br/><br/><formula
+alineacion="centrada" src="CN_11_03_CO_formula_28.gif"></formula><br
+/><br/><formula alineacion="centrada" src="CN_11_03_CO_formula_29.gif">
+</formula></listaElemento>
 </listaSinNumerar>
 <destacado><destacadoTitulo>¿Ya llega la ambulancia?</destacadoTitulo>
 <destacadoTexto>
@@ -524,7 +523,7 @@ mientras que el vidrio de la izquierda deja ver con claridad lo que
 hay tras él, por lo que se le llama un medio o cuerpo transparente.</p>
 </imagen>
 <seccion2 id="S2_CN_11_03_CO_629DD8E29E244DC7BD370965C8118402">
-<seccion2Titulo>Naturaleza de la luz</seccion2Titulo>
+<seccion2Titulo>La naturaleza de la luz</seccion2Titulo>
 <seccion2Texto>
 <p>Un gran interrogante de la humanidad ha sido: ¿por qué vemos los
 objetos? Los antiguos griegos suponían que todos los cuerpos emitían
@@ -554,7 +553,7 @@ objeción a la teoría ondulatoria era que la luz no parecía doblar
 en las esquinas sino que por evidencia viajaba en línea recta.</p>
 <p>Ante las falencias de las teorías anteriores surge, a mediados
 del siglo XIX, la <negrita>teoría electromagnética</negrita>, propuesta
-por James Clark Maxwell (1831-1879), según la cual la luz es una onda
+por James Clerk Maxwell (1831-1879), según la cual la luz es una onda
 electromagnética que se puede propagar con velocidad definida, incluso
 en el vacío y, por tanto, no era necesario suponer el <negrita>éter</negrita
 >.</p>
@@ -566,7 +565,8 @@ que no logró explicar satisfactoriamente otros fenómenos como el <negrita
 > en 1905, propusiera la <negrita>teoría cuántica</negrita>, la cual
 considera a la luz como paquetes de energía indivisible, <negrita
 >fotones</negrita> o <negrita>quantum</negrita>, emitidos cuando los
-electrones pasan de un nivel de energía superior a otro de menor energía.</p>
+electrones pasan de un nivel de energía superior a otro de menor energía.</p><?Pub
+Caret -2?>
 <p>Actualmente se considera que la luz participa de una doble naturaleza:
 ondas y fotones, que son dos caras de una misma realidad; esta <negrita
 >teoría mecánica-ondulatoria</negrita> fue propuesta por el físico
