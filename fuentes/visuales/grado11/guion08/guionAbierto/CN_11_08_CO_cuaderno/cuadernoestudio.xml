@@ -50,18 +50,19 @@ producido por la Tierra; con un mapa geográfico y una brújula podrías
 ubicarte en cualquier lugar, si conoces los puntos cardinales. Es
 importante saber que el norte geográfico corresponde al sur magnético,
 según esto ¿cómo explicas que el extremo de la aguja de la brújula
-siempre señala el norte de la tierra?, esto puede comprobar que estamos
+siempre señala el norte de la Tierra?, esto puede comprobar que estamos
 sometidos al campo magnético terrestre.</p>
 </imagen>
-<p>La brújula es uno de los instrumentos de ubicación y navegación
-más antiguos, es un dispositivo que contiene una aguja imantada que
-interactúa con el campo magnético producido por la Tierra. El campo
-magnético terrestre tiene varios orígenes: el primero, en su centro,
-más exactamente en la franja exterior del núcleo caliente donde fluyen
-corrientes de hierro líquido que son conductoras de electricidad;
-el segundo, la corteza terrestre que está compuesta por rocas más
-o menos magnéticas y, por último, las corrientes eléctricas atmosféricas
-producidas entre la energía solar y los componentes de la estratosfera.</p>
+<p>La <negrita>brújula</negrita> es uno de los instrumentos de ubicación
+y navegación más antiguos, es un dispositivo que contiene una aguja
+imantada que interactúa con el campo magnético producido por la Tierra.
+El <negrita>campo magnético terrestre</negrita> tiene varios orígenes:
+el primero, en su centro, más exactamente en la franja exterior del <negrita
+>núcleo</negrita> caliente donde fluyen corrientes de hierro líquido
+que son conductoras de electricidad; el segundo, la <negrita>corteza</negrita
+> terrestre que está compuesta por rocas más o menos magnéticas y,
+por último, las <negrita>corrientes eléctricas atmosféricas</negrita
+> producidas entre la energía solar y los componentes de la estratosfera.</p>
 <imagen src="CN_11_08_CO_IMG03_small.jpg">
 <p>La Tierra, como un imán, genera un campo magnético producido mayormente
 por el núcleo. Si observas, los polos geográficos son opuestos a los
@@ -161,7 +162,7 @@ campo magnético forman un ángulo <cursiva>θ</cursiva> sobre un plano.
 Si la partícula fuera negativa los resultados en <cursiva>c</cursiva
 > y <cursiva>d</cursiva> se intercambiarían. La regla de la mano derecha,
 que tiene en cuenta las direcciones de los vectores, permite identificar
-la dirección de la fuerza magnética.</p><?Pub Caret -2?>
+la dirección de la fuerza magnética.</p>
 </imagen>
 <practica>
 <enlace
@@ -366,7 +367,7 @@ campo sea mucho mayor; cuando no circula corriente el campo se anula.</listaElem
 <listaElemento>En una <negrita>batería</negrita> para suministrar
 corriente, el campo magnético será mayor si la corriente aumenta.</listaElemento>
 </listaNumerada>
-<imagen src="CN_11_08_CO_IMG10_small.jpg">
+<imagen ampliable="no" src="CN_11_08_CO_IMG10_small.jpg">
 <p>Cuando el electroimán se pone en funcionamiento actúa como un imán
 que atrae los objetos metálicos. En este caso, se muestra un electroimán
 pequeño, cuyo núcleo está hecho con una puntilla. Al conectar la pila
@@ -435,9 +436,6 @@ de alrededor de 5 kg.</p>
 es que los <negrita>electroimanes</negrita> se pueden imantar y desimantar
 a voluntad, por lo que se aplican en grúas de chatarrerías y en la
 construcción de motores y timbres eléctricos, entre muchos otros aparatos.</p>
-<imagen src="CN_11_08_CO_IMG12_zoom.jpg">
-<p>Sin pie de imagen</p>
-</imagen>
 </seccion3Texto></seccion3><seccion3
 id="S3_CN_11_08_CO_B950653E41044DBAA92F4A64897FD039">
 <seccion3Titulo>El motor eléctrico</seccion3Titulo>
@@ -480,11 +478,6 @@ es constante. Por otra parte, la <negrita>corriente alterna</negrita
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso100&amp;IdRecurso=RES-4EEDAC714E1E44A894C78810A2DEB1C2"
 >El motor eléctrico y sus componentes</enlace>
-</practica><profundiza>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso110&amp;IdRecurso=RES-9C2BF76B7FCA453FA6AD8428645E1D57"
->Cómo construir un motor eléctrico casero</enlace>
-</profundiza><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso120&amp;IdRecurso=RES-CF22400B296748B09D6237617C770F7A"
 >Analiza el comportamiento del motor eléctrico</enlace>
@@ -570,9 +563,9 @@ id="S2_CN_11_08_CO_479E1343C7A545CDA59601BE738057E4">
 <p>La ley de inducción de <negrita>Faraday</negrita> establece que
 si existe un cambio en el flujo magnético en el tiempo a través de
 una superficie, en cierto intervalo de tiempo se inducirá una <negrita
->fuerza electromotriz</negrita> (<negrita>f.e.m.</negrita>). La expresión
+>fuerza electromotriz</negrita> (<negrita>fem</negrita>). La expresión
 más simple de la <negrita>ley de Faraday</negrita> permite relacionar
-la <negrita>f.e.m.</negrita> <cursiva>ε</cursiva> inducida en la <negrita
+la <negrita>fem</negrita> <cursiva>ε</cursiva> inducida en la <negrita
 >bobina</negrita> con la variación del <negrita>flujo magnético</negrita
 > que atraviesa la bobina: </p>
 <formula alineacion="centrada" src="CN_11_08_CO_formula_16.gif">
@@ -580,7 +573,7 @@ la <negrita>f.e.m.</negrita> <cursiva>ε</cursiva> inducida en la <negrita
 <p>Donde <negrita>N</negrita> es el número de vueltas de la <negrita
 >bobina</negrita> y el segundo término corresponde a la variación
 del flujo magnético en el tiempo.</p>
-<imagen src="CN_11_08_CO_IMG16_small.jpg">
+<imagen ampliable="no" src="CN_11_08_CO_IMG16_small.jpg">
 <p>El movimiento del imán cuando ingresa a la bobina hace que el flujo
 a través de la espira aumente. La ley de Lenz requiere un flujo que
 se oponga al incremento del flujo que es generado por una corriente
@@ -590,10 +583,10 @@ que se oponga a la reducción del flujo que es generado por una corriente
 hacia la derecha.</p>
 </imagen>
 <p>El <negrita>signo menos</negrita> en la <negrita>ley de Faraday</negrita
-> es fundamental; este indica que la <negrita>f.e.m.</negrita> inducida
+> es fundamental; este indica que la <negrita>fem</negrita> inducida
 se opone a la variación del flujo magnético (como se indica en la
 figura). Esta característica es de suma importancia y recibe el nombre
-de <negrita>ley de Lenz</negrita>. </p>
+de <negrita>ley de Lenz</negrita>. </p><?Pub Caret -2?>
 <p>Debido a que existe una resistencia en el sistema, también, es
 necesario aplicar la ley de Ohm que se expresa como:</p>
 <formula alineacion="centrada" src="CN_11_08_CO_formula_17.gif">
@@ -633,7 +626,7 @@ de Faraday y la expresión del flujo magnético (como se ve en la sección
 </formula>
 <p>Así, la expresión de variación en el paréntesis puede calcularse
 con la ayuda del límite o de la derivada con respecto al tiempo, de
-manera que la <negrita>f.e.m.</negrita> es:</p>
+manera que la <negrita>fem</negrita> es:</p>
 <formula alineacion="centrada" src="CN_11_08_CO_formula_20.gif">
 </formula>
 <recuerda><recuerdaTexto>
@@ -644,15 +637,15 @@ manera que la <negrita>f.e.m.</negrita> es:</p>
 <imagen src="CN_11_08_CO_IMG17_small.jpg">
 <p>Esquema de un generador de corriente alterna básico; tanto la ley
 de inducción de Faraday como la ley de Lenz permiten que la bombilla
-encienda. Debido a que la f.e.m. inducida es sinusoidal la intensidad
+encienda. Debido a que la fem inducida es sinusoidal la intensidad
 de la luz variará en el tiempo.</p>
 </imagen>
 <p>El comportamiento del sistema es sinusoidal, esto permite ver que
 se obtiene una variación periódica de la <negrita>fuerza electromotriz</negrita
 >, ya que el plano de la bobina en algunos momentos estará paralelo
-al plano del campo magnético, donde la <negrita>f.e.m.</negrita> será
+al plano del campo magnético, donde la <negrita>fem</negrita> será
 máxima, y, en otro momento, los dos planos serán perpendiculares,
-por lo que la <negrita>f.e.m.</negrita> será nula.</p>
+por lo que la <negrita>fem</negrita> será nula.</p>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso180&amp;IdRecurso=RES-5D28E497C5E14D33BE1CC9F01FCE185B"
