@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!ENTITY % xhtmltbls SYSTEM "xhtml-tbl.dtd" >
+%xhtmltbls;
+
+
+<!ELEMENT libro ( libroTitulo, libroEntradilla?, seccion1+, masinformacion ) >
+
+<!ATTLIST libro
+	id ID #REQUIRED 
+	cultura (es-ES | en-GB) "es-ES" 
+	tipoUnidad (cero | final | normal) "normal" >
+	
+<!ELEMENT libroTitulo ( #PCDATA ) >
+
+<!ELEMENT libroEntradilla ( p+ )  >
+
+<!--************************************************************
+             TEXTO, PARRAFO, LISTAS, ENLACES
+**************************************************************-->
+
+<!ELEMENT p ( #PCDATA | br | cursiva | enlace | negrita | negritacursiva | subindice | superindice )* >
+
+<!ATTLIST p
+	centrado (si) #IMPLIED >
+
+<!ELEMENT br EMPTY >
+
+<!ELEMENT blockquote ( p+ ) >
+
+<!ELEMENT listaNumerada ( listaElemento+ ) >
+
+<!ELEMENT listaSinNumerar ( listaElemento+ ) >
+
+<!ELEMENT listaElemento ( #PCDATA | br | enlace | negrita | cursiva | formula | imagen | listaNumerada | listaSinNumerar | negritacursiva | p | subindice | superindice )*  >
+
+<!ELEMENT cursiva ( #PCDATA | negrita | subindice | superindice)* >
+
+<!ELEMENT negrita ( #PCDATA | cursiva | subindice | superindice)* >
+
+<!ELEMENT negritacursiva ( #PCDATA | subindice | superindice)* >
+
+<!ELEMENT subindice ( #PCDATA | cursiva | negrita | negritacursiva )* >
+
+<!ELEMENT superindice ( #PCDATA | cursiva | negrita | negritacursiva)* >
+
+<!ELEMENT enlace ( #PCDATA | br |negrita | cursiva | negritacursiva | subindice | superindice)* >
+
+<!ATTLIST enlace
+		destino CDATA #REQUIRED >
+
+
+<!--************************************************************
+                FORMULAS E IMAGENES
+**************************************************************-->
+
+<!ELEMENT formula ( p* ) >
+
+<!ATTLIST formula
+		src CDATA #REQUIRED
+		alineacion (izquierda | centrada) "izquierda"
+			>
+
+<!ELEMENT imagen ( p | listaNumerada | listaSinNumerar )* >
+
+<!ATTLIST imagen
+		src CDATA #REQUIRED
+		ampliable (no) #IMPLIED
+		imprimir-grande (si) #IMPLIED 
+		>
+
+
+<!--************************************************************
+                SECCIONES
+**************************************************************-->
+
+<!ELEMENT seccion1 ( seccion1Titulo, seccion1Texto ) >
+
+<!ATTLIST seccion1
+		id CDATA #IMPLIED
+		mostrarautonomico (si|no) #IMPLIED>
+
+<!ELEMENT seccion1Texto (( blockquote | destacado | destacadoConImagen | formula | imagen | listaNumerada | listaSinNumerar | media | nota | p | practica | profundiza | recuerda | table)*, seccion2*) >
+
+<!ELEMENT seccion1Titulo ( #PCDATA | cursiva | subindice | superindice )* >
+
+<!ELEMENT seccion2 ( seccion2Titulo, seccion2Texto ) >
+
+<!ATTLIST seccion2
+		id CDATA #IMPLIED >
+
+<!ELEMENT seccion2Texto (( blockquote | destacado | destacadoConImagen | formula | imagen | listaNumerada | listaSinNumerar | media | nota | p | practica | profundiza | recuerda | table)*, seccion3*) >
+
+<!ELEMENT seccion2Titulo ( #PCDATA | cursiva | subindice | superindice )* >
+
+<!ELEMENT seccion3 ( seccion3Titulo, seccion3Texto ) >
+
+<!ATTLIST seccion3
+		id CDATA #IMPLIED >
+
+<!ELEMENT seccion3Texto ( blockquote | destacado | destacadoConImagen | formula | imagen | listaNumerada | listaSinNumerar | media | nota | p | practica | profundiza | recuerda | table )* >
+
+<!ELEMENT seccion3Titulo ( #PCDATA | cursiva | subindice | superindice )* >
+
+<!--************************************************************
+                OTROS
+**************************************************************-->
+
+<!ELEMENT masinformacion ( mapaconceptual, autoevaluate, enlacesreferencia ) >
+
+<!ATTLIST masinformacion
+		id CDATA #IMPLIED >
+
+<!ELEMENT autoevaluate ( enlace ) >
+
+<!ELEMENT destacado ( destacadoTitulo, destacadoTexto ) >
+
+<!ATTLIST destacado
+
+	clip (no) #IMPLIED	>
+
+<!ELEMENT destacadoTexto ( p | formula | imagen | listaNumerada | listaSinNumerar )+ >
+
+<!ELEMENT destacadoTitulo ( #PCDATA | cursiva | subindice | superindice )* >
+
+
+<!ELEMENT destacadoConImagen ( destacadoConImagenTitulo, destacadoConImagenTexto ) >
+
+<!ATTLIST destacadoConImagen
+	mostrarautonomico (si|no) #IMPLIED		
+>
+	
+<!ELEMENT destacadoConImagenTexto ( p | formula | imagen | listaNumerada | listaSinNumerar )+ >
+
+<!ELEMENT destacadoConImagenTitulo ( #PCDATA | cursiva | subindice | superindice )* >
+
+<!ELEMENT enlacesreferencia ( enlace+ ) >
+
+<!ELEMENT mapaconceptual ( enlace ) >
+
+<!ELEMENT practica ( enlace+ ) >
+
+<!ELEMENT profundiza ( (enlace, no-imprimible?)+ ) > 
+
+<!ELEMENT no-imprimible EMPTY >
+
+<!ELEMENT recuerda ( recuerdaTexto ) >
+
+<!ELEMENT recuerdaTexto ( p | formula | imagen | listaNumerada | listaSinNumerar )+ >
+
+<!ELEMENT media ( enlace+ ) >
+
+<!ELEMENT nota ( p+ ) >
+
+
+<!--************************************************************
+                       TABLE
+**************************************************************
+
+<!ELEMENT table ( caption?, tr+ ) >
+
+<!ELEMENT caption ( #PCDATA | br | negrita | cursiva | negritaCursiva | subindice | superindice )* >
+
+<!ELEMENT tr ( td+ ) >
+
+<!ELEMENT td ( #PCDATA | br | negrita | cursiva | listaNumerada | listaSinNumerar | negritaCursiva | p | subindice | superindice )* >
+
+<!ATTLIST td 
+	colspan (1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12) #IMPLIED 
+	rowspan (1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12) #IMPLIED>-->
+

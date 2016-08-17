@@ -34,7 +34,7 @@ tecnológicas como el <negrita>electroimán</negrita>, los <negrita
 </destacadoTexto></destacado><profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso010&amp;IdRecurso=RES-5740644DCAC64D10919D04BFDF5886EB"
->La fuerza magnética, imanes y magnetismo</enlace>
+>La fuerza magnética: imanes y magnetismo</enlace>
 </profundiza><seccion2
 id="S2_CN_11_08_CO_BFC57164DC60405CAE1131E170926F29">
 <seccion2Titulo>El campo magnético de la Tierra</seccion2Titulo>
@@ -81,7 +81,7 @@ destino="/BCRedir.aspx?URL=/encyclopedia/default.asp?idpack=11&amp;idpil=001JMH0
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso020&amp;IdRecurso=RES-EAD997E117494050BCD86E38CE369607"
->Comprende las bases sobre los polos magnéticos de la Tierra</enlace>
+>Interpreta la acción de los polos magnéticos de la Tierra</enlace>
 </practica></seccion2Texto></seccion2><seccion2
 id="S2_CN_11_08_CO_765C4F3D645C4279AE1CD665C2C78451">
 <seccion2Titulo>Los campos magnéticos</seccion2Titulo>
@@ -106,7 +106,7 @@ elementos que porten una corriente eléctrica.</p>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso030&amp;IdRecurso=RES-0345A98F191844CBA12FED76A6E40059"
->El concepto de campo magnético</enlace>
+>El campo magnético</enlace>
 </profundiza><seccion3
 id="S3_CN_11_08_CO_B229076F2E8F4B1EB989A5BEE198CD30">
 <seccion3Titulo>Los efectos de campo magnético sobre una carga eléctrica</seccion3Titulo>
@@ -167,7 +167,7 @@ la dirección de la fuerza magnética.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso040&amp;IdRecurso=RES-AFCC3E07E0DA4AC297AF6FDEC7E954C0"
->Fuerza magnética sobre una carga magnética</enlace>
+>Calcula la fuerza magnética sobre una carga</enlace>
 </practica></seccion3Texto></seccion3><seccion3
 id="S3_CN_11_08_CO_75B0DCC6053D467296F53E65099F9EB5">
 <seccion3Titulo>Los efectos de campo magnético sobre un cable portador
@@ -223,7 +223,7 @@ de la fuerza magnética.</p>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso050&amp;IdRecurso=RES-06E2D23876084EB083EEDE83237ABF1B"
->Fuerza magnética sobre un cable portador de corriente</enlace>
+>Calcula la fuerza magnética sobre un cable portador de corriente</enlace>
 </practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
 <seccion2 id="S2_CN_11_08_CO_A56A9934D03F4CDFA713AF3F15FC4E46">
 <seccion2Titulo>Consolidación</seccion2Titulo>
@@ -259,7 +259,7 @@ que circulan a través de cables rectos y espiras circulares.</p>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso070&amp;IdRecurso=RES-63A43F22FD2A459387858A5EB77ADDEF"
->La relación entre la corriente y el campo magnético</enlace>
+>El experimento de Hans Christian Oersted</enlace>
 </profundiza><seccion2
 id="S2_CN_11_08_CO_8386598BA0FA4192A457E3B5F65A2BBF">
 <seccion2Titulo>La Ley de Ampère</seccion2Titulo>
@@ -322,7 +322,7 @@ de aquí en adelante se denominan <negrita>electromagnéticas</negrita
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso080&amp;IdRecurso=RES-B6C41B1B1F2C4E2897E69F608D0CB3E4"
->La ley de Ampère y el campo generado por un alambre</enlace>
+>Estudia la ley de Ampère y el campo generado por un alambre</enlace>
 </practica></seccion2Texto></seccion2><seccion2
 id="S2_CN_11_08_CO_7E621350CA72495B9750FF890E1C108F">
 <seccion2Titulo>El electromagnetismo y sus aplicaciones</seccion2Titulo>
@@ -346,7 +346,7 @@ un interruptor, se repiten los golpes del martillo en la campana.</p>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso090&amp;IdRecurso=RES-097833542BD541108F66EDC2D5994055"
->Algunos elementos cotidianos donde se genera campo magnético</enlace>
+>El electromagnetismo en la vida cotidiana</enlace>
 </profundiza><seccion3
 id="S3_CN_11_08_CO_B950653E41044DBAA92F4A64897FC928">
 <seccion3Titulo>El electroimán</seccion3Titulo>
@@ -414,7 +414,8 @@ la máxima fuerza es:</p>
 y el cuerpo que se atrae.</p>
 <destacado><destacadoTitulo>Cálculo de la fuerza en un electroimán</destacadoTitulo>
 <destacadoTexto>
-<p><negrita>Ejemplo</negrita></p>
+<p>                     <negrita>Ejemplo</negrita>               
+   </p>
 <p>Determina la fuerza con la que atraerá el electroimán de la figura
 a la armadura de hierro si la inducción que aparece en el núcleo es
 de 1,3 T.</p>
@@ -477,10 +478,10 @@ es constante. Por otra parte, la <negrita>corriente alterna</negrita
 </recuerdaTexto></recuerda><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso100&amp;IdRecurso=RES-4EEDAC714E1E44A894C78810A2DEB1C2"
->El motor eléctrico y sus componentes</enlace>
+>Señala los componentes de un motor eléctrico</enlace>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso120&amp;IdRecurso=RES-CF22400B296748B09D6237617C770F7A"
->Analiza el comportamiento del motor eléctrico</enlace>
+>Analiza y calcula el comportamiento del electroimán y el motor eléctrico</enlace>
 </practica></seccion3Texto></seccion3></seccion2Texto></seccion2>
 <seccion2 id="S2_CN_11_08_CO_AE7DB70B8DBA46BAB7E9C17D779AAG34">
 <seccion2Titulo>Consolidación</seccion2Titulo>
@@ -555,7 +556,7 @@ destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso140&amp;IdRecurso=RES-076344
 </profundiza><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso150&amp;IdRecurso=RES-18FAC744EFF244A383181C63F936D36E"
->Identifica las características del motor y el generador eléctrico</enlace>
+>Identifica el flujo magnético: el motor y el generador eléctrico</enlace>
 </practica></seccion2Texto></seccion2><seccion2
 id="S2_CN_11_08_CO_479E1343C7A545CDA59601BE738057E4">
 <seccion2Titulo>La ley de inducción de Faraday y la ley de Lenz</seccion2Titulo>
@@ -565,7 +566,7 @@ si existe un cambio en el flujo magnético en el tiempo a través de
 una superficie, en cierto intervalo de tiempo se inducirá una <negrita
 >fuerza electromotriz</negrita> (<negrita>fem</negrita>). La expresión
 más simple de la <negrita>ley de Faraday</negrita> permite relacionar
-la <negrita>fem</negrita> <cursiva>ε</cursiva> inducida en la <negrita
+la <negrita>fem</negrita><cursiva>ε</cursiva> inducida en la <negrita
 >bobina</negrita> con la variación del <negrita>flujo magnético</negrita
 > que atraviesa la bobina: </p>
 <formula alineacion="centrada" src="CN_11_08_CO_formula_16.gif">
@@ -586,7 +587,7 @@ hacia la derecha.</p>
 > es fundamental; este indica que la <negrita>fem</negrita> inducida
 se opone a la variación del flujo magnético (como se indica en la
 figura). Esta característica es de suma importancia y recibe el nombre
-de <negrita>ley de Lenz</negrita>. </p><?Pub Caret -2?>
+de <negrita>ley de Lenz</negrita>. </p>
 <p>Debido a que existe una resistencia en el sistema, también, es
 necesario aplicar la ley de Ohm que se expresa como:</p>
 <formula alineacion="centrada" src="CN_11_08_CO_formula_17.gif">
@@ -594,7 +595,7 @@ necesario aplicar la ley de Ohm que se expresa como:</p>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso160&amp;IdRecurso=RES-7B31370393044083972D1B589698FE9D"
->Experimenta con la ley de inducción de Faraday</enlace>
+>La inducción electromagnética</enlace>
 </profundiza></seccion2Texto></seccion2><seccion2
 id="S2_CN_11_08_CO_80ED7DD0083D4230831C09F9BBFB1DFF">
 <seccion2Titulo>Los generadores de corriente eléctrica</seccion2Titulo>
@@ -653,7 +654,7 @@ destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso180&amp;IdRecurso=RES-5D28E4
 </profundiza><practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso190&amp;IdRecurso=RES-6F0C1E685CD1426082942E34CE80DDFD"
->¿Qué tanto sabes sobre generadores y motores eléctricos?</enlace>
+>¿Qué sabes sobre los generadores y los motores eléctricos?</enlace>
 </practica></seccion2Texto></seccion2><seccion2
 id="S2_CN_11_08_CO_80ED7DD0083D4230831C09F9BBFB2ADD">
 <seccion2Titulo>Consolidación</seccion2Titulo>
@@ -662,7 +663,8 @@ id="S2_CN_11_08_CO_80ED7DD0083D4230831C09F9BBFB2ADD">
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_11_08_CO_Recurso200&amp;IdRecurso=RES-F75BA3421D5E4471ADBBE1284F390C04"
->Refuerza tu aprendizaje: la ley de inducción electromagnética</enlace>
+>Refuerza tu aprendizaje: La ley de inducción electromagnética</enlace><?Pub
+Caret -3?>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CN_11_08_CO_4142CA0A3FDD442BB4B7EAAC013C54CF">
 <seccion1Titulo>Competencias</seccion1Titulo>
