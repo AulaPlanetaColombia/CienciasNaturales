@@ -71,7 +71,7 @@ destino="/LoIdRedirect.aspx?LoId=CN_11_06_CO_Recurso130&amp;IdRecurso=RES-5F6210
 en el campo de la física, desarrolló la teoría electromagnética clásica.
 Mediante observaciones y experimentos pudo calcular la velocidad de
 los campos eléctricos y magnéticos oscilantes, que coincide con la
-velocidad de la luz.</p><?Pub Caret -2?>
+velocidad de la luz.</p>
 </imagen>
 <p>Con el fin de facilitar el estudio de la óptica geométrica y el
 análisis de la interacción de la luz con la materia en escalas perceptibles
@@ -568,7 +568,8 @@ ten presente que son adimensionales debido a que no tienen unidades.</p>
 de trayectoria de la luz, estos son las <negrita>lentes</negrita>.
 Estas son hechas generalmente de vidrio o plástico, pues estos materiales
 permiten que la luz los traspase, además se componen de la unión de
-dos superficies esféricas, planas o la combinación de las dos.</p>
+dos superficies esféricas, planas o la combinación de las dos.</p><?Pub
+Caret 316?>
 <destacado><destacadoTitulo>Clasificación de las lentes</destacadoTitulo>
 <destacadoTexto>
 <p>Las <negrita>lentes</negrita> se pueden clasificar según como sus
@@ -587,7 +588,7 @@ al atravesar los rayos de luz paralelos los <negrita>divergen</negrita
 son más gruesas en sus extremos que en su centro. </listaElemento>
 </listaSinNumerar>
 </destacadoTexto></destacado>
-<imagen src="CN_11_06_CO_img_09_small.png">
+<imagen src="CN_11_06_CO_IMG09_small.jpg">
 <p>Podemos observar que las lentes llevan su nombre dependiendo de
 las superficies que unen, pero recuerda que las <negrita>convergentes
 focalizan</negrita> los rayos de luz que las atraviesan <negrita>en
