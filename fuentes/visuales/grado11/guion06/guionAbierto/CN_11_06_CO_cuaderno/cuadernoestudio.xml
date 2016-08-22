@@ -12,15 +12,15 @@
 de la luz, sus características y su interacción con los objetos. El
 estudio de la óptica permite profundizar en dos campos:</p>
 <listaSinNumerar>
-<listaElemento><negrita>Óptica física:</negrita> explica fenómenos
-como los de la <negrita>interferencia</negrita>, la <negrita>difracción</negrita
-> y la <negrita>polarización</negrita> de la luz, debidos a la interacción
-con objetos materiales con dimensiones del <negrita>orden</negrita
-> de la <negrita>longitud de onda</negrita> de la <negrita>luz</negrita
->.</listaElemento>
-<listaElemento><negrita>Óptica geométrica:</negrita> es el estudio
-de los fenómenos producidos por la <negrita>reflexión</negrita> o
-la <negrita>refracción</negrita> de la luz, debidos a la interacción
+<listaElemento>           <negrita>Óptica física:</negrita> explica
+fenómenos como los de la <negrita>interferencia</negrita>, la <negrita
+>difracción</negrita> y la <negrita>polarización</negrita> de la luz,
+debidos a la interacción con objetos materiales con dimensiones del <negrita
+>orden</negrita> de la <negrita>longitud de onda</negrita> de la <negrita
+>luz</negrita>.</listaElemento>
+<listaElemento>           <negrita>Óptica geométrica:</negrita> es
+el estudio de los fenómenos producidos por la <negrita>reflexión</negrita
+> o la <negrita>refracción</negrita> de la luz, debidos a la interacción
 con objetos de dimensiones <negrita>mayores</negrita> a la <negrita
 >longitud de onda</negrita> de la <negrita>luz</negrita>. Este será
 el enfoque de este tema.</listaElemento>
@@ -66,12 +66,12 @@ una partícula.</p>
 destino="/LoIdRedirect.aspx?LoId=CN_11_06_CO_Recurso130&amp;IdRecurso=RES-5F6210866C0744C1954AE2A69F3D5CD3"
 >La óptica y su evolución</enlace>
 </profundiza>
-<imagen src="CN_11_06_CO_IMG01_small.jpg">
+<imagen ampliable="no" src="CN_11_06_CO_IMG01_small.jpg">
 <p>James Clerk Maxwell (1831-1879): notable científico escocés que,
 en el campo de la física, desarrolló la teoría electromagnética clásica.
 Mediante observaciones y experimentos pudo calcular la velocidad de
 los campos eléctricos y magnéticos oscilantes, que coincide con la
-velocidad de la luz.</p>
+velocidad de la luz.</p><?Pub Caret -2?>
 </imagen>
 <p>Con el fin de facilitar el estudio de la óptica geométrica y el
 análisis de la interacción de la luz con la materia en escalas perceptibles
@@ -192,7 +192,8 @@ invertida</negrita>.</p>
 cierto ángulo?, ¿cuántas imágenes pudiste ver? Pues bien, para calcular
 el número de imágenes que se obtienen en casos como este utilizaremos
 la siguiente fórmula:</p>
-<formula alineacion="centrada" src="CN_11_06_formula01.gif"></formula>
+<formula alineacion="centrada" src="CN_11_06_CO_formula_01.gif">
+</formula>
 <p>Al disponer dos espejos enfrentados, con cierto ángulo, la cantidad
 de imágenes que se observan dependen del ángulo que exista entre ellos.</p>
 </destacadoTexto></destacado></seccion2Texto></seccion2><seccion2
@@ -276,11 +277,14 @@ lo son. Al acercar el <negrita>punto P</negrita> hacia <negrita>O</negrita
 >f</cursiva></negrita> y <negritacursiva>CF</negritacursiva> también.</p>
 <p>De esta manera, si el <negrita>radio <cursiva>R</cursiva></negrita
 > es igual a <negrita>CO</negrita>, tenemos que:</p>
-<formula alineacion="centrada" src="CN_11_06_formula02.gif"></formula>
+<formula alineacion="centrada" src="CN_11_06_CO_formula_02.gif">
+</formula>
 <p>Entones,</p>
-<formula alineacion="centrada" src="CN_11_06_formula03.gif"></formula>
+<formula alineacion="centrada" src="CN_11_06_CO_formula_03.gif">
+</formula>
 <p>o lo que es igual,</p>
-<formula alineacion="centrada" src="CN_11_06_formula04.gif"></formula>
+<formula alineacion="centrada" src="CN_11_06_CO_formula_04.gif">
+</formula>
 <p>Esto es válido tanto para los espejos cóncavos como para los convexos.</p>
 </seccion2Texto></seccion2><seccion2
 id="S2_CN_11_06_CO_3A7072778D804A488AD54B743D3C65EB">
@@ -312,9 +316,10 @@ de dónde coloquemos el objeto, como se describe en la siguiente tabla:</p>
 cóncavos</caption><colgroup><col/><col/></colgroup>
 <tbody>
 <tr>
-<td align="center"><negrita>Ubicación del objeto</negrita></td>
-<td align="center"><negrita>Características de la imagen </negrita
-></td>
+<td align="center">                   <negrita>Ubicación del objeto</negrita
+>                 </td>
+<td align="center">                   <negrita>Características de
+la imagen </negrita>                 </td>
 </tr>
 <tr>
 <td>Entre el infinito y centro de curvatura <cursiva>C</cursiva></td>
@@ -375,10 +380,14 @@ y el foco <cursiva>F</cursiva>.</p>
 <p>A fin de hallar la ecuación para los espejos cóncavos y convexos
 consideremos tres ecuaciones que salen del primer caso de los espejos
 cóncavos, y son:</p>
-<formula alineacion="centrada" src="CN_11_06_formula05.gif"></formula>
-<formula alineacion="centrada" src="CN_11_06_formula06.gif"></formula>
-<formula alineacion="centrada" src="CN_11_06_formula07.gif"></formula>
-<formula alineacion="centrada" src="CN_11_06_formula08.gif"></formula>
+<formula alineacion="centrada" src="CN_11_06_CO_formula_05.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_06_CO_formula_06.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_06_CO_formula_07.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_06_CO_formula_08.gif">
+</formula>
 <p>Donde:<br/><negritacursiva>d<subindice>i</subindice></negritacursiva
 >: distancia del espejo a la imagen.<br/><negritacursiva>d<subindice
 >o</subindice></negritacursiva>: distancia del objeto a la imagen.<br
@@ -387,27 +396,33 @@ cóncavos, y son:</p>
 >o</subindice></negritacursiva>: tamaño del objeto. <br/><negritacursiva
 >h<subindice>i</subindice></negritacursiva>: tamaño de la imagen.</p>
 <p>Si reemplazamos la ecuación (3) en la (2) se obtiene:</p>
-<formula alineacion="centrada" src="CN_11_06_formula09.gif"></formula>
+<formula alineacion="centrada" src="CN_11_06_CO_formula_09.gif">
+</formula>
 <p>Ahora, reemplacemos las ecuaciones (1) y (5) en la ecuación (4):</p>
-<formula alineacion="centrada" src="CN_11_06_formula10.gif"></formula>
+<formula alineacion="centrada" src="CN_11_06_CO_formula_10.gif">
+</formula>
 <p>Supongamos que en la imagen del primer caso, la de los espejos
 cóncavos, existe un rayo que sale del extremo de la flecha (objeto),
 refleja en el <negrita>punto O</negrita> del espejo y pasa por la
 imagen. De esta manera, se forman dos triángulos semejantes pues comparten
 dos ángulos iguales: <negritacursiva>DEO</negritacursiva> y <negritacursiva
 >GHO</negritacursiva>. Así, tenemos:</p>
-<formula alineacion="centrada" src="CN_11_06_formula11.gif"></formula>
+<formula alineacion="centrada" src="CN_11_06_CO_formula_11.gif">
+</formula>
 <p>Reemplacemos la ecuación (7) en la (6)</p>
-<formula alineacion="centrada" src="CN_11_06_formula12.gif"></formula>
+<formula alineacion="centrada" src="CN_11_06_CO_formula_12.gif">
+</formula>
 <p>Luego, reemplacemos el valor de <negritacursiva>R</negritacursiva
 > por <negritacursiva>2f</negritacursiva> (recordemos la distancia
 focal y su relación con el radio del espejo).</p>
 <p>De esta manera despejamos y obtenemos:</p>
-<formula alineacion="centrada" src="CN_11_06_formula13.gif"></formula>
+<formula alineacion="centrada" src="CN_11_06_CO_formula_13.gif">
+</formula>
 <p>La relación entre los tamaños de la imagen y el objeto, y la distancia
 de estos al espejo la llamamos <negrita>aumento</negrita> y se expresa
 así:</p>
-<formula alineacion="centrada" src="CN_11_06_formula14.gif"></formula>
+<formula alineacion="centrada" src="CN_11_06_CO_formula_14.gif">
+</formula>
 <p>Respecto al aumento es importante mencionar los signos que se deben
 utilizar:</p>
 <listaSinNumerar>
@@ -419,13 +434,13 @@ dentro del espejo o al otro lado de la zona reflectante tiene <negrita
 </listaSinNumerar>
 <destacado><destacadoTitulo>Espejo de vigilancia</destacadoTitulo>
 <destacadoTexto>
-<p><negrita>Ejemplo</negrita></p>
+<p>                 <negrita>Ejemplo</negrita>               </p>
 <p>El dueño de una tienda necesita vigilar su mercancía, así que decide
 comprar un espejo con distancia focal de 3 m. Si una persona se encuentra
 a 8 m del espejo, ¿qué características tiene la imagen de la persona?,
 ¿a qué distancia se encuentra del espejo? Y si la persona mide 1,60
 m ¿qué tamaño tendrá su imagen?</p>
-<p><negrita>Solución</negrita></p>
+<p>                 <negrita>Solución</negrita>               </p>
 <listaSinNumerar>
 <listaElemento>Para saber qué características tiene la imagen recordemos
 que los espejos convexos forman imágenes virtuales, derechas y de
@@ -433,19 +448,25 @@ menor tamaño.</listaElemento>
 <listaElemento>Para hallar la distancia que existe entre la persona
 y el espejo usamos la siguiente ecuación:</listaElemento>
 </listaSinNumerar>
-<formula alineacion="centrada" src="CN_11_06_formula15.gif"></formula>
+<formula alineacion="centrada" src="CN_11_06_CO_formula_15.gif">
+</formula>
 <p>Como se utiliza un espejo convexo, la <negrita>distancia focal <cursiva
 >f</cursiva></negrita> es <negrita>negativa</negrita>:</p>
-<formula alineacion="centrada" src="CN_11_06_formula16.gif"></formula>
-<formula alineacion="centrada" src="CN_11_06_formula17.gif"></formula>
+<formula alineacion="centrada" src="CN_11_06_CO_formula_16.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_06_CO_formula_17.gif">
+</formula>
 <p>Por tanto, el resultado es:</p>
-<formula alineacion="centrada" src="CN_11_06_formula18.gif"></formula>
+<formula alineacion="centrada" src="CN_11_06_CO_formula_18.gif">
+</formula>
 <listaSinNumerar>
 <listaElemento>Si una persona mide 1,60 m, podemos hallar la relación
 entre el tamaño de la imagen y el objeto utilizando la siguiente ecuación:</listaElemento>
 </listaSinNumerar>
-<formula alineacion="centrada" src="CN_11_06_formula19.gif"></formula>
-<formula alineacion="centrada" src="CN_11_06_formula20.gif"></formula>
+<formula alineacion="centrada" src="CN_11_06_CO_formula_19.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_06_CO_formula_20.gif">
+</formula>
 <p>Esto muestra que en el espejo la imagen de la persona es 3/11 el
 tamaño de la misma.</p>
 </destacadoTexto></destacado><practica>
@@ -498,14 +519,16 @@ refracta <negritacursiva>θ<subindice>r</subindice></negritacursiva
 <p>El físico holandés <negrita>Willebrord Snell</negrita> (1580-1626)
 postuló la ley que establece la relación entre el ángulo de incidencia
 y el refractado, denominada <negrita>ley de Snell</negrita>, así:</p>
-<formula alineacion="centrada" src="CN_11_06_formula21.gif"></formula>
+<formula alineacion="centrada" src="CN_11_06_CO_formula_21.gif">
+</formula>
 <p>Donde: <negritacursiva>n<subindice>1</subindice></negritacursiva
 > y <negritacursiva>n<subindice>2</subindice></negritacursiva> son
 los índices de refracción y están dados experimentalmente como resultado
 de la relación entre la velocidad de la luz en el vacío (<negritacursiva
 >c</negritacursiva>) y la velocidad en el medio donde se refractan
 (<negritacursiva>v<subindice>m</subindice></negritacursiva>): </p>
-<formula alineacion="centrada" src="CN_11_06_formula22.gif"></formula>
+<formula alineacion="centrada" src="CN_11_06_CO_formula_22.gif">
+</formula>
 <p>Observa algunos índices de refacción de la luz en distintos medios;
 ten presente que son adimensionales debido a que no tienen unidades.</p>
 <table border="1"><caption>Índices de refracción en algunas sustancias</caption>
@@ -692,24 +715,32 @@ geométrico <negritacursiva>O</negritacursiva> del espejo y no se desvía. </p>
 </imagen>
 <p>Los triángulos MNF y FQL, como son opuestos por el vértice, son
 semejantes, por tanto:</p>
-<formula alineacion="centrada" src="CN_11_06_formula23.gif"></formula>
-<formula alineacion="centrada" src="CN_11_06_formula24.gif"></formula>
+<formula alineacion="centrada" src="CN_11_06_CO_formula_23.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_06_CO_formula_24.gif">
+</formula>
 <p>Debido a la semejanza de los triángulos, podemos hacer la siguiente
 proporción:</p>
-<formula alineacion="centrada" src="CN_11_06_formula25.gif"></formula>
+<formula alineacion="centrada" src="CN_11_06_CO_formula_25.gif">
+</formula>
 <p>Los triángulos LQN y KPN también son semejantes por ser opuestos
 por el vértice debido al ángulo N que comparten, se establece la siguiente
 proporción:</p>
-<formula alineacion="centrada" src="CN_11_06_formula26.gif"></formula>
-<formula alineacion="centrada" src="CN_11_06_formula27.gif"></formula>
+<formula alineacion="centrada" src="CN_11_06_CO_formula_26.gif">
+</formula>
+<formula alineacion="centrada" src="CN_11_06_CO_formula_27.gif">
+</formula>
 <p>Al reemplazar igualando las ecuaciones (1) y (2), tenemos:</p>
-<formula alineacion="centrada" src="CN_11_06_formula28.gif"></formula>
+<formula alineacion="centrada" src="CN_11_06_CO_formula_28gif">
+</formula>
 <p>Despejando y reorganizando los términos obtenemos la siguiente
 ecuación:</p>
-<formula alineacion="centrada" src="CN_11_06_formula29.gif"></formula>
+<formula alineacion="centrada" src="CN_11_06_CO_formula_29.gif">
+</formula>
 <p>Al hacer la relación entre los tamaños y las distancias al centro
 de la lente, podemos hallar el aumento de la lente</p>
-<formula alineacion="centrada" src="CN_11_06_formula30.gif"></formula>
+<formula alineacion="centrada" src="CN_11_06_CO_formula_30.gif">
+</formula>
 <destacado><destacadoTitulo>Convenciones de signos para las ecuaciones
 de las lentes</destacadoTitulo><destacadoTexto>
 <p>Así como en los espejos, las lentes también tienen signos de convención
@@ -732,10 +763,12 @@ de gafas y lentes de contacto. A esta cantidad se le llama potencia <negritacurs
 unidad de la potencia <negritacursiva>P</negritacursiva> es la <negrita
 >dioptría</negrita> y equivale a 1 m<superindice>-1</superindice>,
 la ecuación es:</p>
-<formula alineacion="centrada" src="CN_11_06_formula31.gif"></formula>
+<formula alineacion="centrada" src="CN_11_06_CO_formula_31.gif">
+</formula>
 <p>Cuando hay dos o más lentes alineadas una tras otra, la potencia
 de la lente formada por esas dos será:</p>
-<formula alineacion="centrada" src="CN_11_06_formula32.gif"></formula>
+<formula alineacion="centrada" src="CN_11_06_CO_formula_32.gif">
+</formula>
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_11_06_CO_Recurso090&amp;IdRecurso=RES-1BC1E38F36384D6EA08BA6D53410D102"
@@ -876,8 +909,13 @@ id="S2_CN_11_06_CO_86BAB90157414B479502ACA4E7094567">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
 <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
-</seccion2Texto></seccion2></seccion1Texto></seccion1><seccion1
-id="S1_CN_11_06_CO_7C296F37D0BE4372BB2C095DB5EA14C5">
+<practica>
+<enlace
+destino="/LoIdRedirect.aspx?LoId=CN_11_06_CO_Recurso210&amp;IdRecurso=RES-11B59B617C4840138F7B8813B08FADE6"
+>Refuerza tu aprendizaje: qué tanto sabes sobre las aplicaciones de
+lentes y espejos</enlace>
+</practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
+<seccion1 id="S1_CN_11_06_CO_7C296F37D0BE4372BB2C095DB5EA14C5">
 <seccion1Titulo>Competencias</seccion1Titulo>
 <seccion1Texto>
 <p>Pon a prueba tus capacidades y aplica lo aprendido con estos recursos.</p>
@@ -904,5 +942,5 @@ destino="https://www.edumedia-sciences.com/es/node/69-espejos-y-lentes"
 >Simulaciones de espejos y lentes.</enlace>
 <enlace
 destino="http://www.aao.org/salud-ocular/anteojos-lentes-de-contacto-lista"
->Los anteojos y las lentes de contacto.</enlace><?Pub Caret 0?>
+>Los anteojos y las lentes de contacto.</enlace>
 </enlacesreferencia></masinformacion></libro>
