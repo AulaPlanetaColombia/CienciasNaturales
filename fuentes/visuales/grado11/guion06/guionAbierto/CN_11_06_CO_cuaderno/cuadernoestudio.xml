@@ -474,7 +474,7 @@ tamaño de la misma.</p>
 destino="/LoIdRedirect.aspx?LoId=CN_11_06_CO_Recurso050&amp;IdRecurso=RES-ABC0FC131CD04259A455AC96A612B235"
 >Analiza las imágenes en espejos cóncavos y convexos</enlace>
 </practica></seccion2Texto></seccion2><seccion2
-id="S2_CN_11_06_CO_E4D72DF6A56B49C0984E22FAEB5F3771">
+id="S2_CN_11_06_CO_E4D72DF6A56B49C0984E22FAEB5F4862">
 <seccion2Titulo>Consolidación</seccion2Titulo>
 <seccion2Texto>
 <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
@@ -484,7 +484,7 @@ destino="/LoIdRedirect.aspx?LoId=CN_11_06_CO_Recurso110&amp;IdRecurso=RES-BE2D50
 >Refuerza tu aprendizaje: los espejos</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CN_11_06_CO_23C5F46EB5CD48DCBDDFB0FDD60B7084">
-<seccion1Titulo>Lentes</seccion1Titulo>
+<seccion1Titulo>Las lentes</seccion1Titulo>
 <seccion1Texto>
 <p>Recordemos que <negrita>Maxwell</negrita> halló la velocidad de
 la luz en el vacío a 300 000 km/s; sin embargo, dependiendo del material
@@ -568,8 +568,7 @@ ten presente que son adimensionales debido a que no tienen unidades.</p>
 de trayectoria de la luz, estos son las <negrita>lentes</negrita>.
 Estas son hechas generalmente de vidrio o plástico, pues estos materiales
 permiten que la luz los traspase, además se componen de la unión de
-dos superficies esféricas, planas o la combinación de las dos.</p><?Pub
-Caret 316?>
+dos superficies esféricas, planas o la combinación de las dos.</p>
 <destacado><destacadoTitulo>Clasificación de las lentes</destacadoTitulo>
 <destacadoTexto>
 <p>Las <negrita>lentes</negrita> se pueden clasificar según como sus
@@ -666,7 +665,7 @@ lupa.</listaElemento>
 <p>Las diferentes imágenes construidas por las lentes convergentes
 dependen de la posición del objeto con respecto a la lente. Estas
 lentes deben considerarse muy delgadas para evitar que el rayo que
-pasan diagonalmente por el centro geométrico de la lente no se desvíe.</p>
+pasa diagonalmente por el centro geométrico de la lente se desvíe.</p>
 </imagen>
 </seccion2Texto></seccion2><seccion2
 id="S2_CN_11_06_CO_52CCAEE33D6E4A7CAC25F361AF2212AC">
@@ -691,9 +690,9 @@ haría aparte de la imagen creada por la lente.</listaElemento>
 </listaSinNumerar>
 <imagen src="CN_11_06_CO_IMG12_small.jpg">
 <p>Los rayos que se intersectan en las lentes divergentes son las
-prolongaciones de los rayos que se separaron divergieron al refractarse
-al atravesar la lente. De esta manera, la imagen que se produce es
-virtual, derecha y de menor tamaño.</p>
+prolongaciones de los rayos que se separaron al refractarse al atravesar
+la lente. De esta manera, la imagen que se produce es virtual, derecha
+y de menor tamaño.</p>
 </imagen>
 </seccion2Texto></seccion2><seccion2
 id="S2_CN_11_06_CO_52CCAEE33D6E4A7CAC25F361AF2235DB">
@@ -732,7 +731,7 @@ proporción:</p>
 <formula alineacion="centrada" src="CN_11_06_CO_formula_27.gif">
 </formula>
 <p>Al reemplazar igualando las ecuaciones (1) y (2), tenemos:</p>
-<formula alineacion="centrada" src="CN_11_06_CO_formula_28gif">
+<formula alineacion="centrada" src="CN_11_06_CO_formula_28.gif">
 </formula>
 <p>Despejando y reorganizando los términos obtenemos la siguiente
 ecuación:</p>
@@ -782,10 +781,10 @@ id="S2_CN_11_06_CO_52CCAEE33D6E4A7CAC25F361AF227834">
 <practica>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_11_06_CO_Recurso150&amp;IdRecurso=RES-35C4C3B1E53944629C4FB5286F202EE8"
->Refuerza tu aprendizaje: los lentes</enlace>
+>Refuerza tu aprendizaje: Los lentes cóncavos y convexos</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CN_11_06_CO_70D72502F8464871886A4E5C51247A41">
-<seccion1Titulo>Instrumentos ópticos</seccion1Titulo>
+<seccion1Titulo>Los instrumentos ópticos</seccion1Titulo>
 <seccion1Texto>
 <p>Los instrumentos ópticos han ayudado a la evolución de la ciencia
 en campos como la astronomía, la física, la biología y la medicina.
@@ -797,7 +796,7 @@ Conozcamos el ojo humano y sus características.</p>
 <profundiza>
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_11_06_CO_Recurso120&amp;IdRecurso=RES-B1088B94A60245F18D56247C86E9876B"
->Uso de lentes y espejos en la vida cotidiana y la ciencia</enlace>
+>El uso de lentes y espejos en la vida cotidiana y la ciencia</enlace>
 </profundiza><seccion2
 id="S2_CN_11_06_CO_52CCAEE33D6E4A7CAC25F361AF22E5CF">
 <seccion2Titulo>El ojo humano</seccion2Titulo>
@@ -870,11 +869,7 @@ arreglan con lentes ni con cirugía como el <negrita>daltonismo</negrita
 <enlace
 destino="/LoIdRedirect.aspx?LoId=CN_11_06_CO_Recurso140&amp;IdRecurso=RES-8B2013455C044FD7A8116C5BA4056F68"
 >¿Qué sabes sobre la vista?</enlace>
-</profundiza><practica>
-<enlace
-destino="/LoIdRedirect.aspx?LoId=CN_11_06_CO_Recurso100&amp;IdRecurso=RES-8A07B26E872B4CD3862AD9DB7B5B404A"
->Comprende cómo vemos</enlace>
-</practica></seccion2Texto></seccion2><seccion2
+</profundiza></seccion2Texto></seccion2><seccion2
 id="S2_CN_11_06_CO_86BAB90157414B479502ACA4E709BB1D">
 <seccion2Titulo>Cámara fotográfica</seccion2Titulo>
 <seccion2Texto>
@@ -883,14 +878,13 @@ una imagen real invertida y más pequeña en una película fotosensible.
 Antes de llegar a esta, los rayos luminosos de la imagen se pasan
 por una abertura compuesta por un diafragma que es un agujero graduable
 que permite modificar la cantidad de luz que pasa.</p>
-<p>Un elemento importante es el obturador, de determinar el tiempo
+<p>Un elemento importante es el obturador, que determina el tiempo
 de paso de la luz para que se pueda hacer un registro de la imagen
 sobre la película.</p>
 <imagen src="CN_11_06_CO_IMG16_small.jpg">
-<p>Al realizar una comparación con el ojo humano, la lente convergente
-de la cámara, la abertura o diafragma y la película fotosensible serían
-la córnea y el cristalino, el iris y los músculos ciliares y la retina,
-respectivamente.</p>
+<p>Un elemento importante es el obturador, que determina el tiempo
+de paso de la luz para que se pueda hacer un registro de la imagen
+sobre la película.</p>
 </imagen>
 </seccion2Texto></seccion2><seccion2
 id="S2_CN_11_06_CO_86BAB90157414B479502ACA4E7090987">
@@ -900,11 +894,9 @@ id="S2_CN_11_06_CO_86BAB90157414B479502ACA4E7090987">
 para que la retina pueda ver la imagen ampliada. Esto quiere decir
 que si tenemos un objeto a 50 cm de longitud y lo acercamos a la mitad,
 lo veremos el doble de su tamaño inicial.</p>
-<p>La lupa es una lente biconvexa que se ubica entre el ojo y el objeto
-para colocar una imagen del objeto en la retina de mayor tamaño que
-el mismo objeto. Para poder ver la imagen de mayor tamaño es necesario
-que ubiquemos nuestros ojos entre el foco y la lupa para ver la imagen
-aumentada, virtual y derecha.</p>
+<p>La lupa es una lente biconvexa que se ubica entre el ojo y el objeto,
+y hace que la imagen que se proyecte en la retina sea de mayor tamaño,
+virtual y derecha.</p>
 </seccion2Texto></seccion2><seccion2
 id="S2_CN_11_06_CO_86BAB90157414B479502ACA4E7094567">
 <seccion2Titulo>Consolidación</seccion2Titulo>
@@ -912,9 +904,8 @@ id="S2_CN_11_06_CO_86BAB90157414B479502ACA4E7094567">
 <p>Actividades para consolidar lo que has aprendido en esta sección.</p>
 <practica>
 <enlace
-destino="/LoIdRedirect.aspx?LoId=CN_11_06_CO_Recurso210&amp;IdRecurso=RES-11B59B617C4840138F7B8813B08FADE6"
->Refuerza tu aprendizaje: qué tanto sabes sobre las aplicaciones de
-lentes y espejos</enlace>
+destino="/LoIdRedirect.aspx?LoId=CN_11_06_CO_Recurso100&amp;IdRecurso=RES-8A07B26E872B4CD3862AD9DB7B5B404A"
+>Refuerza tu aprendizaje: las aplicaciones de lentes y espejos</enlace>
 </practica></seccion2Texto></seccion2></seccion1Texto></seccion1>
 <seccion1 id="S1_CN_11_06_CO_7C296F37D0BE4372BB2C095DB5EA14C5">
 <seccion1Titulo>Competencias</seccion1Titulo>
